@@ -5,6 +5,8 @@ import shutil
 import urllib.request
 import urllib.error
 import sys
+import re
+import time
 
 # Force stdout to UTF-8
 if sys.stdout.encoding != 'utf-8':
@@ -13,11 +15,12 @@ if sys.stdout.encoding != 'utf-8':
     except:
         pass
 
-OLLAMA_BASE = "http://127.0.0.1:11434"
-OLLAMA_URL  = f"{OLLAMA_BASE}/api/chat"
-MODEL_NAME  = "gemma3:12b"   # fallback — auto-detected at startup if not available
-CSV_PATH    = "vietnamese_translation.csv"
-BACKUP_DIR  = "backup_original_lang"
+# Configure NVIDIA API
+NVIDIA_API_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
+# Default to DeepSeek v4 Flash on NVIDIA Build
+MODEL_NAME = "deepseek-ai/deepseek-v4-flash"
+CSV_PATH = "vietnamese_translation.csv"
+BACKUP_DIR = "backup_original_lang"
 SAVE_INTERVAL = 10  # Save CSV every 10 translations
 
 SYSTEM_PROMPT = """You are a professional game translator. Translate the following Resident Evil 4 Remake (RE4) game text from English to Vietnamese.
@@ -56,141 +59,72 @@ def backup_original_files():
     if not os.path.exists(BACKUP_DIR):
         print(f"Creating backup directory: {BACKUP_DIR}")
         os.makedirs(BACKUP_DIR)
-        
-        # Backup CSV
         if os.path.exists(CSV_PATH):
             shutil.copy2(CSV_PATH, os.path.join(BACKUP_DIR, CSV_PATH))
             print(f"Backed up {CSV_PATH} to {BACKUP_DIR}")
-            
-        # Backup extracted_msg directory
         extracted_dir = "extracted_msg"
         if os.path.exists(extracted_dir):
             shutil.copytree(extracted_dir, os.path.join(BACKUP_DIR, extracted_dir))
             print(f"Backed up {extracted_dir} folder to {BACKUP_DIR}")
-    else:
-        print(f"Backup directory already exists at: {BACKUP_DIR}. Skipping backup to prevent overwriting with partially-translated files.")
 
-import time
-
-def _get(url, timeout=5):
-    """Simple GET helper, returns parsed JSON or None."""
-    try:
-        with urllib.request.urlopen(url, timeout=timeout) as r:
-            return json.loads(r.read().decode("utf-8"))
-    except Exception:
-        return None
-
-
-def check_ollama_status():
-    """Verify Ollama is running and pick a model to use.
-    
-    Returns the model name to use, or None if Ollama is unreachable.
-    """
-    global MODEL_NAME
-    max_retries = 5
-    retry_delay = 2
-
-    for attempt in range(1, max_retries + 1):
-        print(f"Checking Ollama at {OLLAMA_BASE} (attempt {attempt}/{max_retries})...")
-        data = _get(f"{OLLAMA_BASE}/api/tags", timeout=5)
-        if data is not None:
-            available = [m["name"] for m in data.get("models", [])]
-            if not available:
-                print("[ERROR] Ollama is running but no models are installed.")
-                print("        Run: ollama pull qwen2.5:7b")
-                return None
-
-            print(f"Ollama is running. Available models: {available}")
-
-            # Use configured MODEL_NAME if present, otherwise pick first
-            if MODEL_NAME in available:
-                print(f"Using model: {MODEL_NAME}")
-            else:
-                MODEL_NAME = available[0]
-                print(f"[INFO] Configured model not found — using '{MODEL_NAME}' instead.")
-            return MODEL_NAME
-
-        if attempt < max_retries:
-            print(f"[WARNING] Connection failed. Retrying in {retry_delay}s...")
-            time.sleep(retry_delay)
-
-    print(f"[ERROR] Could not connect to Ollama after {max_retries} attempts.")
-    print("        Make sure Ollama is running:  ollama serve")
-    return None
-
-def translate_text(english_text, max_retries=3):
-    """Call local Ollama to translate english_text into Vietnamese.
-    
-    Retries up to max_retries times on timeout or connection error.
-    Returns translated string, or None if all attempts fail.
-    """
+def translate_text(api_key, english_text, max_retries=3):
+    """Call NVIDIA API to translate english_text into Vietnamese."""
     payload = {
         "model": MODEL_NAME,
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": english_text}
         ],
-        "options": {
-            "temperature": 0.1,
-            "num_predict": 256
-        },
+        "temperature": 0.1,
+        "max_tokens": 1024,
         "stream": False
     }
-
-    data = json.dumps(payload).encode("utf-8")
-
+    
+    data = json.dumps(payload).encode('utf-8')
+    req = urllib.request.Request(
+        NVIDIA_API_URL,
+        data=data,
+        headers={
+            'Content-Type': 'application/json',
+            'Authorization': f'Bearer {api_key}'
+        }
+    )
+    
     for attempt in range(1, max_retries + 1):
         try:
-            req = urllib.request.Request(
-                OLLAMA_URL,
-                data=data,
-                headers={"Content-Type": "application/json"},
-                method="POST"
-            )
-            with urllib.request.urlopen(req, timeout=120) as response:
-                res_data = json.loads(response.read().decode("utf-8"))
-                vietnamese_text = res_data["message"]["content"].strip()
-
-                # Strip hallucinated wrapper quotes
-                for q in ('"', "'"):
-                    if (vietnamese_text.startswith(q) and vietnamese_text.endswith(q)
-                            and not (english_text.startswith(q) and english_text.endswith(q))):
-                        vietnamese_text = vietnamese_text[1:-1].strip()
-
+            with urllib.request.urlopen(req, timeout=15) as response:
+                res_data = json.loads(response.read().decode('utf-8'))
+                vietnamese_text = res_data["choices"][0]["message"]["content"].strip()
+                
+                # Clean potential quotes hallucinated by the model
+                if (vietnamese_text.startswith('"') and vietnamese_text.endswith('"') and 
+                    not (english_text.startswith('"') and english_text.endswith('"'))):
+                    vietnamese_text = vietnamese_text[1:-1].strip()
+                if (vietnamese_text.startswith("'") and vietnamese_text.endswith("'") and 
+                    not (english_text.startswith("'") and english_text.endswith("'"))):
+                    vietnamese_text = vietnamese_text[1:-1].strip()
+                    
                 return vietnamese_text
-
-        except urllib.error.URLError as e:
-            print(f"\n[WARNING] Attempt {attempt}/{max_retries} failed: {e}")
+        except Exception as e:
             if attempt < max_retries:
-                time.sleep(2)
-        except (KeyError, json.JSONDecodeError) as e:
-            print(f"\n[ERROR] Unexpected response from Ollama: {e}")
-            return None
-
-    print(f"\n[ERROR] All {max_retries} attempts failed for: {repr(english_text)}")
-    return None
-
-import re
+                time.sleep(1.5)
+            else:
+                print(f"\n[ERROR] Failed to translate after {max_retries} attempts: {e}")
+                return None
 
 def should_skip(english_text):
     """Check if the text should be skipped from translation."""
     text_stripped = english_text.strip()
     if not text_stripped:
         return True
-    # Skip if it is rejected
     if "#Rejected#" in english_text:
         return True
-    # Skip if it's just a raw reference
     if text_stripped.startswith("<REF ") and text_stripped.endswith(">"):
         return True
-    # Skip if it is a system placeholder
     if text_stripped == "<END>":
         return True
         
-    # Remove all HTML/XML tags (e.g., <COLOR FF0000>, </COLOR>) to check actual text
     text_no_tags = re.sub(r"<[^>]+>", "", text_stripped).strip()
-    
-    # Skip if the remaining text doesn't contain any alphabetical characters
     if not any(c.isalpha() for c in text_no_tags):
         return True
         
@@ -200,21 +134,27 @@ def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     os.chdir(script_dir)
     
-    print("============================================================")
-    # 1. Backup original files
-    backup_original_files()
-    
-    # 2. Check Ollama
-    chosen_model = check_ollama_status()
-    if not chosen_model:
-        print("Please start Ollama and make sure a model is available.")
-        print("Run: ollama serve")
-        print("     ollama pull qwen2.5:7b")
+    # Read API Key
+    api_key = ""
+    key_file = "nvidia_key.txt"
+    if os.path.exists(key_file):
+        with open(key_file, "r") as kf:
+            api_key = kf.read().strip()
+            
+    if not api_key:
+        api_key = os.getenv("NVIDIA_API_KEY", "")
+        
+    if not api_key:
+        print("[ERROR] NVIDIA API key not found.")
+        print(f"Please paste your API Key from build.nvidia.com into a file named '{key_file}' in this folder.")
         return
 
-    print(f"Translating with model: {chosen_model}")
-
-    # 3. Read CSV
+    print("============================================================")
+    print(f"Translating via NVIDIA NIM API (Model: {MODEL_NAME})")
+    print("============================================================")
+    
+    backup_original_files()
+    
     if not os.path.exists(CSV_PATH):
         print(f"[ERROR] CSV file not found at: {CSV_PATH}")
         return
@@ -229,13 +169,10 @@ def main():
     total_rows = len(rows)
     print(f"Total rows in CSV: {total_rows}")
     
-    # Filter rows to translate
     to_translate_indices = []
     for idx, row in enumerate(rows):
         viet = row.get("Vietnamese", "").strip()
         english = row.get("English", "")
-        
-        # If Vietnamese translation is empty and we shouldn't skip it
         if not viet and not should_skip(english):
             to_translate_indices.append(idx)
             
@@ -246,8 +183,6 @@ def main():
         print("All rows are already translated or skipped! Nothing to do.")
         return
 
-    # 4. Translation Loop
-    print(f"Starting translation using model: {MODEL_NAME}")
     print("Press Ctrl+C at any time to save progress and exit.")
     print("-" * 60)
     
@@ -259,14 +194,12 @@ def main():
             row = rows[idx]
             english = row["English"]
             
-            # Print current item progress
             progress_str = f"[{i+1}/{to_translate_count}] (Row {idx+1})"
             print(f"{progress_str} Translating: {repr(english)}", end="\r", flush=True)
             
-            vietnamese = translate_text(english)
+            vietnamese = translate_text(api_key, english)
             
             if vietnamese is not None:
-                # If translation is empty (hallucinated empty response), default back to english or skip
                 if not vietnamese.strip():
                     vietnamese = english
                 
@@ -274,7 +207,6 @@ def main():
                 translated_count += 1
                 unsaved_changes = True
                 
-                # Clear line and print result
                 print(" " * 120, end="\r")
                 print(f"{progress_str} Translated:")
                 print(f"  EN: {english}")
@@ -282,18 +214,17 @@ def main():
                 print("-" * 40)
             else:
                 print(" " * 120, end="\r")
-                print(f"{progress_str} [WARNING] Skipped row due to Ollama error.")
+                print(f"{progress_str} [WARNING] Skipped due to API error. Retrying next file...")
                 print("-" * 40)
+                # Pause slightly on API error to avoid hammer
+                time.sleep(2)
                 
-            # Intermittent checkpoint saving
             if translated_count > 0 and translated_count % SAVE_INTERVAL == 0 and unsaved_changes:
-                # Write to temp and rename (safe write)
                 temp_csv = CSV_PATH + ".tmp"
                 with open(temp_csv, "w", newline="", encoding="utf-8-sig") as f:
                     writer = csv.DictWriter(f, fieldnames=["File Path", "Entry Name", "Entry Index", "English", "Vietnamese"])
                     writer.writeheader()
                     writer.writerows(rows)
-                
                 if os.path.exists(temp_csv):
                     os.replace(temp_csv, CSV_PATH)
                     unsaved_changes = False
@@ -301,25 +232,18 @@ def main():
                     print("-" * 40)
                     
     except KeyboardInterrupt:
-        print("\n\nTranslation paused by user (Ctrl+C). Saving progress...")
-        
+        print("\n\nTranslation paused by user. Saving progress...")
     finally:
-        # Final save if there are unsaved changes
         if unsaved_changes:
             temp_csv = CSV_PATH + ".tmp"
             with open(temp_csv, "w", newline="", encoding="utf-8-sig") as f:
                 writer = csv.DictWriter(f, fieldnames=["File Path", "Entry Name", "Entry Index", "English", "Vietnamese"])
                 writer.writeheader()
                 writer.writerows(rows)
-            
             if os.path.exists(temp_csv):
                 os.replace(temp_csv, CSV_PATH)
-                print("** Final progress saved successfully! **")
-        else:
-            print("No unsaved changes to write.")
-            
+                print("** Final progress saved! **")
         print(f"Session finished. Translated: {translated_count} new entries.")
-        print(f"CSV location: {os.path.abspath(CSV_PATH)}")
         print("============================================================")
 
 if __name__ == "__main__":

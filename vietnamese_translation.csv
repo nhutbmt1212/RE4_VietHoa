@@ -1,4 +1,4 @@
-File Path,Entry Name,Entry Index,English,Vietnamese
+﻿File Path,Entry Name,Entry Index,English,Vietnamese
 natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3000_10_000,0,Glasses (Rectangle),
 natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3001_10_000,2,Glasses (Windsor),
 natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3002_10_000,4,Glasses (Round),
@@ -5184,10 +5184,10 @@ natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22,Dev1_Term_Menu_Fir
 natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22,Dev1_Term_Menu_FirstSet_ScreenPriority_Resolution,9,Prioritize Screen Resolution,
 natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22,Dev1_Term_Menu_FirstSet_ScreenPriority_FrameRate,10,Prioritize Frame Rate,
 natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22,Dev1_Term_Menu_FirstSet_ScreenPriority_ActionVisual,11,Visuals / Action Priority,
-natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22,Dev1_Term_Menu_StartMenu_StartGame_01,12,START GAME,Bắt đầu game
+natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22,Dev1_Term_Menu_StartMenu_StartGame_01,12,START GAME,
 natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22,Dev1_Term_Menu_StartMenu_StartGame_02,13,<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_StartGame_02,
 natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22,Dev1_Term_Menu_StartMenu_StartGame_03,14,<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_StartGame_03,
-natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22,Dev1_Term_Menu_StartMenu_StartGame_04,15,START,Bắt đầu
+natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22,Dev1_Term_Menu_StartMenu_StartGame_04,15,START,
 natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22,Dev1_Term_Menu_StartMenu_Copyright,16,"©CAPCOM CO., LTD. 2021 ALL RIGHTS RESERVED.",
 natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22,Dev1_Term_Menu_StartMenu_NewGame,17,NEW GAME,
 natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22,Dev1_Term_Menu_StartMenu_NewGame_Desc,18,Start a new game.,
@@ -23711,7 +23711,7 @@ natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_hud.msg.22,MC_Mes_
 natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_hud.msg.22,MC_Mes_Main_Sys_Hud_Notice_HighScoreUpdate,35,<COLOR FF0000>#Rejected#</COLOR> MC_Mes_Main_Sys_Hud_Notice_HighScoreUpdate,
 natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_hud.msg.22,MC_Mes_Main_Sys_Hud_Notice_RankUpdate,36,<COLOR FF0000>#Rejected#</COLOR> MC_Mes_Main_Sys_Hud_Notice_RankUpdate,
 natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_mainmenu.msg.22,MC_Mes_Main_Sys_MainMenu_GameTitle,0,THE MERCENARIES,
-natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_mainmenu.msg.22,MC_Mes_Main_Sys_MainMenu_Start,1,START,Bắt đầu game
+natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_mainmenu.msg.22,MC_Mes_Main_Sys_MainMenu_Start,1,START,
 natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_mainmenu.msg.22,MC_Mes_Main_Sys_MainMenu_Continue,2,<COLOR FF0000>#Rejected#</COLOR> MC_Mes_Main_Sys_MainMenu_Continue,
 natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_mainmenu.msg.22,MC_Mes_Main_Sys_MainMenu_LoadGame,3,<COLOR FF0000>#Rejected#</COLOR> MC_Mes_Main_Sys_MainMenu_LoadGame,
 natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_mainmenu.msg.22,MC_Mes_Main_Sys_MainMenu_NewGame,4,<COLOR FF0000>#Rejected#</COLOR> MC_Mes_Main_Sys_MainMenu_NewGame,
