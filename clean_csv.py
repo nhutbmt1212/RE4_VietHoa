@@ -36,9 +36,13 @@ with open(CSV_PATH, "r", encoding="utf-8-sig") as f:
         
         if vietnamese:
             # 1. Contains Chinese/Japanese/Korean characters
-            if cjk_regex.search(vietnamese):
+            english_no_tags = re.sub(r"<[^>]+>", "", english)
+            vietnamese_no_tags = re.sub(r"<[^>]+>", "", vietnamese)
+            en_cjk = set(cjk_regex.findall(english_no_tags))
+            vi_cjk = set(cjk_regex.findall(vietnamese_no_tags))
+            if vi_cjk - en_cjk:
                 need_clean = True
-                reason = "Contains CJK characters"
+                reason = f"Contains CJK characters not in English: {vi_cjk - en_cjk}"
                 
             # 2. Contains weird merged words like "ĐóLooks" or "KínhWindsor"
             elif "ĐóLooks" in vietnamese or "Looks" in vietnamese or "Windsor" in vietnamese:

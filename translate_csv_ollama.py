@@ -26,7 +26,7 @@ OLLAMA_MODEL = "gemma3:12b"   # auto-detected at startup if not available
 # NVIDIA NIM settings
 NVIDIA_BASE_URL = "https://integrate.api.nvidia.com/v1"
 NVIDIA_API_KEY  = "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"
-NVIDIA_MODEL    = "deepseek-ai/deepseek-v4-flash"
+NVIDIA_MODEL    = "meta/llama-3.3-70b-instruct"
 
 # Active model name (set at startup based on PROVIDER)
 MODEL_NAME  = NVIDIA_MODEL if PROVIDER == "nvidia" else OLLAMA_MODEL
@@ -51,7 +51,12 @@ STRICT RULES:
 1. Keep all HTML/XML tags intact (e.g. <COLOR FF0000>...</COLOR>, <REF ...>, <scale ...>). Do NOT translate or modify terms inside tags.
 2. Keep all format placeholders intact (e.g. %s, %d, {0}, {1}).
 3. Keep escape sequences intact (e.g. \\n, \\t, \\", \\\\).
-4. The translation must be 100% in Vietnamese. Under no circumstances should you output Chinese characters (like 琥珀, 教会), Japanese, or any other foreign script.
+4. The translation must be 100% in Vietnamese using ONLY the Latin-based Vietnamese alphabet (chữ Quốc ngữ). Under no circumstances should you output Chinese characters, Japanese characters, or other non-Vietnamese scripts. Never mix Chinese characters inside Vietnamese words:
+     - Do NOT use Chinese characters for words like "tác" (e.g., write "động tác", "hợp tác", "thao tác" using standard letters).
+     - Do NOT use Chinese characters for words like "dụng" (e.g., write "sử dụng", "dùng" using standard letters).
+     - Do NOT use Chinese characters for words like "chí mạng" (e.g., write "chí mạng", "chết người" using standard letters).
+     - Do NOT use Chinese characters for words like "sự" (e.g., write "sự thực", "sự việc" using standard letters).
+     - Do NOT use Chinese characters for words like "đương nhiên" (e.g., write "đương nhiên" using standard letters).
 5. Do NOT write any meta-explanations, notes, translation justifications, or commentary about the translation. Output ONLY the raw translated text.
 6. Do NOT mash up English and Vietnamese words (e.g., do NOT output things like "ĐóLooks" or "KínhWindsor"). Keep words separated by spaces.
 7. Do NOT translate specific proper nouns, weapon names, boss/enemy names, items, collectibles, or organization names that are iconic to the Resident Evil series, as translating them makes them hard to recognize. Keep them in English:
@@ -60,10 +65,16 @@ STRICT RULES:
    - Items, Currencies & Collectibles: Spinel, Pesetas, Velvet Blue, Red Beryl, Alexandrite, Yellow Diamond, Emerald, Ruby, Sapphire, Blue Medallion, Clockwork Castellan. (General items like "Green Herb", "Red Herb", "Yellow Herb", "First Aid Spray", or keys like "Insignia Key" can be translated or kept as is, but try to keep specific names simple and clear, e.g., "First Aid Spray" -> "Bình xịt sơ cứu", "Green Herb" -> "Thảo dược xanh").
    - Character names: Leon, Ashley, Luis, Ada, Krauser, Saddler, Salazar, Hunnigan, Wesker.
    - Exception for key terms that must be translated:
-     * Translate "Amber" to "Hổ Phách" (do NOT output 琥珀).
-     * Translate "Church" to "Nhà thờ" or "Thánh đường" (do NOT output 教会).
+     * Translate "Amber" to "Hổ Phách" (do NOT output Chinese characters).
+     * Translate "Church" to "Nhà thờ" or "Thánh đường" (do NOT output Chinese characters).
      * Translate "Glasses" to "Kính" (do NOT translate as "Giấy phép").
+     * Translate "Movements" / "moves" (referring to behavior of characters/bosses) to "Lối di chuyển", "Các động tác", "Hành động", or "Các chiêu thức" (do NOT translate as "Phong trào").
+     * Translate "Evade maneuvers" to "động tác né tránh" or "cú né tránh".
+     * Translate "Thrust attacks" to "đòn tấn công đâm" or "cú đâm".
+     * Translate "Sweeping spear attacks" to "đòn quét giáo".
+     * Translate "Ray tracing" to "dò tia" (do NOT translate as "tia ánh xạ").
 8. If the text is a technical key, rejected code, or purely symbols (e.g. #Rejected#, <REF ...>), return it exactly as it is without translation.
+9. No Chinese characters/scripts. Output exclusively standard Vietnamese text using only Vietnamese letters, spaces, numbers, common English terms as allowed, and standard punctuation.
 """
 
 def backup_original_files():
@@ -138,15 +149,9 @@ def translate_text_nvidia(english_text, max_retries=3):
                     {"role": "system", "content": SYSTEM_PROMPT},
                     {"role": "user",   "content": english_text},
                 ],
-                temperature=0.1,
+                temperature=0.3,
                 top_p=0.95,
                 max_tokens=512,
-                extra_body={
-                    "chat_template_kwargs": {
-                        "thinking": True,
-                        "reasoning_effort": "high",
-                    }
-                },
                 stream=False,
             )
             result = completion.choices[0].message.content.strip()
