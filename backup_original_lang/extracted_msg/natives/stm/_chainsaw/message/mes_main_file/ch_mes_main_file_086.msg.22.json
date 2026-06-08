@@ -1,0 +1,868 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_File_086_00",
+      "guid": "28453dc9-2a42-4071-b1d2-a5411a84b873",
+      "crc?": 1973155102,
+      "hash": 1220856641,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "The Amber",
+        "The Amber",
+        "L'Ambre",
+        "L'Ambra",
+        "Der Bernstein",
+        "El Ámbar",
+        "Янтарь",
+        "Bursztyn",
+        "",
+        "",
+        "O Âmbar",
+        "The Amber",
+        "琥珀",
+        "琥珀",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "\"الآمبر\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "El Ámbar"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_086_01",
+      "guid": "746c99d4-134e-4c43-8006-010f8be61c6d",
+      "crc?": 222574787,
+      "hash": 1902590212,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "俺が「The Amber」と呼ぶこのサンプルは、\r\n長らく倉庫でほこりをかぶっていた。\r\n\r\nその頃すでに、実験用試料は充分に足りていて、\r\nこのサンプルに誰も注意を払わなかった。\r\n\r\n俺がこれを、自分の研究室に持ち込んだのも、\r\n見慣れない形をしていた、というだけの理由だ。",
+        "This sample, which I've come to call \"the Amber,\"\r\nwas just sitting in the storeroom collecting dust.\r\n\r\nWe used to have ample specimens for\r\nexperimentation in the past, so it makes sense\r\nthat this one was overlooked.\r\n\r\nIn fact, the only reason I brought it back to my\r\nlab was because of its peculiar shape.",
+        "Cet échantillon, que j'ai appelé \"l'Ambre\", est\r\nresté longtemps à prendre la poussière dans\r\nla réserve.\r\n\r\nComme nous avions déjà bien assez d'échantillons\r\npour nos expériences, celui-ci est passé inaperçu.\r\n\r\nÀ vrai dire, la seule chose qui m'a poussé à le\r\nramener à mon laboratoire, c'est sa forme\r\nparticulière.",
+        "Questo campione, che ho chiamato \"l'Ambra\",\r\nera abbandonato nel magazzino a prendere polvere.\r\n\r\nIn passato avevamo abbondanti esemplari su cui\r\nsperimentare, quindi ha senso che questo sia\r\npassato inosservato.\r\n\r\nIn effetti, l'unico motivo per cui l'ho portato in\r\nlaboratorio è la sua forma peculiare.",
+        "Diese Probe, die ich den „Bernstein“ nenne, hat\r\neinfach im Lager rumgelegen und Staub gesammelt.\r\n\r\nWir hatten früher haufenweise Exemplare für\r\nExperimente, es ist also gut möglich, dass dieses\r\neinfach übersehen wurde.\r\n\r\nEigentlich habe ich ihn nur wegen seiner außer-\r\ngewöhnlichen Form in mein Labor gebracht.",
+        "Esta muestra, a la que he bautizado como\r\n\"el Ámbar\", estaba en el almacén cogiendo polvo.\r\n\r\nSolíamos tener especímenes de sobra en el pasado\r\nasí que no me sorprende que esta muestra quedara\r\nolvidada en un rincón.\r\n\r\nDe hecho, la única razón por la que me la llevé a\r\nmi laboratorio fue por su peculiar forma.",
+        "Этот образец, который я назвал «янтарём»,\r\nмного лет пылился на складе.\r\n\r\nРаньше у нас было полно образцов для\r\nэкспериментов, поэтому ничего удивительного,\r\nчто на этот никто не обращал внимания.\r\n\r\nСобственно, я принёс его в лабораторию\r\nтолько из-за его необычной формы.",
+        "Okaz, który nazwałem „Bursztynem”, leżał\r\nw magazynie i zbierał kurz.\r\n\r\nW przeszłości mieliśmy pod dostatkiem obiektów\r\ndo badań, więc całkiem możliwe, że ta konkretna\r\npróbka została po prostu przeoczona.\r\n\r\nW zasadzie głównym powodem, dla którego\r\nzabrałem ją do laboratorium, był jej kształt.",
+        "",
+        "",
+        "A amostra, que comecei a chamar de \"Âmbar\",\r\nestava esquecida no depósito juntando poeira.\r\n\r\nAntigamente, tínhamos diversas espécies para\r\nrealizar experimentos, então faz sentido\r\nque essa tenha sido subestimada.\r\n\r\nNa verdade, eu só a levei de volta para o meu\r\nlaboratório por causa do seu formato peculiar.",
+        "내가 \"The Amber\"라고 부르는 이 샘플은\r\n오랫동안 창고에서 먼지만 맞고 있었다.\r\n\r\n당시, 우리는 이미 충분한 실험용 시료를\r\n가지고 있었기에 눈에 띄지 않았던 것이었다.\r\n\r\n사실, 내가 이걸 내 실험실로 가지고\r\n온 데는 그 특이한 모양에 이유가 있다.",
+        "這塊我稱為「琥珀」的樣本一直放在倉庫裡，\r\n積了一大堆塵。\r\n\r\n以前我們有足夠樣本用於實驗，所以沒人留意到\r\n也是情理之內。\r\n\r\n我把牠帶回自己的實驗室，也只是因為\r\n外形奇特。",
+        "这块一直被放在储藏室里积灰的样本，我称\r\n之为“琥珀”。\r\n\r\n那个时候，我们有足够多的样本用于实验，\r\n所以根本不会有人在意这块样本。\r\n\r\n其实我把它带回实验室，也只是因为它的形\r\n状有点特殊罢了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هذه العينة، والتي أسميها \"الآمبر\"، كانت موجودة\r\nفي المخزن ويعلوها الغبار.\r\n\r\nاعتدنا أن تكون لدينا عينات كثيرة لنجري عليها\r\nالتجارب في الماضي،\r\nفمن المنطقي إن تم التغاضي عن هذه العينة.\r\n\r\nفي الواقع، شكلها الغريب هو ما جعلني أحضرها\r\nإلى مختبري.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Esta muestra, a la que bauticé como\r\n\"el Ámbar\", estaba en el almacén acumulando polvo.\r\n\r\nSolíamos tener especímenes de sobra en el pasado,\r\nasí que no me sorprende que esta muestra quedara\r\nolvidada en un rincón.\r\n\r\nDe hecho, la única razón por la que me la llevé a\r\nmi laboratorio fue por su peculiar forma."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_086_02",
+      "guid": "ef70ea70-eb1e-433c-b7ec-4d9052b00491",
+      "crc?": 1702177178,
+      "hash": 3609795801,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "基礎分析の後、俺は考えを改めた。\r\n\r\nまだ小さく仮死状態のままだが、\r\n「The Amber」は、他にはない特別な器官を持っている。\r\nサドラーの「支配種」しか持たない器官を。\r\n\r\n充分に成長した「The Amber」の力は\r\nサドラーと同等、いや、それ以上かもしれない。",
+        "After a basic analysis, I've changed my mind.\r\n\r\nThe Amber possesses a very unique quality.\r\nAlthough small and in a suspended state,\r\nit contains the same organ found in the\r\n\"dominant species\", which we've only seen\r\nin Saddler himself.\r\n\r\nWhen fully developed, the Amber may rival, or\r\nperhaps even surpass, Saddler's power.",
+        "Mais après une brève analyse, j'ai vite changé\r\nd'opinion.\r\n\r\nL'Ambre possède une qualité tout à fait unique.\r\nBien qu'il soit petit et dans un état de biostase,\r\nil contient le même organe que celui trouvé dans\r\n\"l'espèce dominante\", celui que nous avons vu\r\nuniquement chez Saddler.\r\n\r\nUne fois pleinement développé, l'Ambre pourrait\r\négaler, voire surpasser la puissance de Saddler.",
+        "Dopo delle analisi basilari, ho cambiato idea.\r\n\r\nL'Ambra possiede delle qualità davvero uniche.\r\nAnche se piccola e in uno stato di sospensione,\r\ncontiene lo stesso organo trovato nelle \"varianti\r\ndominanti\", che abbiamo visto solo in Saddler stesso.\r\n\r\nQuando completamente sviluppata, l'Ambra\r\npotrebbe eguagliare, o addirittura superare\r\nla potenza di Saddler.",
+        "Nach einer ersten Analyse habe ich meine\r\nMeinung geändert.\r\n\r\nDer Bernstein hat eine sehr besondere Eigen-\r\nschaft. Zwar ist der Parasit noch sehr klein und\r\nbefindet sich in einem Übergangszustand, doch\r\ner trägt ganz offensichtlich das gleiche Organ in\r\nsich wie die dominante Spezies – die wir bisher\r\nnur bei Saddler gesehen haben.\r\n\r\nWenn er sein volles Entwicklungsstadium erreicht\r\nhat, könnte der Bernstein es mit Saddlers Kraft\r\naufnehmen, sie vielleicht sogar übertreffen.",
+        "Tras un análisis básico, he cambiado de opinión.\r\n\r\nEl Ámbar posee una cualidad única.\r\nAunque todavía es pequeña y está en estado de\r\nsuspensión, contiene la misma \"especie dominante\"\r\nque habita en el mismísimo Saddler.\r\n\r\nCuando se desarrolle, el Ámbar podría rivalizar,\r\no incluso superar, el poder de Saddler.",
+        "Быстрый анализ показал, что мы были слепы.\r\n\r\nЯнтарь поистине уникален.\r\nВнутри него покоится тот самый орган, пусть\r\nи небольших размеров, который мы нашли\r\nв «доминантном виде» и который есть только\r\nу Сэдлера.\r\n\r\nПолностью развитое существо из янтаря станет\r\nтаким же сильным, как Сэдлер, или даже\r\nпревзойдёт его.",
+        "Po pobieżnej analizie zmieniłem jednak zdanie.\r\n\r\nBursztyn wykazuje wyjątkowe właściwości.\r\nChoć niewielki i w stanie zawieszenia,\r\nzawiera ten sam organ pochodzący z „gatunku\r\ndominującego”, który widziałem jedynie\r\nw Saddlerze.\r\n\r\nPo osiągnięciu pełnego stadium rozwoju\r\nBursztyn może dorównać sile Saddlera,\r\na nawet ją przewyższyć.",
+        "",
+        "",
+        "Depois de uma análise básica, mudei de ideia.\r\n\r\nO Âmbar possui uma característica muito singular.\r\nApesar de pequeno e de estar em estado suspenso,\r\nele contém os mesmos órgãos encontrados na\r\n\"espécie dominante\" encontrada apenas no próprio\r\nSaddler.\r\n\r\nQuando totalmente desenvolvido, o Âmbar pode se\r\nequiparar, ou até superar, o poder de Saddler.",
+        "기초 분석 후, 나는 생각을 바꿨다.\r\n\r\n\"The Amber\"는 아주 특별한 기관을\r\n가지고 있다. 아직 작고 가사 상태이긴\r\n하나 오직 새들러만이 가지고 있는\r\n\"지배종\"을 가지고 있다.\r\n\r\n\"The Amber\"가 충분히 성장하면\r\n새들러와 동등, 아니 어쩌면 그 힘을\r\n뛰어넘을지도 모른다.",
+        "不過做了一輪基本分析之後，我的想法完全變了。\r\n\r\n琥珀有一點和其他普拉卡截然不同：牠雖然\r\n還小，處於假死狀態，不過有一個特殊器官。\r\n這個器官我以前只在薩德勒身上的「支配種」\r\n看過。\r\n\r\n琥珀完全成長之後，力量會足以和薩德勒匹敵。\r\n不，甚至有可能超越他。",
+        "但基础分析的结果，让我改变了对它的看法。\r\n\r\n“琥珀”有着独一无二的特性。虽然它很小，\r\n而且处于假死状态，但它却有着与众不同的\r\n器官。这种器官只在萨德勒本人的“支配型”\r\n普拉卡中才被发现过。\r\n\r\n如果“琥珀”充分成长，那它的力量可能足以\r\n匹敌，甚至超过萨德勒。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "غيرت رأيي بعد إجراء تحليل بسيط.\r\n\r\nتمتلك \"الآمبر\" خاصية فريدة للغاية.\r\nعلى الرغم من أنها صغيرة وفي وضع غير نشط،\r\nفإنها تحتوي على نفس العضو الموجود في\r\n\"الأنواع السائدة\"، والتي لم نرها سوى في سادلر فقط.\r\n\r\nعند تطويرها بشكل كامل، فقد تنافس \"الآمبر\"\r\nقوة سادلر أو حتى تتخطاها.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tras un análisis básico, cambié de opinión.\r\n\r\nEl Ámbar posee una cualidad única.\r\nAunque todavía es pequeña y está en estado de\r\nsuspensión, contiene la misma \"especie dominante\"\r\nque habita en el mismísimo Saddler.\r\n\r\nCuando se desarrolle, el Ámbar podría rivalizar,\r\no incluso superar, el poder de Saddler."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_086_03",
+      "guid": "496c8e56-eacc-4614-923a-aa01aa14d4e8",
+      "crc?": 3446222386,
+      "hash": 2307409707,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "残念ながら研究を進める前に、\r\n「The Amber」はサドラーに回収されてしまった。\r\n俺の動きを怪しんだのかもしれない。\r\n\r\nだが、サドラーの力に対抗するには、あれが必要だ。\r\n俺は「The Amber」とともに逃げのびて、\r\nどこかで研究を続ける必要がある。",
+        "Unfortunately, the Amber was confiscated by\r\nSaddler before I could make any further progress\r\nin my research. He may be onto me.\r\n\r\nI need to get my hands on that sample again and\r\nescape in order to continue my research elsewhere.\r\nIt's the only way to counter Saddler.",
+        "Malheureusement, Saddler a récupéré l'Ambre\r\navant que je ne puisse faire de plus amples\r\nrecherches. Il a peut-être des soupçons sur moi.\r\n\r\nIl faut que je remette la main sur cet échantillon\r\net que je m'échappe pour continuer mes recherches\r\nailleurs. C'est le seul moyen de contrer Saddler.",
+        "Sfortunatamente, l'Ambra è stata confiscata\r\nda Saddler prima che potessi progredire\r\nulteriormente con la mia ricerca. Credo abbia\r\ndei sospetti su di me.\r\n\r\nDevo recuperare quel campione e scappare\r\nda qui, così da continuare la mia ricerca altrove.\r\nÈ l'unico modo per contrastare Saddler.",
+        "Leider wurde der Bernstein von Saddler konfis-\r\nziert, bevor ich weiter daran forschen konnte.\r\nEr beobachtet mich sicher.\r\n\r\nIch muss mir diese Probe zurückholen und fliehen,\r\num meine Forschung woanders fortsetzen zu können.\r\nEs ist die einzige Möglichkeit, Saddler die Stirn zu\r\nbieten.",
+        "Por desgracia, el Ámbar fue confiscado por Saddler\r\nantes de que pudiera progresar mi investigación.\r\nMe tiene controlado.\r\n\r\nNecesito conseguir esa muestra otra vez y escapar\r\nsi quiero continuar mi investigación en alguna\r\notra parte. Solo así podría detener a Saddler.",
+        "К сожалению, Сэдлер отобрал янтарь, прежде чем\r\nя успел изучить его досконально. Возможно, он\r\nподозревает меня.\r\n\r\nНадо вернуть образец и свалить отсюда\r\nподальше, чтобы продолжить эксперименты где-нибудь\r\nв другом месте. Это единственный способ\r\nостановить Сэдлера.",
+        "Niestety jednak Bursztyn został skonfiskowany\r\nprzez Saddlera, nim zdążyłem dokonać dalszych\r\npostępów w moich badaniach. Jestem na celowniku.\r\n\r\nMuszę dorwać tę próbkę i uciec, by móc\r\nkontynuować badania gdzieś indziej. To\r\njedyny sposób, by powstrzymać Saddlera.",
+        "",
+        "",
+        "Infelizmente, o Âmbar foi confiscado por Saddler\r\nantes que minha pesquisa pudesse progredir\r\nainda mais. Talvez ele suspeite de mim.\r\n\r\nPreciso conseguir aquela amostra de novo e fugir\r\npara continuar minha pesquisa em outro lugar.\r\nÉ o único jeito de combater o Saddler.",
+        "운이 나쁘게도 연구를 진행하기도 전에\r\n새들러가 \"The Amber\"를 압수해 버렸다.\r\n날 의심하는 거겠지.\r\n\r\n다른 곳에서 실험을 계속하기 위해서라도\r\n다시 샘플을 손에 넣고 달아나야 한다. 그게\r\n새들러에 대항할 수 있는 유일한 방법이다.",
+        "不幸的是，我想進一步研究琥珀之前，薩德勒\r\n就把牠搶走了。他應該開始懷疑我了吧。\r\n\r\n對抗薩德勒一定要用到琥珀。我一定要搶回牠，\r\n再逃到別的地方繼續研究。",
+        "可惜的是，在我的研究取得进一步成果之前，\r\n“琥珀”便被萨德勒没收了。他可能对我起了\r\n疑心。\r\n\r\n我需要重新拿到那份样本，带着它逃走，然\r\n后换个地方继续我的研究。这也是对抗萨德\r\n勒的唯一方法。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لسوء الحظ، صادر سادلر \"الآمبر\" قبل أن أتمكن من\r\nإحراز المزيد من التقدم في بحثي. ربما شك في أمري.\r\n\r\nعليّ الحصول على هذه العينة مرة أخرى والهروب\r\nلأواصل بحثي في مكان آخر، إنها الطريقة الوحيدة\r\nلمواجهة سادلر.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Por desgracia, el Ámbar fue confiscado por Saddler\r\nantes de que pudiera progresar mi investigación.\r\nMe tiene controlado.\r\n\r\nNecesito conseguir esa muestra otra vez y escapar\r\nsi quiero continuar mi investigación en alguna\r\notra parte. Solo así podría detener a Saddler."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_086_04",
+      "guid": "4c43847e-914f-46d5-9777-f15f5ed1b29b",
+      "crc?": 3206255254,
+      "hash": 625649433,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "俺に接触してきた外部の連中が\r\nまともな奴らとは到底思えないが、\r\nこれまでだって危ない橋は渡ってきた。\r\n\r\n次も口八丁で何とかするさ。\r\n\r\n今度はそう、世界を救うために。",
+        "Of course, I don't think I can trust this outside\r\ngroup either, but I've already come this far.\r\n\r\nHopefully I can sweet talk my way out\r\nof this one too.\r\n\r\nI'll have to. For the world's sake.",
+        "Évidemment, je ne pense pas non plus que ce groupe\r\nvenu de l'extérieur soit digne de confiance, mais\r\nje ne peux plus vraiment reculer.\r\n\r\nAvec un peu de chance, j'arriverai à négocier avec\r\neux pour qu'ils me laissent tranquille.\r\n\r\nJe n'ai pas le choix. Le monde en dépend.",
+        "Non credo di potermi fidare di questa gente\r\ncon cui sono in contatto, ma ora che sono\r\narrivato fin qui non posso fermarmi.\r\n\r\nSpero di riuscire a ingraziarmeli per potermene\r\ntirare fuori.\r\n\r\nDevo farlo, per il bene del mondo.",
+        "Natürlich kann ich dieser Gruppe von außerhalb\r\ngenauso wenig trauen, aber ich bin schon so weit\r\ngekommen.\r\n\r\nHoffentlich kann ich mich wie immer irgendwie\r\naus der Sache rausmogeln.\r\n\r\nMir bleibt nichts anderes übrig.\r\nUm der Welt willen.",
+        "Está claro que no puedo confiar tampoco en este\r\ngrupo extranjero, pero ya que he llegado\r\nhasta aquí...\r\n\r\nCon suerte conseguiré convencerles de que me\r\ndejen en paz. Tengo que hacerlo.\r\n\r\nEl mundo depende de ello.",
+        "Чужакам, разумеется, доверять не стоит,\r\nно я уже зашёл слишком далеко.\r\n\r\nНадеюсь, мой подвешенный язык спасёт меня\r\nи в этот раз.\r\n\r\nВ конце концов, на кону судьба всего мира.",
+        "Rzecz jasna, nie mogę też zaufać tej\r\ngrupie z zewnątrz, ale włożyłem już\r\nw to zbyt wiele wysiłku.\r\n\r\nMoże uda mi się wyplątać\r\nz tej sytuacji jakąś dobrą gadką.\r\n\r\nMuszę to zrobić. Dla dobra świata.",
+        "",
+        "",
+        "É claro, acho que também não posso confiar nesse\r\ngrupo de fora, mas já cheguei até aqui.\r\n\r\nTomara que eu consiga usar minha lábia para\r\nescapar dessa também.\r\n\r\nO mundo depende disso.",
+        "물론, 접촉해 온 외부 녀석들이 믿을 수 있는\r\n놈들이라 생각하지 않지만, 이미 여기까지\r\n와 버렸다.\r\n\r\n바라건대, 내 말솜씨로 빠져나갈 수 있기를.\r\n\r\n그래야 한다. 세상을 구하기 위해서라도.",
+        "當然我也不覺得那些來找我交易的人會是什麼\r\n好人。不過都來到這地步了，就拼一拼吧。\r\n\r\n下次也用我這張嘴走一步算一步好了。\r\n\r\n為了全世界，這次一定要成功。",
+        "当然，我知道这个外部组织也不能全信，但\r\n又能怎样呢，我已经走到了这一步。\r\n\r\n希望这条三寸之舌，也能帮我度过这次难关。\r\n\r\n没办法，我可是为了全世界。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا أعتقد أنني أستطيع الوثوق بهذه المجموعة الغريبة\r\nبالطبع، لكنني قطعت شوطًا طويلًا بالفعل.\r\n\r\nآمل أن يساعدني الكلام المعسول في إخراج نفسي\r\nمن هذه الورطة أيضًا.\r\n\r\nعليّ فعل ذلك لمصلحة العالم.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Está claro que no puedo confiar en este grupo\r\nextranjero tampoco, pero ya llegué\r\nhasta aquí.\r\n\r\nCon suerte conseguiré convencerlos de que me\r\ndejen en paz. Tengo que hacerlo.\r\n\r\nEl mundo depende de ello."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_086_05",
+      "guid": "08e17455-74d7-4fc7-8b85-0f092eb02a2e",
+      "crc?": 3581950203,
+      "hash": 2297831319,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<FOCUS>"
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_086_06",
+      "guid": "383331ac-3b2c-4ea8-b549-331b94702b62",
+      "crc?": 2697721153,
+      "hash": 4132192203,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

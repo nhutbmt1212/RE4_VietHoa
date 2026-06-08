@@ -1,0 +1,3089 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "話者表示"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "優先度"
+    },
+    {
+      "ty": 2,
+      "name": "話し相手"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_csa061_s00a",
+      "guid": "fd6fcb54-22e4-432d-8cdb-b7adb96bbdda",
+      "crc?": 1224472866,
+      "hash": 2336712312,
+      "attributes": [
+        {
+          "String": "<MESTIME 8.63, 11.34>\r\n<MESTIME 11.35, 14.43>\r\n<MESTIME 14.45, 17.51>\r\n<MESTIME 18.48, 25.25>\r\n<MESTIME 27.78, 31.86>\r\n<MESTIME 32.39, 33.43>\r\n<MESTIME 34.02, 38.74>\r\n<MESTIME 38.74, 41.01>\r\n<MESTIME 43.36, 45.75>\r\n<MESTIME 45.76, 47.98>\r\n<MESTIME 51.34, 55.01>\r\n<MESTIME 55.24, 58.77>\r\n<MESTIME 63.66, 67.03>\r\n<MESTIME 69.34, 72.97>\r\n<MESTIME 79.15, 82.76>\r\n<MESTIME 98.8, 101.36>\r\n<MESTIME 101.38, 106.51>\r\n<MESTIME 107.06, 110.64>\r\n<MESTIME 110.96, 116.46>\r\n<MESTIME 117.81, 121.01>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0010_chb800",
+      "guid": "fc49d6f7-3d4f-433e-b8b9-b2694c720c8b",
+      "crc?": 3904359653,
+      "hash": 646351457,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "さあ ぬかづきたまえ",
+        "Prostrate yourselves!",
+        "Prosternez-vous !",
+        "Prostratevi tutti!",
+        "Kniet nieder!",
+        "¡Postraos ante él!",
+        "Падите ниц!",
+        "Ukorzcie się!",
+        "",
+        "",
+        "Prostrem-se!",
+        "바짝 엎드려라!",
+        "快給我跪下！",
+        "快给我跪下！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "انحنوا وأظهروا ولاءكم!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Póstrense ante él!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0020_chb800",
+      "guid": "cd1804cb-9ed7-4dde-bae2-4fd6b42185c8",
+      "crc?": 1023452753,
+      "hash": 3509004655,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "そは我らが聖体",
+        "This is our Holy Body.",
+        "Ceci est notre Corps sacré.",
+        "Questo è il sacro corpo.",
+        "Dies ist der heilige Leib.",
+        "Es nuestro cuerpo sagrado.",
+        "Это наша святая плоть.",
+        "Oto nasze Święte Ciało.",
+        "",
+        "",
+        "Eis o nosso corpo sagrado.",
+        "이것은 우리의 성체이자",
+        "這是我們的聖體。",
+        "这是我们的圣体。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هذه هي القوة المقدسة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Este es nuestro cuerpo sagrado."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0025_chb800",
+      "guid": "b237db71-b1d5-49c1-921b-a3be50605ebd",
+      "crc?": 2324792429,
+      "hash": 1024199741,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "我らが摂理　ほどなく――",
+        "Our divine providence! And soon...",
+        "Notre divine providence ! Et bientôt...",
+        "La divina provvidenza! E presto...",
+        "Unsere göttliche Vorsehung, und bald...",
+        "¡Nuestra divina providencia! Y pronto...",
+        "Промысел божий! И скоро...",
+        "Nasza boska opatrzność! A wkrótce...",
+        "",
+        "",
+        "Nossa providência divina!",
+        "섭리이니라! 그리고 머지않아...",
+        "是主的眷顧！也即將……",
+        "是主的眷顾！也即将……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "قدرنا العظيم! وقريبًا...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Nuestra divina providencia! Y pronto..."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0030_chb800",
+      "guid": "c54656c0-2cea-4021-b753-6fbf89c837d5",
+      "crc?": 593992808,
+      "hash": 3316431971,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "恵み深き悪疫がもたらされる　ラス・プラーガスが！",
+        "such a profound blessing for all...las plagas!",
+        "une profonde bénédiction pour tous... Las Plagas !",
+        "una benedizione profonda per tutti... Las Plagas!",
+        "... ein unerschöpflicher Segen für alle: Las Plagas.",
+        "Nuestra profunda bendición... Las plagas.",
+        "этот щедрый дар обретут все... лас плагас!",
+        "...olbrzymie błogosławieństwo dla wszystkich... las plagas!",
+        "",
+        "",
+        "E logo uma profunda benção a todos... las plagas!",
+        "만물에 그 깊은 은혜를 내리실... 위대한 플라가다!",
+        "成為眾生無上的祝福……吾聖普拉卡！",
+        "成为众生无上的祝福……吾圣普拉卡！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ستغمرنا جميعًا مباركة... لاس بلاغاس!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Nuestra profunda bendición. Las plagas."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0040_chb800",
+      "guid": "cb5c984f-8605-4cfc-98a5-432141a18664",
+      "crc?": 494753216,
+      "hash": 411822943,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ようこそ　我が子らよ",
+        "Welcome, my children.",
+        "Bienvenue, mes enfants.",
+        "Benvenuti, figli miei.",
+        "Willkommen, meine Kinder.",
+        "Bienvenidos, hijos míos.",
+        "Здравствуйте, дети мои.",
+        "Witajcie, moje dzieci.",
+        "",
+        "",
+        "Bem-vindos, meus filhos.",
+        "어서 오너라, 내 아이들아.",
+        "歡迎，孩子們。",
+        "欢迎，孩子们。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مرحبًا بكما يا صغيراي.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bienvenidos, hijos míos."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0050_cha100",
+      "guid": "1e61620a-0eb9-4395-a9d1-73f50f88acb0",
+      "crc?": 770090805,
+      "hash": 4025785810,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0060_chb800",
+      "guid": "4fe24ada-c8c0-4537-8a26-61487bcd2339",
+      "crc?": 3056262615,
+      "hash": 3559997238,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "我はオズムンド・サドラー\r\n神の声を伝えし者",
+        "I am Osmund Saddler. The speaker for our Lord.",
+        "Je suis Osmund Saddler. Le prophète de notre Dieu.",
+        "Io sono Osmund Saddler.\r\nPortavoce di nostro Signore.",
+        "Ich bin Osmund Saddler.\r\nDie Stimme unseres Herrn.",
+        "Soy Osmund Saddler. La voz de nuestro Señor.",
+        "Я Осмунд Сэдлер, глас Господа нашего.",
+        "Jestem Osmund Saddler. Przemawiam w imieniu naszego Pana.",
+        "",
+        "",
+        "Eu sou Osmund Saddler. O porta-voz do nosso Senhor.",
+        "이 몸은 오스문드 새들러.\r\n신을 대변하는 자이니라.",
+        "我是奧斯蒙·薩德勒。是吾主的傳達者。",
+        "我是奥斯蒙 · 萨德勒。是吾主的传达者。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أنا أوزموند سادلر. أتحدث بالنيابة عن سيدنا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Soy Osmund Saddler. La voz de nuestro Señor."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0070_cha000",
+      "guid": "0160ecbb-c737-4c4c-a037-82f8057aefa5",
+      "crc?": 3185244413,
+      "hash": 3799056925,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "あんたに興味はない",
+        "Tell someone who gives a shit.",
+        "Qu'est-ce que tu veux que ça nous foute ?",
+        "E chi cazzo se ne frega.",
+        "Mir scheißegal, wer Sie sind.",
+        "Me importa una mierda.",
+        "Да мне похер, кто ты.",
+        "Pogadaj z kimś, kto nie ma tego w dupie.",
+        "",
+        "",
+        "Vai pregar pra quem liga.",
+        "그건 묻는 놈한테나 대답하시지.",
+        "我沒興趣聽你廢話。",
+        "我没兴趣听你废话。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا أهتم بذلك البتة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Me importa una mierda."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0080_chb800",
+      "guid": "4c351694-4498-4eeb-8b9e-60300abe839b",
+      "crc?": 1371233424,
+      "hash": 691495125,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "哀れな子羊よ",
+        "Foolish lambs.",
+        "Pauvres imbéciles.",
+        "Stupidi agnelli.",
+        "Törichte Schafe.",
+        "Corderos sin fe.",
+        "Глупые агнцы.",
+        "Głupie owieczki.",
+        "",
+        "",
+        "Cordeiros tolos.",
+        "어리석은 양들이로다.",
+        "愚昧的羔羊啊。",
+        "愚昧的羔羊啊。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كبشان غبيان.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Corderos sin fe."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0090_chb800",
+      "guid": "7ff44366-7f32-4d4f-8da6-651aee052261",
+      "crc?": 279697499,
+      "hash": 918592633,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "なぜ恩寵を拒む？",
+        "Why do you deny grace?",
+        "Pourquoi refusez-vous la grâce ?",
+        "Perché rifiutate la grazia?",
+        "Warum verweigert ihr die Gnade?",
+        "¿Por qué rehusáis la gracia?",
+        "Почему вы отвергаете дар?",
+        "Dlaczego nie chcesz przyjąć łaski?",
+        "",
+        "",
+        "Por que recusam a graça?",
+        "어째서 은총을 거부하는 것이냐?",
+        "為何抗拒恩典？",
+        "为何抗拒恩典？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لمَ ترفضان الحصول على البركة؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Por qué niegan la gracia?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0100_chb800",
+      "guid": "c4449987-7840-435a-8ab1-92ff4dd66baf",
+      "crc?": 4221646197,
+      "hash": 3738171041,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "今こそ その身を委ねよ！",
+        "Now, abandon your body!",
+        "Allez, abandonne ton corps !",
+        "Ora, concedi il tuo corpo!",
+        "Nun entsage deinem Leib!",
+        "¡Ahora, dejad vuestro cuerpo!",
+        "Дитя, отринь своё тело!",
+        "Porzuć to ciało!",
+        "",
+        "",
+        "Agora, abandonem seu corpo!",
+        "자, 네 그 몸을 바쳐라!",
+        "來吧，獻上你的軀體！",
+        "来吧，献上你的躯体！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تخلي عن جسدك الآن!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Ahora, dejen su cuerpo!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0110_chb800",
+      "guid": "fda5b0ed-c039-40cc-b027-e6ba8743b764",
+      "crc?": 2100742320,
+      "hash": 3164436045,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "従え！ 神の声に従うのだ！",
+        "Obey. Obey the voice of our Lord.",
+        "Obéis. Obéis à la voix du Seigneur.",
+        "Obbedisci. Obbedisci alla voce del Signore.",
+        "Gehorche. Gehorche der Stimme unseres Herrn.",
+        "Oíd. Obedeced la voz del Señor.",
+        "Подчинись. Подчинись гласу Господа.",
+        "Pokłoń się. Pokłoń się głosowi Pana.",
+        "",
+        "",
+        "Obedeçam. Obedeçam a voz do Senhor.",
+        "복종하라. 신의 목소리에 복종하라.",
+        "順從吧，順從吾主的聲音。",
+        "顺从吧，顺从吾主的声音。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أطيعي مشيئة سيدنا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Escuchen. Obedezcan la voz del Señor."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0120_cha100",
+      "guid": "43c60aa3-fc61-4d20-b343-196456bdeddf",
+      "crc?": 2280533887,
+      "hash": 3659634507,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "いや… いやよ！",
+        "No... No!",
+        "Non... Non !",
+        "No... No!",
+        "Nein... Nein!",
+        "No... ¡No!",
+        "Нет... Нет!",
+        "Nie... Nie!",
+        "",
+        "",
+        "Não... Não!",
+        "싫어... 싫어!",
+        "不……不要！",
+        "不……不要！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كلا… كلا!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No... ¡No!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0130_cha100",
+      "guid": "9262ad3f-4ed8-49b8-a81a-782b93de682b",
+      "crc?": 3430278226,
+      "hash": 2791314718,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "やめて！　いや！",
+        "Stop! No!",
+        "Arrêtez ! Non !",
+        "Fermo! No!",
+        "Stopp! Nein!",
+        "¡Para! ¡No! ",
+        "Хватит! Нет!",
+        "Przestań! Nie!",
+        "",
+        "",
+        "Para! Não!",
+        "그만! 싫어!",
+        "住手！不！",
+        "住手！不！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كفى! لا!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Basta! ¡No!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0140_chb800",
+      "guid": "665f5860-1dfe-4329-ba32-3f25c5962595",
+      "crc?": 3357119334,
+      "hash": 2812695142,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "我が子よ　抗うのはよせ",
+        "Sweet child, do not resist!",
+        "Mon enfant, ne résiste pas !",
+        "Figlia mia, non fare resistenza!",
+        "Mein Kind, wehr dich nicht!",
+        "¡Dulce niña, no te resistas!",
+        "Милое дитя, не противься!",
+        "Słodkie dziecię, nie opieraj się!",
+        "",
+        "",
+        "Doce menina, não resista!",
+        "귀여운 내 아이여, 저항하지 마라!",
+        "孩子啊，不要反抗！",
+        "孩子呀，不要反抗！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا تقاومي يا عزيزتي!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Dulce niña, no te resistas!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0150_chb800",
+      "guid": "f5da183f-5618-4b71-bfed-73ee27b8a345",
+      "crc?": 3504426098,
+      "hash": 1085673407,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "罪深き者",
+        "Pray, forgive these wicked sinners.",
+        "Seigneur, pardonne à ces pécheurs.",
+        "Perdona questi peccatori.",
+        "Herr, vergib diesen gottlosen Sündern.",
+        "Perdona a los pecadores.",
+        "Боже, прости этих грешников.",
+        "Panie, wybacz tym niegodziwym grzesznikom.",
+        "",
+        "",
+        "Perdoa estes pecadores perversos.",
+        "이 사악한 죄인들에게 부디 용서를.",
+        "主啊，寬恕這些罪人吧。",
+        "主啊，宽恕这些罪人吧。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "رجاءً، سامح هذين المذنبين اللعينين.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Perdona a los pecadores."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0160_chb800",
+      "guid": "bf0026b8-9634-425b-878f-fcdfe4bdee7b",
+      "crc?": 1372256232,
+      "hash": 406534085,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "彼の悔悛は忠実なる使徒に… 託すとしよう",
+        "My faithful disciple shall deliver\r\nto you your...penance.",
+        "Mon fidèle disciple t'infligera ta... pénitence.",
+        "Il mio fedele discepolo infliggerà la vostra penitenza.",
+        "Deine Buße wirst du vor meinem\r\ngetreuen Jünger... ableisten.",
+        "Mi leal discípulo llevará a cabo tu...\r\npenitencia.",
+        "Мой верный послушник дарует\r\nтебе твоё... наказание.",
+        "Mój wierny sługa ześle na ciebie\r\ntwoją... pokutę.",
+        "",
+        "",
+        "Meu fiel discípulo ministrará\r\na sua... penitência.",
+        "내 충직한 제자가 너를... 참회로 이끌 것이다.",
+        "我忠實的門徒將會聆聽你的……懺悔。",
+        "我忠实的门徒将会聆听你的……忏悔。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تابعي المخلص سيرشدك للتكفير... عن ذنبك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mi leal discípulo se encargará de tu...\r\npenitencia."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0170_chb800",
+      "guid": "06d89e12-58ad-4a8c-ada9-b6fd70361343",
+      "crc?": 1404500130,
+      "hash": 693087212,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "さあ 娘よ　恐れずともよい",
+        "Now child, you need not be afraid.",
+        "Mon enfant, tu n'as rien à craindre.",
+        "Figlia mia, non avere timore.",
+        "Komm Kind, du musst keine Angst haben.",
+        "Hija mía, no hay nada que temer.",
+        "Дитя моё, не нужно бояться.",
+        "Moje dziecko, nie musisz się już obawiać.",
+        "",
+        "",
+        "Criança, não precisa ter medo.",
+        "그러니 아이여, 두려워할 것 없다.",
+        "孩子，妳不必再害怕了。",
+        "孩子，你不必再害怕了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا تخافي يا طفلتي.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hija mía, no hay nada que temer."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0180_chb800",
+      "guid": "7976af30-dab8-4d9e-a45b-3f57adbd4197",
+      "crc?": 1066908168,
+      "hash": 2833684544,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "その身を捧げ すべての恐怖から解き放たれるのだ",
+        "Submit your body and\r\nrelease yourself from fear!",
+        "Soumets ton corps et libère-toi de cette peur !",
+        "Rinuncia al tuo corpo e liberati per sempre dalla paura!",
+        "Übergib deinen Leib und befreie dich von Angst!",
+        "¡Somete tu cuerpo y deshazte de tus miedos!",
+        "Отринь своё тело\r\nи освободись от страха!",
+        "Poddaj swoje ciało i uwolnij się\r\nod tego strachu!",
+        "",
+        "",
+        "Entregue o seu corpo\r\ne se liberte de todo o medo!",
+        "네 몸을 바치고 그 두려움에서\r\n자유로워지는 것이다!",
+        "獻上妳的身體，從恐懼之中解放吧！",
+        "献上你的身体，从恐惧之中解放吧！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سلمي جسدك وحرري نفسك من الخوف!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Somete tu cuerpo y deshazte de tus miedos!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa061_s00a_0190_cha100",
+      "guid": "ce1260a7-3fcb-4cfc-b933-cef5e7c44f1a",
+      "crc?": 1167054733,
+      "hash": 629731731,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp54_0001",
+      "guid": "2c07c6d1-5088-421d-8e2b-f35e0df61040",
+      "crc?": 3562308369,
+      "hash": 3433399689,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 4.02>\r\n<VOTIME 0.0>\r\n<CONVEND 4.02>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp54_0001_0010_cha000",
+      "guid": "27fb42dc-1041-42b1-b131-78a5a5cc0e35",
+      "crc?": 1897142510,
+      "hash": 2425763124,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "まあ寝心地は悪くなかった",
+        "Not the most uncomfortable place I've slept before.",
+        "J'ai dormi sur des choses moins confortables que ça.",
+        "Ho dormito in posti molto peggiori di questo.",
+        "Hab schon um einiges ungemütlicher geschlafen.",
+        "No es el sitio más incómodo en el que he dormido.",
+        "Приходилось мне спать в местах и похуже.",
+        "Spałem w mniej wygodnych miejscach.",
+        "",
+        "",
+        "Já dormi em lugares mais desconfortáveis.",
+        "여태껏 누워 본 장소 중에서 아주 최악은 아니었어.",
+        "我睡過比這還不舒服的地方。",
+        "我睡过比这还不舒服的地方。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "نمتُ في أماكن أسوأ من هذا من قبل.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No es el sitio más incómodo en el que haya dormido."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp54_0002",
+      "guid": "28f51fb2-c9cc-425d-9f2d-a86b3f872a19",
+      "crc?": 3828639893,
+      "hash": 2385761127,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.39>\r\n<VOTIME 0.0>\r\n<CONVEND 3.39>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp54_0002_0010_cha000",
+      "guid": "d4f1edc8-9f84-4879-b4ec-69376c475ed9",
+      "crc?": 4212169987,
+      "hash": 3039113828,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "こんなのよく動いたな",
+        "I'm surprised this thing even booted up.",
+        "C'est un vrai miracle que ce truc ait démarré.",
+        "Mi sorprende che si sia avviato.",
+        "Dass das Ding überhaupt hochgefahren ist...",
+        "Me sorprende que esto aún funcione.",
+        "Странно, что вообще работает.",
+        "Zadziwiające, że ten sprzęt w ogóle zaskoczył.",
+        "",
+        "",
+        "Surpreendente que tenha até ligado.",
+        "이런 게 작동하다니 놀라울 따름이군.",
+        "沒想到這東西還真能啟動。",
+        "没想到这东西还真能启动。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "المدهش في الأمر أن هذا الشيء يعمل.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Me sorprende que funcione todavía."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp54_0003",
+      "guid": "1355dd6c-fefd-42cd-b280-5973bf8abf6e",
+      "crc?": 81789413,
+      "hash": 3991171436,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.53>\r\n<VOTIME 0.0>\r\n<CONVEND 2.53>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+      "guid": "0e52e025-6f11-43e4-9f4b-bd2e60ffc3cc",
+      "crc?": 1665513069,
+      "hash": 2474511071,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp54_0003_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp54_0004",
+      "guid": "a1f0cb9a-751f-4618-8871-8f64761bfb06",
+      "crc?": 3203929813,
+      "hash": 3153985248,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 4.04>\r\n<VOTIME 0.0>\r\n<CONVEND 4.04>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp54_0004_0010_cha000",
+      "guid": "7dd565fd-801e-4106-8d1e-e74a07e4299d",
+      "crc?": 3216406737,
+      "hash": 2468134698,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "こいつはアンブレラからのお下がりか",
+        "Someone had a field day looting the Umbrella labs...",
+        "J'en connais un qui s'est servi\r\ndans les labos d'Umbrella...",
+        "Qualcuno ha saccheggiato i laboratori della Umbrella...",
+        "Der hat ein halbes Umbrella-Labor zusammengeklaut.",
+        "Alguien ha estado saqueando\r\nlaboratorios de Umbrella...",
+        "Кто-то обчистил лаборатории «Амбреллы»...",
+        "Ktoś się nieźle obłowił w laboratoriach Umbrelli...",
+        "",
+        "",
+        "Alguém fez uma limpa nos laboratórios da Umbrella...",
+        "누가 엄브렐러 연구실을 털어 온 건가...",
+        "他把保護傘的實驗室都搬空了吧……",
+        "他把保护伞的实验室都搬空了吧……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أحدهم حظي بيوم حافل في نهب مختبرات آمبريلا…",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alguien estuvo saqueando los laboratorios de Umbrella..."
+      ]
+    }
+  ]
+}

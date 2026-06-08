@@ -1,0 +1,197 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse550_s00a",
+      "guid": "b78d655b-f766-4898-a955-3ad9c0126f1c",
+      "crc?": 3957473805,
+      "hash": 3130299624,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.31, 2.14>\r\n<MESTIME 19.15, 20.88>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse550_s00a_0010_cha200",
+      "guid": "5541273a-e8e9-4a1c-b8f4-71425c2b6154",
+      "crc?": 1183011114,
+      "hash": 3803937984,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "これを使って！",
+        "Use this!",
+        "Prends ça !",
+        "Usa questo!",
+        "Leon, hier!",
+        "¡Usa esto!",
+        "Держи!",
+        "Użyj tego!",
+        "",
+        "",
+        "Usa isso!",
+        "이걸 사용해!",
+        "用這個！",
+        "用这个！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "استخدم هذا!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Usa esto!"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse550_s00a_0020_cha000",
+      "guid": "fc44db6d-6431-44cf-a7c0-267673a9906d",
+      "crc?": 2156750416,
+      "hash": 764845505,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "大事なものだろ　返すよ！",
+        "I'll give you a holy body!",
+        "Tiens, je crois que ça t'appartient !",
+        "Te lo do io il sacro corpo!",
+        "Da hast du deine „Gnade“!",
+        "¡Te voy a dar cuerpo sagrado!",
+        "Твоя святая плоть слаба!",
+        "Zaraz ci pokażę święte ciało!",
+        "",
+        "",
+        "Vou te dar um corpo \"sangrado\"!",
+        "내가 신성한 몸을 하사해 주지!",
+        "我也送你一個聖體！",
+        "我也送你一个圣体！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سأمنحك القوة المقدسة!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Te voy a dar un cuerpo sagrado!"
+      ]
+    }
+  ]
+}

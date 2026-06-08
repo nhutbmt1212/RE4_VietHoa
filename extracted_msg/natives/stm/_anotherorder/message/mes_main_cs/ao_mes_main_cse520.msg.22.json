@@ -1,0 +1,491 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse520_s00a",
+      "guid": "924129d6-e6f4-4b7e-927d-0abad906b4da",
+      "crc?": 1569079093,
+      "hash": 3149663389,
+      "attributes": [
+        {
+          "String": "<MESTIME 12.41, 13.99>\r\n<MESTIME 14.74, 16.0>\r\n<MESTIME 17.73, 20.45>\r\n<MESTIME 20.7, 24.4>\r\n<MESTIME 24.82, 25.73>\r\n<MESTIME 25.9, 27.53>\r\n<MESTIME 37.38, 40.31>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse520_s00a_0010_cha200",
+      "guid": "4f042fca-e470-41e1-a6fc-0ecbe452ef3e",
+      "crc?": 3574312233,
+      "hash": 2482992638,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ウェスカー聞こえる？　",
+        "Control, come in.",
+        "Contrôle, répondez.",
+        "Centrale, mi riceve?",
+        "Zentrale, kommen.",
+        "Control, contesta.",
+        "База, приём.",
+        "Centrala, odbiór.",
+        "",
+        "",
+        "Controle, responda.",
+        "지령실, 응답해.",
+        "呼叫指揮室。",
+        "呼叫指挥室。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إلى القيادة، أجبني.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Control, adelante."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse520_s00a_0020_cha200",
+      "guid": "4043d07c-15db-40dc-806e-fcc46501804e",
+      "crc?": 2502989435,
+      "hash": 1744177380,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "手に入れたわ",
+        "I have the package.",
+        "J'ai le paquet, c'est bon.",
+        "Consegna al sicuro.",
+        "Ich hab den Stein.",
+        "Ya lo tengo.",
+        "Груз у меня.",
+        "Mam przesyłkę.",
+        "",
+        "",
+        "Eu tô com o pacote.",
+        "손에 넣었어.",
+        "東西到手了。",
+        "东西到手了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لديّ الطَرد.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tengo el paquete."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse520_s00a_0030_cha200",
+      "guid": "05bbff49-6cbb-482a-9117-475fa873bd5f",
+      "crc?": 1799302789,
+      "hash": 3896874679,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "これでDUTYFREEに寄らずに帰れそう",
+        "This is gonna be hard to explain at customs.",
+        "Je sais pas comment je vais expliquer ça à la douane mais...",
+        "Non sarà semplice spiegarlo alla dogana...",
+        "Bin mal gespannt, was der Zoll dazu sagt.",
+        "Va a ser difícil de explicar en la aduana...",
+        "Чувствую, придётся объясняться на таможне…",
+        "Trudno to będzie wyjaśnić przy kontroli celnej.",
+        "",
+        "",
+        "Vai ser difícil explicar isso aqui na imigração...",
+        "세관에 걸리기라도 하면 난감하겠어.",
+        "剩下的就是怎麼跟海關解釋了。",
+        "剩下的就是怎么跟海关解释了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سيكون من الصعب شرح الأمر عند الجمارك...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tendré que dar explicaciones en la aduana..."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse520_s00a_0040_cha600",
+      "guid": "dcb7e74e-e142-44ce-b018-ce81852e101c",
+      "crc?": 3690020383,
+      "hash": 3387377262,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "エイダ　よくやった　すぐにそこを脱出しろ",
+        "Well done, Ada. Evacuate immediately.",
+        "Bon travail, Ada. Évacue immédiatement.",
+        "Ottimo lavoro, Ada. Evacuazione immediata.",
+        "Gute Arbeit, Ada.\r\nJetzt verschwinde von dort.",
+        "Bien hecho, Ada.\r\nEvacúa de inmediato.",
+        "Молодец, Ада. Уходи немедленно.",
+        "Dobra robota, Ada. Ewakuuj się natychmiast.",
+        "",
+        "",
+        "Bom trabalho, Ada. Abandone o local agora.",
+        "잘했군, 에이다. 당장 탈출해.",
+        "做得好，艾達。立刻從島上撤離。",
+        "做得好，艾达。立刻从岛上撤离。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أحسنت يا آدا. انسحبي في الحال.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bien hecho, Ada. Evacúa inmediatamente."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse520_s00a_0050_cha200",
+      "guid": "736d09af-17fa-43fe-9d70-acc29ba81fa9",
+      "crc?": 1270857427,
+      "hash": 742672660,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "了解…",
+        "Understood.",
+        "Compris.",
+        "Ricevuto.",
+        "Verstanden.",
+        "Entendido.",
+        "Поняла.",
+        "Zrozumiano.",
+        "",
+        "",
+        "Entendido.",
+        "알겠어.",
+        "明白。",
+        "明白。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مفهوم.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Entendido."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse520_s00a_0060_cha600",
+      "guid": "e84e9e26-6325-457c-a0b7-cfde953dd093",
+      "crc?": 1223662699,
+      "hash": 3802552455,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "今 迎えを送る",
+        "Someone is coming to pick you up.",
+        "Quelqu'un va venir te chercher.",
+        "Stanno venendo a prelevarti.",
+        "Jemand kommt dich abholen.",
+        "Alguien te recogerá.",
+        "Тебя кто-нибудь заберёт.",
+        "Ktoś po ciebie przyleci.",
+        "",
+        "",
+        "Alguém irá buscar você.",
+        "널 데리러 보냈다.",
+        "會有人接應妳的。",
+        "会有人接应你的。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هناك أحد قادم لاصطحابك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Alguien va a ir a recogerte."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse520_s00a_0070_cha200",
+      "guid": "fc0f49db-ff43-4731-9027-d0ae0b247b25",
+      "crc?": 3604053022,
+      "hash": 425717795,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "そっちもうまくやれてるわよね…　レオン",
+        "I trust everything is fine on your end too, Leon.",
+        "J'espère que tout va bien de ton côté, Leon.",
+        "Immagino che te la stia cavando anche tu, Leon.",
+        "Bleibt nur zu hoffen,\r\ndass du auch erfolgreich warst, Leon.",
+        "Espero que tú también estés bien, Leon.",
+        "Надеюсь, у тебя тоже всё в порядке, Леон.",
+        "Ufam, że u ciebie też wszystko w porządku, Leon.",
+        "",
+        "",
+        "Espero que esteja tudo bem com você também, Leon.",
+        "당신도 아무 일 없어야 할 텐데, 레온.",
+        "希望你也能夠一切順利，里昂。",
+        "希望你也能够一切顺利，里昂。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أثق بأن كل شيء عندك على ما يرام يا ليون.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Espero que tú también estés bien, Leon."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse520_s00a_0080_cha200",
+      "guid": "05d78676-e9c6-4608-878f-f6892100e125",
+      "crc?": 2125016280,
+      "hash": 954020436,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Надеюсь, и у тебя всё в порядке, Леон.",
+        "",
+        "",
+        "",
+        "Tomara que esteja tudo bem com você também, Leon.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آمل أن كل شيء عندك على ما يرام يا ليون.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Espero que todo esté bien por allá también, Leon."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse215_s00a",
+      "guid": "e35f2988-cce4-46ab-8546-6a8c3211093e",
+      "crc?": 2944231081,
+      "hash": 3512243452,
+      "attributes": [
+        {
+          "String": "<MESTIME 14.82, 17.45>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse215_s00a_0010_cha200",
+      "guid": "a1cd2c3a-8416-4bf0-9237-8442165556f5",
+      "crc?": 4121482079,
+      "hash": 1879886263,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ルイスを待たせることになりそうね",
+        "Sorry, Luis. I might be a while.",
+        "Désolée, Luis. Je vais être en retard.",
+        "Scusa, Luis. Farò un po' tardi.",
+        "Sorry, Luis. Kann noch etwas dauern.",
+        "Lo siento, Luis. Tardaré un poco.",
+        "Прости, Луис. Я задержусь.",
+        "Wybacz, Luis. To może chwilę zająć.",
+        "",
+        "",
+        "Foi mal, Luis. Acho que vou me atrasar.",
+        "미안, 루이스. 좀 늦을 것 같아.",
+        "抱歉，路易斯。你得要等一會了。",
+        "抱歉，路易斯。你得等会了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آسفة يا لويس. سأستغرق بعض الوقت.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Lo siento, Luis. Quizá me retrase."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1002 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "Speaker"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_CamDemo_cp33_0001",
+      "guid": "5b798bdf-5651-489b-8840-15bfd49f6572",
+      "crc?": 1402130659,
+      "hash": 252670308,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+      "guid": "bd64defe-cf22-488c-bcc3-0bbb8483bf52",
+      "crc?": 2974844964,
+      "hash": 3683628804,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<NONAME>"
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0001_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_cp33_0002",
+      "guid": "ed45b475-cb4b-49a2-adfd-236c74d4ed76",
+      "crc?": 2047124410,
+      "hash": 3050695252,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+      "guid": "2f3e5618-3b8e-4b4f-a93a-71a1485c186d",
+      "crc?": 1273482071,
+      "hash": 495330947,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<NONAME>"
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_cp33_0002_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_cp33_0003",
+      "guid": "ae8e8e48-d9b4-4ae1-8d2d-40e0dc88c97d",
+      "crc?": 3465796928,
+      "hash": 709839882,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_cp33_0003_0010_cha000",
+      "guid": "6d3fa46b-63be-4a17-b002-64a076f98622",
+      "crc?": 3190037763,
+      "hash": 544085478,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<NONAME>"
+        }
+      ],
+      "content": [
+        "“謁見の間”",
+        "\"Audience Chamber\"",
+        "\"Salle d'audience\"",
+        "\"Camera di udienza\"",
+        "„Audienzsaal“",
+        "\"Sala de audiencias\"",
+        "«Зал для аудиенций»",
+        "„Sala audiencyjna”",
+        "",
+        "",
+        "\"Salão de Audiências\"",
+        "\"알현실\"",
+        "「謁見廳」",
+        "“觐见厅”",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "\"غرفة الجمهور\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "\"Sala de audiencias\""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_cp33_0004",
+      "guid": "70228aff-f7b8-44c2-ac97-2b351f7d573e",
+      "crc?": 3819915838,
+      "hash": 2686816433,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_cp33_0004_0010_cha000",
+      "guid": "91d98824-9dab-4d7d-862e-53c0d697b4aa",
+      "crc?": 3905424215,
+      "hash": 3946774051,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<NONAME>"
+        }
+      ],
+      "content": [
+        "“大廊下”",
+        "\"Grand Hall\"",
+        "\"Grand hall\"",
+        "\"Corridoio centrale\"",
+        "„Große Halle“",
+        "\"Gran salón\"",
+        "«Главный зал»",
+        "„Korytarz główny”",
+        "",
+        "",
+        "\"Salão Nobre\"",
+        "\"그랜드 홀\"",
+        "「大廳」",
+        "“大厅”",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "\"القاعة الكبرى\"",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "\"Gran salón\""
+      ]
+    }
+  ]
+}

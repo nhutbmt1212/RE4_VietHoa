@@ -1,0 +1,1560 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "話者表示"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "優先度"
+    },
+    {
+      "ty": 2,
+      "name": "話し相手"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_csa044_s00a",
+      "guid": "1c915b63-5c55-40bb-9398-bcb234cf5412",
+      "crc?": 2504714861,
+      "hash": 2941404036,
+      "attributes": [
+        {
+          "String": "<MESTIME 12.96, 15.8>\r\n<MESTIME 15.83, 21.66>\r\n<MESTIME 21.68, 28.7>\r\n<MESTIME 28.71, 31.02>\r\n<MESTIME 31.98, 35.99>\r\n<MESTIME 36.46, 37.98>\r\n<MESTIME 37.99, 41.98>\r\n<MESTIME 43.19, 45.5>\r\n<MESTIME 65.23, 67.98>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa044_s00a_0010_chb800",
+      "guid": "bbf3a689-8e9b-4d0a-bbad-cdf047101a5f",
+      "crc?": 968341990,
+      "hash": 627530064,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "哀れな子羊よ",
+        "Pitiful little lamb.",
+        "Pauvre petit agneau.",
+        "Miserabile agnello.",
+        "Erbarmenswertes Schaf.",
+        "Miserable corderito.",
+        "Жалкий ягнёнок.",
+        "Mała, głupia owieczka.",
+        "",
+        "",
+        "Cordeirinho patético.",
+        "가엾은 어린 양이여.",
+        "可憐的羔羊啊。",
+        "可怜的羔羊啊。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أيها الكبش الصغير المثير للشفقة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Miserable corderito."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa044_s00a_0020_chb800",
+      "guid": "12dc22fd-4c83-46be-87f1-b01cff7fd0a3",
+      "crc?": 2885885466,
+      "hash": 3553079051,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "その悲しみは じき終わる\r\n我らの新たな娘と同様に…",
+        "Your suffering can end. Just as\r\nit has for our newest daughter.",
+        "Ta souffrance peut prendre fin.\r\nComme elle a pris fin pour notre petite dernière...",
+        "La tua sofferenza finirà.\r\nCome quella della nostra nuova figlia.",
+        "Dein Leiden kann enden.\r\nSo, wie für unsere jüngste Tochter.",
+        "Tu sufrimiento cesará. \r\nTal y como ha cesado el de nuestra nueva hija.",
+        "Ты можешь спастись от мук —\r\nтак же, как наша новообретённая дочь.",
+        "Twoje cierpienie może się zakończyć.\r\nTak jak się zakończyło dla naszej najnowszej córki.",
+        "",
+        "",
+        "Seu sofrimento pode acabar. Assim como\r\nfoi para nossa nova filha.",
+        "네 고통은 끝날 것이다.\r\n우리의 새로운 딸이 그러하듯이.",
+        "你的痛苦即將終結。\r\n如同我們新的女兒一樣。",
+        "你的痛苦即将终结。\r\n如同我们新的女儿一样。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يمكن إنهاء معاناتك. بالضبط كما أنهينا معاناة ابنتنا الجديدة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tu sufrimiento cesará.\r\nTal y como terminó el de nuestra nueva hija."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa044_s00a_0030_chb800",
+      "guid": "0e9f1d0a-a32f-4899-b592-eb8954cd35f1",
+      "crc?": 3809225580,
+      "hash": 674486710,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "聖餐は果たされたのだ\r\nかの者は既に我らが血であり――",
+        "Who has joined us in communion.\r\nAnd now, she is of our flesh...",
+        "qui nous a rejoints dans la communion.\r\nDésormais, elle est notre chair...",
+        "Che si è unita a noi in comunione.\r\nE adesso, lei è nostra carne...",
+        "Die nun eine der unseren ist,\r\ndie aus unserem Fleisch ist,",
+        "Quien acaba de unirse a nosotros en comunión. \r\nY ahora, es de nuestra carne.",
+        "Она влилась в нашу общину,\r\nи теперь она с нами одной плоти...",
+        "Która właśnie złączyła się z nami w komunii.\r\nA teraz jest jednością z naszym ciałem...",
+        "",
+        "",
+        "Que se uniu a todos nós em comunhão.\r\nE agora é carne da nossa carne...",
+        "우리의 성찬이 되어.\r\n지금, 우리의 살이 되고...",
+        "她已行我教聖餐之禮。\r\n現在，她無論血肉……",
+        "她已行我教圣餐之礼。\r\n现在，她无论血肉……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "التي انضمت إلينا، والآن أصبحت من لحمنا...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Quien se unió a nuestra comunión. \r\nY ahora, es de nuestra carne..."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa044_s00a_0035_chb800",
+      "guid": "a4dda360-ad38-43f4-be20-e25b508d4b32",
+      "crc?": 3449484665,
+      "hash": 2831691286,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "我らが肉",
+        "of our blood.",
+        "notre sang.",
+        "E nostro sangue.",
+        "unserem Blut.",
+        "De nuestra sangre.",
+        "и крови.",
+        "...z naszą krwią.",
+        "",
+        "",
+        "Sangue do nosso sangue.",
+        "피가 되니.",
+        "皆為我族。",
+        "皆为我族。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "من دمائنا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "De nuestra sangre."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa044_s00a_0040_chb800",
+      "guid": "63b9ba2b-e2fa-45d5-8255-01adce933ecb",
+      "crc?": 1739862867,
+      "hash": 1297059155,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "忠実なる使徒が娘を導こう",
+        "My faithful disciple will show her the path.",
+        "Mon fidèle disciple lui montrera la voie.",
+        "Il mio fedele discepolo le mostrerà la via.",
+        "Mein treuer Jünger wird ihr den Weg weisen.",
+        "Mi fiel discípulo le mostrará el camino.",
+        "Преданный слуга укажет ей верный путь.",
+        "Mój wierny sługa pokaże jej drogę.",
+        "",
+        "",
+        "Meu fiel discípulo mostrará a ela o caminho.",
+        "내 충직한 제자가 그 아이를 이끌 것이다.",
+        "我忠實的門徒會給她指引。",
+        "我忠实的门徒会给她指引。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سيريها تابعي المخلص طريقها.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mi fiel discípulo le mostrará el camino."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa044_s00a_0050_chb800",
+      "guid": "07aae135-5920-49b8-9ee0-2ceb0d79b371",
+      "crc?": 3076489998,
+      "hash": 2819966767,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "使徒よ！",
+        "Go now!",
+        "Allez !",
+        "Va' ora!",
+        "Jetzt geh!",
+        "¡Ve ya!",
+        "Ступай!",
+        "Idź!",
+        "",
+        "",
+        "Agora vá!",
+        "가거라!",
+        "去吧！",
+        "去吧！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اذهب الآن!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Ve ya!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa044_s00a_0060_chb800",
+      "guid": "91ccd133-4de4-4cd6-81d8-84003b5bb9d5",
+      "crc?": 1554771483,
+      "hash": 1803865954,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "さまよえる子らに救済を与えよ",
+        "Deliver to these vagrant children their salvation.",
+        "Offre le salut à ces pauvres âmes égarées.",
+        "Offri la salvezza a queste anime perdute.",
+        "Bring den umherirrenden Kindern die Erlösung.",
+        "Otorga a estos niños perdidos la salvación.",
+        "Избавь этих блудных детей от их мучений.",
+        "Poprowadź te zbłąkane dzieci ku zbawieniu.",
+        "",
+        "",
+        "Ministre a salvação a essas crianças desgarradas.",
+        "방황하는 이 아이들에게 구원을 내려라.",
+        "去救贖那些迷途的孩子們吧。",
+        "去救赎那些迷途的孩子们吧。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أرشد هذين الطفلين المشردين إلى خلاصهما.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Otorga a estos niños perdidos la salvación."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa044_s00a_0070_chb700",
+      "guid": "b546926c-e0de-47f4-91cf-dba94272dd06",
+      "crc?": 4268622767,
+      "hash": 130661019,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "仰せのままに",
+        "As you wish.",
+        "À vos ordres.",
+        "Ai suoi ordini.",
+        "Wie Ihr wünscht.",
+        "Como desees.",
+        "Слушаюсь.",
+        "Wedle życzenia.",
+        "",
+        "",
+        "Como quiser.",
+        "분부대로.",
+        "如你所願。",
+        "如你所愿。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كما تأمر.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Como digas."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa044_s00a_0090_cha300",
+      "guid": "6379d491-f533-4956-856c-a480d8172c54",
+      "crc?": 3596681955,
+      "hash": 2264228038,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "安くしとくぜ",
+        "I'll make it cheap for you.",
+        "Je vais te faire un prix d'ami.",
+        "Ti faccio un buon prezzo.",
+        "Ich mach dir ’n guten Preis.",
+        "Te haré un descuento.",
+        "Много не возьму.",
+        "Dla ciebie będzie zniżka.",
+        "",
+        "",
+        "Faço um preço camarada.",
+        "너한텐 싸게 해 줄게.",
+        "我會給你打折的。",
+        "我会给你打折的。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سأعطيك إياه بثمن زهيد.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Te voy a hacer un descuento."
+      ]
+    }
+  ]
+}

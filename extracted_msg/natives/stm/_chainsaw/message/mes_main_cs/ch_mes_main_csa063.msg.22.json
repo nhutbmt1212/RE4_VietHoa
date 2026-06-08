@@ -1,0 +1,1004 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "優先度"
+    },
+    {
+      "ty": 2,
+      "name": "話し相手"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_csa063_s00a",
+      "guid": "4f3599fe-ce4d-4b21-8ede-795bb0e29a29",
+      "crc?": 3951960026,
+      "hash": 987197863,
+      "attributes": [
+        {
+          "String": "<MESTIME 5.24, 6.66>\r\n<MESTIME 7.17, 12.49>\r\n<MESTIME 26.84, 31.51>\r\n<MESTIME 33.78, 40.35>\r\n<MESTIME 54.42, 58.57>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa063_s00a_0010_cha000",
+      "guid": "82f2372b-1f9f-40b7-80d3-1943df098c68",
+      "crc?": 2348287621,
+      "hash": 1688037107,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "もう手を引け　クラウザー",
+        "Are we done here, Krauser?",
+        "Ça y est, t'as fini, Krauser ?",
+        "Sei stanco, Krauser?",
+        "Sind wir fertig, Krauser?",
+        "¿Hemos terminado, Krauser?",
+        "Это всё, Краузер?",
+        "Skończyłeś już, Krauser?",
+        "",
+        "",
+        "Acabamos aqui, Krauser?",
+        "결판이 난 것 같은데, 크라우저?",
+        "差不多了吧，克勞瑟？",
+        "差不多了吧，克劳瑟？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هل انتهينا الآن يا كراوزر؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Ya terminamos, Krauser?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa063_s00a_0020_chb700",
+      "guid": "3143d7f4-b16b-4ed2-a0ee-4fee937818e9",
+      "crc?": 1481681218,
+      "hash": 2949818177,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "言ったはずだぞ　何度も 何度もな",
+        "I told you again and again...",
+        "Je te l'ai déjà dit et répété maintes fois...",
+        "Te l'ho detto migliaia di volte...",
+        "Wie oft hab ich’s dir gesagt...",
+        "Te lo he dicho una y otra vez...",
+        "А я говорил... устал... повторять...",
+        "Tyle razy ci powtarzałem...",
+        "",
+        "",
+        "Já falei, de novo e de novo...",
+        "내가 몇 번이고 말하지만...",
+        "告訴過你一遍又一遍……",
+        "告诉过你一遍又一遍……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أخبرتك مرارًا وتكرارًا...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Te lo dije una y otra vez..."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa063_s00a_0030_chf700",
+      "guid": "84102039-0cbe-4b9d-b352-de646faa001b",
+      "crc?": 311716417,
+      "hash": 2586076119,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "そんな覚悟では欲しい物は手に入れられん",
+        "You're too soft to do what's necessary.",
+        "T'as pas le cran de faire ce qui est nécessaire.",
+        "Non hai le palle per fare ciò che è necessario.",
+        "Du bist zu weich, um zu tun, was nötig ist.",
+        "No tienes huevos de hacer lo necesario. ",
+        "Ты слабак и никогда не сделаешь как надо.",
+        "Jesteś za miękki, żeby zrobić to, co trzeba.",
+        "",
+        "",
+        "Você é mole demais pra fazer o que é preciso.",
+        "넌 목적을 달성하기에는 너무 물러터졌어.",
+        "你太軟弱了，成不了大事。",
+        "你太软弱了，成不了大事。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ضعفك يمنعك من فعل ما يلزم.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Te faltan huevos para hacer lo necesario."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa063_s00a_0040_chf700",
+      "guid": "42a5b2ca-9e5a-46a4-8dd4-6402626614f2",
+      "crc?": 3986201701,
+      "hash": 2415753477,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "俺とお前の… 覚悟の違いを分からせてやろう　新兵",
+        "That's the difference between you and me, rookie.",
+        "C'est la différence entre toi et moi, le bleu.",
+        "Questa è la differenza che c'è tra te e me, matricola.",
+        "Das ist der Unterschied\r\nzwischen dir und mir, Rookie.",
+        "Esa es la diferencia entre tu y yo, novato.",
+        "В этом разница между тобой и мной, салага.",
+        "To nas od siebie odróżnia, żółtodziobie.",
+        "",
+        "",
+        "Essa é a diferença entre você e eu, novato.",
+        "그게 너와 나의 차이다, 신병.",
+        "而這就是你我之間的差距，新兵。",
+        "而这就是你我之间的差距，新兵。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هذا هو الفرق بيني وبينك أيها المبتدئ.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Esa es la diferencia entre tú y yo, novato."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa063_s00a_0050_chf700",
+      "guid": "440133f1-2b5b-444a-a152-4dd4ab8246aa",
+      "crc?": 2965168179,
+      "hash": 2721363015,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "さあ終わらせようか この教練を",
+        "Time to finish...your training.",
+        "Il est temps d'achever... ton entraînement.",
+        "È ora di finire il tuo addestramento.",
+        "Zeit für deine... Abschlussprüfung.",
+        "Hora de acabar... tu entrenamiento.",
+        "Пора завершить... твоё обучение.",
+        "Czas zakończyć... twój trening.",
+        "",
+        "",
+        "Hora de terminar... O seu treino.",
+        "훈련의 끝을 낼... 시간이야.",
+        "你的訓練……該結束了。",
+        "你的训练……该结束了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حان وقت إكمال... تدريبك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Es hora de terminar... con tu entrenamiento."
+      ]
+    }
+  ]
+}

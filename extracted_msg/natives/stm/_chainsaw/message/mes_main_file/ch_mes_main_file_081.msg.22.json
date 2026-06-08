@@ -1,0 +1,550 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_File_081_00",
+      "guid": "4b1d295a-e49b-4167-af64-de7c79bc1cd8",
+      "crc?": 3111832178,
+      "hash": 4246927636,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "崖の碑文",
+        "Cliffside Epitaph",
+        "Épitaphe de la falaise",
+        "Epitaffio sulla scogliera",
+        "Grabinschrift bei den Klippen",
+        "Epitafio del arrecife",
+        "Эпитафия на утёсе",
+        "Nagrobek na klifie",
+        "",
+        "",
+        "Epitáfio ao Pé do Penhasco",
+        "절벽 비문",
+        "崖邊碑文",
+        "崖边碑文",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مرثاة الجرف",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Epitafio del arrecife"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_081_01",
+      "guid": "a8ce852b-14ba-4946-a5e5-17c4423666de",
+      "crc?": 1238387865,
+      "hash": 3108099500,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "MDCCCXXVII\r\nすべての土に　同胞の屍は眠る\r\nすべての糧に　同胞の血肉は宿る\r\n死すより多く　我らは生まれ\r\nとこしえに　我らは生きる\r\nそして全てを　我らは統べる\r\n\r\n<RIGHT>キーナン・サドラー</RIGHT>",
+        "MDCCCXXVII\r\nThe bones of our brethren rest in all nations.\r\nThe blood of our brethren provides all food.\r\nWe die only to be reborn.\r\nWe live on through eternity.\r\nWe reign absolute.\r\n\r\n<RIGHT>Keenan Saddler</RIGHT>",
+        "MDCCCXXVII\r\nLes os de nos frères reposent dans toutes les terres.\r\nLe sang de nos frères est dans notre nourriture.\r\nNous mourons seulement pour renaître.\r\nNous vivons pour l'éternité.\r\nNotre règne est absolu.\r\n\r\n<RIGHT>Keenan Saddler</RIGHT>",
+        "MDCCCXXVII\r\nLe ossa dei nostri fratelli dormono\r\nin tutte le terre.\r\nIl sangue dei nostri fratelli dimora\r\nin tutti i cibi.\r\nMoriamo solo per rinascere.\r\nViviamo per l'eternità.\r\nRegniamo in modo assoluto.\r\n\r\n<RIGHT>Keenan Saddler</RIGHT>",
+        "MDCCCXXVII\r\nDie Knochen unserer Brüder ruhen in\r\nallen Landen.\r\nDas Blut unserer Brüder wohnt unserer\r\nNahrung inne.\r\nWir sterben, nur um wiedergeboren zu werden.\r\nWir leben bis in die Ewigkeit.\r\nUnsere Herrschaft ist absolut.\r\n\r\n<RIGHT>Keenan Saddler</RIGHT>",
+        "MDCCCXXVII\r\nLos huesos de nuestros hermanos\r\nreposan en todas las naciones.\r\nLa sangre de nuestros hermanos\r\nes todo nuestro alimento.\r\nSolo morimos para renacer.\r\nVivimos a través de la eternidad.\r\nReinamos en lo absoluto.\r\n\r\n<RIGHT>Keenan Saddler</RIGHT>",
+        "MDCCCXXVII\r\nКости наших сородичей покоятся во всех странах.\r\nКровь наших сородичей стала источником всей пищи.\r\nМы живём лишь ради возрождения.\r\nМы будем жить вечно.\r\nНаша власть не знает границ.\r\n\r\n<RIGHT>Кинан Сэдлер</RIGHT>",
+        "MDCCCXXVII\r\nKości naszych braci spoczywają we wszystkich\r\nnarodach. Krew naszych braci zapewnia wszelkie\r\npożywienie. Umieramy, by narodzić się ponownie.\r\nŻyjemy poprzez wieczność.\r\nNasze rządy są absolutne.\r\n\r\n<RIGHT>Keenan Saddler</RIGHT>",
+        "",
+        "",
+        "MDCCCXXVII\r\nOs ossos de nossos irmãos descansam em todas as\r\nnações. O sangue de nossos irmãos gera todos os\r\nalimentos. Morremos apenas para renascer.\r\nVivemos por toda a eternidade.\r\nReinamos absolutos.\r\n\r\n<RIGHT>Keenan Saddler</RIGHT>",
+        "MDCCCXXVII\r\n형제들의 뼈는 땅에 잠들고\r\n형제들의 피는 양식이 된다\r\n다시 살기 위해 죽는 것이니\r\n영원을 사는 것이다\r\n천하를 호령하리라\r\n\r\n<RIGHT>키넌 새들러</RIGHT>",
+        "MDCCCXXVII\r\n弟兄之骨　眠於天下之土\r\n弟兄之血　成就天下之糧\r\n今日之死　只為明日重生\r\n我等之命　永存千秋萬世\r\n天下子民　無不俯首稱臣\r\n\r\n<RIGHT>基南·薩德勒</RIGHT>",
+        "MDCCCXXVII\r\n同胞之骸骨眠于五洲\r\n同胞之血肉寄于五谷\r\n死亡只为重生\r\n我们活在永恒\r\n普天之下　必为吾辈一统\r\n\r\n<RIGHT>基南 · 萨德勒</RIGHT>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MDCCCXXVII\r\nعظام إخوتنا تسكن في كل الأمم، دماء إخوتنا تمدنا\r\nبالطعام، نموت فقط لنولد من جديد،\r\nونعيش إلى الأبد، لنفرض حكمنا المطلق.\r\n\r\n<RIGHT>كينان سادلر</RIGHT>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MDCCCXXVII\r\nLos huesos de nuestros hermanos\r\nreposan en todas las naciones.\r\nLa sangre de nuestros hermanos\r\nes todo nuestro alimento.\r\nSolo morimos para renacer.\r\nVivimos a través de la eternidad.\r\nReinamos en lo absoluto.\r\n\r\n<RIGHT>Keenan Saddler</RIGHT>"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_081_02",
+      "guid": "c61b6ebe-e03c-4c59-a637-9c1d95021e75",
+      "crc?": 84328597,
+      "hash": 541817798,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<FOCUS>"
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_081_03",
+      "guid": "ff432428-8442-46d1-968b-e8b10481f838",
+      "crc?": 18655091,
+      "hash": 2719405034,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

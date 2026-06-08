@@ -1,0 +1,393 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse510_s00a",
+      "guid": "f31d6f18-28bf-4895-aa2e-b38c56061ca4",
+      "crc?": 2900508694,
+      "hash": 2881532836,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.25, 1.45>\r\n<MESTIME 2.04, 6.08>\r\n<MESTIME 6.22, 10.94>\r\n<MESTIME 15.67, 16.36>\r\n<MESTIME 17.33, 17.9>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse510_s00a_0020_chb800",
+      "guid": "d35a4dc4-5c40-45ec-b227-5d23e6f4ffac",
+      "crc?": 3955788207,
+      "hash": 363726141,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "我らと契約を交わした！",
+        "...join our covenant!",
+        "... de s'unir à nous !",
+        "... si unisca a noi!",
+        "... sich unserem Bund anschließt!",
+        "... se una a nosotros.",
+        "…войти в нашу паству!",
+        "...dołącz do naszego zakonu!",
+        "",
+        "",
+        "...se unir à aliança!",
+        "...우리의 서약에 함께 할 때가!",
+        "……該歸信教門了！",
+        "……归信教门了！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "انضموا إلى عهدنا!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "... se una a nosotros."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse510_s00a_0030_chb800",
+      "guid": "40280f86-9790-4123-8cf1-af314ab4b3c3",
+      "crc?": 2642272312,
+      "hash": 3892842336,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "彼に祝福を そして彼らに深き憐れみを",
+        "Oh, blessings unto him and\r\nthe sweet mercy they bring.",
+        "Oh, qu'il soit béni et reçoive la douce miséricorde.",
+        "Oh, che lui sia benedetto\r\ndalla vostra misericordia.",
+        "Oh, gesegnet sei er!\r\nGesegnet die süße Vergebung!",
+        "Oh, bendito sea con la dulce\r\npiedad que se nos ofrece.",
+        "О! Да святится же он\r\nи да будет искуплён.",
+        "Niech zstąpi na niego błogosławieństwo\r\ni obdarzy go miłosierdziem.",
+        "",
+        "",
+        "Ah, que ele seja abençoado\r\ne receba tua doce misericórdia.",
+        "오, 그에게 축복을 그리고\r\n그들에게 달콤한 자비를.",
+        "啊，祝福他吧，仁慈地憐憫他吧。",
+        "啊，祝福他吧，仁慈地怜悯他吧。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أوه، حتى ينل المباركة\r\nوالرحمة الطيبة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Oh, bendito sea, con la dulce\r\npiedad que se nos ofrece."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse510_s00a_0040_chb800",
+      "guid": "364e6844-24c2-4922-9db4-1ea18aa742da",
+      "crc?": 4087625554,
+      "hash": 1800729187,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "皆に歓喜を！　いざ かくあれかし！",
+        "Exult all—and let it be so!",
+        "Exultons... et qu'il en soit ainsi !",
+        "Esultiamo tutti... e così sia!",
+        "Frohlocket – und so sei es!",
+        "¡Regocijaos, y que así sea!",
+        "Ликуйте все! И да будет так!",
+        "Radujcie się wszyscy – i niech się wypełni!",
+        "",
+        "",
+        "Exultem-nos, e que assim seja!",
+        "부디 모두를 기쁘게 하소서!",
+        "歡騰吧……如願以償吧！",
+        "欢腾吧……如愿以偿吧！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لتعم البهجة، على الجميع!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Regocíjense, y que así sea!"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse510_s00a_0050_cha200",
+      "guid": "41371286-a2cc-4060-a312-092808b15e7c",
+      "crc?": 740634918,
+      "hash": 2744556876,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン！",
+        "Leon!",
+        "Leon !",
+        "Leon!",
+        "Leon!",
+        "¡Leon!",
+        "Леон!",
+        "Leon!",
+        "",
+        "",
+        "Leon!",
+        "레온!",
+        "里昂！",
+        "里昂！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليون!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Leon!"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse510_s00a_0060_cha200",
+      "guid": "7fb8063a-0ab2-4a2a-8dac-8a015bc4107c",
+      "crc?": 4051991839,
+      "hash": 128570364,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "行って！",
+        "Go!",
+        "Va-t'en !",
+        "Vai!",
+        "Geh!",
+        "¡Corre!",
+        "Давай!",
+        "Idź!",
+        "",
+        "",
+        "Vai!",
+        "어서 가!",
+        "走！",
+        "走！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اذهب!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Corre!"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse510_s00a_0010_chb800",
+      "guid": "940fa547-8f20-4b75-a395-3246f0d031bb",
+      "crc?": 3925671818,
+      "hash": 654338800,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse510_s00a_0010_chb800"
+      ]
+    }
+  ]
+}

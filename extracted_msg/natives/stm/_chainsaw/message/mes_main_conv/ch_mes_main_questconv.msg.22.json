@@ -1,0 +1,2206 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestConv_0001",
+      "guid": "2c37ba07-f691-4ab3-9ec7-e6a4bcb34bce",
+      "crc?": 3943362343,
+      "hash": 3403381660,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.45>\r\n<VOTIME 0.0>\r\n<CONVEND 1.45>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0001_0010_cha000",
+      "guid": "3ee6bf6c-e1a0-43b0-b4a2-13490d1fdd7c",
+      "crc?": 3526594705,
+      "hash": 948920919,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "よし！",
+        "Yes!",
+        "Yes !",
+        "Sì!",
+        "Yes!",
+        "¡Sí!",
+        "Да!",
+        "Tak!",
+        "",
+        "",
+        "Isso!",
+        "됐어!",
+        "漂亮！",
+        "漂亮！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أجل!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Sí!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0002",
+      "guid": "6b1fc414-f446-4d68-baed-c41c59c1ffe3",
+      "crc?": 2075273786,
+      "hash": 3268531209,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.05>\r\n<VOTIME 0.0>\r\n<CONVEND 2.05>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0002_0010_cha000",
+      "guid": "f7e6e1a8-92b6-4e8d-aa7d-5b98c6691325",
+      "crc?": 4221564596,
+      "hash": 2772056656,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "任務完了",
+        "Mission accomplished.",
+        "Mission accomplie.",
+        "Missione compiuta.",
+        "Mission erfüllt.",
+        "Misión cumplida.",
+        "Дело сделано.",
+        "Misja wykonana.",
+        "",
+        "",
+        "Missão cumprida.",
+        "임무 완료.",
+        "任務完成。",
+        "任务完成。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اكتملت المهمة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Misión cumplida."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0003",
+      "guid": "14e6c144-7de6-4de2-b0ee-b810a02cbcda",
+      "crc?": 1228840517,
+      "hash": 1473754050,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.65>\r\n<VOTIME 0.0>\r\n<CONVEND 1.65>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0003_0010_cha000",
+      "guid": "f795988b-7b5b-4e39-a2c5-30bfeb539a68",
+      "crc?": 1020373776,
+      "hash": 3904191108,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "終わった…",
+        "That should do it.",
+        "C'est bon.",
+        "Così va bene.",
+        "Erledigt.",
+        "Con eso vale.",
+        "Готово.",
+        "To powinno wystarczyć.",
+        "",
+        "",
+        "Deve resolver.",
+        "이거면 됐겠지.",
+        "這就行了吧。",
+        "这就行了吧。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سيفي هذا بالغرض.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Listo."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0004",
+      "guid": "5b33f18b-b6de-4ad5-b33a-79602c840c7e",
+      "crc?": 3414028300,
+      "hash": 2103243884,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.41>\r\n<VOTIME 0.0>\r\n<CONVEND 1.41>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0004_0010_cha000",
+      "guid": "6567fb04-3d6c-415d-9c9f-a5950f29de33",
+      "crc?": 1033993813,
+      "hash": 2441464929,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0004_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0005",
+      "guid": "8a6c70f2-e14d-43b0-abb1-17066911b62f",
+      "crc?": 1977127468,
+      "hash": 1792590713,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.67>\r\n<VOTIME 0.0>\r\n<CONVEND 1.67>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0005_0010_cha000",
+      "guid": "f80e26ae-c797-4596-a464-8e325a0a2a00",
+      "crc?": 785839857,
+      "hash": 3370042318,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "OK…",
+        "OK.",
+        "OK.",
+        "Ok.",
+        "Okay.",
+        "Muy bien.",
+        "Так.",
+        "Dobra.",
+        "",
+        "",
+        "OK.",
+        "좋았어.",
+        "好了。",
+        "好了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حسنًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bien."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0101",
+      "guid": "7475dcc7-9924-49c9-bd94-5dc222f8fc37",
+      "crc?": 2812429159,
+      "hash": 2602396715,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.79>\r\n<VOTIME 0.0>\r\n<CONVEND 1.79>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0101_0010_cha000",
+      "guid": "2de9ad41-336c-4b5e-862e-d86fb2626108",
+      "crc?": 2380700578,
+      "hash": 2894833858,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "これだな",
+        "Yeah, got it.",
+        "OK, je l'ai.",
+        "Ok, bene.",
+        "Na, also.",
+        "Sí, vale.",
+        "Да, есть.",
+        "Dobra, mam.",
+        "",
+        "",
+        "Tá! Podexá.",
+        "좋아, 이거야.",
+        "好，到手了。",
+        "好，到手了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حسنًا! حصلت عليه.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sí, ya está."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0102",
+      "guid": "f41ac152-0034-473b-8df7-ef25733b9aaf",
+      "crc?": 194809980,
+      "hash": 2644082511,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.84>\r\n<VOTIME 0.0>\r\n<CONVEND 1.84>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0102_0010_cha000",
+      "guid": "72f154b2-199b-4125-a887-7d5e1041cdbb",
+      "crc?": 3902120461,
+      "hash": 2561863567,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "回収する…",
+        "Don't mind if I do.",
+        "Je me permets.",
+        "Questa è roba mia.",
+        "Wird niemand vermissen.",
+        "Supongo que para mí.",
+        "Пригодится.",
+        "Wezmę to.",
+        "",
+        "",
+        "Mal não vai fazer.",
+        "가져가도 되겠지.",
+        "希望你別介意。",
+        "希望你别介意。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا ضير من أخذ هذا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Debe ser para mí."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0103",
+      "guid": "19704256-b9bf-49ef-bdf7-09baadf26a74",
+      "crc?": 609383133,
+      "hash": 732615424,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.98>\r\n<VOTIME 0.0>\r\n<CONVEND 1.98>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0103_0010_cha000",
+      "guid": "6eea1609-e3cd-4a81-aa7e-5305149753e3",
+      "crc?": 1275418835,
+      "hash": 2863693816,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "もらっておこう",
+        "I'll be taking this.",
+        "OK, je vais prendre ça.",
+        "Molto interessante.",
+        "Wird beschlagnahmt.",
+        "Me llevo esto.",
+        "Это я возьму...",
+        "Zabieram to.",
+        "",
+        "",
+        "Vou ficar com isso.",
+        "이건 내가 받아 두지.",
+        "這個歸我了。",
+        "这个归我了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سأحمله معي.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Me llevo esto."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0201",
+      "guid": "d0868afe-5cb6-48ae-849a-18c6f49fa00f",
+      "crc?": 3683113471,
+      "hash": 3487977070,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.72>\r\n<VOTIME 0.0>\r\n<CONVEND 1.72>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0201_0010_cha000",
+      "guid": "7d9a3702-ceb5-4c1b-b156-c4b362880365",
+      "crc?": 3842652583,
+      "hash": 1540376007,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "これか…",
+        "Blue medallion...",
+        "Un médaillon...",
+        "Medaglione blu...",
+        "Das, hm?",
+        "Medallón azul...",
+        "Медальон...",
+        "Niebieski medalion...",
+        "",
+        "",
+        "Medalhão azul...",
+        "파란 메달리온이 이건가...",
+        "藍色徽章……",
+        "蓝色徽章……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "الميدالية الزرقاء...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Un medallón azul..."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0202",
+      "guid": "c24d4d56-933a-446b-9a0f-1be433dc1ea6",
+      "crc?": 1775777778,
+      "hash": 4216443804,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.9>\r\n<VOTIME 0.0>\r\n<CONVEND 1.9>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0202_0010_cha000",
+      "guid": "2e90b309-e670-4d1d-835e-faa0c9d80401",
+      "crc?": 1639790110,
+      "hash": 3564378793,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "完了だ",
+        "Finished.",
+        "Terminé.",
+        "Finito...",
+        "Erledigt.",
+        "Terminado.",
+        "Готово...",
+        "Gotowe.",
+        "",
+        "",
+        "Terminado...",
+        "이걸로 완료.",
+        "完成了。",
+        "完成了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "دمرتها جميعًا...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Listo."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0203",
+      "guid": "993acfb0-82d6-4c36-a030-399ee245f970",
+      "crc?": 1517011669,
+      "hash": 2382314048,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.6>\r\n<VOTIME 0.0>\r\n<CONVEND 1.6>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0203_0010_cha000",
+      "guid": "93440ff5-7a51-4417-b22b-679436fa1d52",
+      "crc?": 1752648587,
+      "hash": 1860875573,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "これで全部だ",
+        "That's all of 'em.",
+        "Y en a plus.",
+        "È tutto.",
+        "Das waren alle.",
+        "Eso es todo.",
+        "Вроде всё.",
+        "To już wszystkie.",
+        "",
+        "",
+        "Foram todos.",
+        "이걸로 전부야.",
+        "都打完了。",
+        "都打完了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تخلصت منها جميعًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Eso es todo."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0204",
+      "guid": "98d80d99-34d2-42e9-9602-d4125abfb28d",
+      "crc?": 3351615519,
+      "hash": 4062300111,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.59>\r\n<VOTIME 0.0>\r\n<CONVEND 1.59>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0204_0010_cha000",
+      "guid": "3ba2c486-c136-4116-b016-6a3fe8ef482b",
+      "crc?": 16772085,
+      "hash": 1763836160,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "片付いた",
+        "That should do it.",
+        "Et voilà.",
+        "Così va bene.",
+        "Das war’s wohl.",
+        "Servirá.",
+        "Ну всё.",
+        "To powinno wystarczyć.",
+        "",
+        "",
+        "Isso resolve.",
+        "이거면 됐겠지.",
+        "可以了。",
+        "可以了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سيفي هذا بالغرض.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Todo listo."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0205",
+      "guid": "ed5a8df0-0484-4311-a427-d90eb23c1302",
+      "crc?": 1909844307,
+      "hash": 1993983879,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.54>\r\n<VOTIME 0.0>\r\n<CONVEND 1.54>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0205_0010_cha000",
+      "guid": "d7269fb8-8a2a-437f-a9c7-ec0ba05325bb",
+      "crc?": 4275151600,
+      "hash": 22911148,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ラストだ",
+        "Last one.",
+        "Le dernier.",
+        "Finito.",
+        "Letztes.",
+        "Se acabó.",
+        "Всё.",
+        "Ostatni.",
+        "",
+        "",
+        "O último.",
+        "마지막이군.",
+        "最後一個。",
+        "最后一个。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آخر ميدالية.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "El último."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0206",
+      "guid": "9a10d671-cf0f-4b8c-b5b7-8b6d8a6d426d",
+      "crc?": 2143901937,
+      "hash": 308881149,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.58>\r\n<VOTIME 0.0>\r\n<CONVEND 1.58>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0206_0010_cha000",
+      "guid": "79c5ad5d-ccef-41de-b80d-d59bd5d4180a",
+      "crc?": 3965783360,
+      "hash": 3609661578,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0206_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0207",
+      "guid": "e94c14d9-9384-4ffc-b9c8-9ec2a0a131fb",
+      "crc?": 504065712,
+      "hash": 2090944261,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.16>\r\n<VOTIME 0.0>\r\n<CONVEND 2.16>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0207_0010_cha000",
+      "guid": "398fab8b-8f83-4611-995f-b0da4b313525",
+      "crc?": 3513762947,
+      "hash": 3673619800,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0207_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0208",
+      "guid": "b2b7194d-cefd-4fd2-b48e-955addcb2925",
+      "crc?": 2848758593,
+      "hash": 2059090043,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.09>\r\n<VOTIME 0.0>\r\n<CONVEND 2.09>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0208_0010_cha000",
+      "guid": "ab84d83f-1335-4a6a-bb7a-2458fe4a7a45",
+      "crc?": 4248904794,
+      "hash": 3837547692,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0208_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0301",
+      "guid": "bd979425-1fa4-4c83-98d9-f0bdd51f8977",
+      "crc?": 1081374961,
+      "hash": 1154604206,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.55>\r\n<VOTIME 0.0>\r\n<CONVEND 1.55>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0301_0010_cha000",
+      "guid": "8eeae582-153c-4a87-acdd-cd77df86f601",
+      "crc?": 1977993917,
+      "hash": 2314490687,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "来たな…",
+        "Hi there.",
+        "Salut.",
+        "Salve.",
+        "Oh, hi.",
+        "Hola.",
+        "Привет.",
+        "Hej, mały.",
+        "",
+        "",
+        "Olá.",
+        "이봐, 안녕.",
+        "你好啊。",
+        "你好啊。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مرحبًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hola."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0302",
+      "guid": "7da778f9-440e-4044-b00b-ca8b3fce4dea",
+      "crc?": 1348668822,
+      "hash": 78927574,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.44>\r\n<VOTIME 0.0>\r\n<CONVEND 2.44>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0302_0010_cha000",
+      "guid": "1842bbc8-36ed-472c-8a9e-594e904bd926",
+      "crc?": 258330784,
+      "hash": 3519904639,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_QuestConv_0302_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0303",
+      "guid": "4d7651c9-7190-431a-bbbb-cb9629c2ff4b",
+      "crc?": 2547267585,
+      "hash": 1670571695,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.85>\r\n<VOTIME 0.0>\r\n<CONVEND 1.85>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0303_0010_cha000",
+      "guid": "9bbbd447-537d-4300-b927-52722247f837",
+      "crc?": 3115358245,
+      "hash": 3650529778,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "見つけたぞ",
+        "It's go time.",
+        "C'est parti.",
+        "È il momento.",
+        "Dann mal los.",
+        "Es la hora.",
+        "Приступим.",
+        "Czas na ciebie.",
+        "",
+        "",
+        "Agora é a hora.",
+        "지금이야.",
+        "要開始了。",
+        "要开始了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حان وقت الرحيل.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Es hora."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0311",
+      "guid": "f6f7c585-d312-4f3f-a29e-f6be3e613336",
+      "crc?": 3784971707,
+      "hash": 1874027839,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.96>\r\n<VOTIME 0.0>\r\n<CONVEND 1.96>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0311_0010_cha000",
+      "guid": "621bd492-cf82-417d-a2c5-764cbce03957",
+      "crc?": 4145492686,
+      "hash": 1270639537,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ターゲットダウン…　",
+        "Target neutralized.",
+        "Cible neutralisée.",
+        "Bersaglio annientato.",
+        "Ziel neutralisiert.",
+        "Neutralizado.",
+        "Ну вот и всё.",
+        "Cel zneutralizowany.",
+        "",
+        "",
+        "Alvo neutralizado.",
+        "표적 제압 완료.",
+        "目標已消滅。",
+        "目标已消灭。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تم القضاء على الهدف.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Neutralizado."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0312",
+      "guid": "45331e06-68e9-4d47-9dfe-1af179f113d3",
+      "crc?": 1037722068,
+      "hash": 2398772790,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.1>\r\n<VOTIME 0.0>\r\n<CONVEND 2.1>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0312_0010_cha000",
+      "guid": "3a5c7ee8-f439-446b-a010-834c59387c16",
+      "crc?": 2464379110,
+      "hash": 809221097,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "終わったな",
+        "Yeah, that's right.",
+        "Et voilà le travail.",
+        "Sì. Bene così.",
+        "Hast es so gewollt.",
+        "Sí, eso es.",
+        "Да. Вот так.",
+        "Właśnie tak.",
+        "",
+        "",
+        "É, isso mesmo.",
+        "좋아, 됐어.",
+        "好，搞定了。",
+        "好，搞定了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أجل، هذا جيد.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sí, eso es."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0313",
+      "guid": "ef775a97-b4fb-4e52-ac95-b1ba15aa0b1a",
+      "crc?": 4062997262,
+      "hash": 2883351306,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.5>\r\n<VOTIME 0.0>\r\n<CONVEND 1.5>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestConv_0313_0010_cha000",
+      "guid": "b407774a-752c-4f66-a3df-be25aa486121",
+      "crc?": 3642167220,
+      "hash": 3544377731,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

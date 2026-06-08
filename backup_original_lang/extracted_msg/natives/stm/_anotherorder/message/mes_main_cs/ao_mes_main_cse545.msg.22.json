@@ -1,0 +1,197 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse545_s00a",
+      "guid": "d96e531e-ea2c-47dd-8371-4e8e51134ca9",
+      "crc?": 1027076193,
+      "hash": 1391559165,
+      "attributes": [
+        {
+          "String": "<MESTIME 3.39, 5.69>\r\n<MESTIME 11.79, 14.01>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse545_s00a_0010_cha000",
+      "guid": "569b1d8a-23c4-42d7-82d6-43638e392e6d",
+      "crc?": 543004408,
+      "hash": 2338445611,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse545_s00a_0020_cha000",
+      "guid": "bbe3ed3c-b367-4ffe-8b5f-8360ca754bf7",
+      "crc?": 4164530640,
+      "hash": 2383077538,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "どこまでもしつこい野郎だ",
+        "I'm getting sick of your shit!",
+        "Tu commences vraiment à me faire chier !",
+        "Adesso mi hai davvero rotto il cazzo!",
+        "Ich hab genug von deinem Scheiß.",
+        "¡Estoy harto de tus mierdas!",
+        "Как же ты меня заколебал!",
+        "Mam dość tego twojego pieprzenia!",
+        "",
+        "",
+        "Tô de saco cheio dessa merda!",
+        "네 꼴이라면 이제 지긋지긋해!",
+        "我他媽的受夠你了！",
+        "我他妈的受够你了！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سئمت هذا الهراء!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Estoy harto de tu mierda!"
+      ]
+    }
+  ]
+}

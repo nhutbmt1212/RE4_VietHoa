@@ -1,0 +1,444 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_012_00",
+      "guid": "8945aa78-ba2f-404e-a216-a23ecadab654",
+      "crc?": 843243848,
+      "hash": 3691177791,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "青いメダリオンの破壊4",
+        "Destroy the Blue Medallions 4",
+        "Destruction des médaillons 4",
+        "Distruggi i medaglioni blu 4",
+        "Kampf den Medaillons 4",
+        "Medallones azules (4)",
+        "Уничтожьте синие медальоны 4",
+        "Zniszcz niebieskie medaliony 4",
+        "",
+        "",
+        "Destrua os Medalhões Azuis 4",
+        "파란 메달리온 부수기 4",
+        "破壞藍色徽章4",
+        "破坏蓝色徽章4",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يجب تدمير الميداليات الزرقاء 4",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Destruye los medallones azules 4"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_012_01",
+      "guid": "e3406c39-d1de-40e1-a4b6-276d8a88d488",
+      "crc?": 2808700992,
+      "hash": 3580745543,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "目障りな<COL FILE>青いメダリオン</COL>を破壊してくれ。\r\nあんなもんいくら飾られたって怖くはないが、\r\n抵抗の意志は見せてやりたいのさ。",
+        "Those annoying <COL FILE>blue medallions</COL> are a blemish\r\nand I want them gone!\r\n\r\nLet us show them that we are not afraid and\r\nthat we will not stand for this!",
+        "Ces <COL FILE>médaillons bleus</COL> sont une tare et je veux\r\nqu'ils disparaissent !\r\n\r\nMontrons-leur que nous n'avons pas peur\r\net que nous ne pouvons pas tolérer cela !",
+        "Quei <COL FILE>medaglioni blu</COL> fastidiosi sono orrendi\r\ne voglio vederli sparire.\r\n\r\nDimostriamo a tutti che non abbiamo paura,\r\ne che non accetteremo questo sopruso!",
+        "Diese <COL FILE>blauen Medaillons</COL> sind ein Schandfleck\r\nund ich will, dass sie verschwinden!\r\n\r\nZeigen wir ihnen, dass wir keine Angst haben und\r\ndass wir dies nicht dulden!",
+        "Los malditos <COL FILE>medallones azules</COL> me ponen enfermo\r\ny los quiero fuera de mi vista.\r\n\r\n¡Vamos a enseñarles que no tenemos miedo y que\r\nno vamos a permitirlos!",
+        "Как же меня достали эти <COL FILE>синие медальоны</COL>!\r\nГлаза б мои их не видели! \r\n\r\nПокажем фанатикам, что мы ничего \r\nне боимся и не станем это терпеть!",
+        "Te przeklęte <COL FILE>niebieskie medaliony</COL>\r\nto jakaś plaga! Nie chcę ich tutaj!\r\n\r\nPokażmy, że się nie boimy i że\r\nnie zamierzamy tego tolerować!",
+        "",
+        "",
+        "Esses <COL FILE>medalhões azuis</COL> irritantes são uma praga\r\ne eu quero é que sumam daqui. Vamos mostrar pra\r\neles que não temos medo e não vamos tolerar isso!",
+        "저 짜증 나는 <COL FILE>파란 메달리온</COL>이\r\n걸리적거려서 없애고 싶어!\r\n\r\n우리는 두렵지 않고 용납하지\r\n않겠다는 걸 보여 주자고!",
+        "那些<COL FILE>藍色徽章</COL>太礙眼了。我要它們馬上消失！\r\n\r\n我們要告訴他們：我們不怕，而且不會容忍！",
+        "那些烦人的<COL FILE>蓝色徽章</COL>是一种污染，\r\n希望它们赶快消失。\r\n\r\n让他们看看，我们不是那么好欺负的！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تلك <COL FILE>الميداليات الزرقاء</COL>\r\nاللعينة وصمة عار وأريد تدميرها!\r\n\r\nلنريهم أننا لسنا خائفين\r\nوأننا لن نتقبل هذا!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Los malditos <COL FILE>medallones azules</COL> me ponen enfermo\r\ny los quiero fuera de mi vista.\r\n\r\n¡Vamos a enseñarles que no tenemos miedo y que no vamos a permitirlos!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_012_02",
+      "guid": "d39892c1-4a14-42ce-ac5d-9cdc3b573f89",
+      "crc?": 104556261,
+      "hash": 2041516550,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

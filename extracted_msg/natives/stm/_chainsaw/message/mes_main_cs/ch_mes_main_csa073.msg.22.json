@@ -1,0 +1,2950 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "優先度"
+    },
+    {
+      "ty": 2,
+      "name": "話し相手"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_csa073_s00a",
+      "guid": "caa6036e-f21c-4b2f-844f-5d85344dcad1",
+      "crc?": 1850185020,
+      "hash": 63329495,
+      "attributes": [
+        {
+          "String": "<MESTIME 12.19, 13.19>\r\n<MESTIME 13.95, 15.46>\r\n<MESTIME 15.82, 17.7>\r\n<MESTIME 17.71, 19.68>\r\n<MESTIME 20.43, 23.05>\r\n<MESTIME 28.81, 29.99>\r\n<MESTIME 31.15, 31.92>\r\n<MESTIME 35.48, 39.52>\r\n<MESTIME 42.94, 43.98>\r\n<MESTIME 57.14, 58.53>\r\n<MESTIME 65.71, 66.66>\r\n<MESTIME 70.99, 73.01>\r\n<MESTIME 75.97, 76.97>\r\n<MESTIME 80.2, 81.39>\r\n<MESTIME 81.41, 82.31>\r\n<MESTIME 82.32, 84.52>\r\n<MESTIME 85.06, 86.41>\r\n<MESTIME 86.42, 87.28>\r\n<MESTIME 87.28, 88.26>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0010_cha000",
+      "guid": "bc6e94a4-87c8-41a4-babd-65cacd1bfa3e",
+      "crc?": 1671163043,
+      "hash": 2735485622,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "エイダ？",
+        "Ada.",
+        "Ada.",
+        "Ada.",
+        "Ada.",
+        "Ada.",
+        "Ада.",
+        "Ada.",
+        "",
+        "",
+        "Ada.",
+        "에이다.",
+        "艾達。",
+        "艾达。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آدا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ada."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0020_cha000",
+      "guid": "47da8bc7-2231-47ab-ace8-228c40cf6505",
+      "crc?": 3775462884,
+      "hash": 1588577059,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "何をしている？",
+        "What the hell are you doing?",
+        "Tu fais quoi ?",
+        "Che diavolo fai?",
+        "Was soll das werden?",
+        "¿¡Qué estás haciendo!?",
+        "Ты что, бля, творишь?",
+        "Co ty wyprawiasz?",
+        "",
+        "",
+        "Que merda cê tá fazendo?",
+        "당신 대체 뭐 하는 거야?",
+        "妳要幹什麼？",
+        "你要干什么？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اللعنة، ماذا تفعلين؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0030_cha200",
+      "guid": "a013da32-9740-4d2b-a6eb-f5acdaf0b60e",
+      "crc?": 568765239,
+      "hash": 1201304622,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "さすがね レオン",
+        "Nothing personal, Leon.",
+        "Le prends pas mal, Leon.",
+        "Niente di personale, Leon.",
+        "Nimm’s nicht persönlich.",
+        "Nada personal, Leon.",
+        "Ничего личного, Леон.",
+        "To nic osobistego, Leon.",
+        "",
+        "",
+        "Nada pessoal, Leon.",
+        "개인적인 악의는 없어, 레온.",
+        "和你無關，里昂。",
+        "和你无关，里昂。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا ضغينة شخصية يا ليون.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Nada personal, Leon."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0040_cha200",
+      "guid": "f8468594-4255-44bc-8f97-8a0e47e8f15e",
+      "crc?": 2960029824,
+      "hash": 2823265875,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ルイスとの約束なの",
+        "Luis and I had an arrangement.",
+        "Luis et moi avions un accord.",
+        "Luis e io avevamo un patto.",
+        "Luis und ich hatten ’nen Deal.",
+        "Tenía un trato con Luis.",
+        "У нас с Луисом был уговор.",
+        "Luis i ja mieliśmy umowę.",
+        "",
+        "",
+        "Luis e eu tínhamos um acordo.",
+        "내가 루이스와 약속한 게 있거든.",
+        "路易斯和我有個約定。",
+        "路易斯和我有个约定。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كان بيني وبين لويس اتفاق.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tenía un trato con Luis."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0050_cha200",
+      "guid": "d36bc4ea-6e1e-4c1d-934c-86c489296cb1",
+      "crc?": 1296830297,
+      "hash": 564437940,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "安心して　悪いようにはしない",
+        "Don't worry, I'll take good care of it.",
+        "T'en fais pas, j'en prendrai bien soin.",
+        "Tranquillo, ci starò attenta.",
+        "Keine Sorge, ich pass gut drauf auf.",
+        "Tranquilo, lo cuidaré bien.",
+        "Не бойся, я обо всём позабочусь.",
+        "Nie martw się, dobrze się nim zajmę.",
+        "",
+        "",
+        "Não se preocupe, eu vou cuidar bem dele.",
+        "걱정 마, 이건 내가 잘 간수할 테니까.",
+        "別擔心，我會好好保管它的。",
+        "别担心，我会好好保管它的。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا تقلق، سأعتني به جيدًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tranquilo, lo cuidaré bien."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0060_cha200",
+      "guid": "1a286682-f1ef-4af9-a88e-fd7c6d504de5",
+      "crc?": 3801035620,
+      "hash": 3685826485,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "迎えよ",
+        "Ride's here.",
+        "L'hélico est là.",
+        "È ora di andare.",
+        "Zeit zu gehen.",
+        "Es la hora.",
+        "Это за мной.",
+        "Jest transport.",
+        "",
+        "",
+        "A carona chegou.",
+        "데리러 왔네.",
+        "來接我了。",
+        "来接我了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "جاءت توصيلتنا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Es la hora."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0070_cha200",
+      "guid": "a0e0d201-43f4-406c-bb8e-b1baa166a9a0",
+      "crc?": 93806136,
+      "hash": 3857064036,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "乗ってく？",
+        "You coming?",
+        "Tu viens ?",
+        "Vieni?",
+        "Kommst du?",
+        "¿Vienes?",
+        "Идёшь?",
+        "Wsiadasz?",
+        "",
+        "",
+        "Você vem?",
+        "당신도 타겠어?",
+        "一起嗎？",
+        "一起吗？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ألن تأتي؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Vienes?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0080_cha000",
+      "guid": "43a5a50a-975c-49de-943c-d9698d495562",
+      "crc?": 3391817715,
+      "hash": 1369971097,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "分かってるんだろ　ここでお別れだ",
+        "I think we both know this is where\r\nwe go our separate ways.",
+        "Je crois qu'on sait tous les deux que\r\nc'est ici que nos chemins se séparent.",
+        "Sappiamo entrambi che qui\r\nle nostre strade si separano.",
+        "Ich befürchte, ab hier gehen wir getrennte Wege.",
+        "Creo que ambos sabemos que\r\naquí es donde nos separamos.",
+        "Думаю, мы оба знаем,\r\nчто тут наши пути расходятся.",
+        "Chyba oboje wiemy, że od teraz\r\nbędziemy podążać osobnymi ścieżkami.",
+        "",
+        "",
+        "Acho que a gente sabe muito bem, é aqui que a gente se separa.",
+        "여기서부터 각자의 길을 가야\r\n한다는 것쯤은 우리 둘 다 알잖아.",
+        "我想妳和我都很清楚，我們還是各走各的路吧。",
+        "我想你和我都很清楚，我们还是各走各的路吧。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أظن أن كلينا يعرف أنه هنا ستفترق طرقنا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Creo que ambos sabemos que\r\naquí es donde nos separamos."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0090_cha200",
+      "guid": "a4ee1b23-48dd-4154-a8da-400c625496e7",
+      "crc?": 2183361989,
+      "hash": 1300945445,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "そうね",
+        "I see.",
+        "Je vois.",
+        "Capisco.",
+        "Verstehe.",
+        "Ya veo.",
+        "Ясно.",
+        "Rozumiem.",
+        "",
+        "",
+        "Entendi.",
+        "그래.",
+        "好吧。",
+        "好吧。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أتفهم ذلك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ya veo."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0100_cha200",
+      "guid": "4486b7e9-cc84-443a-a1af-aa8e38de44f8",
+      "crc?": 2318250877,
+      "hash": 2851879933,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "急いだほうがいいわ",
+        "Better get a move on.",
+        "Tu ferais bien de bouger.",
+        "Meglio se ti sbrighi.",
+        "Beeil dich lieber.",
+        "Mejor date prisa.",
+        "Ты бы поспешил.",
+        "Lepiej się pospiesz.",
+        "",
+        "",
+        "É melhor se apressar.",
+        "서두르는 게 좋을 거야.",
+        "最好抓緊時間。",
+        "最好抓紧时间。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يجدر بك التحرك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mejor date prisa."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0110_cha000",
+      "guid": "93acb2a9-2624-4e32-bf7f-ab15618c841c",
+      "crc?": 263749263,
+      "hash": 1440982196,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "泣けるぜ",
+        "Cute.",
+        "Charmant.",
+        "Carino.",
+        "Süß.",
+        "Genial.",
+        "Мило.",
+        "Uroczy.",
+        "",
+        "",
+        "Gracinha.",
+        "귀엽군.",
+        "可愛。",
+        "可爱。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "جيد.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Genial."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0120_cha200",
+      "guid": "6b1ef453-f648-45a8-a6b5-124d93bbb14d",
+      "crc?": 877115427,
+      "hash": 84630864,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "じゃまたね　レオン",
+        "Until next time, Leon.",
+        "À la prochaine, Leon.",
+        "Alla prossima, Leon.",
+        "Bis nächstes Mal, Leon.",
+        "Hasta la próxima, Leon.",
+        "До встречи, Леон.",
+        "Do następnego razu, Leon.",
+        "",
+        "",
+        "Até a próxima, Leon.",
+        "다음에 봐, 레온.",
+        "後會有期，里昂。",
+        "后会有期，里昂。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أراك لاحقًا يا ليون.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hasta la próxima, Leon."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0130_cha100",
+      "guid": "40e7ff8f-eab2-445c-87dc-d088b2bfb749",
+      "crc?": 1299328497,
+      "hash": 1093772561,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン！",
+        "Leon!",
+        "Leon !",
+        "Leon!",
+        "Leon!",
+        "¡Leon!",
+        "Леон!",
+        "Leon!",
+        "",
+        "",
+        "Leon!",
+        "레온!",
+        "里昂！",
+        "里昂！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليون!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Leon!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0140_cha100",
+      "guid": "93d37a0c-193d-4896-a404-a48ad10461cf",
+      "crc?": 1844582374,
+      "hash": 1517107813,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "あの人は？",
+        "Where's she going?",
+        "Elle va où ?",
+        "Dove sta andando?",
+        "Wo will sie hin?",
+        "¿A dónde va...?",
+        "Куда это она?",
+        "Dokąd ona leci?",
+        "",
+        "",
+        "Aonde ela vai?",
+        "그 여자는 어디 간 거야?",
+        "她要去哪？",
+        "她要去哪？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إلى أين هي ذاهبة؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿A dónde va?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0150_cha000",
+      "guid": "a739e6d2-1e2b-4b74-af44-4a51ad4c1ef9",
+      "crc?": 802340568,
+      "hash": 3591535422,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "さあな",
+        "Who knows.",
+        "J'en sais rien...",
+        "Chi lo sa.",
+        "Wer weiß.",
+        "Quién sabe.",
+        "Фиг знает.",
+        "Kto to wie.",
+        "",
+        "",
+        "Quem sabe?",
+        "글쎄.",
+        "誰知道。",
+        "谁知道。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا أدري.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Quién sabe."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0160_cha100",
+      "guid": "342c4041-881b-440d-a34a-02753639dbf7",
+      "crc?": 4037260160,
+      "hash": 2666068484,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "だけど どうして彼女は…",
+        "I don't understand.\r\nWhy would she just—?",
+        "Je comprends pas.\r\nPourquoi est-ce qu'elle...",
+        "Non capisco. Perché se n'è andata...",
+        "Ich versteh nicht, wie kann sie einfach--",
+        "No entiendo.\r\n¿Por qué se iría sin...?",
+        "Не понимаю.\r\nС чего она вдруг...",
+        "Nie rozumiem.\r\nCzemu ona po prostu...?",
+        "",
+        "",
+        "Eu não tô entendendo...\r\nPor que ela...?",
+        "이해가 안 돼.\r\n그 여자는 왜...?",
+        "我不明白，為什麼她要……",
+        "我不明白，为什么她要……？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا أفهم. لمَ قد تفعل—؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No entiendo.\r\n¿Por qué se iría sin...?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0170_cha000",
+      "guid": "b56683bc-14f5-47e9-a04a-ddd0df7e2e62",
+      "crc?": 3595495722,
+      "hash": 1450739829,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "急ごう 島が吹っ飛ぶ",
+        "Better move. Island's gonna blow.",
+        "On se tire. L'île va sauter.",
+        "Presto. L'isola esploderà.",
+        "Komm, hier geht alles hoch.",
+        "Vamos, la isla va a explotar.",
+        "Уходим. Скоро рванёт.",
+        "Lepiej się zmywajmy. Wyspa zaraz wybuchnie.",
+        "",
+        "",
+        "Vamos nessa. A ilha vai explodir.",
+        "가야 해. 섬이 곧 날아갈 거야.",
+        "快走，這個島要沒了。",
+        "快走，这个岛要没了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يجب أن نتحرك. الجزيرة على وشك الانفجار.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Vámonos. La isla explotará."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0180_cha100",
+      "guid": "020b25f7-ee69-4ca2-8dc3-d17c3f96b24f",
+      "crc?": 1495820804,
+      "hash": 3799055675,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "吹っ飛ぶ！？",
+        "It's gonna WHAT!?",
+        "Elle va quoi ?!",
+        "L'isola cosa?!",
+        "Moment, was?!",
+        "¡¿Que va a QUÉ?!",
+        "В смысле остров?!",
+        "Zaraz CO?!",
+        "",
+        "",
+        "Vai o QUÊ?!",
+        "뭐가 어떻게 된다고!?",
+        "要怎麼了？",
+        "要怎么了！？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "على وشك ماذا؟!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡¿Que va a qué?!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa073_s00a_0190_cha000",
+      "guid": "32ea4794-9795-40cf-970c-a23065723568",
+      "crc?": 1196378196,
+      "hash": 3239852957,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ああ",
+        "Yeah.",
+        "Elle va sauter !",
+        "Già.",
+        "Ja.",
+        "Sí.",
+        "Да.",
+        "Ano.",
+        "",
+        "",
+        "É.",
+        "그래.",
+        "要沒了。",
+        "要没了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أجل.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sí."
+      ]
+    }
+  ]
+}

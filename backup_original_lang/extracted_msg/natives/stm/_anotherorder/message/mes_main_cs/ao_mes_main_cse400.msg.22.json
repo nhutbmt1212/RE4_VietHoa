@@ -1,0 +1,932 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse400_s00a",
+      "guid": "377364b9-76f8-400d-96e8-fad6468d6a5f",
+      "crc?": 1461613881,
+      "hash": 3059456737,
+      "attributes": [
+        {
+          "String": "<MESTIME 15.59, 18.27>\r\n<MESTIME 18.47, 19.75>\r\n<MESTIME 21.68, 23.55>\r\n<MESTIME 29.25, 30.38>\r\n<MESTIME 31.88, 35.64>\r\n<MESTIME 36.61, 39.15>\r\n<MESTIME 41.27, 42.58>\r\n<MESTIME 44.37, 47.77>\r\n<MESTIME 48.97, 54.06>\r\n<MESTIME 60.66, 62.37>\r\n<MESTIME 64.5, 66.38>\r\n<MESTIME 67.87, 69.83>\r\n<MESTIME 71.78, 72.85>\r\n<MESTIME 75.43, 76.39>\r\n<MESTIME 80.74, 82.34>\r\n<MESTIME 83.57, 84.46>\r\n<MESTIME 91.12, 92.74>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0010_cha200",
+      "guid": "d6125249-477c-4743-93d7-52eee5bf9d41",
+      "crc?": 1103236661,
+      "hash": 3955644614,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン 何か言いたそうね？",
+        "You look like you've got something to say.",
+        "J'ai l'impression que t'as quelque chose à me dire.",
+        "Sembra che tu abbia qualcosa da dirmi, Leon.",
+        "Du siehst aus, als hättest du was zu sagen.",
+        "Parece que quieres decirme algo.",
+        "Хочешь мне что-то сказать, да?",
+        "Wyglądasz, jakbyś miał mi coś do powiedzenia.",
+        "",
+        "",
+        "Parece que você tem algo a dizer.",
+        "뭔가 할 말이 있어 보이네.",
+        "看來你有不少話想說。",
+        "看来你有不少话想说。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يبدو أنك تريد قول شيء ما.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Parece que quieres decirme algo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0020_cha000",
+      "guid": "bde1f9bd-27af-43fa-9169-cf98ebd9fd13",
+      "crc?": 362308677,
+      "hash": 3017923530,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "聞きたいことはあるが…",
+        "I've something to ask you...",
+        "Disons que j'ai une question à te poser...",
+        "Ho una cosa da chiederti...",
+        "Ich habe eine Frage...",
+        "Tengo una pregunta...",
+        "Хочу спросить...",
+        "Muszę cię o coś zapytać...",
+        "",
+        "",
+        "Eu tenho uma pergunta...",
+        "묻고 싶은 게 있어...",
+        "我有事想要問妳……",
+        "我有事想要问你……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أريد سؤالك عن أمر ما...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tengo una pregunta..."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0025_cha000",
+      "guid": "acdb0182-6c2d-4bed-b977-f7b4cb111b95",
+      "crc?": 4042066928,
+      "hash": 341409211,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "まともに答えてくれるのか？",
+        "but I don't think I'll get a straight answer.",
+        "Mais je m'attends pas à ce que tu me répondes.",
+        "Ma dubito risponderai chiaramente.",
+        "Aber wirst du sie auch beantworten?",
+        "pero no creo que seas sincera. ",
+        "Но вряд ли получу прямой ответ.",
+        "...ale raczej nie dostanę jasnej odpowiedzi.",
+        "",
+        "",
+        "Mas acho que cê não vai me responder.",
+        "그런데 물어봤자 제대로 된 대답을 해 줄 것 같지 않아서.",
+        "但我也不指望妳老實回答。",
+        "但我也不指望你老实回答。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لكنني لا أظن أنني سأحصل على إجابة مباشرة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "pero dudo que seas sincera conmigo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0030_cha000",
+      "guid": "c1729b17-2274-45f4-a331-9f3eb9fef49c",
+      "crc?": 494499251,
+      "hash": 1092474679,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ラクーンシティ…",
+        "Raccoon City.",
+        "Raccoon City.",
+        "Raccoon City.",
+        "Raccoon City.",
+        "Raccoon City.",
+        "Раккун-Сити.",
+        "Raccoon City.",
+        "",
+        "",
+        "Raccoon City.",
+        "라쿤 시티.",
+        "拉昆市……",
+        "浣熊市……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مدينة راكون.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Raccoon City."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0040_cha000",
+      "guid": "d517bd60-f07b-49b5-822e-e395eeeb7289",
+      "crc?": 3762126038,
+      "hash": 3746064423,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "あの事件が起きてから… 世界は変わった",
+        "You know, after the incident. The world changed.",
+        "Tu sais, après l'incident. Le monde a changé.",
+        "Sai, dopo l'incidente... Il mondo è cambiato.",
+        "Dieser Vorfall, er hat... alles verändert.",
+        "Tras el incidente. El mundo cambió.",
+        "После катастрофы мир стал другим.",
+        "Wiesz, po tamtym incydencie. Świat się zmienił.",
+        "",
+        "",
+        "Sabe, depois do incidente, o mundo mudou.",
+        "당신도 알다시피, 그 사건 이후 세상이 변했어.",
+        "那場災難之後，世界變了。",
+        "那场灾难之后，世界变了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تغير العالم بعد الحادثة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tras el incidente. El mundo cambió."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0050_cha000",
+      "guid": "c42ce63f-c422-447e-bc22-7acc74ddb0dc",
+      "crc?": 1329882118,
+      "hash": 1013752883,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "一人 助ける間に百人が死んでいく",
+        "You try to save one person; a hundred others die.",
+        "T'essaies de sauver une personne\r\net il y en a cent qui meurent.",
+        "Cerchi di salvare una persona,\r\ne ne muoiono cento.",
+        "Man rettet einen und hundert andere sterben.",
+        "Intentas salvar a uno y mueren cientos.",
+        "Хочешь спасти одну душу — гибнет сотня.",
+        "Próbujesz uratować jedną osobę, a ginie setka innych.",
+        "",
+        "",
+        "Cê salva uma pessoa e outras cem morrem.",
+        "한 사람을 구하려다 몇백 명이 죽게 되지.",
+        "想救一個人，可能要死上百個。",
+        "想救一个人，可能要死上百个。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تحاول أن تنقذ شخصًا واحدًا، فيلقى المئات حتفهم.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Intentas salvar a uno y mueren cientos."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0060_cha000",
+      "guid": "939c77ae-1365-473b-95e1-786b4fd1bc94",
+      "crc?": 3629227438,
+      "hash": 3850311390,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "俺も変わった",
+        "I guess I changed too.",
+        "Peut-être que moi aussi j'ai changé.",
+        "Sono cambiato anch'io.",
+        "Ich hab mich verändert.",
+        "Yo también cambié.",
+        "И я стал другим?",
+        "Ja chyba też się zmieniłem.",
+        "",
+        "",
+        "Acho que eu mudei também.",
+        "내 생각엔 나도 변한 것 같아.",
+        "我想我也變了。",
+        "我想我也变了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أظن أنني تغيرت أيضًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Yo también cambié."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0070_cha200",
+      "guid": "5769488e-b380-4ffe-8091-dba219f64052",
+      "crc?": 117807768,
+      "hash": 2515253572,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "あなたが？　レオン・S・ケネディが？",
+        "You? Leon S. Kennedy?",
+        "Toi ? Leon Scott Kennedy ?",
+        "Tu? Leon S. Kennedy?",
+        "Du? Leon Scott Kennedy?",
+        "¿Tú? ¿Leon S. Kennedy?",
+        "Ты? Леон Скотт Кеннеди?",
+        "Ty? Leon S. Kennedy?",
+        "",
+        "",
+        "Você? Leon S. Kennedy?",
+        "당신이? 그 레온 S. 케네디가?",
+        "你？里昂·S·甘迺迪？",
+        "你？里昂 ·S· 肯尼迪？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أنت؟ ليون س. كينيدي؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Tú? ¿Leon S. Kennedy?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0080_cha200",
+      "guid": "3c7e6eb4-829b-4ee8-9dc1-8a2c917ba195",
+      "crc?": 1884788226,
+      "hash": 2418693146,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "あなたは変わってない　そう思い込んでるだけ",
+        "You haven't changed. You just think you have.",
+        "Tu n'as pas changé. C'est juste dans ta tête.",
+        "Non sei cambiato. Pensi di averlo fatto.",
+        "Du hast dich nicht verändert.\r\nDas bildest du dir bloß ein.",
+        "No has cambiado. Solo lo crees.",
+        "Ты всё такой же. Тебе только кажется.",
+        "Wcale się nie zmieniłeś. Tak ci się tylko wydaje.",
+        "",
+        "",
+        "Você não mudou. Só acha que mudou.",
+        "당신은 변하지 않았어. 당신이 그렇게 생각할 뿐이지.",
+        "你一點沒變，你只是以為你變了。",
+        "你一点没变，你只是以为你变了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لم تتغير، يخالك ذلك فحسب.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No has cambiado. Solo crees que lo hiciste."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0090_cha000",
+      "guid": "b6267d4c-4f37-40fa-9524-b32543b53154",
+      "crc?": 75632481,
+      "hash": 1219674257,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "だったら聞くが…",
+        "So here's my question...",
+        "Bref, voilà ma question...",
+        "Ecco la mia domanda...",
+        "Die Frage ist, hast du",
+        "Mi pregunta es....",
+        "Тогда скажи мне...",
+        "To właśnie jest moje pytanie.",
+        "",
+        "",
+        "Lá vai a pergunta...",
+        "내 질문은 이거야...",
+        "那我就要問了……",
+        "那我就要问了……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ها هو سؤالي إذن...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mi pregunta es...."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0100_cha000",
+      "guid": "fd86e56b-3ee7-4889-9792-5444c5fcb6fa",
+      "crc?": 1644566291,
+      "hash": 2458075208,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "お前はどうだ？　エイダ",
+        "Have you changed, Ada?",
+        "Est-ce que t'as changé, Ada ?",
+        "Tu sei cambiata, Ada?",
+        "dich verändert, Ada?",
+        "¿Has cambiado, Ada?",
+        "Ты другая, Ада?",
+        "Czy ty się zmieniłaś, Ada?",
+        "",
+        "",
+        "Você mudou, Ada?",
+        "당신은 변했나, 에이다?",
+        "妳變了嗎，艾達？",
+        "你变了吗，艾达？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هل تغيرت يا آدا؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿tú cambiaste, Ada?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0110_cha000",
+      "guid": "32901764-d829-4302-bbed-ace8b2a0180a",
+      "crc?": 2121931344,
+      "hash": 488005056,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "今度も 俺を利用する気か？",
+        "Or are you just trying to use me again?",
+        "Ou tu comptes encore te servir de moi ?",
+        "O stai di nuovo cercando di usarmi?",
+        "Oder benutzt du mich nur wieder?",
+        "¿O intentas usarme otra vez?",
+        "Или опять используешь меня?",
+        "Czy po prostu znów próbujesz mnie wykorzystać?",
+        "",
+        "",
+        "Ou tá tentando me usar de novo?",
+        "아니면 또 다시 날 이용할 생각이야?",
+        "或者只是想再利用我而已？",
+        "或者只是想再利用我而已？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أم تحاولين استغلالي مجددًا؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿O tratas de utilizarme otra vez?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0120_cha200",
+      "guid": "8e3ee6d4-382f-4f55-82cf-403b5dbbed81",
+      "crc?": 2846075032,
+      "hash": 2272370689,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "どうかしら…",
+        "What do you think?",
+        "À ton avis ?",
+        "Secondo te?",
+        "Was denkst du?",
+        "¿Tú que crees?",
+        "Сам как думаешь?",
+        "A jak sądzisz?",
+        "",
+        "",
+        "O que você acha?",
+        "당신 생각은 어때?",
+        "你覺得呢？",
+        "你觉得呢？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ماذا تظن؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Tú que crees?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0130_cha200",
+      "guid": "4be6abc5-9cd7-4b79-87e0-7f67fa691d5f",
+      "crc?": 136792470,
+      "hash": 2546047828,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "着いたわ",
+        "We're here.",
+        "On y est.",
+        "Ci siamo.",
+        "Wir sind da.",
+        "Ya estamos.",
+        "Мы на месте.",
+        "Jesteśmy.",
+        "",
+        "",
+        "Chegamos.",
+        "다 왔어.",
+        "到了。",
+        "到了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لقد وصلنا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Llegamos."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0140_cha200",
+      "guid": "832ce0f6-72ba-426a-820a-2a123a09ae1d",
+      "crc?": 3962365360,
+      "hash": 3225191862,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "あなたのそういうとこ好きよ",
+        "Don't think too hard, handsome.",
+        "Te prends pas la tête, beau gosse.",
+        "Pensi troppo, tesoro.",
+        "Denk nicht zu viel nach, Hübscher.",
+        "Relájate, guaperas.",
+        "Думать вредно, Леон.",
+        "Nie myśl o tym zbyt wiele, przystojniaku.",
+        "",
+        "",
+        "Não pensa demais, bonitão.",
+        "너무 깊이 생각하진 마, 잘생긴 오빠.",
+        "別想太多，帥哥。",
+        "别想太多，帅哥。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا أظن الأمر صعبًا أيها الوسيم.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No pienses tanto, guapetón."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0150_cha200",
+      "guid": "ff5977b5-60e5-4f8e-8fac-187db29ba247",
+      "crc?": 3071806069,
+      "hash": 1586637655,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "またね",
+        "See you later.",
+        "À plus tard.",
+        "Ci vediamo.",
+        "Wir sehen uns.",
+        "Nos vemos.",
+        "До встречи.",
+        "Do zobaczenia później.",
+        "",
+        "",
+        "Até mais.",
+        "또 봐.",
+        "回頭見。",
+        "回头见。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أراك لاحقًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Nos vemos."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse400_s00a_0160_cha000",
+      "guid": "65d0f8c2-bcb3-416d-a0b1-60593f2ad402",
+      "crc?": 4041044917,
+      "hash": 1441837872,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "泣けるぜ",
+        "Story of my life.",
+        "Ça, c'est l'histoire de ma vie.",
+        "Finisce sempre così.",
+        "Immer das Gleiche.",
+        "Siempre igual.",
+        "Вот так всегда.",
+        "Jak zwykle.",
+        "",
+        "",
+        "É sempre assim.",
+        "매번 이런 식이지.",
+        "我就這種命嗎……",
+        "我就这种命吗……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هذه قصة حياتي.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Siempre lo mismo."
+      ]
+    }
+  ]
+}

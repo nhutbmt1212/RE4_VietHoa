@@ -1,0 +1,7537 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "優先度"
+    },
+    {
+      "ty": 2,
+      "name": "話し相手"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 0,
+      "name": "感情"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0001",
+      "guid": "659f69ac-653a-4dc8-babb-36440fde7894",
+      "crc?": 2274525393,
+      "hash": 2676425679,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.02>\r\n<VOTIME 0.0>\r\n<CONVEND 2.02>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+      "guid": "cb8c71d3-61da-4bdc-a122-f95051d62573",
+      "crc?": 2855108614,
+      "hash": 2212816234,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0001_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0013",
+      "guid": "1fd7f06c-2481-4d5c-abf0-7e642b319b0a",
+      "crc?": 3748677199,
+      "hash": 2369423416,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.64>\r\n<VOTIME 0.0>\r\n<CONVEND 1.64>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0013_0010_cha000",
+      "guid": "9b451bf7-f684-417e-a589-db5aa6247d23",
+      "crc?": 446655484,
+      "hash": 2823364677,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "なに！？",
+        "What!?",
+        "Quoi ?",
+        "Cosa?!",
+        "Was?!",
+        "¿¡Qué!?",
+        "Что?!",
+        "Co?!",
+        "",
+        "",
+        "O quê?",
+        "뭐지!?",
+        "我靠！",
+        "我靠！？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يا إلهي!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡¿Qué?!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0009",
+      "guid": "70762ee3-68ae-4fa1-9f57-d06575bb063f",
+      "crc?": 2818731080,
+      "hash": 2352418369,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.77>\r\n<VOTIME 0.0>\r\n<CONVEND 2.77>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+      "guid": "171118f6-cbcc-44ae-ac05-500daca7bd77",
+      "crc?": 3060464509,
+      "hash": 2387768694,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0009_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0010",
+      "guid": "acdd3557-2029-4769-978e-d346d75db7c7",
+      "crc?": 4201420236,
+      "hash": 2378335499,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.8>\r\n<VOTIME 0.0>\r\n<CONVEND 2.8>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+      "guid": "22d29561-d4c2-4895-a8ae-e48612af2ea1",
+      "crc?": 2453712933,
+      "hash": 3496362236,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "<To cha000 Head>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0010_0010_cha700"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0002",
+      "guid": "e79084e3-69b9-4f84-92dd-52985a35177c",
+      "crc?": 3505043864,
+      "hash": 552692192,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.12>\r\n<VOTIME 0.0>\r\n<CONVEND 3.12>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+      "guid": "1982a022-0cb9-46ef-bb17-57850f7416e1",
+      "crc?": 951262303,
+      "hash": 1794236611,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0002_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0003",
+      "guid": "707301f4-5e19-44b5-abe7-e518a4aafff3",
+      "crc?": 926729794,
+      "hash": 4132365906,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.66>\r\n<VOTIME 0.0>\r\n<CONVEND 2.66>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0003_0010_cha000",
+      "guid": "7929d1e7-ba52-4ba0-b556-175671599c22",
+      "crc?": 529506571,
+      "hash": 4128373460,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "教会…　あれだな",
+        "A church... I made it.",
+        "Une église... Ça doit être là.",
+        "La chiesa... ce l'ho fatta.",
+        "Eine Kirche... Das muss sie sein.",
+        "La iglesia... Lo conseguí.",
+        "Церковь... добрался.",
+        "Kościół... Udało mi się.",
+        "",
+        "",
+        "Uma igreja... Até que enfim.",
+        "교회야... 찾았어.",
+        "教堂……就是這了。",
+        "教堂……就是这了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هناك كنيسة... لقد وصلت.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "La iglesia... Lo logré."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0004",
+      "guid": "1191434d-c8d0-4293-8b2c-fb19cb58f9c5",
+      "crc?": 1396801207,
+      "hash": 3873344536,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 4.72>\r\n<VOTIME 0.0>\r\n<CONVEND 4.72>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0004_0010_cha000",
+      "guid": "127191f7-7613-48bd-85b9-da669cce4ebf",
+      "crc?": 417285489,
+      "hash": 2489763028,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "湖か… サプライズはいらないぞ",
+        "The lake... Let's hope for no more surprises.",
+        "Le lac... J'espère qu'il y aura pas d'autres surprises.",
+        "Il lago... Speriamo che non ci siano altre sorprese.",
+        "Der See. Hoffentlich wartet da\r\nnicht wieder irgendeine Überraschung.",
+        "El lago... Por favor, no más sorpresas.",
+        "Озеро... Надеюсь, больше сюрпризов не будет.",
+        "Jezioro... Oby to był koniec niespodzianek.",
+        "",
+        "",
+        "O lago... Tomara que eu não tenha mais surpresas.",
+        "호수라... 더 이상의 서프라이즈는 없길 바라는 수밖에.",
+        "湖嗎……別再來什麼新花樣了。",
+        "湖吗……别再来什么新花样了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "البحيرة... آمل ألا أتفاجأ مجددًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "El lago... Por favor, no más sorpresas."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0012",
+      "guid": "a286b1e0-1678-439a-bc9a-d9b85be769ff",
+      "crc?": 1869067588,
+      "hash": 2337108225,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.15>\r\n<VOTIME 0.0>\r\n<CONVEND 2.15>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+      "guid": "a7366fc6-97f5-4eb0-b1ea-e6d962815ddf",
+      "crc?": 2969759419,
+      "hash": 3039860484,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0012_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0005",
+      "guid": "d2a7cd39-1f39-4655-a1a3-157d625230bd",
+      "crc?": 3663347917,
+      "hash": 2695470508,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 5.58>\r\n<VOTIME 0.0>\r\n<CONVEND 5.58>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+      "guid": "f52cdb15-b1bd-4c14-8f93-b00c43c1530f",
+      "crc?": 2522539053,
+      "hash": 2676923673,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "<To cha000 Head>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0005_0010_cha700"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0006",
+      "guid": "ca51e33f-1688-4cdf-9a6a-793eddde3ec4",
+      "crc?": 1768778755,
+      "hash": 2385024781,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 4.28>\r\n<VOTIME 0.0>\r\n<CONVEND 4.28>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+      "guid": "67040a91-1e65-4653-a538-7020490b20f1",
+      "crc?": 1342651167,
+      "hash": 3594175335,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": "<To cha700 Head>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_0006_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0007",
+      "guid": "8350397d-3475-4706-80ac-6bc0b859f2f2",
+      "crc?": 673447398,
+      "hash": 2071402530,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.16>\r\n<VOTIME 0.0>\r\n<CONVEND 3.16>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0007_0010_cha000",
+      "guid": "55cdfa4d-cb73-47fe-93cb-5edfa51db63a",
+      "crc?": 3933569247,
+      "hash": 1837163418,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "painful"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "クソッ！　最悪だ…",
+        "Shit. God damn it.",
+        "Merde. C'est pas ma journée.",
+        "Merda. Dannazione.",
+        "Shit. Verdammt noch mal...",
+        "Joder, maldita sea.",
+        "Блядь! Мать вашу.",
+        "Cholera. Niech to szlag.",
+        "",
+        "",
+        "Ah, merda! Porra. ",
+        "이런. 망할.",
+        "媽的，嚇死我了。",
+        "妈的，吓死我了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تبًا! اللعنة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mierda. Maldita sea."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0008",
+      "guid": "034df333-d6dd-4b6e-8264-c6105cfcb493",
+      "crc?": 2093162639,
+      "hash": 3456568478,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.56>\r\n<VOTIME 0.0>\r\n<CONVEND 3.56>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0008_0010_cha000",
+      "guid": "c797be46-5c8d-405b-9ff5-d2dc2341d281",
+      "crc?": 2745472990,
+      "hash": 3465928885,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "おい…　燃料くらい入れとけよ…",
+        "C'mon, fill the tank when you're done!",
+        "Ils auraient pu faire le plein !",
+        "Non si lascia il serbatoio a secco!",
+        "Kommt schon, füllt wenigstens das Benzin nach!",
+        "Joder, no tiene gasolina.",
+        "Да кто же бак пустым держит?!",
+        "Napełnij zbiornik, jak skończysz!",
+        "",
+        "",
+        "Fala sério, enche o tanque quando terminar!",
+        "제발, 썼으면 연료 정도는 채워 놓으라고!",
+        "老大，用完以後能灌滿嗎？",
+        "老大，用完以后能灌满吗？！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هيا، املأ الخزان عندما تفرغ!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Genial, no tiene gasolina."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0011",
+      "guid": "4893f027-fb02-41d0-8957-ff82b4cfdb6e",
+      "crc?": 1653758488,
+      "hash": 2710907724,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.51>\r\n<VOTIME 0.0>\r\n<CONVEND 2.51>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_0011_0010_cha000",
+      "guid": "318174e2-cf40-44e8-80b3-b3040a604b90",
+      "crc?": 1986974902,
+      "hash": 1402019475,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "こいつは使えそうだ",
+        "This is what I'm talking about.",
+        "Ça, ça devrait me servir.",
+        "Questa mi sembra utile.",
+        "Na, das ist doch schon mal was.",
+        "Justo lo que buscaba.",
+        "То что нужно.",
+        "O to właśnie chodzi.",
+        "",
+        "",
+        "É disso que eu tô falando. ",
+        "내가 말한 게 바로 이런 거라니까.",
+        "這個肯定能有用。",
+        "这个肯定能有用。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هذا رائع بلا شك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Justo lo que buscaba."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2001",
+      "guid": "907bf557-83ae-46ff-a11f-4fb4cb25164b",
+      "crc?": 3363875885,
+      "hash": 1780330157,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.22>\r\n<VOTIME 0.0>\r\n<CONVEND 3.22>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+      "guid": "c0bd71d3-78ed-4c06-aaa6-39643dcd6b50",
+      "crc?": 4180898425,
+      "hash": 1743586623,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2001_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2002",
+      "guid": "e5456023-6056-49d7-b1c0-3072f4c2efcb",
+      "crc?": 2508226388,
+      "hash": 3558996664,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.78>\r\n<VOTIME 0.0>\r\n<CONVEND 3.78>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+      "guid": "a512c675-f772-44bf-a09b-91e6d9ac6911",
+      "crc?": 3298212954,
+      "hash": 3920462068,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2002_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2003",
+      "guid": "f45261f7-c0b9-4ae6-bd80-a773b4511264",
+      "crc?": 2808425825,
+      "hash": 1947495154,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.5>\r\n<VOTIME 0.0>\r\n<CONVEND 2.5>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2003_0010_cha000",
+      "guid": "3b8caad2-75a6-45a0-b7ab-e2b80b85bd4a",
+      "crc?": 2174006185,
+      "hash": 1474069072,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "どこから来る気だ？",
+        "Think you can swallow me whole, huh?",
+        "Tu crois que tu vas m'avaler, hein ?",
+        "Sono un bel bocconcino, vero?",
+        "Hast einen Mordshunger, hm?",
+        "Te mueres por devorarme, ¿eh?",
+        "Целиком сожрать решил?",
+        "Myślisz, że połkniesz mnie w całości, co?",
+        "",
+        "",
+        "Tá achando que vai me engolir, é?",
+        "날 통째로 삼키겠다 그거야, 어?",
+        "你能把我生吞了，哼？",
+        "你能把我生吞了，哈？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تظن أنك تستطيع أن تبتلعني، أليس كذلك؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Te mueres por devorarme, ¿eh?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2004",
+      "guid": "c0383f1f-5416-4251-964e-7af6c16d8e1b",
+      "crc?": 3402550763,
+      "hash": 3381331344,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.54>\r\n<VOTIME 0.0>\r\n<CONVEND 2.54>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2004_0010_cha000",
+      "guid": "a311692d-1b1b-4c2e-baa0-cf31ba8a2eaa",
+      "crc?": 1542824615,
+      "hash": 1356734294,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "さすがに しぶといな！",
+        "You tough son of a bitch!",
+        "Balèze, l'enfoiré !",
+        "Cazzo, hai la pelle dura!",
+        "Du zähes Mistvieh.",
+        "¡Qué bicho más duro!",
+        "Живучий, говнюк!",
+        "A to twardy sukinsyn!",
+        "",
+        "",
+        "Que puto resistente!",
+        "어지간히 끈질긴 녀석이군!",
+        "難纏的王八蛋！",
+        "难缠的王八蛋！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أيها الحقير!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Bicho persistente!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2005",
+      "guid": "2fd3d851-29a3-4094-ae5c-ba22f9f907d1",
+      "crc?": 1638353685,
+      "hash": 3556993293,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.43>\r\n<VOTIME 0.0>\r\n<CONVEND 2.43>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2005_0010_cha000",
+      "guid": "0d334bf0-4ad0-4104-9c60-10febf9ca85c",
+      "crc?": 986801812,
+      "hash": 2111960326,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "painful"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "ヤツをなんとかしないと！",
+        "I need to do something!",
+        "Faut que je fasse quelque chose !",
+        "Devo fare qualcosa!",
+        "Ich muss was machen!",
+        "¡Debo hacer algo!",
+        "Надо что-то делать!",
+        "Muszę coś zrobić!",
+        "",
+        "",
+        "Tenho que fazer algo!",
+        "무슨 수를 써야 해!",
+        "必須得想點辦法！",
+        "必须得想点办法！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يجب أن أتصرف!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Tengo que hacer algo!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2008",
+      "guid": "98d36098-c384-4ba1-8d5c-c1ceb7166966",
+      "crc?": 939193707,
+      "hash": 1703077156,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.71>\r\n<VOTIME 0.0>\r\n<CONVEND 1.71>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2008_0010_cha000",
+      "guid": "840c87d1-02ad-42f9-89e3-d5fd09dfa79c",
+      "crc?": 2604330111,
+      "hash": 3800802052,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "どこに行った？",
+        "Where'd you go?",
+        "Où est-ce que t'es ?",
+        "Dove sei andato?",
+        "Wo bist du hin?",
+        "¿Dónde estás?",
+        "Куда ты делся?!",
+        "Gdzie ty jesteś?",
+        "",
+        "",
+        "Aonde você foi?!",
+        "어디로 간 거지?",
+        "去哪了？",
+        "去哪了！？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أين ذهبت؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Dónde estás?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2009",
+      "guid": "9552f6e2-721d-484f-8d82-afcbf23608af",
+      "crc?": 2022843722,
+      "hash": 2888964637,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.34>\r\n<VOTIME 0.0>\r\n<CONVEND 3.34>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2009_0010_cha000",
+      "guid": "ef5aeaff-c072-440a-a693-8bfbef9201c6",
+      "crc?": 1105535996,
+      "hash": 2917096692,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "painful"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "船ごと食われそうだな…",
+        "Shit! I'm sunk at this rate.",
+        "Merde ! Je vais couler si ça continue.",
+        "Cazzo, di questo passo affonderò.",
+        "Shit, der wird mich noch versenken.",
+        "Joder, como siga así me hundo.",
+        "Чёрт, я так утону.",
+        "Szlag! W tym tempie zaraz zatonę.",
+        "",
+        "",
+        "Merda! Desse jeito eu vou acabar afundando.",
+        "젠장! 이대로 가다간 가라앉겠어.",
+        "混蛋，再這樣就要沉了。",
+        "混蛋，再这样就要沉了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تبًا! سأغرق على هذا الحال.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Mierda! Si sigo así, me voy a hundir."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2006",
+      "guid": "c0a3c2d6-f668-4405-9f8c-b915ce340488",
+      "crc?": 1614967854,
+      "hash": 1287146339,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.78>\r\n<VOTIME 0.0>\r\n<CONVEND 3.78>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2006_0010_cha000",
+      "guid": "6547b072-0a59-44a2-ba81-859ec996fc96",
+      "crc?": 2622209984,
+      "hash": 2200550530,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "painful"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "クソッ！　このままじゃ船が持たない！　",
+        "Ah Christ, I don't think the boat can take another hit like that!",
+        "Eh merde ! Le bateau pourra pas\r\nencaisser un autre coup comme ça.",
+        "Cristo, non credo che la barca regga un altro colpo!",
+        "Mist, noch so einen Zusammenstoß\r\nhält das Boot nicht aus!",
+        "¡Dios, no creo que la lancha aguante otro golpe!",
+        "Да блин! Ещё одного удара эта лодка не выдержит!",
+        "Chryste, ta łajba nie wytrzyma kolejnego uderzenia!",
+        "",
+        "",
+        "Porra, acho que o barco não aguenta outro golpe desses!",
+        "맙소사, 한 방 더 맞았다간 보트가 못 버티겠어!",
+        "糟糕，再來一下這艇非沉不可！",
+        "糟糕，再来一下这艇非沉不可！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يا إلهي، لا أظن أن القارب سيصمد أمام ضربة أخرى كهذه!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Dios, no creo que la barca aguante otro golpe!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2007",
+      "guid": "ae1a578b-d774-4d5e-9ff1-6e27765ad0ec",
+      "crc?": 2182277096,
+      "hash": 1841670417,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 4.03>\r\n<MESTIME 5.0, 14.74>\r\n<VOTIME 0.0 5.0>\r\n<CONVEND 14.74>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+      "guid": "e2b59e8c-9506-4c7e-8826-e4213b341efb",
+      "crc?": 2904231449,
+      "hash": 1124673827,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+      "guid": "7d5cdeb7-7852-4b24-81c4-4e0781443da8",
+      "crc?": 1497256514,
+      "hash": 4037987655,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Int": 0
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Conv_cp13_2007_0020_cha000"
+      ]
+    }
+  ]
+}

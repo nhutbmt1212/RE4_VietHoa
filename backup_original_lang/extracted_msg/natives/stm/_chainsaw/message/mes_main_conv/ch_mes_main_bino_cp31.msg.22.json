@@ -1,0 +1,1004 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "優先度"
+    },
+    {
+      "ty": 2,
+      "name": "話し相手"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_Bino_cp31_0001",
+      "guid": "e947db22-e9ce-4b7a-84a4-6a7e8c473db8",
+      "crc?": 886802420,
+      "hash": 3273270268,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 4.58>\r\n<VOTIME 0.0>\r\n<CONVEND 4.58>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp31_0001_0010_cha000",
+      "guid": "99b20c61-4a5e-406b-b0bf-8f742db5f9aa",
+      "crc?": 1108809510,
+      "hash": 3686253919,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "なんだあれは？\r\nオモチャにしてはデカすぎる",
+        "What is that? Guessing it's not for decoration...",
+        "C'est quoi ça ? À mon avis, c'est pas là pour faire joli...",
+        "E quella? Di certo non è solo per bellezza...",
+        "Was ist denn das?\r\nSieht jedenfalls nicht nach Deko aus...",
+        "¿Qué es eso? No creo que sea de adorno.",
+        "Что это? Явно не для красоты...",
+        "Co to? Zdaje się, że to nie jest tylko dekoracja...",
+        "",
+        "",
+        "Que que é isso? Não deve ser só decoração...",
+        "저건 뭐지? 장식 같은 건 아닐 테고...",
+        "那是什麼？肯定不是裝點門面的……",
+        "那是什么？肯定不是装点门面的……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ما هذه؟ أعتقد أنها ليست للزينة...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Qué es eso? No creo que sea de adorno."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp31_0002",
+      "guid": "07ba7733-2776-4980-a04f-f45c1e059025",
+      "crc?": 4029857652,
+      "hash": 1623732766,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 4.92>\r\n<VOTIME 0.0>\r\n<CONVEND 4.92>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp31_0002_0010_cha000",
+      "guid": "76b79518-1bce-43d1-8457-8d2aaf9567fe",
+      "crc?": 2863355808,
+      "hash": 935579108,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "クロスボウだと？\r\nお友達にはなれそうにないな",
+        "Crossbows, huh. Something tells\r\nme they don't want to be friends.",
+        "Des arbalètes, hein ? Y a quelque chose\r\nqui me dit qu'ils sont pas très amicaux.",
+        "Balestre, eh? Non sembrano essere\r\nmolto socievoli.",
+        "Eine Armbrust, hm?\r\nGlaube eher nicht, dass wir Freunde werden.",
+        "Ballestas, eh.\r\nAlgo me dice que no vamos a ser amigos.",
+        "Арбалеты, хм. Чувствую, мне там будут не рады.",
+        "Kusze, hm. Coś mi mówi, że\r\nchyba nie chcą się zaprzyjaźnić.",
+        "",
+        "",
+        "Bestas, é? Acho que não vou fazer amigos por aqui.",
+        "석궁인가, 하. 친구 할 생각은 없나 본데.",
+        "十字弩，呵。看來他們不是來交朋友的。",
+        "十字弩，呵。看来他们不是来交朋友的。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "الأقواس النشابة، هاه. أظن أنهم لن يكونوا ودودين.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ballestas, ¿eh?\r\nAlgo me dice que no vamos a ser amigos."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp31_0003",
+      "guid": "a5d06219-0de3-42f7-9363-18ef8b81f4b6",
+      "crc?": 798435580,
+      "hash": 3784909626,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+      "guid": "09c2b2f3-bb3c-4fe5-ae5e-d333b1761db5",
+      "crc?": 3595799366,
+      "hash": 1760345317,
+      "attributes": [
+        {
+          "String": "<DUMMY 05SEC>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp31_0003_0010_cha000"
+      ]
+    }
+  ]
+}

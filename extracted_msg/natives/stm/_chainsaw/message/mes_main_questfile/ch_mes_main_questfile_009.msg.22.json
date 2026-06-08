@@ -1,0 +1,444 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_009_00",
+      "guid": "0a608986-7ba3-4dfe-9cea-da730a0d0fab",
+      "crc?": 3098600753,
+      "hash": 2621507307,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "獰猛な狂犬",
+        "A Savage Mutt",
+        "Attention, chien méchant",
+        "Una bestia selvaggia",
+        "Vorsicht vor dem Hunde",
+        "Un sabueso salvaje",
+        "Злобная псина",
+        "Dziki kundel",
+        "",
+        "",
+        "Um Cão Selvagem",
+        "사나운 개",
+        "村莊狂犬",
+        "凶猛的疯狗",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كلب متوحش",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Un sabueso salvaje"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_009_01",
+      "guid": "e4db9fc9-24d8-4473-b273-d197ce7bff1e",
+      "crc?": 2821296225,
+      "hash": 130498200,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COL FILE>特殊な変異を起こした狂犬</COL>を始末してくれ。\r\nこいつは他の犬どもと比べて異様な姿をしている。\r\n一目見ればそれとわかるだろう。",
+        "I need someone to get rid of the <COL FILE>wild dog</COL>\r\nthat's been roaming around the village.\r\n\r\nIt'll be easy to spot; it's not like normal dogs.",
+        "J'ai besoin que quelqu'un nous débarrasse de\r\nce <COL FILE>chien sauvage</COL> qui rôde autour du village.\r\n\r\nIl est très facile à repérer : il ne ressemble pas\r\nà un chien normal.",
+        "Ho bisogno di qualcuno che si occupi del\r\n<COL FILE>cane selvaggio</COL> che sta vagando per il villaggio.\r\n\r\nNon sarà difficile individuarlo: è diverso\r\ndai cani normali.",
+        "Jemand muss sich um den <COL FILE>wilden Köter</COL> kümmern,\r\nder im Dorf sein Unwesen treibt.\r\n\r\nEr sieht nicht wie ein normaler Hund aus, sollte\r\nalso leicht zu identifizieren sein.",
+        "Necesito que alguien se encargue del <COL FILE>perro salvaje</COL>\r\nque ha estado rondando cerca del pueblo.\r\n\r\nEs fácil ver cuál es, no es un perro normal.",
+        "Хочу, чтобы кто-нибудь расправился с <COL FILE>бешеной\r\nсобакой</COL>, которая бегает по деревне. \r\n\r\nЕё легко заметить, она отличается от обычных собак.",
+        "Potrzebuję, żeby ktoś zajął się <COL FILE>dzikim psem</COL>,\r\nktóry panoszy się w wiosce.\r\n\r\nŁatwo go dostrzec, różni się od zwyczajnych psów.",
+        "",
+        "",
+        "Preciso que alguém se livre do <COL FILE>cão selvagem</COL> que\r\nanda vagando pelo vilarejo. É fácil achá-lo,\r\nele é diferente dos cachorros normais.",
+        "마을을 어슬렁거리는 <COL FILE>사나운 개</COL>를\r\n없애 줄 사람이 필요해.\r\n찾기 쉬울 거야.\r\n딱 봐도 그냥 개 같지 않거든.",
+        "快點解決掉村裡那頭<COL FILE>變種野狗</COL>。\r\n\r\n一看牠就知道牠和其他狗不一樣，很容易找到。",
+        "希望有人能做掉那只在村里乱窜的<COL FILE>变异野狗</COL>。\r\n\r\n它和其他狗长得不太一样，一眼就能认出来。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أريد أن يتخلص أحد من <COL FILE>الكلب المسعور</COL> \r\nالذي يجول قريتي.\r\n\r\nسيكون العثور عليه سهلًا،\r\nفهو ليس كلبًا عاديًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Necesito que alguien se encargue del <COL FILE>perro salvaje</COL>\r\nque ha estado rondando cerca del pueblo.\r\n\r\nEs fácil ver cuál es, no es como los perros normales."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_009_02",
+      "guid": "8beb9abb-5f7c-47ec-8fcf-45bbcf055a12",
+      "crc?": 637026609,
+      "hash": 1743986423,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

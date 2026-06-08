@@ -1,0 +1,687 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_SoundSupport_Speech_0310_0001_0010_cha200",
+      "guid": "b3bf09ac-d209-47db-8087-d76dfdead214",
+      "crc?": 2753664327,
+      "hash": 2349365793,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（エイダのため息）",
+        "[Ada groans]",
+        "[Ada soupire]",
+        "[lamento di Ada]",
+        "[Ada ächzt genervt]",
+        "[Ada se lamenta]",
+        "[Ада охает]",
+        "[Ada jęczy]",
+        "",
+        "",
+        "[Ada geme]",
+        "[에이다의 신음]",
+        "（艾達呻吟聲）",
+        "（艾达懊恼声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[أنين آدا]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ada gime]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+      "guid": "1d176fa0-f560-4586-aad6-5f8ac8f3d6e5",
+      "crc?": 699688747,
+      "hash": 3703411168,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_0310_0001_0020_cha200"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Speech_0360_0001_0010_cha200",
+      "guid": "4c70fd1d-5c50-48a9-86f6-c98da5069ca9",
+      "crc?": 4102437124,
+      "hash": 499928169,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（エイダの困惑の息）",
+        "[surprised breath]",
+        "[réaction de surprise]",
+        "[sussulto]",
+        "[Ada seufzt ratlos]",
+        "[gesto de sorpresa]",
+        "[удивлённая реакция]",
+        "[zaskoczony oddech]",
+        "",
+        "",
+        "[suspiro surpreso]",
+        "[놀라며 내뱉는 숨소리]",
+        "（苦嘆聲）",
+        "（懊恼声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[تنفس باندهاش]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[exhalación de sorpresa]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Speech_0360_0001_0020_cha200",
+      "guid": "e6ad1ffe-a968-4207-9578-a9a672ce97aa",
+      "crc?": 2537464415,
+      "hash": 3827276509,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（エイダの困惑の息）",
+        "[surprised breath]",
+        "[réaction de surprise]",
+        "[sussulto]",
+        "[Ada seufzt ratlos]",
+        "[gesto de sorpresa]",
+        "[удивлённая реакция]",
+        "[zaskoczony oddech]",
+        "",
+        "",
+        "[suspiro surpreso]",
+        "[놀라며 내뱉는 숨소리]",
+        "（苦嘆聲）",
+        "（懊恼声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[تنفس باندهاش]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[exhalación de sorpresa]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Speech_0370_0001_0010_cha200",
+      "guid": "e72f4e8c-f299-4203-b92f-f965aa0ff6ec",
+      "crc?": 1469623426,
+      "hash": 1835305357,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（エイダの困惑の息）",
+        "[annoyed groan]",
+        "[soupir d'agacement]",
+        "[lamento infastidito]",
+        "[Ada stöhnt genervt]",
+        "[gesto de enfado]",
+        "[раздражённо вздыхает]",
+        "[poirytowane stęknięcie]",
+        "",
+        "",
+        "[gemido de irritação]",
+        "[난처한 신음]",
+        "（苦嘆聲）",
+        "（懊恼声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[أنين من الانزعاج]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[quejido de frustración]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Speech_0370_0001_0020_cha200",
+      "guid": "c6a1b6da-fb40-4481-8e6b-bc150f0f45ba",
+      "crc?": 2189204667,
+      "hash": 3476592057,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（エイダの困惑の息）",
+        "[annoyed groan]",
+        "[soupir d'agacement]",
+        "[lamento infastidito]",
+        "[Ada knurrt frustriert]",
+        "[gesto de enfado]",
+        "[раздражённо ворчит]",
+        "[poirytowane stęknięcie]",
+        "",
+        "",
+        "[gemido de irritação]",
+        "[난처한 신음]",
+        "（苦嘆聲）",
+        "（懊恼声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[أنين من الانزعاج]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[quejido de frustración]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Speech_0380_0002_0020_cha200",
+      "guid": "d1cb04ed-25b6-481b-82f3-d4082c16ee05",
+      "crc?": 3158902452,
+      "hash": 3047035099,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（エイダの息を吐く声）",
+        "[Ada exhales]",
+        "[Ada souffle]",
+        "[verso compiaciuto di Ada]",
+        "[Ada schmunzelt]",
+        "[Ada exhala]",
+        "[Ада выдыхает]",
+        "[Ada robi wydech]",
+        "",
+        "",
+        "[Ada suspira]",
+        "[에이다가 숨을 내뱉는 소리]",
+        "（艾達吐氣聲）",
+        "（艾达吐气声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[زفير آدا]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ada exhala]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Speech_0560_0001_0010_cha200",
+      "guid": "8503e307-a07d-4be6-bb8f-b57e95066f35",
+      "crc?": 2009283928,
+      "hash": 4079767174,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（エイダの安堵の息）",
+        "[sigh of relief]",
+        "[soupir de soulagement]",
+        "[sospiro di sollievo]",
+        "[Ada seufzt erleichtert]",
+        "[suspiro de alivio]",
+        "[вздох облегчения]",
+        "[westchnienie ulgi]",
+        "",
+        "",
+        "[suspiro de alívio]",
+        "[안도의 한숨]",
+        "（歎息聲）",
+        "（舒气声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[الشعور بالإرتياح]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[suspiro de alivio]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Speech_0670_0001_0020_cha300",
+      "guid": "6fa14724-6001-4eb7-a1e9-49fe91f2528e",
+      "crc?": 853667101,
+      "hash": 2263128928,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（ルイスが口笛を吹く）",
+        "[Luis whistles]",
+        "[Luis siffle]",
+        "[Luis fischia]",
+        "[Luis pfeift anerkennend]",
+        "[Luis silba]",
+        "[Луис присвистывает]",
+        "[Luis gwiżdże]",
+        "",
+        "",
+        "[Luis assobia]",
+        "[루이스의 휘파람 소리]",
+        "（路易斯口哨聲）",
+        "（路易斯的口哨声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صفير لويس]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Luis silba]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Speech_1780_0001_0040_cha200",
+      "guid": "318de4b6-6752-44d8-b76c-26cabd65cc93",
+      "crc?": 101342971,
+      "hash": 2302422404,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（エイダの苦しみの呻き）",
+        "[groaning in pain]",
+        "[elle gémit de douleur]",
+        "[gemiti di dolore]",
+        "[Ada stöhnt vor Schmerz]",
+        "[gestos de dolor]",
+        "[стонет от боли]",
+        "[stękanie z bólu]",
+        "",
+        "",
+        "[gemido de dor]",
+        "[고통스러운 신음 소리]",
+        "（痛苦呻吟聲）",
+        "（艾达痛苦的呻吟声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[أنين من الألم]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[gimiendo de dolor]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+      "guid": "4c5f1b23-de1c-4707-80db-eba7e09f30bd",
+      "crc?": 253515415,
+      "hash": 292527359,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_1780_0001_0050_cha200"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+      "guid": "a31927d8-1347-4f9d-ae4e-797c6b811a7d",
+      "crc?": 2363754803,
+      "hash": 2010945010,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8000_0000_0010_cha200"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+      "guid": "3ede7cb5-fcaf-4ea8-8083-3b078b54e13a",
+      "crc?": 1091462074,
+      "hash": 2683495468,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Speech_8110_0000_0020_cha200"
+      ]
+    }
+  ]
+}

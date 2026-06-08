@@ -1,0 +1,295 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_Bino_cp53_0001",
+      "guid": "db88c82f-982c-480e-932b-03dfb9a2ffbd",
+      "crc?": 1510504917,
+      "hash": 2148503235,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.03>\r\n<VOTIME 0.0>\r\n<CONVEND 3.03>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+      "guid": "6dc8386e-407d-4779-8802-77d2874772c8",
+      "crc?": 248632834,
+      "hash": 3243464524,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+      "guid": "38e2f7a0-b39b-41fe-9fa1-b7a1de97de4f",
+      "crc?": 297638829,
+      "hash": 963454561,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp53_0001_0020_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp53_0002",
+      "guid": "4d0c29b7-7d84-4844-bcc1-eb8f728594b3",
+      "crc?": 1324447689,
+      "hash": 2489938751,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.15>\r\n<VOTIME 0.0>\r\n<CONVEND 3.15>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp53_0002_0010_cha000",
+      "guid": "594a807c-e7eb-492a-ace4-e60662597fa5",
+      "crc?": 3354087618,
+      "hash": 3647688355,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "守りを固めやがって…",
+        "Their defenses are no joke.",
+        "Putain, c'est bien gardé là-bas...",
+        "Una difesa bella tosta.",
+        "Die Verteidigung ist nicht ohne.",
+        "Sus defensas son poca broma.",
+        "Серьёзная оборона.",
+        "Z ich obroną nie ma żartów.",
+        "",
+        "",
+        "Defesa cerrada aqui.",
+        "방어 태세가 만만치 않아.",
+        "這戒備是來真的。",
+        "这戒备是来真的。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "دفاعاتهم قوة لا يُستهان بها.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sus defensas no son de broma."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse150_s00a",
+      "guid": "704b4819-ae98-4e16-b800-225448994599",
+      "crc?": 2903594269,
+      "hash": 2180617440,
+      "attributes": [
+        {
+          "String": "<MESTIME 7.99, 8.61>\r\n<MESTIME 31.46, 33.28>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse150_s00a_0010_cha200",
+      "guid": "9d2b936d-1345-4289-9c12-3a4c5ca062a4",
+      "crc?": 593203023,
+      "hash": 3259301290,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse150_s00a_0020_cha200",
+      "guid": "19ed07a8-6760-4277-80cb-1d519ab2bd8b",
+      "crc?": 3234975675,
+      "hash": 1759226637,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "幻覚が…　ひどくなってる…",
+        "What is wrong with me?",
+        "Qu'est-ce qui m'arrive ?",
+        "Che cosa mi succede?",
+        "Was ist nur los?",
+        "¿Qué me está pasando?",
+        "Да что со мной?",
+        "Co jest ze mną nie tak?",
+        "",
+        "",
+        "O que tá acontecendo comigo?",
+        "내가 왜 이러는 거지?",
+        "我這是怎麼了？",
+        "我这是怎么了？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ما خطبي؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Qué me está pasando?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse150_s00a_0025_cha200",
+      "guid": "c492604d-5a44-4945-abd1-018b7f29f1c5",
+      "crc?": 3991724810,
+      "hash": 608151198,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse150_s00a_0025_cha200"
+      ]
+    }
+  ]
+}

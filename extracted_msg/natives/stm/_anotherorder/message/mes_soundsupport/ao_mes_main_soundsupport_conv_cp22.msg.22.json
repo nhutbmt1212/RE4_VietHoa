@@ -1,0 +1,344 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp22_0008",
+      "guid": "aae47d99-e766-49f0-a373-7f9763315f7a",
+      "crc?": 1736257062,
+      "hash": 777149838,
+      "attributes": [
+        {
+          "String": "<MESTIME 1.29, 3.92>\r\n<VOTIME 0.0>\r\n<CONVEND 3.92>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp22_0008_0010_chc000",
+      "guid": "2f0eadcd-e320-4a16-9903-ce99bc6f3116",
+      "crc?": 1547013596,
+      "hash": 2531614394,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（村人達の声）",
+        "[villagers chanting in unison]",
+        "[voix des villageois à l'unisson]",
+        "[cantilena degli abitanti del villaggio]",
+        "[Dorfbewohner skandieren]",
+        "[los aldeanos corean al unísono]",
+        "[жители напевают хором]",
+        "[wieśniacy skandują coś razem]",
+        "",
+        "",
+        "[aldeões cantando em uníssono]",
+        "[마을 주민들이 단체로 읊조리는 소리]",
+        "（村民誦唸聲）",
+        "（村民高诵声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[ترانيم جماعية بأصوات قرويين]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[aldeanos cantando al unísono]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+      "guid": "234fdacb-4c29-4884-a06f-8498380ca42c",
+      "crc?": 1427263535,
+      "hash": 1074573980,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+      "guid": "a0facec9-78ce-409e-b60d-6539bc5fefd5",
+      "crc?": 1872232116,
+      "hash": 2402275782,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0012_0010_cha200"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+      "guid": "351f5db3-a2d6-49c1-b449-a1cfd2d59332",
+      "crc?": 2339838463,
+      "hash": 3987710937,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+      "guid": "f073b810-048d-4817-86e3-524d2192ddde",
+      "crc?": 236488496,
+      "hash": 668558570,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp22_0005_0010_cha200"
+      ]
+    }
+  ]
+}

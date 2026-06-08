@@ -1,0 +1,344 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_SoundSupport_ResultConv_20",
+      "guid": "603bd1cc-b6b2-43c2-aa42-5a9d0c6e190d",
+      "crc?": 3315996579,
+      "hash": 3478879741,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_ResultConv_20_0010_cha600",
+      "guid": "a0ac0e61-0bbe-4193-9f3d-5e592e417431",
+      "crc?": 4152084969,
+      "hash": 2908656301,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（ウェスカーの怒りの息）",
+        "[Wesker scoffs]",
+        "[soupir d'indifférence de Wesker]",
+        "[verso disinteressato di Wesker]",
+        "[Wesker brummt desinteressiert]",
+        "[Wesker se ríe brevemente]",
+        "[Вескер хмыкает]",
+        "[Wesker prycha]",
+        "",
+        "",
+        "[Wesker zomba]",
+        "[웨스커가 코웃음 치는 소리]",
+        "（威斯卡嘆氣聲）",
+        "（威斯卡冷笑声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[ضحكة ويسكر الساخرة]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Wesker se burla]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_ResultConv_30",
+      "guid": "fb63d762-72d7-40ba-b2d2-a958b8a29d5e",
+      "crc?": 879151156,
+      "hash": 414344261,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_ResultConv_30_0010_cha600",
+      "guid": "1a05004e-0aa9-4518-829b-8f1d0d8534a3",
+      "crc?": 3943850440,
+      "hash": 2999841442,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（ウェスカーの馬鹿にした笑い）",
+        "[Wesker mockingly chuckles]",
+        "[petit rire moqueur de Wesker]",
+        "[verso sarcastico di Wesker]",
+        "[Wesker lacht höhnisch auf]",
+        "[risa burlona de Wesker]",
+        "[Вескер издевательски усмехается]",
+        "[Wesker wzgardliwie chichocze]",
+        "",
+        "",
+        "[Wesker ri com escárnio]",
+        "[웨스커의 비웃음 소리]",
+        "（威斯卡冷笑聲）",
+        "（威斯卡嘲弄声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[ضحك بسخرية من ويسكر]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Wesker ríe sarcásticamente]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_ResultConv_40",
+      "guid": "a60eb45c-581c-48d0-a0aa-a7fe5ed72ef8",
+      "crc?": 3200238543,
+      "hash": 892046896,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_ResultConv_40_0010_cha600",
+      "guid": "3a6d576e-20d7-464e-a3f8-826940f94d82",
+      "crc?": 1872579697,
+      "hash": 1416530621,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（ウェスカーの軽蔑の息）",
+        "[Wesker scoffs in contempt]",
+        "[soupir de mépris de Wesker]",
+        "[verso di scherno di Wesker]",
+        "[Wesker schnaubt verärgert]",
+        "[Wesker se ríe con desdén]",
+        "[Вескер презрительно хмыкает]",
+        "[Wesker prycha z obrzydzeniem]",
+        "",
+        "",
+        "[Wesker zomba com desprezo]",
+        "[웨스커의 경멸에 찬 코웃음 소리]",
+        "（威斯卡輕蔑嘆氣聲）",
+        "（威斯卡轻蔑的讥讽声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[ضحكة ويسكر بازدراء]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Wesker se burla con desprecio]"
+      ]
+    }
+  ]
+}

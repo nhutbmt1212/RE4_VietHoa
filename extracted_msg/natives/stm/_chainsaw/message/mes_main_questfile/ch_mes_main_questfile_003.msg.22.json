@@ -1,0 +1,444 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_003_00",
+      "guid": "62f32016-7f04-46d9-899d-b28b6cc9093f",
+      "crc?": 3031552570,
+      "hash": 2328515698,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "墓荒らし ",
+        "Grave Robber",
+        "Profanation",
+        "Profanatore di tombe",
+        "Grabschänder",
+        "Destructor de tumbas",
+        "Осквернение могил",
+        "Hiena cmentarna",
+        "",
+        "",
+        "Ladrão de Túmulos",
+        "도굴꾼",
+        "盜墓者",
+        "毁墓人",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "نهب القبور",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ladrón de tumbas"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_003_01",
+      "guid": "f491e1cf-8ab0-4c00-9382-ad02b32d94e0",
+      "crc?": 2391061924,
+      "hash": 3842285201,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "オレたちを裏切り教団についた恥知らずの<COL FILE>双子</COL>め……。\r\n奴らの<COL FILE>墓に描かれた家紋</COL>を破壊してくれ。\r\n呪わしい兄弟に安寧など許されん。",
+        "Those traitorous <COL FILE>twins</COL> should not be allowed\r\nto rest in peace for joining that evil cult.\r\n\r\nWon't someone—anyone—destroy the\r\n<COL FILE>emblems engraved upon their tombstones</COL>!",
+        "Ces <COL FILE>jumeaux</COL> de malheur, qui nous ont trahis en\r\nrejoignant ce culte maléfique, ne méritent pas de\r\nreposer en paix.\r\n\r\nQuelqu'un pourrait-il détruire les <COL FILE>emblèmes gravés\r\nsur leurs pierres tombales</COL> ?",
+        "Quei due <COL FILE>gemelli</COL> traditori si sono uniti a quella\r\nsetta diabolica, e per questo non meritano di\r\nriposare in pace.\r\n\r\nC'è qualcuno disposto a <COL FILE>distruggere gli emblemi\r\nincisi sulle loro lapidi</COL>?",
+        "Diese verräterischen <COL FILE>Zwillinge</COL> verdienen es nicht,\r\nin Frieden zu ruhen, denn sie haben sich dem bösen\r\nKult angeschlossen.\r\n\r\nKann nicht jemand, irgendjemand, die <COL FILE>Wappen auf\r\nihren Grabsteinen</COL> zerstören!",
+        "Esos traicioneros <COL FILE>gemelos</COL> no deberían estar\r\ndescansando en paz después de unirse a ese culto.\r\n\r\n¡Le pido a alguien, a quien sea, que destruya los\r\n<COL FILE>emblemas en sus tumbas</COL>!",
+        "Эти вероломные <COL FILE>близнецы</COL> потеряли право на покой,\r\nкогда связались с проклятыми сектантами.\r\n\r\nКто-нибудь, прошу вас, уничтожьте <COL FILE>эмблемы\r\nна их надгробиях</COL>!",
+        "Te zdradzieckie <COL FILE>bliźniaki</COL> nie powinny\r\nspoczywać w pokoju za dołączenie do tej sekty.\r\n\r\nCzy ktoś – ktokolwiek – mógłby zniszczyć\r\n<COL FILE>symbole wyryte na ich nagrobkach</COL>?",
+        "",
+        "",
+        "Aqueles <COL FILE>gêmeos</COL> traiçoeiros não podem descansar\r\nem paz depois de entrarem naquele culto maligno.\r\nQue tal alguém, não importa quem, destruir os\r\n<COL FILE>emblemas gravados em suas lápides</COL>?",
+        "사악한 교단에 붙어 우릴 배신한 그 <COL FILE>쌍둥이</COL>를\r\n죽어서도 편히 잠들게 할 순 없지.\r\n\r\n누구라도 상관없어 누가 그 <COL FILE>묘비에 새겨진\r\n가문의 문장</COL>을 부숴 줘!",
+        "那對<COL FILE>兄弟</COL>竟然背叛了我們投靠那個邪教……\r\n不得安息！\r\n\r\n快點找個人來把他們<COL FILE>墓碑上的紋章</COL>打掉！",
+        "不能便宜了那对加入邪教的<COL FILE>双胞胎</COL>，\r\n不能让那两个叛徒就这样安息！\r\n有没有人？谁都行！\r\n去<COL FILE>损毁他们墓碑上的徽记</COL>！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا يجب أن يرقد هذا <COL FILE>التوأم</COL> بسلام بسبب انضمامها\r\nإلى تلك الطائفة الشريرة.\r\n\r\nهلا يدمر أحد\r\n<COL FILE>الشعارات المحفورة على شواهد قبورهم</COL>!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Esos traicioneros <COL FILE>gemelos</COL> no deberían estar\r\ndescansando en paz después de unirse a ese culto.\r\n\r\n¡Le pido a alguien, a quien sea, que destruya los\r\n<COL FILE>emblemas en sus tumbas</COL>!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_003_02",
+      "guid": "8c14de80-3dd9-4749-9242-b325ee890ce0",
+      "crc?": 1278427397,
+      "hash": 3069245364,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

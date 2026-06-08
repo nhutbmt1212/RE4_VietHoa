@@ -1,0 +1,550 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_File_031_00",
+      "guid": "aee80a97-d682-4eda-a27e-1283c4dbb99e",
+      "crc?": 2964759486,
+      "hash": 2467727935,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "イルミナドス教典 4章3節",
+        "Iluminados 4:3",
+        "Iluminados 4:3",
+        "Iluminados 4:3",
+        "Iluminados 4:3",
+        "Iluminados 4:3",
+        "Илюминадос 4:3",
+        "Iluminados 4:3",
+        "",
+        "",
+        "Iluminados 4:3",
+        "일루미나도스 교전 4장 3절",
+        "《光明教教典》第4章第3節",
+        "光明教典 第四章第三节",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إيلومينادوس 4:3",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Iluminados 4:3"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_031_01",
+      "guid": "eae00563-2c40-45d9-bf40-b735dab2844e",
+      "crc?": 1427772649,
+      "hash": 321179604,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "主人は 民人すべてに祝福を賜われた\r\n民は深く感じ入り 己が財をさしだした\r\n\r\n老いた農夫は もっとも重い<COL FILE>種もみ</COL>を\r\n痩せた<COL FILE>豚飼い</COL>は よく肥えた<COL FILE>家畜</COL>を\r\n何も持たぬ老婆は 愛する<COL FILE>我が子</COL>をささげた\r\n\r\n主人はこれを ことさらによろこばれた",
+        "In great veneration of their master, the people\r\noffered up their most prized possessions.\r\n\r\nThe old farmer, his finest <COL FILE>crop</COL>.\r\nThe slight <COL FILE>swineherd</COL>, his stoutest <COL FILE>pig</COL>.\r\nThe beggarly grandam, her own beloved <COL FILE>babe</COL>.\r\n\r\nThe master saw these gifts and was pleased.",
+        "En signe de vénération pour leur maître, les\r\nhabitants offrirent leurs biens les plus précieux.\r\n\r\nLe vieux fermier, sa meilleure <COL FILE>récolte</COL>.\r\nLe porcher fluet, son plus gros <COL FILE>cochon</COL>.\r\nLa vieille femme démunie, son <COL FILE>enfant</COL> bien-aimé.\r\n\r\nLe maître se réjouit devant ces offrandes.",
+        "In venerazione del padrone, le persone hanno\r\nofferto in dono i loro possedimenti più preziosi.\r\n\r\nDal vecchio contadino, il <COL FILE>grano</COL> più pregiato.\r\nDall'esile <COL FILE>porcaro</COL>, il <COL FILE>maiale</COL> più robusto.\r\nDalla povera mendicante, il suo amato <COL FILE>bambino</COL>.\r\n\r\nIl padrone ha accettato questi doni con\r\nsoddisfazione.",
+        "In Hochachtung vor seinem Meister bot das Volk\r\nseine teuersten Besitztümer an.\r\n\r\nDer betagte Bauer sein feinstes <COL FILE>Getreide</COL>.\r\nDer schmächtige Schweinehirt sein kräftigstes\r\n<COL FILE>Schwein</COL>.\r\nDie verarmte Alte ihr geliebtes <COL FILE>Kind</COL>.\r\n\r\nDer Meister sah die Geschenke und ward zufrieden.",
+        "Como símbolo de veneración a su maestro,\r\nel pueblo ofreció sus más preciadas posesiones.\r\n\r\nEl viejo granjero, su mejor <COL FILE>cosecha</COL>.\r\nEl humilde <COL FILE>pastor de cerdos</COL>, su <COL FILE>ejemplar</COL>\r\nmás rechoncho. Y la abuelita mendiga,\r\nsu querido <COL FILE>bebé</COL>.\r\n\r\nEl maestro se mostró complacido.",
+        "Люди преклонялись перед своим господином и приносили\r\nв дар самое ценное, что у них было.\r\n\r\nСтарый фермер принёс свой лучший <COL FILE>урожай</COL>.\r\nХудощавый <COL FILE>свинопас</COL> отдал самого упитанного <COL FILE>хряка</COL>.\r\nНищая старуха пожертвовала милого сердцу <COL FILE>ребёнка</COL>.\r\n\r\nГосподин увидел эти дары и возрадовался.",
+        "By oddać cześć swemu panu, ludzie przynieśli\r\nw ofierze to, co mieli najcenniejszego.\r\n\r\nStary farmer ofiarował swe najlepsze <COL FILE>plony</COL>.\r\nProsty <COL FILE>świniopas</COL> zabrał najtłustszą ze swych <COL FILE>świń</COL>.\r\nStara żebraczka przyniosła ukochane <COL FILE>dzieciątko</COL>.\r\n\r\nI ujrzał pan owe dary i poczuł zadowolenie.",
+        "",
+        "",
+        "Por sua grande veneração ao seu mestre, o povo\r\nofereceu suas posses mais valiosas.\r\n\r\nO velho fazendeiro, sua melhor <COL FILE>colheita</COL>.\r\nO frágil <COL FILE>porqueiro</COL>, seu <COL FILE>porco</COL> mais gordo.\r\nA vovózinha miserável, o <COL FILE>bebê</COL> que ela tanto ama.\r\n\r\nO mestre viu esses presentes e ficou contente.",
+        "주인님에 대한 큰 존경으로 사람들은\r\n자신한테 가장 소중한 물건을 바쳤다\r\n\r\n늙은 농부는 가장 좋은 <COL FILE>볍씨</COL>를\r\n깡마른 <COL FILE>돼지치기</COL>는 가장 통통한 <COL FILE>돼지</COL>를\r\n가난한 할머니는 사랑하는 <COL FILE>아기</COL>를 바쳤다\r\n\r\n주인님은 이 공물들을 보시고는 기뻐하셨다",
+        "主人祝福了所有平民。平民為表敬意，\r\n獻上了私財。\r\n\r\n老邁農夫獻上了最高質的<COL FILE>穀物</COL>。\r\n瘦弱<COL FILE>豬農</COL>獻上了最強壯的<COL FILE>豬</COL>。\r\n貧窮婦人則獻上了心愛的<COL FILE>兒子</COL>。\r\n\r\n主人眼見奉獻品，甚是喜悅。",
+        "主人赐福于众人。\r\n众人皆奉至上之家财，以示尊崇。\r\n\r\n老迈农夫献其上乘之<COL FILE>谷物</COL>。\r\n瘦弱<COL FILE>畜户</COL>献其壮硕之<COL FILE>猪彘</COL>。\r\n赤贫老妪献其挚爱之<COL FILE>孩童</COL>。\r\n\r\n视众人之敬奉，主人甚慰。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "خلال التوقير العظيم لسيدهم، قدم الناس قرابينهم\r\nمن أغلى ممتلكاتهم.\r\n\r\nقدم المُزارع المسن أجود <COL FILE>محصول</COL> لديه،\r\nوقدم <COL FILE>مربي الخنازير</COL> الهزيل أسمن <COL FILE>خنزير</COL> لديه،\r\nوقدمت الجدة الفقيرة <COL FILE>حفيدها </COL>العزيز.\r\n\r\nرأى السيد هذه الهبات وسعد بها.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "En gran veneración de su maestro, el pueblo\r\nofreció sus más preciadas posesiones.\r\n\r\nEl viejo granjero, su mejor <COL FILE>cosecha</COL>.\r\nEl humilde <COL FILE>pastor de cerdos</COL>, su <COL FILE>cerdo</COL>\r\nmás rechoncho. Y la abuela mendiga,\r\nsu querido y propio <COL FILE>bebé</COL>.\r\n\r\nEl maestro se mostró complacido."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_031_02",
+      "guid": "241ec9a7-888f-4224-a069-fc7091d8a9c4",
+      "crc?": 2872551458,
+      "hash": 3060187875,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<FOCUS>"
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_031_03",
+      "guid": "d316518c-0057-432e-8f94-c74c89e65474",
+      "crc?": 3045450398,
+      "hash": 934072275,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

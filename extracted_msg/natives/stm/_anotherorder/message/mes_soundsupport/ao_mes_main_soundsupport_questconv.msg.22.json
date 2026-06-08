@@ -1,0 +1,344 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_SoundSupport_QuestConv_0206",
+      "guid": "232135a1-2c22-4d7e-93fe-0d68b754b092",
+      "crc?": 3417950423,
+      "hash": 830936750,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_QuestConv_0206_0010_cha200",
+      "guid": "ef025417-0e31-4612-975b-51e53edcebad",
+      "crc?": 979029044,
+      "hash": 623563414,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（エイダの微笑）",
+        "[light laugh]",
+        "[petit rire]",
+        "[risatina]",
+        "[Ada schmunzelt]",
+        "[risa ligera]",
+        "[негромкий смех]",
+        "[lekki śmiech]",
+        "",
+        "",
+        "[risada leve]",
+        "[가벼운 웃음소리]",
+        "（輕笑聲）",
+        "（轻笑声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[ضحك خفيف]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[risa ligera]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_QuestConv_0311",
+      "guid": "59e11d74-922e-4635-8418-b494c483a469",
+      "crc?": 3351407875,
+      "hash": 2181072198,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+      "guid": "1b91a762-de7f-4e22-9e34-077f6e2dce71",
+      "crc?": 228811438,
+      "hash": 338229841,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0311_0010_cha200"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_QuestConv_0313",
+      "guid": "4245e28f-bf7c-4cce-9d8f-15087e1b430d",
+      "crc?": 2659580528,
+      "hash": 2770072641,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+      "guid": "bf122929-c545-4921-989b-3e5b18051a8f",
+      "crc?": 28063619,
+      "hash": 196627313,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_QuestConv_0313_0010_cha200"
+      ]
+    }
+  ]
+}

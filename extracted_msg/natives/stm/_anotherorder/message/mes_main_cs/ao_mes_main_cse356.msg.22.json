@@ -1,0 +1,491 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse356_s00a",
+      "guid": "943f57be-8358-4651-aa60-f3a34436df38",
+      "crc?": 2082222113,
+      "hash": 3171356013,
+      "attributes": [
+        {
+          "String": "<MESTIME 7.49, 8.5>\r\n<MESTIME 11.22, 14.17>\r\n<MESTIME 35.6, 37.29>\r\n<MESTIME 51.46, 54.54>\r\n<MESTIME 54.63, 56.89>\r\n<MESTIME 56.95, 60.19>\r\n<MESTIME 60.37, 64.89>\r\n<MESTIME 66.3, 67.96>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse356_s00a_0010_cha200",
+      "guid": "488eeadd-1a29-4f48-98a8-ed497636014a",
+      "crc?": 2350046450,
+      "hash": 1621015645,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "クラウザー…",
+        "Krauser...",
+        "Krauser...",
+        "Krauser...",
+        "Krauser...",
+        "Krauser...",
+        "Краузер…",
+        "Krauser...",
+        "",
+        "",
+        "Krauser...",
+        "크라우저...",
+        "克勞瑟……",
+        "克劳瑟……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كراوزر...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Krauser..."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse356_s00a_0020_cha200",
+      "guid": "c209d47e-4403-474d-a5fc-666a30d8939f",
+      "crc?": 1933551171,
+      "hash": 2763773597,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "…ルイス　さよならは言わない",
+        "Luis. The goodbye's gonna have to wait.",
+        "Luis. Les adieux devront attendre.",
+        "Luis. Il nostro addio dovrà aspettare.",
+        "Luis. Unser Abschied muss warten.",
+        "Luis. Aplazamos la despedida.",
+        "Луис. Прощаться некогда.",
+        "Luis. Pożegnanie musi zaczekać.",
+        "",
+        "",
+        "Luis. O adeus vai ter que esperar.",
+        "루이스. 작별 인사는 나중으로 해야겠어.",
+        "路易斯，沒辦法送你最後一程了……",
+        "路易斯，没法送你最后一程了……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لويس. يجب تأجيل الوداع قليلًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Luis. La despedida tendrá que esperar."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse356_s00a_0030_cha200",
+      "guid": "2b7cec4c-b381-4904-bee9-0cabc7eb8d00",
+      "crc?": 1585609952,
+      "hash": 386720881,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "逃がさないわ",
+        "You're not getting away.",
+        "Pas la peine de courir.",
+        "È inutile che scappi.",
+        "Lauf nur, ich krieg dich.",
+        "No vas a escapar.",
+        "Ты не уйдёшь.",
+        "Nigdzie nie idziesz.",
+        "",
+        "",
+        "Você não vai escapar.",
+        "놓치지 않아.",
+        "你逃不了的。",
+        "你逃不了的。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لن تهرب.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No te vas a escapar."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse356_s00a_0040_cha200",
+      "guid": "71092f24-871a-45a0-8d8b-b9b2c0617fff",
+      "crc?": 395959822,
+      "hash": 368279769,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン　時間がないから手短に話すわ",
+        "Leon. There's only time to say this once, so listen up.",
+        "Leon. J'ai vraiment pas le temps de répéter,\r\nalors écoute-moi bien.",
+        "Leon. Non c'è tempo da perdere, ascoltami bene.",
+        "Leon, ich hab nicht viel Zeit, also hör gut zu.",
+        "Leon. Solo te lo diré una vez, así que escucha.",
+        "Леон. Времени мало, слушай внимательно.",
+        "Leon. Powiem to tylko raz, więc słuchaj uważnie.",
+        "",
+        "",
+        "Leon. Só tenho tempo pra falar uma vez, então atenção.",
+        "레온. 딱 한 번만 말할 거니까 잘 들어.",
+        "里昂。時間緊我只說一遍，聽好了。",
+        "里昂。时间紧我只说一遍，听好了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يا ليون. لا وقت لقول هذا أكثر من مرة، لذا اسمع جيدًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Leon. Solo te lo diré una vez, así que escucha."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse356_s00a_0050_cha200",
+      "guid": "bec9672a-51ea-4d9a-a064-2238b4a62e58",
+      "crc?": 704609859,
+      "hash": 1411819601,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "彼女は時計塔に連れて行かれた",
+        "They took your friend to the top of the clock tower.",
+        "Ton amie est au sommet de la tour de l'horloge.",
+        "La tua amica è sulla torre dell'orologio.",
+        "Sie haben deine Freundin\r\nauf den Uhrturm gebracht.",
+        "Tu amiga está en lo alto de la torre del reloj.",
+        "Твоя подруга на вершине часовой башни.",
+        "Zabrali twoją przyjaciółkę na szczyt wieży zegarowej.",
+        "",
+        "",
+        "Levaram sua amiga pro topo da torre do relógio.",
+        "녀석들이 그 애를 시계탑 꼭대기로 데리고 갔어.",
+        "你朋友被帶到鐘樓頂層了。",
+        "你朋友被带到钟楼顶层了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لقد اقتادوا صديقتك إلى أعلى برج الساعة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tu amiga está en lo alto de la torre del reloj."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse356_s00a_0060_cha200",
+      "guid": "402964df-0397-47f7-af23-8dc11bc32da1",
+      "crc?": 3263707422,
+      "hash": 789099368,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "今ならまだ間に合う　救いたいなら急いで",
+        "If you hurry, you might get there\r\nbefore she turns into one of them.",
+        "Si tu fais vite, tu arriveras peut-être\r\navant qu'elle ne devienne l'une des leurs.",
+        "Se ti sbrighi, arriverai prima\r\nche si trasformi in una di loro.",
+        "Beeil dich, dann schaffst du’s vielleicht,\r\nbevor es zu spät ist.",
+        "Si corres, podrías llegar antes\r\nde que sea una de ellos.",
+        "Поспеши, иначе она станет такой же, как и они.",
+        "Jeśli się pospieszysz, może zdołasz tam\r\ndotrzeć, zanim stanie się jedną z nich.",
+        "",
+        "",
+        "Se você correr, talvez chegue\r\nantes que a transformem num deles.",
+        "서두르면 그 아이가 그 녀석들처럼\r\n변하기 전에 도착할 수 있을 거야.",
+        "趕過去的話，應該來得及阻止她變成那種人。",
+        "赶过去的话，应该来得及阻止她变成那种人。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إذا أسرعت فربما تصل إلى هناك\r\nقبل أن تتحوّل إلى واحدة منهم.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Si te apuras, podrías llegar antes de que se convierta en uno de ellos."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse356_s00a_0070_cha000",
+      "guid": "5d635af5-04e7-42da-bd97-9f8735f30bab",
+      "crc?": 1954293952,
+      "hash": 1162790646,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ずいぶん親切だな\r\n…素直に感謝すべきか？",
+        "Ah, so you aren't heartless after all.\r\nI guess I should be...thankful?",
+        "Ah bah, t'as quand même un cœur !\r\nJ'imagine que je devrais te remercier ?",
+        "Ah, quindi non sei proprio senza cuore.\r\nImmagino di doverti ringraziare?",
+        "Ah, du bist also doch nicht herzlos.\r\nIch schätze, ich sollte mich bedanken?",
+        "Así que tienes corazón después de todo.\r\nDebería decir... ¿gracias?",
+        "У тебя всё-таки есть сердце.\r\nМне надо сказать… спасибо?",
+        "Aha, czyli jednak masz tam jakieś serce.\r\nZdaje się, że powinienem ci... podziękować?",
+        "",
+        "",
+        "Ah, então você não é tão desalmada.\r\nAcho que eu devia ficar... grato?",
+        "그러니까 당신도 무정한 사람은 아니라는 거군.\r\n고마워... 해야겠지?",
+        "哦，原來妳還是講情面的。\r\n所以我應該……謝謝妳？",
+        "哦，原来你还是讲情面的。\r\n所以我应该……谢谢你？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إذن فأنت لست قاسية القلب في النهاية.\r\nهل ينبغي لي... أن أشكرك؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ah, así que tienes corazón después de todo,\r\nsupongo que debo decir... ¿gracias?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse356_s00a_0080_cha200",
+      "guid": "e95c3d1f-a862-4bf2-ae4b-0fa16f10de95",
+      "crc?": 4046388149,
+      "hash": 4222640851,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ええ そうね",
+        "Yeah, you should.",
+        "Ouais, tu devrais.",
+        "Sì, dovresti.",
+        "Ja, stimmt.",
+        "Sí, deberías.",
+        "Да. Надо.",
+        "Owszem, powinieneś.",
+        "",
+        "",
+        "É, devia.",
+        "당연히 그래야지.",
+        "沒錯，別忘了。",
+        "没错，别忘了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أجل، ينبغي عليك ذلك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sí, deberías."
+      ]
+    }
+  ]
+}

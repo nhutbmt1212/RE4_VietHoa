@@ -1,0 +1,246 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp51_0001",
+      "guid": "144a64e0-997d-4e24-bd24-03ef586f0db8",
+      "crc?": 2767804505,
+      "hash": 3922303787,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.55>\r\n<VOTIME 0.0>\r\n<CONVEND 3.55>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+      "guid": "c95833e2-2d0f-42aa-b75a-3bbc3cd8e248",
+      "crc?": 2404780834,
+      "hash": 5057617,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp51_0001_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp51_0002",
+      "guid": "4d2ea383-1a63-483a-96d9-ba10f3a0ffbf",
+      "crc?": 2230218363,
+      "hash": 2226858060,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 5.64>\r\n<VOTIME 0.0>\r\n<CONVEND 5.64>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp51_0002_0010_cha000",
+      "guid": "1bb8e234-5e0e-407b-b4f3-730dfc14dd66",
+      "crc?": 1996802987,
+      "hash": 749874870,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "イカれてる…　なんの実験をしてたんだ？",
+        "Christ... What kind of experiments are they doing here?",
+        "Putain... Quel genre d'expériences ils font ici ?",
+        "Cristo... Che diavolo di esperimenti fanno qui?",
+        "Gott... Was für Experimente\r\nveranstalten die hier?",
+        "Dios... ¿Qué tipo de experimentos están haciendo aquí?",
+        "Боже... Что за эксперименты они тут проводят?",
+        "Jezu... Co to za eksperymenty się tu odbywają?",
+        "",
+        "",
+        "Cacete... Que tipo de experimentos tão fazendo aqui?",
+        "맙소사... 여기서 어떤 실험을 하고 있었던 거야?",
+        "老天……他們在這裡搞的是什麼實驗？",
+        "老天……他们在这里搞的是什么实验？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اللعنة… أي نوع من التجارب يجرونها في هذا المكان؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Dios... ¿Qué tipo de experimentos están haciendo aquí?"
+      ]
+    }
+  ]
+}

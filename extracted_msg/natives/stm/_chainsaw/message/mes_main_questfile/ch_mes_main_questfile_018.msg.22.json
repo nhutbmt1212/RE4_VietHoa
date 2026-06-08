@@ -1,0 +1,444 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_018_00",
+      "guid": "37c7e84e-0be3-4659-86f0-187caa7aaf40",
+      "crc?": 731225579,
+      "hash": 252776109,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "哀れな徘徊死体",
+        "The Wandering Dead",
+        "Cadavre ambulant",
+        "L'alba del morto vivente",
+        "Der wandelnde Tote",
+        "Muerto deambulante",
+        "Бродячие мертвецы",
+        "Wędrujące zwłoki",
+        "",
+        "",
+        "O Morto Andarilho",
+        "어슬렁거리는 시체",
+        "四處徘徊的屍體",
+        "游荡的尸体",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "الموتى المتجولون",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Muerto deambulando"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_018_01",
+      "guid": "870fa9bc-d2ca-417b-b403-adcacd5570b9",
+      "crc?": 1257767114,
+      "hash": 1185135009,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COL FILE>特殊な変異を起こした徘徊死体</COL>を殺してくれ。\r\nあの人でなしどもの悪趣味な実験の成れの果てだ。\r\nもう眠らせてやってほしい。",
+        "There have been sightings of what appears\r\nto be a <COL FILE>strange corpse</COL> wandering around,\r\nlikely the result of some immoral experiment.\r\n\r\nWon't someone put it out of its misery and end\r\nits pathetic existence?",
+        "Certains ont aperçu ce qui semble être un <COL FILE>étrange\r\ncadavre</COL> errant, probablement le résultat d'une\r\nexpérience immorale.\r\n\r\nQuelqu'un pourrait-il mettre fin à son existence\r\npathétique et lui offrir le repos éternel ?",
+        "Uno <COL FILE>strano cadavere</COL> è stato avvistato mentre\r\ncamminava in giro. Sembra essere il risultato\r\ndi qualche esperimento immorale.\r\n\r\nC'è qualcuno disposto a porre fine alla sua\r\npatetica esistenza?",
+        "Mehrere Personen berichten davon, eine <COL FILE>mysteriöse\r\nLeiche</COL> umherwandeln gesehen zu haben. Sicher das\r\nErgebnis irgendeines verkommenen Experiments.\r\n\r\nKann sie jemand von ihrem Elend befreien und ihr\r\nerbärmliches Dasein beenden?",
+        "Hay testimonios que dicen haber visto una especie\r\nde <COL FILE>cadáver</COL> deambulando por ahí. Todo apunta a que\r\nes el resultado de algún experimento inmoral.\r\n\r\n¿Podría alguien poner fin a su miseria y acabar\r\ncon su patética existencia de una vez por todas?",
+        "Говорят, что по округе бродит <COL FILE>мертвец</COL>.\r\nНе иначе, результат очередного бесчеловечного\r\nэксперимента. \r\n\r\nКто-нибудь, убейте беднягу\r\nи положите конец его мучениям!",
+        "Podobno niektórzy widzieli coś, co przypominało\r\n<COL FILE>błąkające się zwłoki</COL>, będące zapewne\r\nwynikiem jakiegoś nieludzkiego eksperymentu.\r\n\r\nCzy ktoś się ulituje i położy kres ich\r\nżałosnemu istnieniu?",
+        "",
+        "",
+        "Há relatos do que parece ser um\r\n<COL FILE>cadáver estranho</COL> vagando por aí, provavelmente\r\nresultado de algum experimento imoral.\r\nAlguém pode acabar com o seu sofrimento\r\ne dar fim à sua existência patética?",
+        "주변을 어슬렁거리는 <COL FILE>이상한 시체</COL>가\r\n목격된 적이 있어. 아마도 그 비윤리적인\r\n실험의 결과겠지.\r\n\r\n누가 그 고통에서 꺼내 비참한 생활의 끝을\r\n내 주지 않겠어?",
+        "有目擊情報指附近有隻<COL FILE>變種屍體</COL>在徘徊，\r\n應該是什麼非人道實驗的產品吧。\r\n\r\n有沒有人可以讓牠安息？",
+        "有人发现，好像有一具<COL FILE>怪异的尸体</COL>在四处游荡。\r\n也许是某种不人道的实验造成的。\r\n\r\n希望有人能帮它脱离苦海，助它永眠。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "شوهد ما يبدو أنه <COL FILE>جثة غريبة</COL> تحوم في الأرجاء،\r\nإنها على الأرجح نتيجة لتجربة غير أخلاقية.\r\n\r\nألن يأتي أحد لينهي حياتها المثيرة للشفقة\r\nويخلصها من عذابها؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hay testimonios que dicen haber visto una especie\r\nde <COL FILE>cadáver</COL> deambulando por ahí. Todo apunta a que\r\nes el resultado de algún experimento inmoral.\r\n\r\n¿Podría alguien poner fin a su miseria y acabar\r\ncon su patética existencia de una vez por todas?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_018_02",
+      "guid": "fbd701cc-260a-4e84-9ad1-8dbb85452419",
+      "crc?": 2435010900,
+      "hash": 2292744634,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

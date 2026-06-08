@@ -1,0 +1,444 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_011_00",
+      "guid": "c3759423-e7b2-418c-a8b3-6204db515818",
+      "crc?": 1196186915,
+      "hash": 3228357954,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "宝石泥棒",
+        "Jewel Thief",
+        "Voleur volant",
+        "Ladro di gioielli",
+        "Juwelendieb",
+        "Ladrón de joyas",
+        "Похититель самоцветов",
+        "Złodziej klejnotów",
+        "",
+        "",
+        "Ladrão de Joias",
+        "보석 도둑",
+        "寶石大盜",
+        "宝石大盗",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سارق الجوهرة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ladrón de joyas"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_011_01",
+      "guid": "dbf4d7e7-c42a-4392-9a2b-13e543eb34d8",
+      "crc?": 1389061843,
+      "hash": 2569969318,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "カラスに<COL FILE>奪われた宝石</COL>を取り戻してくれ。\r\n奴め、どうやら<COL FILE>巣</COL>に持ち帰りやがったらしい。\r\nカラスを追跡すれば巣の位置が分かるはずだ。\r\nあの宝石はオレたちの主家にゆかりのある品でな。\r\n鳥のオモチャにさせとくわけにはいかないのさ。",
+        "Someone help me recover a <COL FILE>stolen jewel</COL> snatched\r\nby a thieving crow! I bet it can be found in the\r\nvile thing's <COL FILE>nest</COL>.\r\n\r\nIt is an heirloom of our family and cannot become\r\nsome bird's plaything.",
+        "Que quelqu'un m'aide à récupérer un <COL FILE>bijou volé</COL>\r\npar un corbeau chapardeur ! Je parie que cet\r\nemplumé l'a emmené dans son <COL FILE>nid</COL>.\r\n\r\nCe bijou est un héritage de notre famille.\r\nNous ne pouvons pas le laisser devenir\r\nle jouet d'un volatile de malheur.",
+        "Qualcuno può aiutarmi a recuperare il <COL FILE>gioiello\r\nrubato</COL> che mi è stato fregato da un corvo?\r\nScommetto che si trova nel suo <COL FILE>nido</COL>.\r\n\r\nÈ un importante cimelio della nostra famiglia,\r\nnon può certo diventare il giocattolo di un uccello.",
+        "Kann mir bitte jemand dabei helfen, ein <COL FILE>gestoh-\r\nlenes Schmuckstück</COL> zurückzuholen, das eine Krähe\r\nstibitzt hat? Sie hat es bestimmt zu ihrem <COL FILE>Nest</COL>\r\ngebracht.\r\n\r\nEs ist ein Familienerbstück und soll nicht als\r\nVogelspielzeug enden.",
+        "¡Me gustaría pedirle a algún alma caritativa que\r\nme ayude a recuperar una <COL FILE>joya robada</COL> por un cuervo\r\nladronzuelo! Seguro que la tiene en su <COL FILE>nido</COL>.\r\n\r\nEs una herencia de nuestra familia, y no puedo\r\npermitir que se convierta en el juguete de ese\r\npajarraco.",
+        "Помогите мне вернуть <COL FILE>самоцвет</COL>, украденный\r\nнаглой вороной! Бьюсь об заклад, он сейчас лежит\r\nу неё в <COL FILE>гнезде</COL>.\r\n\r\nЭто, между прочим, фамильная\r\nдрагоценность нашего владыки. Нечего ей валяться\r\nв гнезде у глупой птицы.",
+        "Niech ktoś mi pomoże odzyskać <COL FILE>skradziony klejnot</COL>,\r\nktóry zwinęła mi sroka! Założę się, że leży\r\nw gnieździe tego <COL FILE>przebrzydłego stwora</COL>.\r\n\r\nTo pamiątka rodzinna i nie mogę pozwolić,\r\nżeby stała się zabawką jakiegoś ptaszyska.",
+        "",
+        "",
+        "Alguém pode me ajudar a recuperar uma\r\n<COL FILE>joia roubada</COL> por um corvo safado?\r\nAposto que está no <COL FILE>ninho</COL> da ave.\r\nÉ uma relíquia do nosso senhor e não pode\r\nvirar brinquedinho de pássaro.",
+        "도둑 까마귀가 <COL FILE>훔쳐 간 보석</COL>을\r\n되찾는 걸 도와줘! 분명 비열한\r\n그 녀석들의 <COL FILE>둥지</COL> 안에 있을 거야.\r\n\r\n그건 우리 주인님 가문의 가보야.\r\n새들의 장난감이 되게 할 순 없어.",
+        "有隻烏鴉偷走了我的<COL FILE>寶石</COL>！那顆是我們家\r\n主人的傳家之寶，不可以拿去玩。\r\n那隻烏鴉應該把它藏到<COL FILE>鳥巢</COL>裡了。\r\n快點幫我拿回來！",
+        "谁来帮我找回<COL FILE>丢失的宝石</COL>？！\r\n一只乌鸦叼走了它！\r\n它应该是叼回<COL FILE>巢</COL>里了。\r\n\r\n那可不是什么逗鸟的玩具，\r\n那是我们家的传家宝。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليساعدني أحد في استرداد <COL FILE>جوهرة مسروقة</COL> انتزعها\r\nغراب لص من بين يدي! لا بد أنها موجودة في <COL FILE>العش</COL>.\r\n\r\n إنها إرث سيدنا، ولا يصح أن تصير لعبة لطائر.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Me gustaría pedirle a algún alma caritativa que\r\nme ayude a recuperar una <COL FILE>joya robada</COL> por un cuervo\r\nladronzuelo! Estoy seguro de que la tiene en su\r\n<COL FILE>nido</COL>.\r\n\r\nEs una herencia de nuestro señor, y no puedo\r\npermitir que se convierta en el juguete de ese\r\npajarraco."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_011_02",
+      "guid": "2138f5f8-ff44-4f62-9827-629daeae8343",
+      "crc?": 2591345717,
+      "hash": 2154725606,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

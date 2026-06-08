@@ -1,0 +1,1560 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "優先度"
+    },
+    {
+      "ty": 2,
+      "name": "話し相手"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_SoundSupport_SpeechMerchant_0070_0112_0050_cha700",
+      "guid": "a74edef7-8931-45b6-b340-1ab49bf51f40",
+      "crc?": 820488861,
+      "hash": 3013888623,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0 3.0>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（武器商人のため息）",
+        "[Merchant sighs]",
+        "[le Marchand soupire]",
+        "[il mercante sospira]",
+        "[Händler seufzt]",
+        "[el buhonero suspira]",
+        "[торговец вздыхает]",
+        "[Handlarz wzdycha]",
+        "",
+        "",
+        "[Mercador suspira]",
+        "[상인의 한숨]",
+        "（商人嘆氣聲）",
+        "（商人叹气声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[تنهد التاجر]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[el mercader suspira]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+      "guid": "7bed5cb2-f5f2-423f-9360-bdfcb7b84250",
+      "crc?": 1583104649,
+      "hash": 4267982943,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0 3.0>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0100_0112_0070_cha700"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+      "guid": "478d4433-068b-44c9-8525-28080c830732",
+      "crc?": 3483041342,
+      "hash": 1964605194,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0 3.0>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0130_0112_0070_cha700"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+      "guid": "af7a1831-9a7c-4630-8d6a-3d5956ed93af",
+      "crc?": 255627773,
+      "hash": 2254839366,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0 3.0>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0240_0112_0010_cha700"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+      "guid": "d8b0e1a6-d61a-40ea-896c-c22314184297",
+      "crc?": 2989708863,
+      "hash": 3448543504,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0 3.0>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0250_0112_0010_cha700"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+      "guid": "cfd3677f-5c83-43fa-bc90-989891d9c600",
+      "crc?": 1905806734,
+      "hash": 4069641359,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0 5.0>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_0260_0112_0010_cha700"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+      "guid": "6a6c4be0-8978-4dda-9510-342ecfe96e51",
+      "crc?": 4284460739,
+      "hash": 4253821999,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0 3.0>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0050_cha700"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+      "guid": "6e39a237-4ea0-4ee8-b358-484d729dd8f5",
+      "crc?": 246153212,
+      "hash": 717877098,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0 3.0>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2020_0112_0060_cha700"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+      "guid": "865ba021-3a18-441c-ae4a-d748c6768b88",
+      "crc?": 2593592349,
+      "hash": 1524285806,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0 3.0>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_SpeechMerchant_2030_0112_0060_cha700"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_SpeechMerchant_2080_0112_0050_cha700",
+      "guid": "97acf96d-6652-4f66-9651-59c547f5acfa",
+      "crc?": 1046384763,
+      "hash": 2954625154,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0 10.5>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（武器商人の鼻歌）",
+        "[Merchant hums]",
+        "[le Marchand fredonne]",
+        "[il mercante canticchia]",
+        "[Händler summt unmelodisch, hustet]",
+        "[el Buhonero tararea]",
+        "[напевает себе под нос]",
+        "[Handlarz nuci]",
+        "",
+        "",
+        "[Mercador murmura]",
+        "[상인의 콧노래]",
+        "（商人哼歌聲）",
+        "（商人哼歌声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[همهمة التاجر]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[el mercader tararea]"
+      ]
+    }
+  ]
+}

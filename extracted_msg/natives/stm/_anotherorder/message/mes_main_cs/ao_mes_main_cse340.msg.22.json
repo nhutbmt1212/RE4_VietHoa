@@ -1,0 +1,1177 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse340_s00a",
+      "guid": "29cf695b-ddd0-4ed4-bcaf-7586102b5866",
+      "crc?": 406844511,
+      "hash": 2274836971,
+      "attributes": [
+        {
+          "String": "<MESTIME 12.62, 13.82>\r\n<MESTIME 13.85, 17.24>\r\n<MESTIME 19.93, 20.52>\r\n<MESTIME 22.06, 23.48>\r\n<MESTIME 24.6, 26.74>\r\n<MESTIME 28.24, 29.62>\r\n<MESTIME 31.25, 33.27>\r\n<MESTIME 65.01, 66.93>\r\n<MESTIME 67.81, 69.56>\r\n<MESTIME 72.7, 77.01>\r\n<MESTIME 84.26, 87.28>\r\n<MESTIME 87.33, 89.9>\r\n<MESTIME 97.63, 98.77>\r\n<MESTIME 112.0, 112.99>\r\n<MESTIME 113.0, 114.17>\r\n<MESTIME 116.81, 118.02>\r\n<MESTIME 118.95, 122.36>\r\n<MESTIME 122.87, 125.04>\r\n<MESTIME 125.05, 126.8>\r\n<MESTIME 127.56, 129.37>\r\n<MESTIME 130.9, 133.04>\r\n<MESTIME 133.19, 134.41>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0010_cha200",
+      "guid": "2b0434e6-1426-40eb-a73a-bbb394447abb",
+      "crc?": 4206218714,
+      "hash": 650560989,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "原料は揃ったわ",
+        "I got everything you need.",
+        "Tiens, j'ai tout ce qu'il te faut.",
+        "Ho quello che ti serve.",
+        "Ich hab, was du wolltest.",
+        "Tengo lo que pediste.",
+        "Я всё нашла.",
+        "Mam wszystko, czego potrzebujesz.",
+        "",
+        "",
+        "Achei tudo que cê pediu.",
+        "당신이 필요하다는 건 다 모았어.",
+        "你要的都湊齊了。",
+        "你要的都齐了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لديّ كل ما يلزمك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tengo lo que me pediste."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0020_cha300",
+      "guid": "9d0235d2-13b0-4a53-a2f9-d13eab32e5e3",
+      "crc?": 2583878311,
+      "hash": 606292448,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "よし じゃあごほうびだ",
+        "Good, and I got exactly what you want.",
+        "Bien, et moi j'ai exactement ce que tu veux.",
+        "Bene, perché io ho quello che serve a te.",
+        "Gut, und ich hab hier, was du wolltest.",
+        "Bien, y yo tengo justo lo que buscas.",
+        "Ага… а я принёс, что ты просила.",
+        "Dobrze, a ja mam dokładnie to, czego chcesz.",
+        "",
+        "",
+        "Ótimo. E eu tenho exatamente o que você quer.",
+        "좋아, 나도 당신이 찾는 걸 가지고 왔지.",
+        "漂亮，我也拿到了妳想要的。",
+        "漂亮，我也拿了你想要的。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "جيد، وأنا لديّ بالضبط ما تريدينه.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bien, y yo tengo justo lo que quieres."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0030_cha200",
+      "guid": "9ce2b403-743b-4966-bd81-d0ddc6c08924",
+      "crc?": 4182212337,
+      "hash": 1568723530,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0040_cha300",
+      "guid": "2bc34bbb-cb1f-4278-a9a2-391ca8ddcc1f",
+      "crc?": 130207270,
+      "hash": 3514767515,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "まずいな…",
+        "Oh, that's not good.",
+        "Ça, c'est pas bon.",
+        "Non è un buon segno.",
+        "Oh, das ist schlecht.",
+        "Oh, mal asunto...",
+        "О, это плохо.",
+        "Och, niedobrze.",
+        "",
+        "",
+        "Êhh, não é bom sinal.",
+        "오, 이러면 안 되는데.",
+        "這下糟了……",
+        "这下糟了……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أوه ذلك ليس جيدًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ay, no puede ser."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0050_cha300",
+      "guid": "9697b81d-a282-45b8-b9c8-b5cd419c720c",
+      "crc?": 625819202,
+      "hash": 2150976516,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "寄生体がアンバーに反応してる",
+        "The parasite's reacting to the Amber.",
+        "Le parasite réagit à l'Ambre.",
+        "Il parassita reagisce all'Ambra.",
+        "Der Parasit reagiert auf den Stein.",
+        "El parásito reacciona al Ámbar.",
+        "Паразит реагирует на янтарь.",
+        "Pasożyt reaguje na Bursztyn.",
+        "",
+        "",
+        "O parasita tá reagindo ao Âmbar.",
+        "기생체가 앰버에 반응하고 있어.",
+        "寄生蟲對「琥珀」起了反應。",
+        "寄生虫对“琥珀”起了反应。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إن الطفيلي يتأثر بوجود \"الآمبر\".",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "El parásito reacciona al ámbar."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0060_cha200",
+      "guid": "2925d060-468a-49f2-9f71-0a95b870dedd",
+      "crc?": 3923043190,
+      "hash": 35543750,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "これがアンバー…",
+        "So that's the Amber?",
+        "C'est ça, l'Ambre ?",
+        "Questa è l'Ambra?",
+        "Das ist er also?",
+        "¿Eso es el Ámbar?",
+        "Так это янтарь?",
+        "A zatem to jest Bursztyn?",
+        "",
+        "",
+        "Então isso é o Âmbar?",
+        "그러니까 그게 앰버라는 거지?",
+        "那個就是「琥珀」？",
+        "那个就是“琥珀”？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إذن ذلك تأثير \"الآمبر\"؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Ese es el ámbar?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0070_cha200",
+      "guid": "77e0c506-ae5d-4bbe-95d3-cd99a82fe7e5",
+      "crc?": 1388794383,
+      "hash": 3528422144,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ウェスカーが欲しがりそうなものね",
+        "That looks like something Wesker would want.",
+        "Tout à fait le genre de truc que Wesker recherche.",
+        "Ecco perché Wesker la vuole.",
+        "Kein Wunder, dass Wesker ihn haben will.",
+        "La clase de objeto que querría Wesker.",
+        "Вполне в стиле Вескера.",
+        "Wygląda jak coś, czego mógłby chcieć Wesker.",
+        "",
+        "",
+        "É, parece algo que o Wesker iria querer.",
+        "웨스커가 가지고 싶어 할 만하네.",
+        "的確像是威斯卡想要的。",
+        "的确像是威斯卡要的。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يبدو كشيء قد يريده ويسكر.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Parece algo que querría Wesker."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0080_cha300",
+      "guid": "9801dc53-0a8d-4c26-bd0b-94cd57d8ad74",
+      "crc?": 1602272429,
+      "hash": 1017846954,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "こいつでおさまるはずだ",
+        "This will knock out the parasite...",
+        "Ça, ça va endormir le parasite...",
+        "Questo bloccherà il parassita...",
+        "Das sollte den Parasiten",
+        "Esto tumbará al parásito...",
+        "Обезвредим паразита.",
+        "To unieszkodliwi pasożyta...",
+        "",
+        "",
+        "Isso vai neutralizar o parasita...",
+        "이게 기생체를 억제해 줄 거야...",
+        "這藥能抑制寄生蟲……",
+        "这药能抑制寄生虫……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هذا سيشل الطفيلي...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Esto detendrá al parásito..."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0090_cha300",
+      "guid": "77577e00-ec3d-4ef0-a0a4-a609981548b7",
+      "crc?": 2583890622,
+      "hash": 3950298960,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "――しばらくなら",
+        "but only for a time.",
+        "du moins pour un temps.",
+        "Ma solo per un po'.",
+        "vorerst lahmlegen.",
+        "...solo por un tiempo.",
+        "Хотя бы на время.",
+        "...ale tylko na pewien czas.",
+        "",
+        "",
+        "... mas só por um tempo.",
+        "아주 잠깐이지만.",
+        "但藥效不長。",
+        "但药效不长。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لكن لبعض الوقت فقط.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "solo por un tiempo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0100_cha300",
+      "guid": "d17b7b5b-9c0d-4a6c-a1e7-6d33413812e5",
+      "crc?": 3687381708,
+      "hash": 1687247470,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "いいな？　打つぞ",
+        "You ready? A tu salud.",
+        "T'es prête ? A tu salud.",
+        "Sei pronta? A tu salud.",
+        "Bereit? Drück die Daumen.",
+        "¿Lista? A tu salud.",
+        "Ну что… Будь здорова.",
+        "Gotowa? A tu salud.",
+        "",
+        "",
+        "Tá pronta? ¡A tu salud!",
+        "놓는다? [스페인어] 건강이 제일이지.",
+        "忍著點……\r\n（西班牙語）祝妳健康。 ",
+        "忍着点……\r\n（西班牙语）祝你健康。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أمستعدة؟ نخب صحتك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Lista? A tu salud."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0110_cha300",
+      "guid": "5f2dfab1-9623-4464-9e03-0f0c32830a2c",
+      "crc?": 3616406278,
+      "hash": 2803830671,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "これは一時しのぎだ",
+        "Just remember, it's not a cure.",
+        "Oublie pas, c'est pas un remède.",
+        "Ma ricorda, non è una cura.",
+        "Vergiss nicht, du bist nicht geheilt.",
+        "Y recuerda: no es la cura.",
+        "Но помни: это на время.",
+        "Tylko pamiętaj, to cię nie wyleczy.",
+        "",
+        "",
+        "Mas se lembre, não é uma cura.",
+        "잊지 마, 이건 치료 약이 아니야.",
+        "這只是拖延。要想治好……",
+        "这只是拖延。要想治好……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تذكري أن هذا ليس علاجًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Solo recuerda, no es una cura."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0120_cha300",
+      "guid": "aed72b58-788c-4fea-92c9-82841ec67c33",
+      "crc?": 2241016628,
+      "hash": 451079438,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "早く体から虫を取り除かないと",
+        "We still need to find a way\r\nto get that thing out of you.",
+        "Va falloir virer cette chose de ton corps.",
+        "Dobbiamo comunque liberarti da quella roba.",
+        "Wir müssen das Ding\r\nimmer noch aus dir raus kriegen.",
+        "Hay que sacarte esa cosa del cuerpo.",
+        "Надо ещё как-то извлечь паразита.",
+        "Nadal musimy znaleźć sposób,\r\nby to z ciebie wyciągnąć.",
+        "",
+        "",
+        "Ainda temos que dar um jeito de tirar isso de você.",
+        "몸 안의 기생체를 제거할 방법을 찾아야 해.",
+        "最後還是得把蟲子弄出來。",
+        "最后还是得把虫子弄出来。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا يزال علينا العثور على طريقة لإخراج هذا الشيء من داخلك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tenemos que sacarte esa cosa del cuerpo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0130_cha200",
+      "guid": "d11a1d66-ebad-45e8-9667-6f3151ae774f",
+      "crc?": 2285972256,
+      "hash": 381607568,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "奴が来る…",
+        "It's coming...",
+        "Il arrive...",
+        "Arriva...",
+        "Es ist hier.",
+        "Ya viene.",
+        "Он близко…",
+        "Nadchodzi...",
+        "",
+        "",
+        "Ele tá vindo...",
+        "놈이 오고 있어...",
+        "又來了……",
+        "又来了……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إنه مقبل...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ahí viene..."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0140_cha300",
+      "guid": "2d2ab1d3-89cb-44e5-8919-8d155d195846",
+      "crc?": 3553715543,
+      "hash": 4022277388,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "何かミスったか？",
+        "I don't understand!",
+        "Je comprends pas ce qui se passe.",
+        "Non capisco.",
+        "Ich versteh das nicht,",
+        "No lo entiendo.",
+        "Не понимаю.",
+        "Nie rozumiem!",
+        "",
+        "",
+        "Não tô entendendo.",
+        "어떻게 된 거지?",
+        "怎麼回事！？",
+        "怎么回事！？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا أفهم.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No entiendo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0150_cha300",
+      "guid": "b7afbee2-cd5d-4dab-9220-772d2d9dbc5e",
+      "crc?": 737975279,
+      "hash": 3209679854,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "いや　薬は効くはずだ！",
+        "It should be working by now!",
+        "Ça devrait déjà faire effet.",
+        "Perché non sta funzionando?",
+        "sie müsste längst wirken!",
+        "Ya debería funcionar.",
+        "Уже должно сработать.",
+        "Powinno już zadziałać!",
+        "",
+        "",
+        "Já devia tá funcionando.",
+        "지금쯤이면 약이 들어야 하는데!",
+        "藥該起作用了呀！",
+        "药该起作用了呀！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يفترض أنه يعمل الآن.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ya debería funcionar."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0160_cha200",
+      "guid": "f6733f1e-5751-408f-ab0f-2541d9c3fa6a",
+      "crc?": 1917810001,
+      "hash": 4133782871,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "アンバーを持って行って！",
+        "Take the Amber and go!",
+        "Prends l'Ambre et va-t'en !",
+        "Prendi l'Ambra e vai!",
+        "Nimm den Stein und geh!",
+        "¡Coge el Ámbar y vete!",
+        "Бери янтарь и беги!",
+        "Zabierz Bursztyn i uciekaj!",
+        "",
+        "",
+        "Pega o Âmbar e some!",
+        "앰버를 가지고 가!",
+        "你拿「琥珀」先走！",
+        "你拿“琥珀”先走！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "خذ \"الآمبر\" واذهب!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Toma el ámbar y vete!"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0170_cha200",
+      "guid": "81d1d6fb-6530-4ed0-bf51-254c2c11b7df",
+      "crc?": 2925512571,
+      "hash": 2506704447,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "この症状がマシになったら すぐ追いかけるわ",
+        "Once the parasite is sedated, you\r\ncan give me back that damn stone.",
+        "Une fois le parasite endormi,\r\nt'auras qu'à me redonner cette foutue pierre.",
+        "Quando il parassita sarà sedato,\r\nmi darai quella maledetta pietra.",
+        "Du kannst ihn mir geben,\r\nwenn der Parasit sich beruhigt hat.",
+        "Cuando el parásito esté sedado te pediré la maldita piedra.",
+        "Вернёшь мне этот чёртов камень,\r\nкогда паразит уснёт.",
+        "Kiedy pasożyt zostanie unieszkodliwiony,\r\nwtedy możesz mi oddać ten cholerny kamień.",
+        "",
+        "",
+        "Quando o parasita tiver sedado,\r\nvocê me devolve essa pedra maldita.",
+        "일단 기생체가 잠잠해지고 나면\r\n그 망할 돌을 나한테 줘야 할 거야.",
+        "等寄生蟲不動了……再把那塊破石頭給我。",
+        "等寄生虫不动了……再把那块破石头给我。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "بمجرد أن يسكن تأثير الطفيلي\r\nيمكنك أن تعيد لي الحجر.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Cuando el parásito esté sedado,\r\nme devolverás la piedra."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0180_cha300",
+      "guid": "31e42c2f-4a35-462a-b00f-00032e3c18c7",
+      "crc?": 2756126055,
+      "hash": 4016823655,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "置いてけないぜ　そんな状態で…",
+        "I can't leave you here! Not like this!",
+        "Je peux pas te laisser. Pas dans cet état !",
+        "Io non ti lascio qui, non in questo stato!",
+        "Ich soll dich allein lassen?\r\nHast du sie noch alle?!",
+        "¡No puedo dejarte! ¡No así!",
+        "И бросить тебя? Нет, не дождёшься!",
+        "Nie mogę cię tu zostawić! Nie w taki sposób!",
+        "",
+        "",
+        "Não posso largar você aqui, não desse jeito!",
+        "당신을 두고 갈 수는 없어! 이대로는 안 돼.",
+        "就這麼丟下妳，我做不到！",
+        "就这么丢下你，我做不到！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا يمكنني أن أتركك هنا، ليس هكذا!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No puedo dejarte aquí, ¡no así!"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0190_cha200",
+      "guid": "d114138f-6d8d-4dff-ade1-cdec3a293c77",
+      "crc?": 3642600060,
+      "hash": 3133374426,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "問題ない　行きなさい",
+        "Spare me. I'll be fine.",
+        "T'en fais pas. Ça ira.",
+        "Ma smettila. Me la caverò.",
+        "Spar dir das. Ich komm klar.",
+        "Tranquilo. Estaré bien.",
+        "Хватит. Я справлюсь.",
+        "Daj spokój. Nic mi nie będzie.",
+        "",
+        "",
+        "Me poupa. Eu vou ficar bem.",
+        "날 내버려 둬. 괜찮을 거야.",
+        "省省吧，我沒問題的。",
+        "省省吧，我没问题的。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "وفر عليّ العناء. سأكون بخير.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tranquilo, estaré bien."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0200_cha200",
+      "guid": "84e6f112-5aad-48fb-aca1-11e4239bf7c1",
+      "crc?": 2722430430,
+      "hash": 2470647275,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオンに薬 届けるんでしょ",
+        "You got another promise to keep.",
+        "T'as une autre promesse à tenir.",
+        "Hai una promessa da mantenere.",
+        "Du hast noch ein Versprechen einzulösen.",
+        "Ya tienes otra promesa...",
+        "Ты же ещё что-то обещал.",
+        "Masz inną obietnicę, której musisz dotrzymać.",
+        "",
+        "",
+        "Você tem outra promessa a cumprir.",
+        "당신한테는 지켜야 할 다른 약속이 있잖아.",
+        "不是有人在等你嗎。",
+        "不是有人在等你吗。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هناك وعد آخر يجب أن تفي به.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tienes otra promesa por cumplir."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0210_cha300",
+      "guid": "70b5a840-600b-4cf1-b9c5-25e5715cade2",
+      "crc?": 1251886739,
+      "hash": 715336429,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "いいか？　絶対に… ",
+        "All right. But you come find me...",
+        "OK. Mais tu me rejoins...",
+        "Va bene. Ma vieni a cercarmi...",
+        "Also gut. Aber du kommst zu mir,",
+        "Vale. Pero búscame...",
+        "Ладно. Только найди меня…",
+        "No dobra. Ale znajdź mnie...",
+        "",
+        "",
+        "Tá bom. Mas venha me encontrar...",
+        "알았어. 그렇지만 날 찾아와야 해...",
+        "好吧，妳一處理完……",
+        "好吧，你一处理完……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حسنًا، لكن اعثري عليّ...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Muy bien. Pero búscame..."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse340_s00a_0220_cha300",
+      "guid": "7c74a304-0315-49c0-bd11-04d54a7e4982",
+      "crc?": 713569199,
+      "hash": 3901926353,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "後を追って来いよ",
+        "soon as you're done here.",
+        "dès que t'as fini.",
+        "appena stai meglio.",
+        "wenn du hier fertig bist.",
+        "cuando termines.",
+        "когда разберёшься.",
+        "...gdy tylko się z tym uporasz.",
+        "",
+        "",
+        "Assim que isso acabar.",
+        "여기가 정리되면 바로 오라고.",
+        "就趕快來找我！",
+        "就赶快来找我！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "بمجرد أن تنتهي هنا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "en cuanto termines."
+      ]
+    }
+  ]
+}

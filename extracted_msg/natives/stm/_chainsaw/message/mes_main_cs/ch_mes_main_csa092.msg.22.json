@@ -1,0 +1,1560 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "話者表示"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "優先度"
+    },
+    {
+      "ty": 2,
+      "name": "話し相手"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_csa092_s00a",
+      "guid": "a503bc82-62a7-475d-b2a0-16dcd37b813a",
+      "crc?": 2140431352,
+      "hash": 268475764,
+      "attributes": [
+        {
+          "String": "<MESTIME 9.38, 12.99>\r\n<MESTIME 13.47, 15.98>\r\n<MESTIME 16.0, 20.92>\r\n<MESTIME 21.82, 23.98>\r\n<MESTIME 24.17, 28.49>\r\n<MESTIME 28.67, 32.16>\r\n<MESTIME 32.19, 33.58>\r\n<MESTIME 33.6, 35.67>\r\n<MESTIME 35.68, 39.01>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa092_s00a_0010_cha600",
+      "guid": "91fb1bc9-e709-4fbd-ac8c-1bf4f7df3685",
+      "crc?": 3995286208,
+      "hash": 4109587228,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "それで… “アンバー”はどうなった",
+        "So, what's become of the Amber?",
+        "Alors, du nouveau sur l'Ambre ?",
+        "Allora, che fine ha fatto l'Ambra?",
+        "Also, was Neues zum Bernstein?",
+        "Bueno, ¿qué hay del Ámbar?",
+        "Ну? Что у тебя с янтарём?",
+        "To co z Bursztynem?",
+        "",
+        "",
+        "Então, o que aconteceu com o Âmbar?",
+        "그래서, \"앰버\"는 어떻게 됐지?",
+        "說，「琥珀」怎麼樣了？",
+        "说，“琥珀”怎么样了？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إذن، ما أخبار البحث عن \"الآمبر\"؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bueno, ¿qué hay del Ámbar?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa092_s00a_0020_cha200",
+      "guid": "c7781075-c6d3-498e-ba84-f797d0bb9bd7",
+      "crc?": 524133950,
+      "hash": 3270493056,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "悪いわね まだよ",
+        "Sorry. Nothing yet.",
+        "Désolée. Pas encore.",
+        "Mi spiace, ancora nulla.",
+        "Nein, tut mir leid.",
+        "Perdón. Aún nada.",
+        "Прости. Пока нет.",
+        "Przykro mi. Jeszcze go nie mam.",
+        "",
+        "",
+        "Desculpe. Nada ainda.",
+        "미안. 아직이야.",
+        "抱歉，還沒進展。",
+        "抱歉，还没进展。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "المعذرة. لم أتوصل لشيء بعد.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Perdón. Aún nada."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa092_s00a_0030_cha200",
+      "guid": "61e98df2-450d-472c-8f4d-0c467810b0d8",
+      "crc?": 1814322764,
+      "hash": 1256409979,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "でも “協力者”が城を混乱させてるところよ",
+        "But my little helper is creating quite the commotion.",
+        "Mais mon charmant \"petit assistant\"\r\ncause une belle pagaille.",
+        "Ma il mio piccolo aiutante\r\nsta facendo proprio un bel trambusto.",
+        "Aber mein „Helferlein“ stiftet ordentlich Unruhe.",
+        "Pero mi ayudante sí que ha estado bastante ocupado.",
+        "Но мой помощник устроил очень много шума.",
+        "Ale mój mały pomocnik robi tu trochę zamieszania.",
+        "",
+        "",
+        "Mas o meu ajudantezinho tá causando uma bela comoção.",
+        "하지만 내 지원군이 꽤 소란을 피워 주고 있지.",
+        "不過，我的「小助手」倒是給他們添了不少麻煩。",
+        "不过，我的“小助手”倒是给他们添了不少麻烦。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لكن مساعدي الصغير يثير فوضى حقيقية.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Pero mi ayudante sí que ha estado bastante ocupado."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa092_s00a_0040_cha200",
+      "guid": "83c52a3b-c00a-4988-a5d8-cbd1b720d061",
+      "crc?": 875371702,
+      "hash": 10013207,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "計画に変更はないわ",
+        "Everything will work out just fine.",
+        "Tout se passera comme prévu.",
+        "Andrà tutto alla perfezione.",
+        "Alles wird laufen wie geplant.",
+        "Todo saldrá según el plan.",
+        "Уверена, всё будет в порядке.",
+        "Wszystko się w końcu powiedzie.",
+        "",
+        "",
+        "Tudo vai dar certo no fim.",
+        "모든 게 다 잘 될 거야.",
+        "船到橋頭自然直。",
+        "船到桥头自然直。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سيسير كل شيء على ما يرام.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Todo saldrá según el plan."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa092_s00a_0050_cha600",
+      "guid": "f5d1baa8-d798-4347-bad6-e391ebf87e1a",
+      "crc?": 1248187707,
+      "hash": 3831028588,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "飼い犬は入念にしつけておけ　過信するな",
+        "As long as you can keep your dog under control.",
+        "Encore faut-il que tu gardes ton chien sous contrôle.",
+        "Basta che tu tenga il tuo cagnolino sotto controllo.",
+        "Solange du deinen Hund unter Kontrolle behältst.",
+        "Confío en que podrás controlar a tu sabueso.",
+        "Ты, главное, держи свою псину на привязи.",
+        "Jeśli tylko jesteś w stanie utrzymać swojego psa na smyczy.",
+        "",
+        "",
+        "Desde que você mantenha seu cachorrinho sob controle.",
+        "네가 그 개를 잘 다루는 한 그렇겠지.",
+        "前提是妳可得把妳的狗管好了。",
+        "前提是你可得把你的狗管好了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ما دمت تبقين خادمك تحت السيطرة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Confío en que podrás controlar a tu sabueso."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa092_s00a_0060_cha200",
+      "guid": "4aaf791e-02d9-4b76-a858-e1e9b6e5fe81",
+      "crc?": 109508187,
+      "hash": 1104936287,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "彼は優秀よ　安心して",
+        "He's a good boy. Predictable.",
+        "Il est utile... et prévisible.",
+        "È un bravo cane. Prevedibile.",
+        "Der tut nichts. Glaub mir.",
+        "Es buen chico. Predecible.",
+        "Он славный мальчик. Послушный.",
+        "To dobry piesek. Przewidywalny.",
+        "",
+        "",
+        "É um bom garoto. Previsível.",
+        "좋은 애야. 행동이 뻔하지.",
+        "他是個好孩子。不會亂來。",
+        "他是个好孩子。不会乱来。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إنه فتى مطيع، ويمكن توقع تصرفاته.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Es obediente. Predecible."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa092_s00a_0070_cha600",
+      "guid": "f1200d3c-0161-4424-b98d-40f61f39b04a",
+      "crc?": 2953404284,
+      "hash": 3196333986,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "いいだろう",
+        "Fine.",
+        "Bien.",
+        "Bene.",
+        "Schön.",
+        "Bien.",
+        "Ладно.",
+        "Dobrze.",
+        "",
+        "",
+        "Certo.",
+        "그거 잘 됐군.",
+        "好。",
+        "好。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حسنًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bien."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa092_s00a_0080_cha600",
+      "guid": "1a009573-966e-48aa-b27f-71b9fdf6b0c1",
+      "crc?": 1967141370,
+      "hash": 3030614265,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "好きにしろ",
+        "Keep your mutt.",
+        "Tu peux le garder.",
+        "Tieni il cagnaccio.",
+        "Behalt ihn.",
+        "Haz lo que quieras.",
+        "Оставь пса.",
+        "Pilnuj swojego kundla.",
+        "",
+        "",
+        "Fique com ele.",
+        "잘 지켜봐.",
+        "牽好他。",
+        "牵好他。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يمكنك الوثوق به كما تشائين.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Haz lo que quieras."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa092_s00a_0090_cha600",
+      "guid": "4da713cc-3ffc-4c7d-a5b9-92cf67f429ce",
+      "crc?": 368505290,
+      "hash": 3709518635,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "手を噛まれないよう注意することだ",
+        "But don't come crying to me if you get bit.",
+        "Mais ne viens pas pleurer si tu te fais mordre.",
+        "Ma non venire a piangere da me se ti morde.",
+        "Aber beschwer dich nicht bei mir,\r\nwenn er dich beißt.",
+        "Pero no te quejes si al final te muerde.",
+        "Но не жалуйся, если он тебя покусает.",
+        "Ale nie przychodź potem z płaczem, jak cię ugryzie.",
+        "",
+        "",
+        "Mas não venha chorar para mim se for mordida.",
+        "물리고 나서 나한테 울면서 오지만 말라고.",
+        "到時候被咬了，可別來找我。",
+        "到时候被咬了，可别来找我。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لكن لا تأتي إليّ باكية إن تضررتي منه.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Pero no te quejes si al final te muerde."
+      ]
+    }
+  ]
+}

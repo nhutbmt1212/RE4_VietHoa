@@ -1,0 +1,1329 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "話者表示"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse030_s00a",
+      "guid": "ade130f4-dcbe-4265-aaf9-b2b81d175835",
+      "crc?": 240883192,
+      "hash": 124683614,
+      "attributes": [
+        {
+          "String": "<MESTIME 1.86, 6.57>\r\n<MESTIME 9.28, 10.51>\r\n<MESTIME 10.66, 14.12>\r\n<MESTIME 15.33, 17.33>\r\n<MESTIME 17.81, 21.11>\r\n<MESTIME 21.97, 23.92>\r\n<MESTIME 24.43, 25.93>\r\n<MESTIME 26.55, 30.46>\r\n<MESTIME 31.51, 36.0>\r\n<MESTIME 36.08, 38.03>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse030_s00a_0010_cha200",
+      "guid": "c18a3230-7007-4b5b-b885-bdf3fd075890",
+      "crc?": 3034777411,
+      "hash": 1853524281,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "指令室… ルイスはアンバーを隠してたわ　\r\n今 取りに行かせた",
+        "Control, come in. Luis hid the Amber,\r\nbut I've sent him to retrieve it.",
+        "Contrôle, vous m'entendez ? Luis a caché l'Ambre.\r\nJe lui ai demandé d'aller le chercher.",
+        "Centrale, mi riceve? Luis ha nascosto l'Ambra,\r\nma l'ho già mandato a recuperarla.",
+        "Zentrale, kommen. Luis hat den Bernstein\r\nversteckt, er geht ihn jetzt holen.",
+        "Control, responde. Luis tiene el Ámbar,\r\nlo escondió y va a recuperarlo.",
+        "База, приём. Луис спрятал янтарь, но\r\nя послала его за ним.",
+        "Centrala, odbiór. Luis ukrył Bursztyn,\r\nale wysłałam go po niego.",
+        "",
+        "",
+        "Controle, responda. Luis escondeu o Âmbar,\r\nmas eu o mandei recuperá-lo.",
+        "지령실, 응답해. 루이스가 앰버를\r\n숨기는 바람에 다시 가지러 보냈어.",
+        "指揮室，請回答。\r\n路易斯藏好了琥珀，我已經叫他去拿了。 ",
+        "指挥室，请回话。\r\n路易斯藏好了“琥珀”，我已经叫他去取了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "غرفة التحكم، أجب. خبأ لويس \"الآمبر\"\r\nلكنني أرسلته ليستعيدها.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Control, adelante. Luis ocultó el ámbar,\r\npero lo mandé a recuperarlo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse030_s00a_0020_cha200",
+      "guid": "610089a4-42a3-4d70-92ea-41813ecfaeb0",
+      "crc?": 930379522,
+      "hash": 3405480915,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "指令室　聞こえてる？",
+        "Control, do you copy?",
+        "Contrôle, vous me recevez ?",
+        "Centrale, mi riceve?",
+        "Zentrale? Hört ihr mich?",
+        "Control, ¿me oyes?",
+        "База, меня слышно?",
+        "Centrala, słyszysz mnie?",
+        "",
+        "",
+        "Controle, tá na escuta?",
+        "지령실, 듣고 있는 거야?",
+        "指揮室，聽到了嗎？",
+        "指挥室，听到了吗？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "غرفة التحكم، هل تسمعني؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Control, ¿me recibes?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse030_s00a_0030_cha600",
+      "guid": "60ff31b7-2df3-4e91-9fa2-1ae7d0183384",
+      "crc?": 2968819337,
+      "hash": 2649162980,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<UNKNOWN>"
+        }
+      ],
+      "content": [
+        "聞いている　続けろ",
+        "I'm listening. Go on.",
+        "Je t'écoute. Continue.",
+        "Ti ascolto. Continua.",
+        "Ich hör dich. Also?",
+        "Te oigo. Habla.",
+        "Слышно. Продолжай.",
+        "Słyszę. Kontynuuj.",
+        "",
+        "",
+        "Estou ouvindo. Continue.",
+        "듣고 있다. 계속해.",
+        "我在聽呢，繼續。",
+        "听着呢，继续。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أسمعكِ. تحدثي.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Te escucho. Adelante."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse030_s00a_0040_cha200",
+      "guid": "308ae66a-de87-4bbf-b195-395543ad00e4",
+      "crc?": 708345382,
+      "hash": 3313802939,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "それに想定外の問題も少しね",
+        "We ran into some unexpected trouble.",
+        "On a eu quelques petits imprévus.",
+        "Purtroppo abbiamo avuto degli imprevisti.",
+        "Wir hatten hier ein paar Schwierigkeiten.",
+        "Tuvimos ciertos inconvenientes.",
+        "Возникла неожиданная проблема.",
+        "Napotkaliśmy nieprzewidziane trudności.",
+        "",
+        "",
+        "Tivemos uns problemas inesperados.",
+        "예상치 못한 문제가 생겼어.",
+        "情況比想像中還要麻煩。",
+        "情况比想象中还要麻烦。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لقد صادفتنا بعض المشاكل غير المتوقعة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tuvimos algunos inconvenientes."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse030_s00a_0050_cha600",
+      "guid": "383c2cb3-2804-43ce-8a16-a9779922f794",
+      "crc?": 247839607,
+      "hash": 1124424797,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "で　どうリカバリーするつもりだ？",
+        "And? What will you do about it?",
+        "Et ? Qu'est-ce que tu comptes faire ?",
+        "Quindi? Che pensi di fare al riguardo?",
+        "Und? Wie lautet die Lösung?",
+        "¿Y? ¿Qué vas a hacer?",
+        "И? Что ты будешь делать?",
+        "I? Co zamierzasz z nimi zrobić?",
+        "",
+        "",
+        "E o que fará a respeito disso?",
+        "그래서? 어떻게 할 거지?",
+        "所以呢？妳準備要怎麼辦？",
+        "所以呢？你准备要怎么办？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "وماذا بعد؟ ماذا ستفعلين بشأنها؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Y? ¿Qué harás al respecto?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse030_s00a_0060_cha200",
+      "guid": "20cca7f4-2764-4ed3-b9a3-c1512b0c7e72",
+      "crc?": 807973451,
+      "hash": 721758139,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ルイスに　教会へ持ってこさせるわ",
+        "Luis is already en route to the church.",
+        "Luis est déjà en route pour l'église.",
+        "Luis è già diretto verso la chiesa.",
+        "Luis ist bereits auf dem Weg zur Kirche.",
+        "Luis va de camino a la iglesia.",
+        "Луис уже на пути к церкви.",
+        "Luis jest już w drodze do kościoła.",
+        "",
+        "",
+        "Luis já tá a caminho da igreja.",
+        "루이스가 이미 교회로 가고 있어.",
+        "路易斯已經先往教堂走了。",
+        "路易斯已经先往教堂走了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لويس في طريقه إلى الكنيسة بالفعل.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Luis ya va en camino a la iglesia."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse030_s00a_0070_cha200",
+      "guid": "be6a5fcc-13ca-43d8-803e-b87de72b811a",
+      "crc?": 1541245516,
+      "hash": 2327889576,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "発信器のおまけつきでね",
+        "I'm tracking him every step of the way.",
+        "Je suis ses moindres déplacements.",
+        "Tengo d'occhio i suoi movimenti.",
+        "Ich überwache sein Signal.",
+        "Sigo todos sus pasos.",
+        "Я за ним приглядываю.",
+        "Cały czas go śledzę.",
+        "",
+        "",
+        "Tô rastreando o percurso dele.",
+        "그 남자의 움직임은 낱낱이 추적 중이고.",
+        "他的行踪我瞭如指掌。",
+        "他的行踪我了如指掌。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أتتبعه خطوة بخطوة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Le estoy siguiendo la pista."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse030_s00a_0080_cha600",
+      "guid": "c44728b1-a36b-4391-b1ec-0f5c9aa94f4a",
+      "crc?": 5350512,
+      "hash": 43972411,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "いいだろう　では早急に脱出しろ",
+        "Very well. Then I suggest you hurry.",
+        "Très bien. Alors tu ferais mieux de te dépêcher.",
+        "Molto bene. Allora farai meglio a sbrigarti.",
+        "Sehr gut. Dann verschwinde von dort.",
+        "Muy bien. Pues entonces date prisa.",
+        "Хорошо. Но советую поспешить.",
+        "Dobrze. W takim razie polecam ci się pospieszyć.",
+        "",
+        "",
+        "Muito bem. Então sugiro que se apresse.",
+        "잘됐군. 그렇다면 서두르는 게 좋을 거야.",
+        "非常好。妳也動作快點。",
+        "非常好。你也动作快点。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "جيد جدًا. إذن من الأفضل أن تسرعا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Muy bien. Pues sugiero que te apresures."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse030_s00a_0090_cha200",
+      "guid": "b123f42d-a7a7-438e-b198-de9772a9f56e",
+      "crc?": 3805567768,
+      "hash": 1470206192,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "了解　ただルートをチェックしたいわ",
+        "Copy. Just need to confirm my route first.",
+        "Bien reçu. Je dois juste vérifier mon itinéraire.",
+        "Ok. Devo confermare il percorso.",
+        "Okay. Ich muss nur noch rausfinden, wie.",
+        "Vale. Voy a confirmar mi ruta.",
+        "Ладно. Только оценю маршрут.",
+        "Przyjęłam. Muszę tylko najpierw potwierdzić trasę.",
+        "",
+        "",
+        "Entendido. Só preciso confirmar a minha rota.",
+        "알겠어. 일단 경로부터 확인하게 해 줘.",
+        "明白。得先確認下路線。",
+        "明白。得先确认下路线。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عُلم. أحتاج إلى تأكيد طريقي أولاً.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Entendido. Necesito confirmar mi ruta."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse030_s00a_0100_cha200",
+      "guid": "369a5cf2-245b-4b09-9630-25e588fd25fa",
+      "crc?": 3434311589,
+      "hash": 280514407,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "見晴らしのいい場所に移動する",
+        "Heading out to get a visual of the area.",
+        "J'ai besoin d'une vue globale de la zone.",
+        "Do un'occhiata all'area circostante.",
+        "Gehe mir einen Überblick verschaffen.",
+        "Veré el área desde arriba.",
+        "Надо выйти и осмотреться.",
+        "Przeskanuję teren.",
+        "",
+        "",
+        "Vou sair para ter uma visão melhor da área.",
+        "주변이 잘 보이는 곳으로 이동할게.",
+        "我去找個視野好的地方。",
+        "我去找个视野好的地方。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سأذهب إلى الخارج لأشاهد المنطقة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Voy a ver el área desde arriba."
+      ]
+    }
+  ]
+}

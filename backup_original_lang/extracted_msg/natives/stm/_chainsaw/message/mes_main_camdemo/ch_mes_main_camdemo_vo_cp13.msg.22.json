@@ -1,0 +1,540 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp13_0001",
+      "guid": "0ff4427f-adab-4a6d-8ccd-c20460e85614",
+      "crc?": 156821871,
+      "hash": 1651272718,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.92>\r\n<VOTIME 0.0>\r\n<CONVEND 3.92>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+      "guid": "e1147c15-9850-4c83-a98d-b923e4f80e6d",
+      "crc?": 1388128340,
+      "hash": 399294557,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0001_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp13_0002",
+      "guid": "64f028ad-33d3-4998-a21b-629b09fc4e72",
+      "crc?": 4259725239,
+      "hash": 111643863,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 4.02>\r\n<VOTIME 0.0>\r\n<CONVEND 4.02>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp13_0002_0010_cha000",
+      "guid": "e11a5c70-0244-48fe-a2d5-1d725b309f1e",
+      "crc?": 1485146141,
+      "hash": 3772858414,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "こんなデカいの 誰が使うんだ？",
+        "Good luck finding someone\r\nbig enough to use this thing.",
+        "Eh ben, va trouver quelqu'un capable de soulever ça.",
+        "Devi essere bello grosso per usare questo.",
+        "Möchte mal wissen, wer das Ding benutzen soll.",
+        "Buena suerte buscando a alguien\r\nque pueda usar esto.",
+        "Да кто ж способен\r\nподнять такую штуку?",
+        "Powodzenia ze znalezieniem kogoś\r\ntak wielkiego, żeby mógł tego użyć.",
+        "",
+        "",
+        "Boa sorte achando alguém com tamanho\r\npra usar isso aí.",
+        "이걸 쓸 수 있을 정도로 큰 놈이\r\n있다면 어디 한번 잘 찾아보시지.",
+        "造這麼大的錘子給誰用啊？",
+        "造这么大的锤子给谁用啊？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حظًا موفقًا في العثور على شخص\r\nضخم بما يكفي لاستخدام هذا الشيء.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Suerte buscando a alguien\r\nque pueda manejar esto."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp13_0003",
+      "guid": "b470b4c8-9f97-4258-a4b3-55c29dcf99d9",
+      "crc?": 1791716194,
+      "hash": 50530913,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.03>\r\n<VOTIME 0.0>\r\n<CONVEND 3.03>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp13_0003_0010_cha000",
+      "guid": "a14acd38-ea8f-478c-945d-2353726ac53c",
+      "crc?": 1551794288,
+      "hash": 2243004757,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "パーティーにぴったりの品揃えだ",
+        "There are enough weapons here to get a party going.",
+        "Il y a assez d'armes ici pour former une guérilla.",
+        "Una bella festa con tutte queste armi.",
+        "Das Zeug reicht für unsere ganze Abteilung.",
+        "Hay armas como para un ejército.",
+        "Тут оружия хватит на целый отряд.",
+        "Z taką ilością broni można by rozkręcić niezłą imprezę.",
+        "",
+        "",
+        "Tem arma aqui pra fazer uma bela festa.",
+        "여기 있는 무기들로 파티를 하고도 남겠어.",
+        "這些軍火都夠開煙花匯演了。",
+        "这些军火都够开烟花汇演了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يوجد ما يكفي من الأسلحة هنا لإقامة حفل.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hay armas como para un ejército."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp13_0004",
+      "guid": "4d336fad-6eef-435b-9fbb-d276d2460cc2",
+      "crc?": 532632433,
+      "hash": 749878079,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.31>\r\n<VOTIME 0.0>\r\n<CONVEND 2.31>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+      "guid": "4e4976b4-fc83-439c-91dd-b5d856882a67",
+      "crc?": 2948966572,
+      "hash": 3236062658,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0004_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp13_0005",
+      "guid": "881cd803-d3ea-41a5-a88b-63c3a431967b",
+      "crc?": 3330079308,
+      "hash": 756424365,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+      "guid": "e27f29e3-75d8-4e64-b22f-73702afb8f84",
+      "crc?": 327489510,
+      "hash": 763851539,
+      "attributes": [
+        {
+          "String": "<DUMMY 03SEC>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp13_0005_0010_cha000"
+      ]
+    }
+  ]
+}

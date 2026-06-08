@@ -1,0 +1,444 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_014_00",
+      "guid": "e024f87b-1db4-4242-a3c9-f5e49350213a",
+      "crc?": 374360994,
+      "hash": 1313475618,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "虫の巣窟 ",
+        "Insect Hive",
+        "Nid d'insectes",
+        "Alveare",
+        "Insektenbau XL",
+        "El colmo de las colmenas",
+        "Улей насекомых",
+        "Rój owadów",
+        "",
+        "",
+        "Ninho de Insetos",
+        "벌레 소굴",
+        "蟲巢",
+        "虫巢",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "خلية الحشرات",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Colmena"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_014_01",
+      "guid": "91cd9f4b-74bb-4f08-9f94-0172a3e4a7ea",
+      "crc?": 775021996,
+      "hash": 3611338818,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "際限なく生まれ続ける虫どもには\r\nオレたちの仲間が何人もやられた。\r\n\r\nこれ以上悲劇を増やさないために、\r\n巨大な巣にある<COL FILE>虫の出入り口</COL>を破壊して塞いでくれ。",
+        "Too many have lost their lives to the never-ending\r\nswarm of insects. It is a plague!\r\n\r\nPlease destroy the <COL FILE>entrances</COL> in their gigantic\r\nhive and save us from further tragedy!",
+        "Trop de nos camarades ont perdu la vie à cause\r\nde ces insectes qui viennent sans arrêt.\r\nC'est un véritable fléau !\r\n\r\nQue quelqu'un détruise les <COL FILE>entrées</COL> de leur\r\nénorme nid pour éviter une nouvelle tragédie !",
+        "Sono troppe le vite perdute a causa di quello\r\nsciame di insetti. È una vera piaga!\r\n\r\nTi prego, distruggi le <COL FILE>entrate</COL> del loro\r\ngigantesco alveare, e salvaci da altre tragedie!",
+        "Zu viele sind bereits den nimmer enden wollenden\r\nSchwärmen von Ungeziefer zum Opfer gefallen!\r\nEs ist eine regelrechte Plage!\r\n\r\nBitte zerstöre die <COL FILE>Eingänge</COL> zu ihrer riesigen\r\nBrutstätte und bewahre uns vor einer weiteren\r\nTragödie!",
+        "Demasiadas personas han perdido la vida debido\r\nal incesante enjambre de insectos. ¡Son una plaga!\r\n\r\n¡Por favor, destruyan las <COL FILE>entradas</COL> en su enorme\r\ncolmena y que no haya más tragedias que lamentar!",
+        "Бесконечный рой насекомых унёс жизни\r\nмногих людей. Это настоящая беда!\r\nПрошу вас, избавьте нас от этой напасти,\r\nуничтожив <COL FILE>входы</COL> в их огромный улей!",
+        "Zbyt wielu ludzi straciło życie przez te\r\nniekończące się chmary owadów. To istna plaga!\r\n\r\nProszę, zniszcz <COL FILE>wejścia</COL> do ich olbrzymiego\r\ngniazda i ocal nas przed kolejną katastrofą!",
+        "",
+        "",
+        "Gente demais perdeu a vida pro enxame\r\ninterminável de insetos. É uma praga!\r\nSerá que você pode destruir as <COL FILE>entradas</COL>\r\nde seu ninho gigante e salvar a gente\r\nde uma tragédia ainda maior?",
+        "끝이 없는 벌레 떼 때문에 많은 이들이\r\n목숨을 잃었어. 그건 플라가야!\r\n\r\n거대한 벌레 소굴의 <COL FILE>출입구</COL>를 파괴해서\r\n우리를 더한 비극에서 구해 줘!",
+        "我都不知道已經有多少兄弟被那些\r\n無止境地湧出來的蟲害死了。\r\n\r\n快點去把巢的<COL FILE>出入口</COL>破壞，\r\n免得悲劇重演！",
+        "很多人都死在了一望无际的虫群中，\r\n那真的是一种折磨！\r\n\r\n请破坏它们巨大的巢穴<COL FILE>入口</COL>，\r\n以避免发生更大的悲剧！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "فقد الكثيرون حياتهم بسبب سرب الحشرات اللا نهائي.\r\nإنها وباء!\r\n\r\nأرجو تدمير <COL FILE>المداخل</COL> في خليتهم الضخمة\r\nلتفادي حدوث المزيد من المآسي!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Demasiadas personas perdieron la vida debido\r\nal incesante enjambre de insectos. ¡Son una plaga!\r\n\r\n¡Por favor, destruyan las <COL FILE>entradas</COL> en su enorme\r\ncolmena y que no haya más tragedias que lamentar!\r\n"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_014_02",
+      "guid": "9a0d33f3-bae6-44a9-9e97-0f9a2e6f368a",
+      "crc?": 539917265,
+      "hash": 3940822711,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

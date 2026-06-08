@@ -1,0 +1,444 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_015_00",
+      "guid": "4795e819-5fae-4c5f-8ea7-3ab341e2e60b",
+      "crc?": 3030396235,
+      "hash": 3339738466,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "青いメダリオンの破壊5",
+        "Destroy the Blue Medallions 5",
+        "Destruction des médaillons 5",
+        "Distruggi i medaglioni blu 5",
+        "Kampf den Medaillons 5",
+        "Medallones azules (5)",
+        "Уничтожьте синие медальоны 5",
+        "Zniszcz niebieskie medaliony 5",
+        "",
+        "",
+        "Destrua os Medalhões Azuis 5",
+        "파란 메달리온 부수기 5",
+        "破壞藍色徽章5",
+        "破坏蓝色徽章5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يجب تدمير الميداليات الزرقاء 5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Destruye los medallones azules 5"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_015_01",
+      "guid": "785ea8c2-76cf-4a4a-9e82-013f044fff17",
+      "crc?": 3664779590,
+      "hash": 56182102,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "もし手が空いてたらでかまわねえ、\r\n<COL FILE>青いメダリオン</COL>を破壊してくれ。\r\n\r\n分かってるよ、こんなもんいくら壊したところで\r\nかつての日々が戻って来るわけじゃねえことくらい。\r\nただ、なにもせずにはいられないのさ。",
+        "If anyone has a moment to spare, would you\r\nplease turn those <COL FILE>blue medallions</COL> into a broken\r\nmess on the floor?\r\n\r\nI know that it won't bring back the old days,\r\nbut I can't let this stand!",
+        "Si quelqu'un a un moment, serait-il possible\r\nde réduire ces <COL FILE>médaillons bleus</COL> en poussière ?\r\n\r\nJe sais que ça ne ramènera pas le bon vieux temps,\r\nmais je ne peux pas laisser passer ça !",
+        "Qualcuno ha un momento libero per ridurre\r\nin frantumi quegli stupidi <COL FILE>medaglioni blu</COL>?\r\n\r\nSo che non basterà a tornare ai bei vecchi tempi,\r\nma non posso continuare a tollerarne la vista.",
+        "Hat vielleicht jemand kurz Zeit und kann diese\r\n<COL FILE>blauen Medaillons</COL> in den Scherbenhaufen\r\nverwandeln, der sie sein sollten?\r\n\r\nIch weiß, das wird die gute alte Zeit nicht\r\nzurückbringen, aber ich kann das nicht auf mir\r\nsitzen lassen!",
+        "Si alguien tiene algo de tiempo libre, ¿sería\r\nposible convertir esos <COL FILE>medallones azules</COL>\r\nen pedacitos repartidos por el suelo?\r\n\r\n¡Sé que los días de antaño no volverán,\r\npero aun así no puedo permitirlos!",
+        "Если у кого-нибудь есть лишняя минутка, прошу вас,\r\nразбейте эти <COL FILE>синие медальоны</COL>, раскрошите их,\r\nсотрите в пыль!\r\n\r\nЗнаю, это не поможет вернуть былое,\r\nно и терпеть это я не хочу!",
+        "Jeśli ktoś ma chwilkę, to czy mógłby rozbić\r\nte <COL FILE>niebieskie medaliony</COL> w drobny mak?\r\n\r\nWiem, że to nie przywróci dawnych czasów,\r\nale po prostu nie znoszę ich widoku!",
+        "",
+        "",
+        "Se alguém tiver um tempinho livre, poderia\r\ntransformar esses <COL FILE>medalhões azuis</COL> em uma\r\npilha de cacos no chão?\r\n\r\nSei que não vai trazer os velhos tempos de volta,\r\nmas não dá pra deixar isso assim!",
+        "누구든 시간이 난다면 저 <COL FILE>파란 메달리온</COL>을\r\n산산이 조각내서 난장판으로 만들어 주지\r\n않겠어?\r\n부숴 봤자 예전으로 돌아갈 수 없다는 거\r\n나도 알아, 하지만 이대로 내버려 둘 순 없어!",
+        "有空的話，就幫我打掉那些<COL FILE>藍色徽章</COL>吧。\r\n\r\n我知道就算這麼做，也改變不了什麼。\r\n不過我也不能什麼都不做！",
+        "有空的话，能把那些<COL FILE>蓝色徽章</COL>打个稀烂吗？\r\n\r\n我知道，这并不能把过去的好时光带回来，\r\n但是要坐视不管，我做不到。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أيمكن لأحد تدمير تلك <COL FILE>الميداليات الزرقاء</COL>\r\nإن سنحت الفرصة؟\r\n\r\nأعرف أن هذا لن يعيد الأيام الخوالي،\r\nلكن لا يمكنني\r\nالوقوف مكتوف الأيدي.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Si alguien tiene algo de tiempo libre, ¿sería\r\nposible convertir esos <COL FILE>medallones azules</COL> en\r\npedazos repartidos por el suelo?\r\n\r\nSé que los días de antaño no volverán, pero no\r\npuedo quedarme aquí sentado y no hacer nada."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_015_02",
+      "guid": "889e69cc-b8f9-4675-a600-439c2d31bd55",
+      "crc?": 2693301328,
+      "hash": 2028378133,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

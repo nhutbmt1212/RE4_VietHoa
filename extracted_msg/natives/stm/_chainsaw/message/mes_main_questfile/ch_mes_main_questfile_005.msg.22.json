@@ -1,0 +1,444 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_005_00",
+      "guid": "127fce0a-9bdd-40b9-84a7-f9569024e51f",
+      "crc?": 631460468,
+      "hash": 3813410424,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "害獣駆除",
+        "Pest Control",
+        "Dératisation",
+        "Disinfestazione",
+        "Lästige Fabrikbewohner",
+        "Se busca exterminador",
+        "Борьба с вредителями",
+        "Deratyzacja",
+        "",
+        "",
+        "Controle de Pestes",
+        "유해 동물 방제 의뢰",
+        "治理鼠患",
+        "鼠害治理",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مكافحة الآفات",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Se busca pesticida"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_005_01",
+      "guid": "bbe0b1a0-08d2-4e69-ae35-d4133bd0eb15",
+      "crc?": 2065026383,
+      "hash": 3180273898,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "工場に住みつく<COL FILE>ネズミ</COL>を駆除してくれ。\r\n病気でもうつされちゃかなわねえ。\r\nオレたちには病みついてる暇なんてないからな。",
+        "Get rid of the <COL FILE>rats</COL> that have taken up in the\r\nfactory! We don't know if they are carrying any\r\ndiseases, but we'd rather not find out!",
+        "Débarrassez-nous des <COL FILE>rats</COL> qui ont élu domicile\r\ndans l'usine ! Nous ne savons pas s'ils sont porteurs\r\nde maladies, mais mieux vaut prévenir que guérir !",
+        "Elimina i <COL FILE>ratti</COL> che hanno invaso la fabbrica.\r\nCi domandiamo se portino qualche malattia,\r\nma preferiremmo non doverlo scoprire!",
+        "Kümmere sich bitte jemand um die <COL FILE>Ratten</COL>,\r\ndie sich in der Fabrik ausgebreitet haben!\r\nIch hab keine Ahnung, ob sie irgendwelche\r\nKrankheiten mit sich rumschleppen, und ich\r\nwill es ehrlich gesagt nicht rausfinden!",
+        "Que alguien se deshaga de las <COL FILE>ratas</COL> que han\r\ninfestado la fábrica. No sé si están infectadas\r\ncon alguna enfermedad... ¡Ni quiero saberlo!",
+        "Нужно перебить <COL FILE>крыс</COL>, которые заполонили завод.\r\nМы не знаем, разносят ли они какие-нибудь болезни,\r\nно лучше перестраховаться!",
+        "Niech ktoś pozbędzie się <COL FILE>szczurów</COL>, które zalęgły\r\nsię w zakładzie! Nie wiemy, czy przenoszą jakieś\r\nchoroby, ale lepiej się nie przekonywać!",
+        "",
+        "",
+        "Livre-se dos <COL FILE>ratos</COL> que estão dominando a\r\nfábrica. Não sei se eles têm alguma doença,\r\nmas é melhor não pagarmos para ver!",
+        "공장 안을 잠식한 <COL FILE>생쥐들</COL>을 없애 줘!\r\n무슨 병을 옮길지 모르니까 말이야.\r\n차라리 모르는 게 낫겠어!",
+        "快點解決住在工廠的那些<COL FILE>老鼠</COL>！\r\n我們不知道牠們有沒有病，不過還寧可不知道！",
+        "帮我们把工厂里的<COL FILE>老鼠</COL>驱除掉。\r\n我们不知道它们身上是否带有疾病，\r\n但我们宁可不知道！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يجب التخلص من <COL FILE>الفئران</COL> التي تعيش في المصنع!\r\nلا ندري إن كانت تحمل أي أمراض،\r\nلكننا لا نريد معرفة الإجابة!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Que alguien se deshaga de las <COL FILE>ratas</COL> que han\r\ninfestado la fábrica. No sé si llevan enfermedades\r\nconsigo o no, ¡pero mejor no saberlo!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_005_02",
+      "guid": "6229fdc5-b243-4276-8f27-28abb5a3458e",
+      "crc?": 2774719744,
+      "hash": 3863192815,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

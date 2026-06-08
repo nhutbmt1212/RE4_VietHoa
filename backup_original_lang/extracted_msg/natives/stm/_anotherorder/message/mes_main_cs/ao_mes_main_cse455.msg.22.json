@@ -1,0 +1,148 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse455_s00a",
+      "guid": "cafd885d-2302-4573-a52c-ebaf8f5100c6",
+      "crc?": 3941503318,
+      "hash": 2095792902,
+      "attributes": [
+        {
+          "String": "<MESTIME 5.87, 7.39>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse455_s00a_0010_cha200",
+      "guid": "974d6b98-6640-48ef-a7ee-6236f9fe5a23",
+      "crc?": 731099152,
+      "hash": 1750138368,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "行くしかないわね",
+        "Only one way through this.",
+        "J'ai pas vraiment le choix.",
+        "Non ho altra scelta.",
+        "Ich hab wohl keine Wahl.",
+        "Ya no hay vuelta atrás.",
+        "Ладно, потанцуем.",
+        "Tylko jedna droga ucieczki.",
+        "",
+        "",
+        "Só tem um jeito de sair daqui.",
+        "뚫고 가려면 방법은 하나뿐이야.",
+        "只能闖過去了。",
+        "只能闯过去了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "طريقة واحدة فقط لتخطي هذا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Solo hay una forma."
+      ]
+    }
+  ]
+}

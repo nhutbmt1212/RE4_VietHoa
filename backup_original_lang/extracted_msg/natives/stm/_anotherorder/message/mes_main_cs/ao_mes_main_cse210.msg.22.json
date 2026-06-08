@@ -1,0 +1,197 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse210_s00a",
+      "guid": "6452881a-790c-420f-9bbd-2a8e3244ea4e",
+      "crc?": 2891978516,
+      "hash": 2719053733,
+      "attributes": [
+        {
+          "String": "<MESTIME 16.65, 19.47>\r\n<MESTIME 48.94, 52.06>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse210_s00a_0010_chb500",
+      "guid": "2d4e5ccb-4977-4f93-b9e4-8c1d2bfd62b9",
+      "crc?": 3315317545,
+      "hash": 2998587952,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "血が混じってきたようだな…",
+        "Your blood has accepted the Gift.",
+        "Ton sang a accepté le don.",
+        "Il tuo sangue ha accolto il dono.",
+        "Dein Blut hat die Gabe angenommen.",
+        "Tu sangre ha aceptado el regalo. ",
+        "Твоя кровь приняла дар.",
+        "Twoja krew przyjęła Dar.",
+        "",
+        "",
+        "Seu sangue aceitou o Dom.",
+        "네 피가 은총을 받아들였군.",
+        "你的血已經接受了聖賜。",
+        "你的血已经接受了圣赐。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تقبل دمك الهبة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tu sangre aceptó el regalo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse210_s00a_0020_cha000",
+      "guid": "c883d7af-f8c9-4847-8992-ed1025a1021a",
+      "crc?": 2603041371,
+      "hash": 1519085004,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "血が… 混じってきた？",
+        "Gift...in my blood?",
+        "Un don... dans mon sang ?",
+        "Dono... nel mio sangue?",
+        "Gabe? In meinem Blut?",
+        "¿Un regalo...? ¿En mi sangre? ",
+        "Дар… в моей крови?!",
+        "Dar... w mojej krwi?",
+        "",
+        "",
+        "Um dom... no meu sangue?",
+        "은총이라니... 내 핏속에?",
+        "聖賜……我的血裡？",
+        "圣赐……我的血里？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هبة...في دمي؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Regalo...? ¿En mi sangre?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,638 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse100_s00a",
+      "guid": "b02a36da-38ad-45a4-ae3b-d375f9064697",
+      "crc?": 3369590311,
+      "hash": 2124983855,
+      "attributes": [
+        {
+          "String": "<MESTIME 2.96, 8.6>\r\n<MESTIME 11.92, 14.77>\r\n<MESTIME 14.85, 16.83>\r\n<MESTIME 18.16, 21.36>\r\n<MESTIME 23.08, 25.08>\r\n<MESTIME 28.84, 32.22>\r\n<MESTIME 32.39, 37.48>\r\n<MESTIME 62.58, 65.24>\r\n<MESTIME 65.69, 68.99>\r\n<MESTIME 69.14, 70.61>\r\n<MESTIME 72.45, 74.22>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse100_s00a_0010_cha200",
+      "guid": "1b80b012-a976-462b-bbf1-c593e3c6bf30",
+      "crc?": 2560064477,
+      "hash": 2363071198,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "“厄災の種”アンバー　それがあの男の依頼",
+        "So, he wants me to retrieve the Amber.\r\nAn object of ill omen.",
+        "Il m'a chargée de récupérer l'Ambre.\r\nUn objet synonyme de malheur.",
+        "Quindi vuole che io recuperi l'Ambra,\r\nun oggetto che sembra pericoloso.",
+        "Ich soll ihm den „Bernstein“ liefern.\r\nOffenbar kein ungefährliches Objekt.",
+        "Mi misión es recuperar el Ámbar.\r\nUn objeto de mal augurio.",
+        "Он хочет получить янтарь.\r\nЭтот ящик Пандоры.",
+        "A więc chce, żebym zdobyła Bursztyn.\r\nPrzedmiot, nad którym wisi zły omen.",
+        "",
+        "",
+        "Então ele quer que eu recupere o Âmbar.\r\nUm objeto de mau agouro.",
+        "그 남자는 내게 앰버를 가지고 오라고 했다.\r\n재앙을 초래하는 그것을.",
+        "他要我去取回「琥珀」，那是個災厄之源。",
+        "他要我去取回“琥珀”，那是个灾厄之源。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إذن يريدني أن أسترد \"الآمبر\".\r\nنذير شؤم.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Así que quiere que recupere el ámbar.\r\nUn objeto de mal augurio."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse100_s00a_0020_cha200",
+      "guid": "fe810826-0416-482d-af2a-c3d6a6ef7c27",
+      "crc?": 1154740433,
+      "hash": 2866472528,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "手にした者が何を為し",
+        "What terrible actions will be done in its name?",
+        "Quelles atrocités seront commises en son nom ?",
+        "Mi domando in che modo abbia intenzione di usarla.",
+        "Welche Gräueltaten werden\r\nin seinem Namen begangen werden?",
+        "¿Qué atrocidades se cometerán en su nombre?",
+        "Сколько зла можно совершить с ним?",
+        "Jakie potworności zostaną dokonane w jego imieniu?",
+        "",
+        "",
+        "Que ações terríveis serão feitas em seu nome?",
+        "그 이름으로 얼마나 끔찍한 일이 일어나는 걸까?",
+        "得到它的人會帶來多少災難？",
+        "得到它的人会带来多少灾难？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أي أمر سيئ سيحدث بسببها؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Qué atrocidades se cometerán en su nombre?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse100_s00a_0030_cha200",
+      "guid": "55b36ae0-888d-436c-8229-459aa3558eba",
+      "crc?": 781710583,
+      "hash": 1210765488,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "他者へどんな犠牲を強いるのか",
+        "And who will pay its dark cost?",
+        "Et qui en paiera le prix ?",
+        "E chi ne pagherà le conseguenze.",
+        "Und wer wird den Preis zahlen?",
+        "¿Y quién pagará el precio?",
+        "И какова будет цена?",
+        "I kto zapłaci tę mroczną cenę?",
+        "",
+        "",
+        "Quem vai pagar seu preço sombrio?",
+        "그리고 누가 그 어둠의 대가를 치르게 되는 걸까?",
+        "而誰又會為此犧牲？",
+        "而谁又会为此牺牲？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ومن سيتكبد ثمنها الباهظ؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Y quién pagará el precio?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse100_s00a_0040_cha200",
+      "guid": "bb0c2d93-6748-45d0-8680-7d3ae1be30bd",
+      "crc?": 3570027817,
+      "hash": 4168256880,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "犠牲のない世界などありはしない",
+        "Because in this world, someone always pays.",
+        "Parce que dans ce monde, quelqu'un paie forcément...",
+        "Perché c'è sempre qualcuno che deve pagarle...",
+        "Denn irgendjemand muss immer bezahlen.",
+        "Porque en este mundo, siempre paga alguien.",
+        "А платить ведь придётся… обязательно…",
+        "Bo na tym świecie zawsze ktoś musi zapłacić.",
+        "",
+        "",
+        "Porque, neste mundo, alguém sempre paga...",
+        "이 세상은 반드시 누군가가 대가를 치르게 되어 있으니까.",
+        "這個世界上，從不缺犧牲品……",
+        "这个世界上，从不缺牺牲品……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لأنه في هذا العالم هناك دائمًا شخص يدفع الثمن...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Porque, en este mundo, siempre paga alguien."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse100_s00a_0050_cha200",
+      "guid": "30fe6f8c-eeda-4c93-9f55-d740658e1f35",
+      "crc?": 3456213094,
+      "hash": 3740844051,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "目を背ければいいだけのこと",
+        "Best not to ask who or why.",
+        "Mieux vaut ne pas poser de questions.",
+        "Ma è meglio non saperne nulla.",
+        "Es ist besser, keine Fragen zu stellen.",
+        "Y mejor no saber quién.",
+        "Лучше даже не думать.",
+        "Lepiej nie pytać kto i dlaczego.",
+        "",
+        "",
+        "Melhor não perguntar quem ou por quê.",
+        "그게 누구이고 왜인지는 묻지 않는 게 좋다.",
+        "睜隻眼閉隻眼就好。",
+        "睁只眼闭只眼就好。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يُفضل ألَّا تسأل مَن أو لماذا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mejor no preguntar quién."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse100_s00a_0060_cha200",
+      "guid": "1768a795-bc3b-4252-b3e9-9840982cafe9",
+      "crc?": 3109853936,
+      "hash": 3607597016,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "そう分かっていた　いや割り切っていた",
+        "I understood that. Made my peace with it.",
+        "Ça, je l'avais compris. Je l'avais accepté.",
+        "Io l'avevo capito. E l'avevo accettato.",
+        "Das wusste ich. Hatte es akzeptiert.",
+        "Antes pensaba así.\r\nEstaba convencida.",
+        "Я поняла это.\r\nИ смирилась.",
+        "Zrozumiałam to. Pogodziłam się z tym.",
+        "",
+        "",
+        "Eu tinha entendido.\r\nFiz as pazes com isso.",
+        "난 그렇게 이해했다. 그렇게 생각하기로 한 것이다.",
+        "我當然都懂。也已經習以為常。",
+        "我当然都懂。也已经习以为常。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لقد فهمت ذلك الأمر وتقبلته.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Eso lo entendí. Hice las paces con ello."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse100_s00a_0070_cha200",
+      "guid": "ca46c570-bd14-408c-92e8-3ae97324c31e",
+      "crc?": 4261189783,
+      "hash": 308370525,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "全てを変えた　あのラクーンシティの夜までは",
+        "Until that one night in Raccoon City\r\n...changed everything.",
+        "Jusqu'à ce que cette nuit à Raccoon City\r\nvienne tout changer.",
+        "Finché quella notte a Raccoon City... ha cambiato tutto.",
+        "Bis jene Nacht in Raccoon City\r\nalles veränderte.",
+        "Hasta que esa noche en Raccoon City lo cambió todo.",
+        "Но та ночь в Раккун-Сити… всё изменила.",
+        "Aż do tamtej nocy w Raccoon City...\r\nktóra zmieniła wszystko.",
+        "",
+        "",
+        "Até aquela noite em Raccoon City quando tudo mudou.",
+        "라쿤 시티에서의 그날 밤이 모든 것을... 바꿔 버리기 전까지는.",
+        "直到拉昆市的那一晚……改變了一切。",
+        "直到浣熊市的那一晚……改变了一切。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حتى غيّرت تلك الليلة في مدينة راكون كل شيء.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hasta que esa noche en Raccoon City... lo cambió todo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse100_s00a_0080_cha200",
+      "guid": "59cad133-e44b-43c1-80f2-e74bc46de832",
+      "crc?": 908474800,
+      "hash": 562864317,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "これからルイスとの合流地点を目指す",
+        "I'm heading to meet Luis at\r\nthe rendezvous point now.",
+        "Je me dirige vers le point de rendez-vous avec Luis.",
+        "Mi sto dirigendo al punto d'incontro con Luis.",
+        "Bin draußen und gehe jetzt Richtung Kirche.",
+        "Voy a encontrarme con Luis donde acordamos.",
+        "База, выдвигаюсь на встречу с Луисом.",
+        "Idę się teraz spotkać z Luisem\r\nw umówionym miejscu.",
+        "",
+        "",
+        "Tô indo encontrar o Luis no ponto de encontro.",
+        "지금부터 루이스와\r\n합류하기로 한 지점으로 가겠어.",
+        "我現在正趕去會合點找路易斯。",
+        "我现在正赶去汇合点找路易斯。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سأذهب لمقابلة لويس عند نقطة الالتقاء الآن.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Me dirijo al punto de reunión con Luis."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse100_s00a_0090_cha600",
+      "guid": "2ca0adb2-5d10-46bd-9cdd-c70d056e68df",
+      "crc?": 1442988480,
+      "hash": 175692340,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "教団はまだ警戒を解いてはいない",
+        "I'm seeing increased movement\r\nfrom Los Iluminados.",
+        "Les Iluminados sont encore en état d'alerte.",
+        "C'è sempre più fermento tra Los Iluminados.",
+        "Bei den Los Iluminados\r\nherrscht zunehmend Unruhe.",
+        "Veo mucho movimiento de los Iluminados.",
+        "Вижу высокую активность «Лос илюминадос».",
+        "Los Iluminados zwiększyli aktywność.",
+        "",
+        "",
+        "Vejo uma movimentação maior dos Los Iluminados.",
+        "로스 일루미나도스\r\n녀석들의 동향을 주시하고 있어.",
+        "我發現光明教還在蠢蠢欲動。",
+        "我发现光明教还在蠢蠢欲动。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أرى تحركات زائدة من لوس إيلومينادوس.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Veo más movimiento de Los Iluminados."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse100_s00a_0100_cha600",
+      "guid": "aa8e3efe-cc33-4860-93e0-a22f2967e6ed",
+      "crc?": 2716337359,
+      "hash": 572179416,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "気を抜くな",
+        "Don't get careless.",
+        "Reste sur tes gardes.",
+        "Non ti distrarre.",
+        "Bleib wachsam.",
+        "No te confíes.",
+        "Не расслабляйся.",
+        "Nie trać ostrożności.",
+        "",
+        "",
+        "Não se descuide.",
+        "방심하지 마.",
+        "提高警覺。",
+        "提高警惕。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا تتخلي عن الحذر.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No te descuides."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse100_s00a_0110_cha200",
+      "guid": "88517005-0110-4167-b35b-a9f30e55565a",
+      "crc?": 2943749907,
+      "hash": 836216124,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ええ　もちろん",
+        "Copy. Ada out.",
+        "Bien reçu. Terminé.",
+        "Ricevuto. Passo e chiudo.",
+        "Okay. Ende.",
+        "Vale. Corto.",
+        "Ясно. Отбой.",
+        "Przyjęłam. Bez odbioru.",
+        "",
+        "",
+        "Entendi. Saindo.",
+        "알겠어. 에이다 무전 끝.",
+        "明白。艾達完畢。",
+        "明白。艾达完毕。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عُلم. انتهى.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Recibido. Ada fuera."
+      ]
+    }
+  ]
+}

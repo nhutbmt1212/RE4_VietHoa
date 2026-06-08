@@ -1,0 +1,638 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse410_s00a",
+      "guid": "1ac4ad5f-cc93-47d7-bc81-e76492469290",
+      "crc?": 3354805699,
+      "hash": 2853740726,
+      "attributes": [
+        {
+          "String": "<MESTIME 34.63, 35.74>\r\n<MESTIME 40.56, 44.54>\r\n<MESTIME 45.67, 47.77>\r\n<MESTIME 48.75, 50.64>\r\n<MESTIME 53.57, 57.19>\r\n<MESTIME 58.34, 60.2>\r\n<MESTIME 60.89, 62.29>\r\n<MESTIME 66.75, 71.75>\r\n<MESTIME 73.41, 77.11>\r\n<MESTIME 78.04, 80.14>\r\n<MESTIME 80.16, 81.11>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse410_s00a_0010_cha200",
+      "guid": "265345b7-8330-4f9b-bced-0385fd8cd224",
+      "crc?": 1760806450,
+      "hash": 3430970924,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "今は無理ね",
+        "Not yet...",
+        "Pas encore...",
+        "Non ancora...",
+        "Noch nicht.",
+        "Eso es...",
+        "Ещё рано…",
+        "Jeszcze nie...",
+        "",
+        "",
+        "Ainda não...",
+        "아직은 아냐...",
+        "不是時候……",
+        "不是时候……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليس بعد...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Aún no..."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse410_s00a_0020_cha200",
+      "guid": "28eea1c4-85cd-477d-b2d7-0e3ef1d6950b",
+      "crc?": 2601213180,
+      "hash": 2122556049,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "…サドラーを殺しに来たの？　それとも私？",
+        "Whose blood are you here for this time?\r\nMine or Saddler's?",
+        "Vous êtes là pour quoi cette fois ? Et pour qui ?\r\nMoi ou Saddler ?",
+        "E adesso chi è il suo obiettivo?\r\nIo o Saddler?",
+        "Auf wen hast du’s diesmal abgesehen?\r\nMich oder Saddler?",
+        "¿Quién es tu objetivo esta vez? ¿Yo o Saddler?",
+        "Кто тебе нужен на сей раз?\r\nЯ или Сэдлер?",
+        "Czyjej krwi chcesz tym razem?\r\nMojej czy Saddlera?",
+        "",
+        "",
+        "Veio atrás do sangue de quem?\r\nDo meu ou o do Saddler?",
+        "이번엔 누굴 치러 온 거지?\r\n나야 새들러야?",
+        "這次又想要誰的命？我還是薩德勒？",
+        "这次又想要谁的命？我还是萨德勒？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "من تريد أن تقتل هذه المرة؟\r\nأنا أم سادلر؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Por quién viniste esta vez?\r\n¿Yo o Saddler?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse410_s00a_0030_cha600",
+      "guid": "38e4aa6f-0dd7-4bbc-aa75-b57e6f6c39da",
+      "crc?": 3055807973,
+      "hash": 4244059426,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "お前次第だな",
+        "That all depends on you.",
+        "Tout va dépendre de toi.",
+        "Dipende tutto da te.",
+        "Das liegt ganz bei dir.",
+        "Eso depende de ti.",
+        "Зависит от тебя.",
+        "To zależy od ciebie.",
+        "",
+        "",
+        "Isso só depende de você.",
+        "그건 너한테 달렸지.",
+        "那就看妳的了。",
+        "那就看你的了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ذلك يعتمد عليك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Eso depende de ti."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse410_s00a_0040_cha600",
+      "guid": "4f3605cc-1f01-470f-9497-165314f17f3b",
+      "crc?": 3927639243,
+      "hash": 3522294492,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "計画の変更だ",
+        "Change of plans.",
+        "On change de plan.",
+        "Il piano è cambiato.",
+        "Planänderung.",
+        "Cambio de planes.",
+        "Новый план.",
+        "Zmiana planów.",
+        "",
+        "",
+        "Mudança de planos. ",
+        "계획을 변경한다.",
+        "計劃有變。",
+        "计划有变。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هناك تغيير في الخطط. ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Cambio de planes."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse410_s00a_0045_cha600",
+      "guid": "89a682a4-94f9-4012-a5dd-1e45b019552c",
+      "crc?": 2710455084,
+      "hash": 3112633984,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "断るかどうかはまかせる",
+        "Of course, you're free to refuse.",
+        "Bien sûr, tu peux toujours refuser.",
+        "Certo, sei libera di rifiutare.",
+        "Das heißt, wenn du einwilligst.",
+        "Aunque puedes negarte.",
+        "Конечно, можешь отказаться.",
+        "Oczywiście możesz odmówić.",
+        "",
+        "",
+        "E claro, recuse se quiser.",
+        "물론, 할지 말지는 네 자유야.",
+        "當然，想拒絕也可以。",
+        "当然，想拒绝也可以。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يمكنك الرفض بالطبع.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Por supuesto, puedes negarte."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse410_s00a_0050_cha200",
+      "guid": "be4ace44-afc5-4233-ab83-8c02f403c127",
+      "crc?": 1098050193,
+      "hash": 3562120472,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "銃を怖がるとでも？",
+        "You think that gun's gonna be enough?",
+        "Ce flingue est censé me faire peur ?",
+        "La pistola non mi spaventa.",
+        "Soll die mich etwa beeindrucken?",
+        "¿Esa arma bastará?",
+        "Думаешь, испугаюсь?",
+        "Sądzisz, że pistolet wystarczy?",
+        "",
+        "",
+        "Acha que isso é suficiente?",
+        "그 총으로 될 거라고 생각해?",
+        "就憑你那把爛槍？",
+        "就凭你那把破枪？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أتعتقد أن هذا المسدس كافٍ؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Crees que con esa arma alcanza?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse410_s00a_0060_cha600",
+      "guid": "8ac7004d-1bc7-4f22-b8ec-569197fd8a1f",
+      "crc?": 843989138,
+      "hash": 2838016898,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "面白い…",
+        "Interesting...",
+        "Intéressant...",
+        "Interessante...",
+        "Interessant.",
+        "Interesante...",
+        "Интересно…",
+        "Ciekawe...",
+        "",
+        "",
+        "Interessante...",
+        "재미있군...",
+        "有意思……",
+        "有意思……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مثير للاهتمام...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Interesante..."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse410_s00a_0070_cha200",
+      "guid": "f96dec22-3d1b-44e3-8525-8897cd40aae4",
+      "crc?": 931956099,
+      "hash": 483644456,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "いいわ　ただし　これは別料金よ",
+        "OK. I'll do it—but it'll cost you extra.",
+        "OK, c'est d'accord. Mais ça vous coûtera plus cher.",
+        "Ok. Ci sto, ma la tariffa aumenta.",
+        "Okay. Bin dabei.\r\nKostet dich aber extra.",
+        "Bien. Lo haré. Pero te costará más.",
+        "Ладно. Сделаю. Но с тебя доплата.",
+        "Dobrze, zrobię to. Ale to cię będzie dodatkowo kosztować.",
+        "",
+        "",
+        "Tá bom. Eu faço... mas vai te custar mais caro.",
+        "좋아, 하겠어. 단, 추가 요금이야.",
+        "好吧，我接就是。但是得加錢。",
+        "好吧，我接了。但是得加钱。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حسنًا. سأقوم بالأمر، لكن سيكلفك هذا المزيد.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Está bien. Lo haré... pero te costará más."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse410_s00a_0080_cha600",
+      "guid": "aded0eae-9a6d-4229-9545-c1ce97305942",
+      "crc?": 1520974622,
+      "hash": 1798807540,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "賢明な選択だ　 目的地の座標を送る",
+        "Wise decision. I'll send you the new coordinates.",
+        "Sage décision. Je vais t'envoyer les nouvelles coordonnées.",
+        "Una scelta saggia. Ti mando le nuove coordinate.",
+        "Kluge Entscheidung.\r\nIch schick dir die Koordinaten.",
+        "Sabia decisión. Te enviaré las coordenadas.",
+        "Разумно. Я пришлю координаты.",
+        "Mądry wybór. Prześlę ci nowe współrzędne.",
+        "",
+        "",
+        "Sábia decisão. Enviarei novas coordenadas.",
+        "잘 생각했어. 새로운 좌표를 보내도록 하지.",
+        "算妳識相。等下傳新座標給妳。",
+        "算你识相。等下发新坐标给你。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "قرار حكيم. سأرسل إليك الإحداثيات الجديدة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sabia decisión. Te enviaré las coordenadas."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse410_s00a_0090_cha600",
+      "guid": "fc9549ca-8ea1-409d-95e0-0aa448dfa49d",
+      "crc?": 381964845,
+      "hash": 3291804633,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "忘れるな　 俺は待たされるのが――",
+        "And remember, I do not like—",
+        "Et n'oublie pas, je déteste...",
+        "E ricordati. Non mi piace per nulla...",
+        "Und vergiss nicht: Ich mag es nicht zu--",
+        "Y recuerda, no me gusta...",
+        "И помни: я ненавижу жд…",
+        "I pamiętaj, nie lubię...",
+        "",
+        "",
+        "E lembre-se, eu não gosto de...",
+        "그리고 잊지 마, 내가 싫어하는 게—",
+        "給我記住，我最討厭……",
+        "给我记住，我最讨厌……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "وتذكري، لا أحب...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Y recuerda, no me gusta..."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse410_s00a_0100_cha200",
+      "guid": "89c760e1-f1cf-4787-a115-09d0a6c6f758",
+      "crc?": 2839706801,
+      "hash": 501070871,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "嫌いだ　でしょ？",
+        "Waiting. I know.",
+        "Attendre, je sais.",
+        "Aspettare, lo so.",
+        "Warten. Ich weiß.",
+        "Esperar, sí.",
+        "Ждать. Я помню.",
+        "Czekać. Wiem.",
+        "",
+        "",
+        "Esperar. Eu sei.",
+        "기다리는 거라고. 알겠어.",
+        "空等！知道了。",
+        "空等！知道了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "الانتظار. أعرف.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Esperar. Ya sé."
+      ]
+    }
+  ]
+}

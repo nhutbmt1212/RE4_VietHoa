@@ -1,0 +1,246 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_ShootingGallery_0001",
+      "guid": "3a33a6e0-ef7d-4c8c-b45a-dd062acb9389",
+      "crc?": 1316338434,
+      "hash": 3280021424,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 8.15>\r\n<MESTIME 8.17, 16.0>\r\n<MESTIME 16.02, 24.49>\r\n<VOTIME 0.0 8.17 16.02>\r\n<CONVEND 24.49>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_ShootingGallery_0001_0010_chy300",
+      "guid": "63b118ba-6ae0-4919-b99d-488a88fdb9d9",
+      "crc?": 3993313915,
+      "hash": 3429309916,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ウェルカム ストレンジャー！\r\n待ちかねたぜ アンタ射的場は初めてだな",
+        "Welcome, stranger. I believe this is your\r\nfirst time 'aving a go at target practice.",
+        "Bienvenue, étranger. Si je ne m'abuse, c'est\r\nla première fois que tu visites notre stand de tir.",
+        "Benvenuto, straniero.\r\nCredo che questa sia la tua prima volta al poligono di tiro.",
+        "Willkommen, Fremder. Ist glaub ich das erste Mal,\r\ndass du dich auf dem Schießstand versuchst.",
+        "Bienvenido, forastero.\r\nCreo que es tu primera vez en la galería de tiro. ¿No es así?",
+        "Привет, чужак.\r\nКажется, ты в первый раз оказался у нас на стрельбище.",
+        "Witaj, nieznajomy. Zdaje się, że to twój\r\npierwszy raz ze strzelaniem do celu.",
+        "",
+        "",
+        "Boas-vindas, estranho.\r\nAcredito que seja sua primeira vez no tiro ao alvo.",
+        "어서 와, 이방인. 당신한테는 아마도\r\n이번이 첫 표적 사격 연습일 거야.",
+        "歡迎，陌生人。\r\n我想你大概是頭一次來這裡練靶，對吧？",
+        "欢迎，陌生人。\r\n我想你大概是头一次来这里练靶，对吧？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مرحبًا بك أيها الغريب.\r\nأعرف أن هذه هي المرة الأولى التي تجرّب فيها تمرين الرماية.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bienvenido, forastero.\r\nCreo que es tu primera vez en la galería de tiro, ¿no es cierto?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_ShootingGallery_0001_0020_chy300",
+      "guid": "6a8d2d39-0ebc-4690-8bcd-961e98004926",
+      "crc?": 2765395288,
+      "hash": 634410500,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ルールはシンプル　出てくるマトを撃ちまくるだけ\r\nいたって簡単だろ？",
+        "There's only one rule—shoot the targets as\r\nthey pop up. Simple enough, am I right?",
+        "Il n'y a qu'une seule règle à retenir. Tire sur les cibles\r\nqui apparaissent. On peut pas faire plus simple !",
+        "C'è una sola regola: spara a tutti i bersagli che arrivano.\r\nFacile facile, non trovi?",
+        "Es gibt nur eine Regel: Schieß auf die Schießscheiben,\r\ndie nacheinander auftauchen. Einfacher geht’s kaum.",
+        "Solo hay una regla: dispara a los objetivos cuando aparezcan.\r\nFacilísimo, ¿no te parece?",
+        "Правило одно: когда мишени вылезают, их нужно сбить.\r\nВсё ведь просто?",
+        "Jest tylko jedna reguła: musisz zestrzeliwać\r\npojawiające się cele. Proste, prawda?",
+        "",
+        "",
+        "Há somente uma regra: atirar nos alvos assim que eles aparecem.\r\n Simples, não é?",
+        "규칙은 딱 하나야. 튀어나오는 표적을\r\n쏘는 거지. 아주 간단해, 안 그래?",
+        "規則只有一條——目標出現就開槍射擊。\r\n怎麼樣，夠簡單吧？",
+        "规则只有一条——目标出现就开枪射击。\r\n怎么样，够简单吧？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "توجد قاعدة واحدة فقط، أطلق النار على الأهداف عند ظهورها.\r\nأمر بسيط للغاية، أليس كذلك؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Solo hay una regla: dispara a los objetivos cuando aparezcan.\r\nFacilísimo, ¿no crees?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_ShootingGallery_0001_0030_chy300",
+      "guid": "8c83e500-80c5-4752-98a5-571dd5b83307",
+      "crc?": 1820511843,
+      "hash": 3540020702,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "素敵なゴホウビも用意してるぜ 成績次第だがな\r\nさあ ショウタイムだ！",
+        "If you do well, I'll make it worth your while.\r\nKnick knacks and whatnot. Anyway, have fun, mate!",
+        "Si tu fais un bon score, je récompenserai tes efforts\r\navec des trucs et des machins... Bref, amuse-toi bien !",
+        "Se fai un buon punteggio, vedrai che bei premi.\r\nTutti gli oggettini che vuoi. Comunque, divertiti, amico!",
+        "Wenn du dich einigermaßen anstellst, lass ich was springen.\r\nPaar Kinkerlitzchen, du weißt schon. Egal, viel Spaß!",
+        "Si lo haces bien, haré que valga la pena.\r\nCachivaches y chucherías. ¡En fin, que te diviertas!",
+        "Справишься хорошо, я тебя награжу.\r\nВсякими разными штуками. Развлекайся!",
+        "Jeśli dobrze się spiszesz, będę miał dla ciebie nagrody.\r\nRóżne przydatne cacuszka. Baw się dobrze, kolego!",
+        "",
+        "",
+        "Se fizer direito, faço valer a pena.\r\nQuinquilharias e outras coisinhas. Divirta-se, parceiro.",
+        "잘할수록 그만큼의 보상이 따를 거야.\r\n잡동사니든 뭐든. 어쨌든 즐기라고, 친구!",
+        "如果成績不錯，獎勵肯定也有，小裝飾品什麼的。\r\n總之，玩得開心！",
+        "如果成绩不错，奖励肯定也有，小装饰品什么的。\r\n总之，玩得开心！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إذا أبليت حسنًا، سأمنحك مكافأة مستحقة.\r\nبضائع متنوعة ومتعددة. على أي حال، استمتع يا صديقي!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Si lo haces bien, haré que valga la pena.\r\nTengo cachivaches y chucherías. ¡En fin, que te diviertas!"
+      ]
+    }
+  ]
+}

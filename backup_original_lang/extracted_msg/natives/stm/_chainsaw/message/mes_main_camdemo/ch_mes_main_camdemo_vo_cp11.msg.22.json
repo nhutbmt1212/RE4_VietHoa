@@ -1,0 +1,1560 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "優先度"
+    },
+    {
+      "ty": 2,
+      "name": "話し相手"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp11_0001",
+      "guid": "3f7273a4-acb9-4831-b4ee-57a2b630640f",
+      "crc?": 2398885366,
+      "hash": 354989434,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+      "guid": "727786c3-fccb-44b0-9326-665e310bcaa4",
+      "crc?": 152018552,
+      "hash": 3715216103,
+      "attributes": [
+        {
+          "String": "<DUMMY 03SEC>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp11_0002",
+      "guid": "2eadfab2-de2e-4778-8a38-e45a304c5839",
+      "crc?": 1735169188,
+      "hash": 1304313687,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+      "guid": "7f2abcd2-2b25-4285-82b8-8a3076f862c4",
+      "crc?": 1483548334,
+      "hash": 1821360994,
+      "attributes": [
+        {
+          "String": "<DUMMY 03SEC>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp11_0003",
+      "guid": "5755356c-40e4-43cf-ad7b-e600082a8c60",
+      "crc?": 2541809819,
+      "hash": 3997813995,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.13>\r\n<VOTIME 0.0>\r\n<CONVEND 3.13>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp11_0003_0010_cha000",
+      "guid": "c3385de5-46f2-4651-9235-59525e052a1f",
+      "crc?": 464958934,
+      "hash": 1142246112,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ひどい臭いだ",
+        "Man, that stinks.",
+        "Oh, ça chlingue.",
+        "Cazzo, che schifo.",
+        "Uäh, wie das riecht.",
+        "Dios, qué peste.",
+        "Фу! Ну и вонь.",
+        "Rety, ale cuchnie.",
+        "",
+        "",
+        "Nossa, que fedor.",
+        "세상에, 지독하군.",
+        "天，味真大。",
+        "天，味真大。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تبًا، يا للقرف.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Dios, qué peste."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp11_0004",
+      "guid": "3b06d31e-8fb8-41d4-b568-ecc5cb182114",
+      "crc?": 1469291192,
+      "hash": 3778105169,
+      "attributes": [
+        {
+          "String": "<MESTIME 1.0, 3.5>\r\n<VOTIME 0.0>\r\n<CONVEND 3.5>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp11_0004_0010_cha000",
+      "guid": "1a194018-e90c-4aaa-94c4-05040f124cb4",
+      "crc?": 114370825,
+      "hash": 4057202959,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ここの連中はイカれてる",
+        "These people are sick.",
+        "Ces gens sont tarés.",
+        "Questa gente è pazza...",
+        "Diese Leute sind krank.",
+        "Esta gente está loca.",
+        "Они больные.",
+        "Ci ludzie są chorzy.",
+        "",
+        "",
+        "Essa gente é doente.",
+        "여기 녀석들은 제정신이 아니야.",
+        "這些人都瘋了。",
+        "这些人都疯了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هؤلاء الناس مختلون.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Estas personas están enfermas."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp11_0005",
+      "guid": "1f33f9da-b41d-48ac-952f-feadffa3d76c",
+      "crc?": 2343069496,
+      "hash": 3048309833,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 5.55>\r\n<VOTIME 0.0>\r\n<CONVEND 5.55>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+      "guid": "7841ec45-b1a7-46eb-b869-8447acbdc833",
+      "crc?": 3520744810,
+      "hash": 4017303934,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_CamDemo_Vo_cp11_0005_0010_cha000"
+      ]
+    }
+  ]
+}

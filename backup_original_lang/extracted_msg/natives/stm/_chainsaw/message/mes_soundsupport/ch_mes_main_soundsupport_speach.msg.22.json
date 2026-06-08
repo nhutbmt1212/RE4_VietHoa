@@ -1,0 +1,7398 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "優先度"
+    },
+    {
+      "ty": 2,
+      "name": "話し相手"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0010_cha100",
+      "guid": "2c10a212-3ee1-4bef-8994-abf337334d0f",
+      "crc?": 1056791269,
+      "hash": 2336822991,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit auf]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0011_cha100",
+      "guid": "043cd9eb-ee28-4c06-bc05-6ce9c77eda2b",
+      "crc?": 745299724,
+      "hash": 1799908472,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit auf]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0012_cha100",
+      "guid": "1ae1204c-35bd-46ad-9068-340236a6574f",
+      "crc?": 808451208,
+      "hash": 1386460,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit auf]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0013_cha100",
+      "guid": "21cbae8c-17f9-4048-81e3-93c7dde56659",
+      "crc?": 3797051220,
+      "hash": 3335440254,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit auf]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0014_cha100",
+      "guid": "001c23fc-bc33-4d62-a5a2-2fbd6dbad5bd",
+      "crc?": 3794537711,
+      "hash": 506977965,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit auf]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+      "guid": "d5c33581-4667-47e2-a435-1f4f6ab77e19",
+      "crc?": 98919019,
+      "hash": 1141730616,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0020_cha100"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+      "guid": "a846f963-eac3-4a23-ba14-ee6eaa7d00c2",
+      "crc?": 394535006,
+      "hash": 1106460394,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0021_cha100"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+      "guid": "9091733a-496b-4ceb-98a2-a294ad68788d",
+      "crc?": 3763683397,
+      "hash": 2577675151,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0022_cha100"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+      "guid": "4ad14c3a-c4ba-4c84-a953-2fc80c53457f",
+      "crc?": 3809605900,
+      "hash": 4289391935,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0023_cha100"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+      "guid": "cb270565-5a9e-4177-a2ec-f0e5a280330e",
+      "crc?": 4287321058,
+      "hash": 3515936266,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0070_0001_0024_cha100"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0030_cha100",
+      "guid": "fb4ec981-3364-4e83-9855-b2e2791d3549",
+      "crc?": 660676251,
+      "hash": 2317684423,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit langanhaltend]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0031_cha100",
+      "guid": "8ff90035-f4a1-42ce-a371-40ed8163afff",
+      "crc?": 3074848210,
+      "hash": 3977452806,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 5.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit langanhaltend]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0032_cha100",
+      "guid": "d21c0d56-5e10-4a12-8064-d980128b2448",
+      "crc?": 2858302305,
+      "hash": 1020345344,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 5.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit langanhaltend]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0033_cha100",
+      "guid": "0629efae-a536-481a-8109-80c4654fcb6e",
+      "crc?": 2843750011,
+      "hash": 470186562,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 5.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit langanhaltend]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0070_0001_0034_cha100",
+      "guid": "9ed409e7-6c33-4f3e-b49b-effd916d3dc2",
+      "crc?": 3054090274,
+      "hash": 1996531287,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 5.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit langanhaltend]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1320_0000_0010_cha000",
+      "guid": "54c7f899-e07d-4132-8508-e50c81428c03",
+      "crc?": 801563513,
+      "hash": 3969358687,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（レオンの口笛）",
+        "[whistles]",
+        "[Leon siffle]",
+        "[fischio]",
+        "[Leon pfeift]",
+        "[Silbido]",
+        "[свистит]",
+        "[gwiżdże]",
+        "",
+        "",
+        "[assobia]",
+        "[휘파람 소리]",
+        "（口哨聲）",
+        "（口哨声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صفير]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Silbido]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+      "guid": "fd2b2aad-e91d-434c-82d5-33aa6c45e292",
+      "crc?": 1245942650,
+      "hash": 2463742002,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+      "guid": "8b2f3734-ec44-42bc-93c4-7a2a51e1b4d3",
+      "crc?": 1725391013,
+      "hash": 2147433713,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0020_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+      "guid": "43b25962-b8d0-4948-a36b-71e549e7a302",
+      "crc?": 1545600512,
+      "hash": 1816537952,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1360_0112_0030_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1060_0000_0010_cha100",
+      "guid": "6685e76b-4c57-4e68-aa31-1cee5cb11b26",
+      "crc?": 890172991,
+      "hash": 2562452720,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの痛そうな声）",
+        "[Ashley cries out]",
+        "[Ashley gémit de douleur]",
+        "[Ashley si lamenta]",
+        "[Ashley stöhnt schmerzerfüllt]",
+        "[Ashley grita]",
+        "[Эшли вскрикивает]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley berra]",
+        "[애슐리가 아파하는 목소리]",
+        "（艾殊莉痛苦叫聲）",
+        "（阿什莉痛苦的喊声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صراخ آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1070_0010_0015_cha100",
+      "guid": "fa2aa899-0f14-4126-9f12-c804880e2a45",
+      "crc?": 1102846780,
+      "hash": 1784774342,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの痛そうな声）",
+        "[Ashley cries out]",
+        "[Ashley gémit de douleur]",
+        "[Ashley si lamenta]",
+        "[Ashley ächzt schmerzerfüllt]",
+        "[Ashley grita]",
+        "[Эшли вскрикивает]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley berra]",
+        "[애슐리가 아파하는 목소리]",
+        "（艾殊莉痛苦叫聲）",
+        "（阿什莉痛苦的喊声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صراخ آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1070_0010_0025_cha100",
+      "guid": "31ed09e3-2c29-4d99-ad29-c0252f2bf648",
+      "crc?": 1560019256,
+      "hash": 2500015699,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの痛そうな声）",
+        "[Ashley cries out]",
+        "[Ashley gémit de douleur]",
+        "[Ashley si lamenta]",
+        "[Ashley ächzt schmerzerfüllt]",
+        "[Ashley grita]",
+        "[Эшли вскрикивает]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley berra]",
+        "[애슐리가 아파하는 목소리]",
+        "（艾殊莉痛苦叫聲）",
+        "（阿什莉痛苦的喊声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صراخ آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+      "guid": "738e1c0a-5693-49f1-8d2c-6dc89ec22f3c",
+      "crc?": 1495427672,
+      "hash": 1051423972,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1460_0000_0060_cha300"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+      "guid": "845b6322-d294-4271-9622-491a04259135",
+      "crc?": 2112520058,
+      "hash": 1594513715,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1470_0000_0060_cha300"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1730_0000_0010_cha100",
+      "guid": "4afbdce5-2a5f-4a1f-8107-a24204cc4729",
+      "crc?": 4032680513,
+      "hash": 3346631634,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 5.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit halb-lachend]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1730_0000_0020_cha100",
+      "guid": "441966d8-d5cc-44e0-af1b-147f39523afb",
+      "crc?": 1401532886,
+      "hash": 423490477,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 5.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit und lacht]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1730_0000_0320_cha100",
+      "guid": "c99f2520-da02-4ee9-ae8f-0569dfb1a682",
+      "crc?": 2803183080,
+      "hash": 2171104286,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 5.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams and laughs]",
+        "[Ashley crie et rit]",
+        "[Ashley grida e ride]",
+        "[Ashley schreit und lacht]",
+        "[Ashley grita y se ríe]",
+        "[Эшли кричит и смеётся]",
+        "[Ashley krzyczy i śmieje się]",
+        "",
+        "",
+        "[Ashley grita e ri]",
+        "[애슐리의 비명과 웃음소리]",
+        "（艾殊莉尖叫聲和笑聲）",
+        "（阿什莉尖叫声与笑声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات وضحكات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita y se ríe]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1740_0000_0320_cha100",
+      "guid": "031070a1-c26d-4231-9420-3bdc7ca1decb",
+      "crc?": 2231124700,
+      "hash": 1136943684,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 6.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit ausgelassen]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+      "guid": "b55d3f67-7d4c-43a7-9d76-1eca8a177360",
+      "crc?": 3731952407,
+      "hash": 3459380059,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0010_cha100"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+      "guid": "afa3706d-09c6-40c1-84fc-92d3dcca7dae",
+      "crc?": 3496402807,
+      "hash": 888041812,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1530_0000_0020_cha100"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0360_0001_0020_cha000",
+      "guid": "ca63d929-d4d8-4d73-aac7-df0ddf1abd1b",
+      "crc?": 897979487,
+      "hash": 1761852414,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（レオンの舌打ち）",
+        "[annoyed groan]",
+        "[grognement agacé]",
+        "[lamento infastidito]",
+        "[Leon ächzt frustriert]",
+        "[gesto de enfado]",
+        "[раздражённо ворчит]",
+        "[poirytowane stęknięcie]",
+        "",
+        "",
+        "[gemido de irritação]",
+        "[체념 섞인 목소리]",
+        "（苦嘆聲）",
+        "（懊恼声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[أنين منزعج]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[exhalación de frustración]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+      "guid": "ba01c5f2-dda2-4590-a792-306895e640e5",
+      "crc?": 2170920113,
+      "hash": 3018147118,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0360_0001_0030_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0370_0001_0020_cha000",
+      "guid": "10da3f4e-d8dd-4632-9bc3-4a512e6f7134",
+      "crc?": 1702634970,
+      "hash": 1382863127,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（レオンの舌打ち）",
+        "[annoyed huff]",
+        "[souffle agacé]",
+        "[sbuffa]",
+        "[Leon schnaubt]",
+        "[resoplido de enfado]",
+        "[стонет от боли]",
+        "[zdenerwowane mruknięcie]",
+        "",
+        "",
+        "[gemido de dor]",
+        "[허탈한 탄식]",
+        "（嘆氣聲）",
+        "（懊恼声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[تأوه متألم]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[resoplido de frustración]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0370_0001_0030_cha000",
+      "guid": "8bf606f2-6c82-4591-b2f6-51122608d11c",
+      "crc?": 1536719532,
+      "hash": 559841695,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（レオンの舌打ち）",
+        "[annoyed groan]",
+        "[grognement agacé]",
+        "[lamento infastidito]",
+        "[Leon knurrt frustriert]",
+        "[gesto de enfado]",
+        "[ворчит]",
+        "[poirytowane stęknięcie]",
+        "",
+        "",
+        "[geme]",
+        "[허탈한 탄식]",
+        "（不耐煩嘆氣聲）",
+        "（懊恼声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[أنين]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[exhalación de frustración]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0380_0002_0030_cha000",
+      "guid": "d45bf039-1d76-43b0-80f7-491e4b9d69a5",
+      "crc?": 1387261383,
+      "hash": 2895293568,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（レオンの大きく息を吐く声）",
+        "[Leon exhales]",
+        "[Leon souffle]",
+        "[Leon sospira]",
+        "[Leon atmet ruckartig aus]",
+        "[Leon expira]",
+        "[вздыхает]",
+        "[Leon robi wydech]",
+        "",
+        "",
+        "[suspira]",
+        "[레온이 숨을 내뱉는 소리]",
+        "（里昂吐氣聲）",
+        "（里昂呼气声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[تنهد]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Leon exhala]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+      "guid": "bde525bc-f616-4950-9fc9-9ede4e373735",
+      "crc?": 3175136376,
+      "hash": 4046389152,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+      "guid": "b75d22db-e3a6-4092-a2de-264e551adae3",
+      "crc?": 1234147155,
+      "hash": 2831993003,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0390_0001_0020_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+      "guid": "a43295c5-276c-4808-86a7-c981441d11f7",
+      "crc?": 1804904406,
+      "hash": 2627396023,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0430_0001_0020_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+      "guid": "519cc31c-bc27-4d77-98d3-80f41f6abcf7",
+      "crc?": 597465212,
+      "hash": 1301397802,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0490_0002_0020_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+      "guid": "93abecd2-94d1-40a6-a784-9e9e5fee04dc",
+      "crc?": 3141784945,
+      "hash": 2474275487,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 4.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0010_cha300"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0790_0000_0020_cha300",
+      "guid": "49631545-2901-479d-a1bb-1b05b3ebd1e6",
+      "crc?": 2873780381,
+      "hash": 807484473,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 4.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（ルイスの絶叫）",
+        "[Luis yells]",
+        "[Luis crie]",
+        "[Luis urla]",
+        "[Luis schreit achterbahnmäßig]",
+        "[Luis grita]",
+        "[Луис громко кричит]",
+        "[Luis krzyczy]",
+        "",
+        "",
+        "[Luis grita]",
+        "[루이스의 고함 소리]",
+        "（路易斯大叫聲）",
+        "（路易斯大叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صراخ لويس]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Luis grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+      "guid": "e62fe630-ce20-4761-8386-c3b1d131e3c0",
+      "crc?": 348208839,
+      "hash": 1792284030,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 4.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0030_cha300"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+      "guid": "eee1e103-8c3f-4e2f-bb46-c74f5e5d0778",
+      "crc?": 850405721,
+      "hash": 2049482308,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 4.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_0790_0000_0040_cha300"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0860_0000_0010_cha100",
+      "guid": "a46c420f-5ee2-43be-b873-63582c1b73d0",
+      "crc?": 906867523,
+      "hash": 1232536374,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit angsterfüllt]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0860_0000_0020_cha100",
+      "guid": "085b60df-742d-48e0-980d-b967fb6443a3",
+      "crc?": 1961748064,
+      "hash": 2198512837,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit angsterfüllt]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_0860_0000_0030_cha100",
+      "guid": "5934ba08-2baa-456e-9771-9a182161769b",
+      "crc?": 2898020998,
+      "hash": 1363342820,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの悲鳴）",
+        "[Ashley screams]",
+        "[Ashley crie]",
+        "[Ashley grida]",
+        "[Ashley schreit angsterfüllt]",
+        "[Ashley grita]",
+        "[Эшли кричит]",
+        "[Ashley krzyczy]",
+        "",
+        "",
+        "[Ashley grita]",
+        "[애슐리의 비명]",
+        "（艾殊莉尖叫聲）",
+        "（阿什莉尖叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صرخات آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley grita]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1660_0002_0020_cha100",
+      "guid": "f7f9b17a-3d41-410c-a510-36ef7b8400da",
+      "crc?": 1635615455,
+      "hash": 3425542198,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（アシュリーの不満げな声）",
+        "[Ashley groans]",
+        "[Ashley se plaint]",
+        "[Ashley si lamenta]",
+        "[Ashley stöhnt unzufrieden]",
+        "[Ashley se queja]",
+        "[Эшли стонет]",
+        "[Ashley jęczy]",
+        "",
+        "",
+        "[Ashley geme]",
+        "[애슐리의 볼멘소리]",
+        "（艾殊莉厭惡聲）",
+        "（阿什莉闷哼声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[أنين آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley se queja]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+      "guid": "cb15ca2e-98e1-456d-ba39-731df1762e94",
+      "crc?": 4039717009,
+      "hash": 1546891450,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1670_0002_0020_cha100"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1680_0002_0020_cha100",
+      "guid": "1c048d5c-6c43-4f28-9e18-2487616c967d",
+      "crc?": 3923360899,
+      "hash": 2704719379,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（大きく息を吐くアシュリー）",
+        "[Ashley sighs]",
+        "[Ashley soupire]",
+        "[Ashley sospira]",
+        "[Ashley seufzt]",
+        "[Ashley suspira]",
+        "[Эшли вздыхает]",
+        "[Ashley wzdycha]",
+        "",
+        "",
+        "[Ashley suspira]",
+        "[애슐리의 한숨]",
+        "（艾殊莉嘆氣聲）",
+        "（阿什莉叹气声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[تنهد آشلي]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Ashley suspira]"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+      "guid": "78dbc1f9-8062-4c8d-b022-c53b8aba1a9d",
+      "crc?": 1430057532,
+      "hash": 3937721576,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1690_0002_0020_cha100"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+      "guid": "85f8a021-207d-4ade-adeb-909d95bd9921",
+      "crc?": 3481653899,
+      "hash": 3217949818,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1700_0001_0020_cha100"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+      "guid": "85663aa9-42ab-41d0-b7b0-3a15ad7fa4fd",
+      "crc?": 2753332042,
+      "hash": 1249941713,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.00>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_SoundSupport_Speech_1750_0001_0040_cha000"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_006_00",
+      "guid": "ea33a5bd-1952-447a-b07d-ad43ab60221e",
+      "crc?": 815033152,
+      "hash": 2163442218,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "害獣駆除再び",
+        "More Pest Control",
+        "Rats de bibliothèque",
+        "Un'altra disinfestazione",
+        "Pelzige Bücherwürmer",
+        "Más exterminadores",
+        "Новая борьба с вредителями",
+        "Dalsza deratyzacja",
+        "",
+        "",
+        "Mais Controle de Pestes",
+        "유해 동물 방제 재의뢰",
+        "再治理鼠患",
+        "鼠害再治理",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "المزيد من مكافحة الآفات",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Más pesticidas"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_006_01",
+      "guid": "dfccaf5c-a8f9-458b-a444-72398b45be0b",
+      "crc?": 888373934,
+      "hash": 577871071,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "城の一角に住みつく<COL FILE>ネズミ</COL>を全て駆除してくれ。\r\n奴ら、古い紙やら革の表紙なんてもんが大好物でな。\r\n後世に残すべき書物をかじられるのは惜しい。\r\nあの邪教徒どもは本なんぞ気にもかけないんだ。",
+        "<COL FILE>Rats</COL> have infested a section of the castle\r\nand are gnawing away at all the precious books,\r\nbut those heretics couldn't care less!\r\n\r\nPlease, someone get rid of these\r\nvermin before it's too late!",
+        "<COL FILE>Des rats</COL> ont infesté une partie du château et\r\nrongent des livres inestimables, mais ces\r\nhérétiques s'en fichent complètement !\r\n\r\nQue quelqu'un nous débarrasse de cette\r\nvermine avant qu'il ne soit trop tard !",
+        "I ratti hanno <COL FILE>infestato</COL> un'area del castello\r\ne ora stanno rosicchiando tutti i libri preziosi,\r\nma a quegli eretici non frega nulla!\r\n\r\nVi prego, che qualcuno si occupi di quelle\r\ncarogne prima che sia troppo tardi!",
+        "Ein Teil der Burg wird von <COL FILE>Ratten</COL> überrannt, die\r\nfröhlich all die kostbaren Bücher annagen, aber\r\ndiese Ketzer scheren sich natürlich einen Dreck\r\ndarum!\r\n\r\nMach bitte jemand was gegen dieses Ungeziefer,\r\nbevor es zu spät ist!",
+        "<COL FILE>Las ratas</COL> han infestado una sección del castillo\r\ny están devorando mis preciados libros.\r\nObviamente, a ninguno de esos herejes les importa.\r\n¡Por favor, que alguien extermine a esas alimañas\r\nantes de que sea demasiado tarde!",
+        "В замке появились <COL FILE>крысы</COL>! Твари пожирают\r\nбесценные книги, а этим еретикам наплевать!\r\n\r\nУмоляю, перебейте вредителей, пока не поздно!",
+        "<COL FILE>Szczury</COL> zalęgły się w skrzydle zamku\r\ni zżerają wszystkie cenne księgi, ale\r\ntych bezbożników to nie obchodzi!\r\n\r\nProszę, niech ktoś wytłucze te szkodniki,\r\nzanim będzie za późno!",
+        "",
+        "",
+        "Tem uma seção do castelo infestada de <COL FILE>ratos</COL> que\r\nestão roendo livros preciosos, mas aqueles hereges\r\nnão tão nem aí! Por favor, alguém acabe\r\ncom essas pragas antes que seja tarde demais!",
+        "<COL FILE>생쥐들</COL>이 성 한쪽에 우글거리더니\r\n귀중한 책들까지 갉아먹고 있는데\r\n그 이단자들은 나 몰라라 하고 있어!\r\n\r\n제발, 늦기 전에 누가\r\n이 해로운 생쥐들을 없애 줘!",
+        "最近有些<COL FILE>老鼠</COL>鑽進了城堡，還咬破了很多舊書。\r\n不過那些邪教教徒根本沒當成一回事！\r\n快點給我處理牠們！",
+        "<COL FILE>老鼠</COL>侵占了图书馆，\r\n它们正在啃食各种珍贵的书籍，\r\n但是那些邪教徒们却不闻不问！\r\n\r\n在一切无法挽回之前，\r\n快来人把那些老鼠都赶走吧！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "انتشرت <COL FILE>الفئران</COL> في أحد أقسام القلعة وبدأت في\r\nقضم الكتب الثمينة، لكن هؤلاء الزنادقة لا يكترثون!\r\n\r\nليتخلص أحد من تلك القوارض قبل فوات الأوان!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<COL FILE>Las ratas</COL> infestaron una sección del castillo\r\ny están devorando mis preciados libros. Obviamente,\r\na ninguno de esos herejes les importa. Por favor,\r\n¡que alguien se encargue de esas alimañas antes de\r\nque sea demasiado tarde!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_006_02",
+      "guid": "28f62ea7-3470-4a5f-8279-bacb809de906",
+      "crc?": 3710274842,
+      "hash": 4051630332,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

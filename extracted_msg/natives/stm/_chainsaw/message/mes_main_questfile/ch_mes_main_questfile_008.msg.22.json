@@ -1,0 +1,550 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_008_00",
+      "guid": "bb0ada64-1871-4b44-b7e2-18208ad0f1e6",
+      "crc?": 3851946547,
+      "hash": 1874750166,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "求む、巨大魚",
+        "Catch Me a Big Fish",
+        "Pêche au gros",
+        "Pesca grossa",
+        "Riesengefallen",
+        "La buena pesca",
+        "Поймайте мне большую рыбу",
+        "Gdzie moja ryba?",
+        "",
+        "",
+        "Pegue um Peixão Para Mim",
+        "큰 생선 좀 잡아다 줘",
+        "釣到條大魚",
+        "帮我抓条大鱼",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اصطياد سمكة كبيرة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Péscame un pez grande"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_008_01",
+      "guid": "11b854b6-e9d3-4219-99d4-9fc877fea7ec",
+      "crc?": 3739926649,
+      "hash": 920823258,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "湖に住む<COL FILE>巨大な魚</COL>を獲ってきてくれないか。\r\n魚の油ってのは色々と役に立つんでな。\r\nこの写真を頼りに探してくれ。",
+        "Could someone catch the <COL FILE>gigantic fish</COL> that\r\nlives in the lake for me? Fish oil has many uses,\r\nafter all.\r\n\r\nThis photo should help you find it.",
+        "Quelqu'un pourrait-il m'attraper le <COL FILE>poisson\r\ngigantesque</COL> qui vit dans le lac ? L'huile de\r\npoisson a de nombreuses utilisations, après tout.\r\n\r\nCette photo devrait vous aider à le trouver.",
+        "C'è qualcuno in grado di pescare per me il\r\n<COL FILE>pesce gigante</COL> che vive nel lago?\r\nL'olio di pesce può essere utile per tante cose.\r\n\r\nQuesta foto dovrebbe aiutarvi a trovarlo.",
+        "Würde mir jemand einen <COL FILE>riesigen Fisch</COL> aus dem\r\nSee fangen?\r\nFischtran kann man einfach immer gebrauchen.\r\n\r\nDas Foto sollte die Suche erleichtern.",
+        "¿Podría alguien pescar ese <COL FILE>pez gigantesco</COL> que vive\r\nen el lago? El aceite de pescado tiene muchos usos\r\ndespués de todo.\r\n\r\nLa foto te ayudará a encontrarlo.",
+        "Кто-нибудь, сходите на озеро и поймайте\r\n<COL FILE>здоровенную рыбу</COL>, которая там живёт.\r\nРыбий жир — очень полезный продукт, между прочим. \r\n\r\nВот фотография вам в помощь.",
+        "Czy ktoś mógłby dla mnie złapać <COL FILE>olbrzymią rybę</COL>\r\nżyjącą w jeziorze? Rybi olej ma bardzo dużo\r\nprzydatnych zastosowań.\r\n\r\nTo zdjęcie powinno pomóc.",
+        "",
+        "",
+        "Será que alguém consegue pescar o <COL FILE>peixe gigante</COL>\r\nque vive no lago pra mim? É que óleo de peixe é\r\nmuito útil. Esta foto vai lhe ajudar a achá-lo.",
+        "누가 호수에 사는 <COL FILE>거대한 생선</COL>을\r\n잡아다 줄 수 있을까?\r\n생선 기름은 쓸 데가 많아서 말이야.\r\n\r\n이 사진이 찾는 데 도움이 될 거야.",
+        "有人可以幫我抓到那條在湖裡的<COL FILE>大魚</COL>嗎？\r\n那些魚油很有用的。\r\n\r\n照片裡的是牠的位置。",
+        "谁能帮我去湖里抓条<COL FILE>大鱼</COL>？\r\n毕竟鱼油的用途太多了。\r\n\r\n按这张照片就能找到。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أيمكن لأحد اصطياد <COL FILE>سمكة ضخمة</COL> من البحيرة لأجلي؟\r\nلزيت السمك العديد من الاستخدامات، على كل حال.\r\n\r\nستساعد هذه الصورة في العثور عليها.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Podría alguien pescar ese <COL FILE>pez gigantesco</COL> que vive\r\nen el algo? El aceite de pescado tiene muchos usos,\r\ndespués de todo.\r\n\r\nLa foto te ayudará a encontrarlo."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_008_02",
+      "guid": "29170ec9-a210-487f-889e-bd23df75e67d",
+      "crc?": 2721288168,
+      "hash": 2546702484,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<FOCUS>"
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_008_03",
+      "guid": "29170ec9-a210-487f-889e-bd23df75e68d",
+      "crc?": 2667349744,
+      "hash": 106171264,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

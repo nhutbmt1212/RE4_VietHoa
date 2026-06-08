@@ -1,0 +1,540 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse010_s00a",
+      "guid": "cd84017d-7840-4abb-9f92-a8c36928e4fa",
+      "crc?": 2563012162,
+      "hash": 828230491,
+      "attributes": [
+        {
+          "String": "<MESTIME 8.45, 13.13>\r\n<MESTIME 13.68, 15.09>\r\n<MESTIME 27.34, 28.71>\r\n<MESTIME 30.33, 32.21>\r\n<MESTIME 41.98, 44.18>\r\n<MESTIME 44.58, 49.6>\r\n<MESTIME 54.76, 58.24>\r\n<MESTIME 96.07, 99.5>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse010_s00a_0010_cha200",
+      "guid": "57c8e638-b615-4f32-a87f-f7016e00161d",
+      "crc?": 2180786971,
+      "hash": 3740997256,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "私たちを探してるようね\r\n屋根から行くわ　いい？",
+        "We've got company. They're looking for us.\r\nBut we're taking the high road, got it?",
+        "On a de la compagnie. Ils nous cherchent.\r\nOn passe par le toit, d'accord ?",
+        "Abbiamo compagnia. Ci stanno cercando.\r\nMa noi siamo \"superiori\". Ok?",
+        "Sie suchen nach uns, das ging schnell.\r\nAber wir umgehen sie, okay?",
+        "Son muchos y nos están buscando.\r\nVamos por arriba, ¿vale?",
+        "Вот и они. Нас уже ищут.\r\nУходим по-тихому, понял?",
+        "Mamy towarzystwo. Szukają nas.\r\nAle wydostaniemy się górą, rozumiesz?",
+        "",
+        "",
+        "Temos companhia... tão atrás da gente.\r\nVamos pegar o caminho mais alto, tá?",
+        "녀석들이야. 우리를 찾고 있어.\r\n하지만 우리는 고상하게 갈 거야, 알아들었어?",
+        "這下有「伴」了……找我們的呢。\r\n從上面繞過他們。明白嗎？ ",
+        "这下有“伴”了……找我们呢。\r\n从上面绕开他们。明白吗？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هناك من يريد مهاجمتنا. إنهم يبحثون عنا.\r\nلكننا سنتجنب مقاتلتهم. أفهمت؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tenemos compañía. Nos están buscando.\r\nPero vamos por arriba, ¿entendido?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse010_s00a_0020_cha300",
+      "guid": "a8f71c49-0a26-450c-844f-bd7c3a928aeb",
+      "crc?": 272076,
+      "hash": 2288368793,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "もちろん",
+        "Understood.",
+        "Euh, compris.",
+        "Ricevuto.",
+        "Alles klar.",
+        "Entendido.",
+        "Да, понял.",
+        "Rozumiem.",
+        "",
+        "",
+        "Entendi.",
+        "알겠어.",
+        "沒問題。",
+        "没问题。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "فهمت.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Entendido."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse010_s00a_0030_cha200",
+      "guid": "a60e538e-31b3-4501-b52c-566bba476d58",
+      "crc?": 2227030790,
+      "hash": 18593059,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "上よ　ルイス",
+        "Up you go, Luis.",
+        "Bon voyage, Luis.",
+        "Vai su, Luis.",
+        "Und hoch mit dir.",
+        "Arriba, Luis.",
+        "Ну давай, Луис.",
+        "No to leć, Luis.",
+        "",
+        "",
+        "Você sobe, Luis.",
+        "위로 가는 거야, 루이스.",
+        "上吧，路易斯。",
+        "上吧，路易斯。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إلى الأعلى يا لويس.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sube y ve, Luis."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse010_s00a_0040_cha300",
+      "guid": "53fc7ea6-ab23-4700-b719-1a3dc7167bb9",
+      "crc?": 4050914807,
+      "hash": 934591118,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "う 上だな…",
+        "(In Spanish) Up and out!",
+        "(en espagnol) Je monte, et c'est bon...",
+        " (In spagnolo) Vado su, ed è fatta.",
+        "Und hoch mit mir...",
+        "¡Arriba y listo!",
+        "Ну даю…",
+        "(po hiszpańsku) No to jazda!",
+        "",
+        "",
+        "Pra cima e pronto...",
+        "[스페인어] 위로 가란 말이지!",
+        "（西班牙語）跳一下就好了……",
+        "（西班牙语）上、上边是吧……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "(بالإسبانية) إلى الأعلى ثم إلى الخارج...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Arriba y listo!"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse010_s00a_0050_cha200",
+      "guid": "531c202e-656d-48f3-bc07-7bdf670ff593",
+      "crc?": 1324096870,
+      "hash": 3692442817,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "アンバーをお願い　また後でね",
+        "Fetch the Amber. We'll meet up later.",
+        "Va chercher l'Ambre. On se voit plus tard.",
+        "Prendi l'Ambra. Ci vediamo dopo.",
+        "Hol den Bernstein.\r\nWir treffen uns später.",
+        "Coge el Ámbar. Nos vemos luego.",
+        "Верни янтарь. Встретимся позже.",
+        "Przynieś Bursztyn. Potem się zobaczymy.",
+        "",
+        "",
+        "Pega o Âmbar. Me encontra depois.",
+        "앰버를 가지고 와. 나중에 만나지.",
+        "去拿琥珀。之後再會合。",
+        "去拿琥珀。之后再汇合。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أحضر \"الآمبر\" وسنتقابل لاحقًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Trae el ámbar. Te veo luego."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse010_s00a_0060_cha300",
+      "guid": "91a7bb02-e6d1-466c-b335-14b50e7fe9ee",
+      "crc?": 3406180834,
+      "hash": 4253230571,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "おい　俺がレディを残して行くとでも思って――",
+        "No! Sorry, what kind of a man leaves a lady— Whoa!",
+        "Non ! Attends, tu crois quand même pas\r\nque je vais laisser une demois... Ouah !",
+        "No. Aspetta, che razza di uomo lascia\r\nuna donna... Whoa!",
+        "Nein! Sorry, aber ich lass doch\r\neine Lady nicht alleine-- Whoa!",
+        "¡No! Espera, ¿cómo voy a dejar a una dama...? ¡Uoh!",
+        "Эй! Слушай, разве мужчина бросит даму… О-о-о!",
+        "Nie! Wybacz, ale co za mężczyzna zostawia kobietę... Ej!",
+        "",
+        "",
+        "Não. Desculpa, mas que tipo de homem deixa uma dama... Opa!",
+        "그럴 수는! 미안한데, 세상에 어떤 남자가\r\n레이디를 내버려 두고— 우왓!",
+        "不行。我可不是那種會丟下女士，然後自己就……",
+        "不行。我可不是那种会撇下女士，然后自己就……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا! آسف، كيف لرجل أن يترك سيدة...  ووه!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡No! Lo siento. ¿Qué tipo de hombre abandona a una dama...? ¡Woow!"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse010_s00a_0065_cha300",
+      "guid": "e6fb36e4-f1a4-452c-8232-1ffa17822f68",
+      "crc?": 2756717652,
+      "hash": 671037564,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "落ち合うのは教会だよな！\r\n死ぬんじゃねえぞ！",
+        "Then we meet at the church!\r\nLet's not make it a funeral, eh?",
+        "OK, on se retrouve à l'église.\r\nEt pas pour ton enterrement, hein !",
+        "Bene, ci vediamo alla chiesa!\r\nMa niente funerali, ok?",
+        "Triff mich bei der Kirche!\r\nLass es kein Begräbnis werden!",
+        "¡Nos vemos en la iglesia! ¡Y que no sea un funeral, ¿eh?!",
+        "Давай осторожнее тут!\r\nВстречаемся у церкви.",
+        "W takim razie spotkajmy się w kościele!\r\nI oby to nie był pogrzeb, dobra?",
+        "",
+        "",
+        "Então a gente se vê na igreja!\r\nE que não seja pra um funeral, tá?",
+        "그럼, 교회에서 봐!\r\n장례식으로 만나지는 말자고, 어?",
+        "那我去教堂等妳！別叫我等到妳的葬禮！",
+        "那我去教堂等你！别叫我等到你的葬礼！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سنتقابل عند الكنيسة!\r\nدعينا لا نحوّل الأمر إلى جنازة، حسنًا؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Nos vemos en la iglesia!\r\nNo hagamos de esto un funeral, ¿sí?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse010_s00a_0070_cha200",
+      "guid": "3b46cf3a-0e4f-4843-a33b-dff6c84c9357",
+      "crc?": 3555307765,
+      "hash": 2392926361,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "やるじゃない　お返ししないとね",
+        "Not bad. But not nearly good enough.",
+        "Pas mal. Mais va falloir faire mieux que ça.",
+        "Sei bravo. Ma bravo non è abbastanza.",
+        "Nicht schlecht.\r\nAber das wird nicht reichen.",
+        "No está mal. Pero no basta.",
+        "Неплохо. Но можно и лучше.",
+        "Nieźle. Ale to za mało.",
+        "",
+        "",
+        "Nada mau. Mas longe de ser bom o bastante.",
+        "꽤 하는걸. 그래도 한참 멀었어.",
+        "不賴嘛。但我也不是吃素的。",
+        "挺行啊。但我也不是吃素的。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليس سيئًا لكنه ليس جيدًا بما يكفي أيضًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Nada mal, pero no es suficiente."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse010_s00a_0025_cha300",
+      "guid": "4a3364f4-7db0-45e2-87e2-f7acdc8736dd",
+      "crc?": 2657509977,
+      "hash": 421420827,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse010_s00a_0025_cha300"
+      ]
+    }
+  ]
+}

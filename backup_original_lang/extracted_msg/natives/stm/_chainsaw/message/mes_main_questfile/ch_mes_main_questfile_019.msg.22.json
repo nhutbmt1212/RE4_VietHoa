@@ -1,0 +1,444 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_019_00",
+      "guid": "4527b13b-bbfb-4bcd-9b38-6b7e71a59a58",
+      "crc?": 4101319549,
+      "hash": 3899429378,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "害獣駆除みたび",
+        "Even More Pest Control",
+        "Encore et toujours des rats",
+        "L'ennesima disinfestazione",
+        "Unliebsame Nager",
+        "Aún más exterminadores",
+        "Очередная борьба с вредителями",
+        "Jeszcze więcej deratyzacji",
+        "",
+        "",
+        "Ainda Mais Controle de Pestes",
+        "유해 동물 방제 3차 의뢰",
+        "再三治理鼠患",
+        "无尽的鼠害治理",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "المزيد و المزيد من مكافحة الآفات",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Aún más pesticidas"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_019_01",
+      "guid": "c8a5be64-1a15-42fe-98e2-f631c071f4d2",
+      "crc?": 1845175768,
+      "hash": 1822795701,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "もう我慢の限界だ。\r\n<COL FILE>ネズミ</COL>どもめ、我が物顔で走り回りやがる。\r\nオレたちゃみんなきれい好きだってのによ。\r\nあのちっこい悪魔どもの退治、頼んだぜ。",
+        "I've had enough! Disgusting <COL FILE>rats</COL> are running\r\nall over my area, making the place filthy.\r\n\r\nWill someone help me keep things clean and\r\ntake care those tiny terrors once and for all!?",
+        "J'en ai assez ! Des <COL FILE>rats</COL> dégoûtants courent\r\npartout dans ma zone. C'est immonde !\r\n\r\nQuelqu'un peut-il m'aider à faire le ménage et\r\ns'occuper de ces petites terreurs une bonne fois\r\npour toutes ?",
+        "Ora ne ho abbastanza! Quei <COL FILE>ratti</COL> disgustosi\r\nsono dappertutto nella mia zona, è diventato\r\nun posto disgustoso.\r\n\r\nC'è qualcuno disposto ad aiutarmi a liberarmi\r\nuna volta per tutte di quei piccoli sciagurati?",
+        "Ich habe genug! Ekelhafte <COL FILE>Ratten</COL> tanzen mir vor\r\nder Nase umher und machen alles dreckig.\r\n\r\nSei jemand so gut und hilf mir dabei, diese\r\nkleinen Biester ein für alle Mal auszuradieren,\r\ndamit hier endlich wieder Ruhe und vor allem\r\nSauberkeit Einzug halten kann!",
+        "¡No puedo más! Esas asquerosas <COL FILE>ratas</COL> no dejan de\r\ncorrer por mis terrenos, contaminando el lugar.\r\n\r\n¿Podría alguien ayudarme a eliminar a esos bichos?",
+        "С меня хватит! У меня тут повсюду бегают мерзкие\r\n<COL FILE>крысы</COL> и разносят заразу. \r\n\r\nКто-нибудь, помогите мне\r\nнавести чистоту и навсегда покончить с этими\r\nмелкими гадами!",
+        "Mam tego dość! Paskudne <COL FILE>szczury</COL> panoszą się\r\ntu wszędzie i plugawią to miejsce.\r\n\r\nCzy ktoś może mi pomóc utrzymać czystość\r\ni raz na zawsze wyplenić te szatańskie szkodniki?",
+        "",
+        "",
+        "Chega! Tem uns <COL FILE>ratos</COL> nojentos correndo por\r\ntoda a minha área, deixando o lugar imundo.\r\nAlguém pode me ajudar a deixar tudo limpo e dar\r\num jeito nesses monstrinhos de uma vez por todas?",
+        "지긋지긋해! 저 구역질 나는 <COL FILE>생쥐들</COL>이\r\n내 구역을 뛰어다니면서 더럽히고 있어.\r\n\r\n마지막으로 한 번 더, 저 작은 골칫덩이들을\r\n소탕해서 깨끗하게 만들어 줄 수 없을까?",
+        "我受夠了！那些噁心的<COL FILE>老鼠</COL>就在這裡跑來跑去，\r\n弄得到處都一團糟。\r\n\r\n有人可以幫我們處理掉那些小魔鬼嗎？",
+        "我受够了！\r\n恶心的<COL FILE>老鼠</COL>在我的地盘到处乱窜，\r\n把这里弄得脏臭不堪。\r\n\r\n谁能帮我打理干净，\r\n彻底解决这些小魔鬼吗？！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لقد سئمت! <COL FILE>الفئران</COL> القذرة تجول\r\nفي جميع أنحاء منطقتي وتوسّخ المكان.\r\n\r\nهلا يقضي أحد على تلك الكائنات الصغيرة الشنيعة\r\nنهائيًا ليساعدني في إبقاء المكان نظيفًا؟!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡No puedo más! Esas asquerosas <COL FILE>ratas</COL> no dejan de\r\ncorrer por mis terrenos, contaminando el lugar.\r\n\r\n¿Podría alguien ayudarme a eliminar a esos bichos?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_019_02",
+      "guid": "0cf5a2c1-f054-45ff-8847-764dde8be9ba",
+      "crc?": 2175031528,
+      "hash": 706225523,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse540_s00a",
+      "guid": "73bc76ab-20ef-4362-bdf6-6dc21025a406",
+      "crc?": 416694865,
+      "hash": 1961783767,
+      "attributes": [
+        {
+          "String": "<MESTIME 7.82, 10.16>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse540_s00a_0010_cha100",
+      "guid": "e62d947f-5415-4659-9558-aca6ec8eb9ea",
+      "crc?": 399053743,
+      "hash": 3815924942,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオンを助けて！お願い！",
+        "Leon needs help! Hurry!",
+        "Leon a besoin d'aide ! Vite !",
+        "Devi aiutare Leon, presto!",
+        "Schnell, Sie müssen Leon helfen!",
+        "¡Leon te necesita, rápido!",
+        "Помоги Леону! Скорей!",
+        "Leon potrzebuje pomocy! Szybko!",
+        "",
+        "",
+        "O Leon precisa de ajuda! Rápido!",
+        "레온을 도와줘! 빨리!",
+        "求妳！快去幫幫里昂吧！",
+        "求你！快去帮帮里昂吧！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يحتاج ليون إلى المساعدة! أسرعي!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Ayuda a Leon! ¡Rápido!"
+      ]
+    }
+  ]
+}

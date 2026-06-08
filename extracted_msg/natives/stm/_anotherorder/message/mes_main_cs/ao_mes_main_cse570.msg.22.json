@@ -1,0 +1,736 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse570_s00a",
+      "guid": "8a532a7e-5b7a-4179-a77a-03a7d66e9b9e",
+      "crc?": 3880611979,
+      "hash": 3371688097,
+      "attributes": [
+        {
+          "String": "<MESTIME 12.43, 13.13>\r\n<MESTIME 14.3, 15.43>\r\n<MESTIME 16.03, 17.71>\r\n<MESTIME 17.93, 19.61>\r\n<MESTIME 20.72, 22.88>\r\n<MESTIME 29.04, 30.02>\r\n<MESTIME 31.43, 32.05>\r\n<MESTIME 35.71, 39.56>\r\n<MESTIME 43.17, 43.91>\r\n<MESTIME 57.38, 58.78>\r\n<MESTIME 65.9, 66.7>\r\n<MESTIME 71.3, 73.23>\r\n<MESTIME 76.18, 77.12>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse570_s00a_0010_cha000",
+      "guid": "7e73d1c5-bc2c-48fd-883a-c525cc3255d6",
+      "crc?": 1655803812,
+      "hash": 667492195,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "エイダ？",
+        "Ada.",
+        "Ada.",
+        "Ada.",
+        "Ada.",
+        "Ada.",
+        "Ада.",
+        "Ada.",
+        "",
+        "",
+        "Ada.",
+        "에이다.",
+        "艾達。",
+        "艾达。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آدا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ada."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse570_s00a_0020_cha000",
+      "guid": "85d9375c-eabf-445c-aaba-d24066c53913",
+      "crc?": 3892046220,
+      "hash": 2165731231,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "何をしている？",
+        "What the hell are you doing?",
+        "Tu fais quoi ?",
+        "Che diavolo fai?",
+        "Was soll das werden?",
+        "¿¡Qué estás haciendo!?",
+        "Ты что, бля, творишь?",
+        "Co ty wyprawiasz?",
+        "",
+        "",
+        "Que merda cê tá fazendo?",
+        "당신 대체 뭐 하는 거야?",
+        "妳要幹什麼？",
+        "你要干什么？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اللعنة، ماذا تفعلين؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse570_s00a_0030_cha200",
+      "guid": "e16f76c0-aac8-4a71-8ba7-ad40aa3d4789",
+      "crc?": 1210021822,
+      "hash": 1622052452,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "さすがね レオン",
+        "Nothing personal, Leon.",
+        "Le prends pas mal, Leon.",
+        "Niente di personale, Leon.",
+        "Nimm’s nicht persönlich.",
+        "Nada personal, Leon.",
+        "Ничего личного, Леон.",
+        "To nic osobistego, Leon.",
+        "",
+        "",
+        "Nada pessoal, Leon.",
+        "개인적인 악의는 없어, 레온.",
+        "和你無關，里昂。",
+        "和你无关，里昂。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا ضغينة شخصية يا ليون.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Nada personal, Leon."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse570_s00a_0040_cha200",
+      "guid": "524fd225-b207-4ffd-b46e-77e870df9d05",
+      "crc?": 3233565556,
+      "hash": 2431980402,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ルイスとの約束なの",
+        "Luis and I had an arrangement.",
+        "Luis et moi avions un accord.",
+        "Luis e io avevamo un patto.",
+        "Luis und ich hatten ’nen Deal.",
+        "Tenía un trato con Luis.",
+        "У нас с Луисом был уговор.",
+        "Luis i ja mieliśmy umowę.",
+        "",
+        "",
+        "Luis e eu tínhamos um acordo.",
+        "내가 루이스와 약속한 게 있거든.",
+        "路易斯和我有個約定。",
+        "路易斯和我有个约定。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كان بيني وبين لويس اتفاق.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tenía un trato con Luis."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse570_s00a_0050_cha200",
+      "guid": "ee37b984-1f0d-4c44-872b-999d975fc400",
+      "crc?": 1426819112,
+      "hash": 1234458647,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "安心して　悪いようにはしない",
+        "Don't worry, I'll take good care of it.",
+        "T'en fais pas, j'en prendrai bien soin.",
+        "Tranquillo, ci starò attenta.",
+        "Keine Sorge, ich pass gut drauf auf.",
+        "Tranquilo, lo cuidaré bien.",
+        "Не бойся, я обо всём позабочусь.",
+        "Nie martw się, dobrze się nim zajmę.",
+        "",
+        "",
+        "Não se preocupe, eu vou cuidar bem dele.",
+        "걱정 마, 이건 내가 잘 간수할 테니까.",
+        "別擔心，我會好好保管它的。",
+        "别担心，我会好好保管它的。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا تقلق، سأعتني به جيدًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tranquilo, lo cuidaré bien."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse570_s00a_0060_cha200",
+      "guid": "5b8a6db3-119e-403d-b307-4d01942ecadb",
+      "crc?": 3229711470,
+      "hash": 2564637126,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "迎えよ",
+        "Ride's here.",
+        "L'hélico est là.",
+        "È ora di andare.",
+        "Zeit zu gehen.",
+        "Es la hora.",
+        "Это за мной.",
+        "Jest podwózka.",
+        "",
+        "",
+        "A carona chegou.",
+        "데리러 왔네.",
+        "來接我了。",
+        "来接我了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "جاءت توصيلتنا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Es la hora."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse570_s00a_0070_cha200",
+      "guid": "e06f994e-2d24-4c4e-842b-69f7f840d3c8",
+      "crc?": 1760806851,
+      "hash": 4005303965,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "乗ってく？",
+        "You coming?",
+        "Tu viens ?",
+        "Vieni?",
+        "Kommst du?",
+        "¿Vienes?",
+        "Идёшь?",
+        "Wsiadasz?",
+        "",
+        "",
+        "Você vem?",
+        "당신도 타겠어?",
+        "一起嗎？",
+        "一起吗？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ألن تأتي؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Vienes?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse570_s00a_0080_cha000",
+      "guid": "24dd8820-262d-4647-a338-b4268c419050",
+      "crc?": 1484840682,
+      "hash": 3408876035,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "分かってるんだろ　ここでお別れだ",
+        "I think we both know this is where\r\nwe go our separate ways.",
+        "Je crois qu'on sait tous les deux que\r\nc'est ici que nos chemins se séparent.",
+        "Sappiamo entrambi che qui\r\nle nostre strade si separano.",
+        "Ich befürchte, ab hier gehen wir getrennte Wege.",
+        "Creo que ambos sabemos que\r\naquí es donde nos separamos.",
+        "Думаю, мы оба знаем,\r\nчто тут наши пути расходятся.",
+        "Obydwoje wiemy, że od tego momentu\r\nnasze drogi się rozchodzą.",
+        "",
+        "",
+        "Acho que a gente sabe muito bem,\r\né aqui que a gente se separa.",
+        "여기서부터 각자의 길을 가야\r\n한다는 것쯤은 우리 둘 다 알잖아.",
+        "我想妳和我都很清楚，我們還是各走各的路吧。",
+        "我想你和我都很清楚，我们还是各走各的路吧。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أظن أن كلينا يعرف أنه هنا\r\nستفترق طرقنا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Creo que ambos sabemos que\r\naquí es donde nos separamos."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse570_s00a_0090_cha200",
+      "guid": "6d1c7019-8fd3-49b1-8070-2c19a0e357af",
+      "crc?": 2028977131,
+      "hash": 2558270940,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "そうね",
+        "I see.",
+        "Je vois.",
+        "Capisco.",
+        "Verstehe.",
+        "Ya veo.",
+        "Ясно.",
+        "Rozumiem.",
+        "",
+        "",
+        "Entendi.",
+        "그래.",
+        "好吧。",
+        "好吧。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أتفهم ذلك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ya veo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse570_s00a_0100_cha200",
+      "guid": "895eaf9d-a89a-4127-b5dc-b5c7ebf2a83d",
+      "crc?": 1682810982,
+      "hash": 3726867687,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "急いだほうがいいわ",
+        "Better get a move on.",
+        "Tu ferais bien de bouger.",
+        "Meglio se ti sbrighi.",
+        "Beeil dich lieber.",
+        "Mejor date prisa.",
+        "Ты бы поспешил.",
+        "Lepiej się pospiesz.",
+        "",
+        "",
+        "É melhor se apressar.",
+        "서두르는 게 좋을 거야.",
+        "最好抓緊時間。",
+        "最好抓紧时间。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يجدر بك التحرك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mejor date prisa."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse570_s00a_0110_cha000",
+      "guid": "61692981-385c-4fc4-9a82-b3b77fe006f4",
+      "crc?": 998660448,
+      "hash": 1580819262,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "泣けるぜ",
+        "Cute.",
+        "Charmant.",
+        "Carino.",
+        "Süß.",
+        "Genial.",
+        "Мило.",
+        "Uroczy.",
+        "",
+        "",
+        "Gracinha.",
+        "귀엽군.",
+        "可愛。",
+        "可爱。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "جيد.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Genial."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse570_s00a_0120_cha200",
+      "guid": "4749deb9-15c5-4e49-95a9-27418693ac55",
+      "crc?": 272208639,
+      "hash": 1264531746,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "じゃまたね　レオン",
+        "Until next time, Leon.",
+        "À la prochaine, Leon.",
+        "Alla prossima, Leon.",
+        "Bis nächstes Mal, Leon.",
+        "Hasta la próxima, Leon.",
+        "До встречи, Леон.",
+        "Do następnego razu, Leon.",
+        "",
+        "",
+        "Até a próxima, Leon.",
+        "다음에 봐, 레온.",
+        "後會有期，里昂。",
+        "后会有期，里昂。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أراك لاحقًا يا ليون.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hasta la próxima, Leon."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse570_s00a_0130_cha100",
+      "guid": "7c1a4f56-b22f-40e1-8a1c-6efcefe370fa",
+      "crc?": 355428787,
+      "hash": 3675945076,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン！",
+        "Leon!",
+        "Leon !",
+        "Leon!",
+        "Leon!",
+        "¡Leon!",
+        "Леон!",
+        "Leon!",
+        "",
+        "",
+        "Leon!",
+        "레온!",
+        "里昂！",
+        "里昂！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليون!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Leon!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse460_s00a",
+      "guid": "815d2b9a-b7de-44d3-9c8d-defc5ae7f832",
+      "crc?": 3614581197,
+      "hash": 681744939,
+      "attributes": [
+        {
+          "String": "<MESTIME 17.82, 19.32>\r\n<MESTIME 21.5, 24.19>\r\n<MESTIME 27.54, 30.79>\r\n<MESTIME 33.2, 35.03>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse460_s00a_0010_cha200",
+      "guid": "168bda44-59dd-4407-8050-f71560bdc2b7",
+      "crc?": 4110128902,
+      "hash": 2719990950,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "何とかなるものね",
+        "Always have an out.",
+        "J'ai eu de la chance.",
+        "C'è sempre una via.",
+        "Mehr Glück als Verstand.",
+        "Ahí te quedas.",
+        "Всегда есть выход.",
+        "Zawsze jest jakieś wyjście.",
+        "",
+        "",
+        "Sempre tenha uma saída.",
+        "입구가 있으면 출구도 있는 법이지.",
+        "天無絕人之路。",
+        "天无绝人之路。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اجعل لنفسك مخرجاً دائمًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Siempre hay una salida."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse460_s00a_0030_cha100",
+      "guid": "ea0c56cf-2554-4895-bf0c-3250284d0ea3",
+      "crc?": 77490512,
+      "hash": 1873073927,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "やめて！　いや！",
+        "Stop! No!",
+        "Arrêtez ! Non !",
+        "Fermo! No!",
+        "Stopp! Nein!",
+        "¡Para! ¡No!",
+        "Хватит! Нет!",
+        "Przestań! Nie!",
+        "",
+        "",
+        "Para! Não!",
+        "그만! 싫어!",
+        "住手！不！",
+        "住手！不！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كفى! لا!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse460_s00a_0040_chb800",
+      "guid": "755b9143-435e-4ac8-9cb3-52423dfea572",
+      "crc?": 3962864163,
+      "hash": 3801542761,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "我が子よ　抗うのはよせ",
+        "Sweet child, do not resist!",
+        "Mon enfant, ne résiste pas !",
+        "Figlia mia, non fare resistenza!",
+        "Mein Kind, wehr dich nicht!",
+        "¡Dulce niña, no te resistas!",
+        "Милое дитя, не противься!",
+        "Słodkie dziecię, nie opieraj się!",
+        "",
+        "",
+        "Doce menina, não resista!",
+        "귀여운 내 아이여, 저항하지 마라!",
+        "孩子啊，不要反抗！",
+        "孩子呀，不要反抗！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا تقاومي يا عزيزتي!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Dulce niña, no te resistas!"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse460_s00a_0050_cha200",
+      "guid": "a76d2432-5929-4306-9eab-da004ef27b80",
+      "crc?": 13815325,
+      "hash": 3053189218,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "そこね　サドラー",
+        "Got you now, Saddler.",
+        "Je te tiens, Saddler.",
+        "So dove sei, Saddler.",
+        "Hab ich dich, Saddler.",
+        "Te tengo, Saddler.",
+        "Попался, Сэдлер.",
+        "Teraz cię mam, Saddler.",
+        "",
+        "",
+        "Agora eu te peguei, Saddler.",
+        "거기군, 새들러.",
+        "找到你了，薩德勒。",
+        "找到你了，萨德勒。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عرفت مكانك يا سادلر.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ya te tengo, Saddler."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse460_s00a_0020_cha200",
+      "guid": "e5c5a784-1660-4a0f-877e-6413049546fd",
+      "crc?": 3386060307,
+      "hash": 2153507458,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse460_s00a_0020_cha200"
+      ]
+    }
+  ]
+}

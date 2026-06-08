@@ -1,0 +1,550 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_File_091_00",
+      "guid": "1c21d0ac-b27f-4e04-9ac6-50f568d9b86f",
+      "crc?": 2789383742,
+      "hash": 3672249854,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "はじまりの石",
+        "Provenance Monolith",
+        "Monolithe originel",
+        "Monolito dell'origine",
+        "Monolith allen Ursprungs",
+        "Monolito del origen",
+        "Монолит-первоисточник",
+        "Monolit pochodzenia",
+        "",
+        "",
+        "Monólito Original",
+        "기원석",
+        "起源之石",
+        "缘起碑文",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مصدر الكائنات",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Monolito del origen"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_091_01",
+      "guid": "b63b9ce2-6ad5-460a-9b86-eb39c474d0b2",
+      "crc?": 3380395938,
+      "hash": 89122403,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "MDLIV\r\n古き城の地の底で\r\n私は信仰を見いだした\r\nああ　これこそは\r\n神が地上に残された痕跡\r\nここからすべてが始まる\r\n\r\n<RIGHT>アダム・サドラー</RIGHT>",
+        "MDLIV\r\nDeep beneath the castle grounds,\r\nI have found my faith.\r\nO behold, the divine vestiges\r\nleft upon this world!\r\nIt all begins here.\r\n\r\n<RIGHT>Adam Saddler</RIGHT>",
+        "MDLIV\r\nDans les profondeurs du château,\r\nj'ai trouvé ma foi.\r\nContemplez les vestiges divins\r\nlaissés sur cette terre !\r\nTout commence ici.\r\n\r\n<RIGHT>Adam Saddler</RIGHT>",
+        "MDLIV\r\nNelle profondità del castello,\r\nho trovato la mia fede.\r\nEcco le divine vestigia rimaste\r\nsu questa terra!\r\nQui è il principio di tutto.\r\n\r\n<RIGHT>Adam Saddler</RIGHT>",
+        "MDLIV\r\nTief unter der Burg habe ich\r\nmeinen Glauben entdeckt.\r\nSehet die Überbleibsel Gottes,\r\nhinterlassen in dieser Welt!\r\nAlles beginnt hier.\r\n\r\n <RIGHT>Adam Saddler</RIGHT>",
+        "MDLIV\r\nEn las profundidades del castillo,\r\nhe encontrado mi fe.\r\n¡Contemplad los divinos vestigios\r\ndejados a este mundo!\r\nTodo comienza aquí.\r\n\r\n<RIGHT>Adam Saddler</RIGHT>",
+        "MDLIV\r\nВ глубинах под замком я обрёл свою веру.\r\nУзрите же божественные мощи, дарованные\r\nнашему миру!\r\nЭто начало всего.\r\n\r\n<RIGHT>Адам Сэдлер</RIGHT>",
+        "MDLIV\r\nGłęboko pod zamkiem\r\nwiarę mą odnalazłem.\r\nO, patrzcie i ujrzyjcie boskie relikty\r\npozostawione na tym świecie!\r\nWszystko ma tu swój początek.\r\n\r\n<RIGHT>Adam Saddler</RIGHT>",
+        "",
+        "",
+        "MDLIV\r\nNas profundezas das terras do castelo,\r\nencontrei minha fé.\r\nÓ, contemplem os vestígios divinos\r\ndeixados neste mundo!\r\nTudo começa aqui.\r\n\r\n<RIGHT>Adam Saddler</RIGHT>",
+        "MDLIV\r\n성 아래 깊은 곳에서\r\n나는 믿음을 발견했다\r\n아아 보아라\r\n신이 이 땅에 남긴 흔적을\r\n여기서 모든 것이 시작된다\r\n\r\n<RIGHT>애덤 새들러</RIGHT>",
+        "MDLIV\r\n我於城堡的地下深處\r\n終於覓得信仰\r\n睜眼吧\r\n此乃神留於世上之蹤跡\r\n一切由此開始\r\n\r\n<RIGHT>亞當·薩德勒</RIGHT>",
+        "MDLIV\r\n于城堡地下之深处\r\n吾寻得信仰\r\n见证神圣遗迹存于现世\r\n一切皆缘于此\r\n\r\n<RIGHT>亚当 · 萨德勒</RIGHT>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MDLIV\r\nوجدت إيماني في باطن أرض القلعة، فلتتأملوا الآثار\r\nالمقدسة المتروكة في هذا العالم!\r\nيبدأ كل شيء من هنا.\r\n\r\n<RIGHT>آدم سادلر</RIGHT>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MDLIV\r\nEn las profundidades del castillo,\r\nencontré mi fe.\r\n¡Contemplen los divinos vestigios\r\ndejados a este mundo!\r\nTodo comienza aquí.\r\n\r\n<RIGHT>Adam Saddler</RIGHT>"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_091_02",
+      "guid": "4542ef24-4fed-4cf3-b6af-deecf11a800f",
+      "crc?": 1176593361,
+      "hash": 2725121752,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<FOCUS>"
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_091_03",
+      "guid": "394fbe73-2698-406f-972c-140dcbe54505",
+      "crc?": 1611722015,
+      "hash": 584855777,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

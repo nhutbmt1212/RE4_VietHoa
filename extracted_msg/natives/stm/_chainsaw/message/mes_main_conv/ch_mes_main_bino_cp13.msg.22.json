@@ -1,0 +1,1838 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "優先度"
+    },
+    {
+      "ty": 2,
+      "name": "話し相手"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_Bino_cp13_0006",
+      "guid": "3f5f43fc-8a0f-4a41-b232-3aff79c173d3",
+      "crc?": 4016253364,
+      "hash": 2986165369,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+      "guid": "8d090f35-987e-46e5-90b4-010bf0c88a69",
+      "crc?": 3269642015,
+      "hash": 1470967321,
+      "attributes": [
+        {
+          "String": "<DUMMY 03SEC>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0006_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp13_0001",
+      "guid": "a17e20e8-e1ea-478e-ab9b-615e31a5f3b9",
+      "crc?": 1896514624,
+      "hash": 839001708,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.81>\r\n<VOTIME 0.0>\r\n<CONVEND 2.81>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp13_0001_0010_cha000",
+      "guid": "5228d923-ca9d-4f55-afbd-90ecdcd811a7",
+      "crc?": 3685072609,
+      "hash": 2859872231,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "向こうに何かありそうだ…",
+        "Looks like there's something over there.",
+        "On dirait qu'il y a quelque chose là-bas.",
+        "Sembra ci sia qualcosa là.",
+        "Da drüben ist irgendwas.",
+        "Debería echar un vistazo.",
+        "Похоже, там что-то есть.",
+        "Coś tam chyba jest.",
+        "",
+        "",
+        "Acho que tem algo pra lá.",
+        "저기에 뭔가 있는 거 같아.",
+        "那裡也許有什麼東西。",
+        "那里也许有什么东西。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يبدو أنه يوجد شيء ما هناك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Creo que debería echar un vistazo."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp13_0002",
+      "guid": "14ee3e63-323a-4a7e-8e8f-0582bb12a9b4",
+      "crc?": 1226075970,
+      "hash": 781735648,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.26>\r\n<VOTIME 0.0>\r\n<CONVEND 2.26>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+      "guid": "44613b78-33a3-4ab7-a56e-c71d16a7add0",
+      "crc?": 4149411053,
+      "hash": 4056277103,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0002_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp13_0003",
+      "guid": "bc55df7f-863f-46b0-bd5a-2a8976f77255",
+      "crc?": 4185987406,
+      "hash": 4285298562,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.03>\r\n<VOTIME 0.0>\r\n<CONVEND 3.03>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp13_0003_0010_cha000",
+      "guid": "b0e4a0ae-8cd3-464f-bdc3-a961361770f1",
+      "crc?": 2161106868,
+      "hash": 3380968728,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ずいぶんデカい城だな…",
+        "Damn, look at the size of that...",
+        "Putain, c'est énorme...",
+        "Diavolo, è enorme...",
+        "Wow, ist ja riesig...",
+        "Vaya, menudo castillo...",
+        "Блин, какой огромный...",
+        "Szlag, to jest ogromne...",
+        "",
+        "",
+        "Nossa, olha só o tamanho disso...",
+        "젠장, 뭐가 저렇게 커...",
+        "媽的，這也太大了吧……",
+        "妈的，这也太大了吧……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تبًا، يا لضخامة هذه...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Guau, qué enorme castillo..."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp13_0004",
+      "guid": "3e4e58dd-1241-49b9-8aa5-81dd695e9ee1",
+      "crc?": 3444917131,
+      "hash": 2608564968,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.74>\r\n<VOTIME 0.0>\r\n<CONVEND 3.74>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+      "guid": "504a672e-ca3b-4f84-a381-fa3529a61ade",
+      "crc?": 355686282,
+      "hash": 3172751481,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0004_0010_cha000"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp13_0005",
+      "guid": "84f05b7d-7cc5-4e32-ba32-f8d5e69fd70a",
+      "crc?": 1566813725,
+      "hash": 3866534378,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 5.33>\r\n<VOTIME 0.0>\r\n<CONVEND 5.33>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+      "guid": "29c1ac85-7ffd-466f-9225-4a1981bf11ff",
+      "crc?": 4202710507,
+      "hash": 2765355430,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Bino_cp13_0005_0010_cha000"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,589 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse140_s00a",
+      "guid": "eb2259e4-389a-4f6e-9e6b-9a84c4812077",
+      "crc?": 4081326334,
+      "hash": 2133018767,
+      "attributes": [
+        {
+          "String": "<MESTIME 13.19, 14.94>\r\n<MESTIME 29.02, 30.52>\r\n<MESTIME 39.23, 40.96>\r\n<MESTIME 61.23, 66.01>\r\n<MESTIME 66.51, 68.67>\r\n<MESTIME 80.46, 85.11>\r\n<MESTIME 91.8, 96.22>\r\n<MESTIME 99.53, 102.99>\r\n<MESTIME 106.84, 108.5>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse140_s00a_0010_cha200",
+      "guid": "9e5a54c3-af83-4ef6-aac4-4f427cdf2865",
+      "crc?": 3564740990,
+      "hash": 1041072631,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ルイス…",
+        "Where is he?",
+        "Il est où ?",
+        "Ma dove sei?",
+        "Wo steckt er?",
+        "¿Dónde está?",
+        "Где же он?",
+        "Gdzie on jest?",
+        "",
+        "",
+        "Onde ele tá?",
+        "어디에 있는 거지?",
+        "他去哪了？",
+        "他去哪了？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أين هو؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Dónde está?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse140_s00a_0020_cha200",
+      "guid": "24c2afc6-eb60-41ca-bed2-bbc4cf9b969c",
+      "crc?": 3898966952,
+      "hash": 2327401265,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "どこにいるの…？",
+        "Stood up again.",
+        "Encore un faux plan.",
+        "Sparito di nuovo.",
+        "Wieder versetzt.",
+        "Plantada otra vez.",
+        "Опять подвёл.",
+        "Znowu mnie wystawił.",
+        "",
+        "",
+        "Sumiu de novo.",
+        "또 바람 맞았군.",
+        "又不見了。",
+        "又不见人。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تخلى عني مجدداً.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Plantada de nuevo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse140_s00a_0030_cha200",
+      "guid": "93b52efc-1245-4d5a-a4fe-a757ccbbce7a",
+      "crc?": 3580266091,
+      "hash": 2160734549,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "あなたも　もう限界かしら？",
+        "Sounds like he could use a little help.",
+        "On dirait qu'il a besoin d'un coup de main.",
+        "Forse gli dovrei dare una mano...",
+        "Klingt, als bräuchte er Hilfe.",
+        "Creo que va a necesitar ayuda...",
+        "Похоже, придётся помочь.",
+        "To brzmi, jakby przydała mu się pomoc.",
+        "",
+        "",
+        "Parece que ele precisa de uma ajudinha.",
+        "좀 도와줘야 할 것 같네.",
+        "有人好像快撐不住了……",
+        "有人好像快撑不住了……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يبدو أنه يحتاج إلى المساعدة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Creo que necesita algo de ayuda."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse140_s00a_0040_chc100",
+      "guid": "75fde60a-25e3-4320-ad39-8670ad50aaa5",
+      "crc?": 3223243057,
+      "hash": 38240702,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "[Dorfbewohner sprechen auf Spanisch]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse140_s00a_0050_chc004",
+      "guid": "c608d9dd-386c-4614-a701-407b48b25a44",
+      "crc?": 3269348782,
+      "hash": 3609819942,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse140_s00a_0060_chc003",
+      "guid": "b31f868c-331c-4e68-ad1b-72fbb3586b27",
+      "crc?": 3139339066,
+      "hash": 2103296235,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse140_s00a_0070_chc001",
+      "guid": "6ff8d1be-7f97-45db-944b-fac201eeb612",
+      "crc?": 1712097818,
+      "hash": 4263919884,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse140_s00a_0090_cha200",
+      "guid": "4c922eb1-f68a-4a0c-8dff-e7104b6d2b87",
+      "crc?": 4184640413,
+      "hash": 3256631981,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "これは貸しよ　レオン",
+        "Don't worry, Leon. First time's free.",
+        "T'inquiète pas, Leon. Cette fois, c'est gratuit.",
+        "Tranquillo, Leon, questa volta è gratis.",
+        "Keine Sorge, Leon,\r\ndas erste Mal ist umsonst.",
+        "Tranquilo, Leon. La primera es gratis.",
+        "Так и быть, Леон, разок помогу.",
+        "Nie martw się, Leon. Pierwszy raz jest za darmo.",
+        "",
+        "",
+        "Não se preocupe, Leon. A primeira é de graça.",
+        "걱정 마, 레온. 처음은 공짜로 해 줄게.",
+        "別擔心，里昂。這次不用還。",
+        "别担心，里昂。这次不用还。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا تقلق يا ليون، أول مرة مجانًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tranquilo, Leon. La primera es gratis."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse140_s00a_0100_cha200",
+      "guid": "028e27b4-b14d-41f2-bdc0-759d5e441df7",
+      "crc?": 3594268880,
+      "hash": 1730799195,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ルイスを待つしかないわね",
+        "Don't keep me waiting, Luis.",
+        "Me fais pas attendre, Luis.",
+        "Non farmi aspettare, Luis.",
+        "Lass mich nicht warten, Luis.",
+        "No me hagas esperar, Luis.",
+        "Не задерживайся, Луис.",
+        "Nie każ mi czekać, Luis.",
+        "",
+        "",
+        "Não me deixa esperando, Luis.",
+        "날 너무 기다리게 하지 마, 루이스.",
+        "別讓我久等，路易斯。",
+        "别要我久等，路易斯。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا تجعلني أنتظر كثيرًا يا لويس.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No me hagas esperar, Luis."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse140_s00a_0080_cha000",
+      "guid": "469c29d6-bec3-4b3f-b8ba-c3044aec62a7",
+      "crc?": 2194793582,
+      "hash": 4099129432,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse140_s00a_0080_cha000"
+      ]
+    }
+  ]
+}

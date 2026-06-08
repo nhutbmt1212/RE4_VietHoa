@@ -1,0 +1,246 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse120_s00a",
+      "guid": "4874484b-abe0-4d58-8d98-6a7bcb7427d3",
+      "crc?": 3525000129,
+      "hash": 3789467005,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.17, 3.74>\r\n<MESTIME 5.87, 8.92>\r\n<MESTIME 10.59, 13.35>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse120_s00a_0010_cha700",
+      "guid": "6a010c60-8ffb-4ad1-b317-f478973f5821",
+      "crc?": 1076014814,
+      "hash": 3873613122,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "よお　そこの人　必要なものはないか？",
+        "Hey, stranger. So what're ya buyin'?",
+        "Hé, étrangère. Alors, qu'est-ce que t'achètes ?",
+        "Ehi, straniera. Che cosa vuoi comprare?",
+        "Hey, Fremde, was kann ich dir anbieten?",
+        "Eh, forastera. ¿Qué compras?",
+        "Эй, незнакомка. Что покупаем?",
+        "Hej, nieznajoma. Co kupujesz?",
+        "",
+        "",
+        "Oh, estranha. Vai comprar o quê?",
+        "이봐, 이방인. 그래, 뭐가 필요하지?",
+        "嘿，陌生人！要不要買點啥？",
+        "嘿，陌生人！要不要买点啥？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أنت أيتها الغريبة. ماذا ستشترين؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hola, forastera. ¿Qué compras?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse120_s00a_0020_cha200",
+      "guid": "f9fae8dc-c76f-43b1-a317-74ccbbf4cfaf",
+      "crc?": 716480695,
+      "hash": 1162797083,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "こんな場所で商売？　物好きね",
+        "You've picked quite the place\r\nto set up shop, \"stranger.\"",
+        "Drôle d'endroit pour ouvrir une boutique, \"étranger\".",
+        "Hai scelto un bel posto per il tuo negozio, \"straniero\".",
+        "Interessanter Ort für ein Geschäft, „Fremder“.",
+        "Un sitio peculiar para el negocio, \"forastero\".",
+        "Так себе место для торговли… «незнакомец».",
+        "Wybrałeś sobie interesujące miejsce\r\nna sklep, „nieznajomy”.",
+        "",
+        "",
+        "Que lugar para montar\r\numa loja, \"estranho\".",
+        "장사하기에 딱 맞는\r\n장소를 골랐네, \"이방인\".",
+        "你開店還真會挑地方，「陌生人」。",
+        "你开店还真会挑地方，“陌生人”。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لقد اخترت المكان الخطأ\r\nلتتاجر فيه أيها \"الغريب\".",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Qué buen lugar para una tienda, \"forastero\"."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse120_s00a_0030_cha700",
+      "guid": "f75b5a15-3edb-436d-a5e5-f4eb49a44d4a",
+      "crc?": 3097161423,
+      "hash": 706312700,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "だが　素敵なお嬢さんに会えたぜ",
+        "Aye, and look what it brought me!",
+        "Peut-être, mais on dirait que j'ai bien fait !",
+        "Già, e guarda chi viene a trovarmi!",
+        "Tja, und interessante Ware!",
+        "¡Sí, y mira cómo me va!",
+        "Да! Но всё же вы здесь.",
+        "No i proszę, do czego mnie to doprowadziło!",
+        "",
+        "",
+        "É, e olha o que veio até mim!",
+        "그런 셈이지, 덕분에 당신을 만났으니까.",
+        "是吧，看看我把誰等來了！",
+        "可不是，看我把谁等来了！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "وانظري بماذا عاد عليّ الأمر!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Sí, y mira lo que me trajo!"
+      ]
+    }
+  ]
+}

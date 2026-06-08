@@ -1,0 +1,444 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_001_00",
+      "guid": "501e9961-a961-4c61-af74-81479594e793",
+      "crc?": 1862536263,
+      "hash": 3593330823,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "青いメダリオンの破壊",
+        "Destroy the Blue Medallions",
+        "Destruction des médaillons",
+        "Distruggi i medaglioni blu",
+        "Kampf den Medaillons",
+        "Medallones azules",
+        "Уничтожьте синие медальоны",
+        "Zniszcz niebieskie medaliony",
+        "",
+        "",
+        "Destrua os Medalhões Azuis",
+        "파란 메달리온 부수기",
+        "破壞藍色徽章",
+        "破坏蓝色徽章",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يجب تدمير الميداليات الزرقاء",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Destruye los medallones azules"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_001_01",
+      "guid": "06e5032c-4063-4e4e-89fa-280b5976b678",
+      "crc?": 2744520123,
+      "hash": 4203288906,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "忌まわしき教団の<COL FILE>青いメダリオン</COL>を破壊してくれ。",
+        "For the love of god, will somebody please get rid\r\nof the <COL FILE>blue medallions</COL> those religious lunatics\r\nleft hanging around?",
+        "Pour l'amour du ciel, quelqu'un peut-il nous\r\ndébarrasser des <COL FILE>médaillons bleus</COL> que ces\r\nfanatiques ont accrochés partout ?",
+        "Per l'amor di Dio, c'è qualcuno disposto a\r\nliberarci dei <COL FILE>medaglioni blu</COL> che quei fanatici\r\nreligiosi hanno appeso in giro ovunque?",
+        "In Gottes Namen, kann nicht endlich jemand\r\ndiese <COL FILE>blauen Medaillons</COL> beseitigen,\r\ndie diese Fanatiker überall aufgehängt haben?",
+        "Por el amor de Dios, que alguien destruya esos\r\n<COL FILE>medallones azules</COL> que esos lunáticos\r\nreligiosos han estado colgando por el pueblo.",
+        "Кто-нибудь, ради всего святого, избавьтесь\r\nот <COL FILE>синих медальонов</COL>, которые повсюду\r\nоставляют эти проклятые фанатики!",
+        "Na litość boską, czy ktoś mógłby pozbyć się\r\ntych <COL FILE>niebieskich medalionów</COL> porzuconych przez\r\ntamtych religijnych świrów?",
+        "",
+        "",
+        "Pelo amor de Deus, alguém pode se livrar dos\r\n<COL FILE>medalhões azuis</COL> que aqueles lunáticos\r\nreligiosos deixaram por aí?",
+        "신이시여 제발, 누가 좀 교단 녀석들이\r\n여기저기 남겨 놓은 <COL FILE>파란 메달리온</COL>을 없애 줘.",
+        "拜託，有沒有人可以把那個邪教的<COL FILE>藍色徽章</COL>\r\n全部破壞掉？",
+        "老天开开眼吧！\r\n有没有人能毁掉那些邪教徒\r\n四处悬挂的<COL FILE>蓝色徽章</COL>？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "رجاءً، هلا يتخلص أحد من <COL FILE>الميداليات الزرقاء</COL>\r\nالتي تركها أعضاء الطائفة المجانين في الأرجاء؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Por al amor de dios, que alguien destruya esos\r\n<COL FILE>medallones azules</COL> que esos lunáticos\r\nreligiosos han estado colgando por el pueblo."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_001_02",
+      "guid": "a4bb7556-0efe-4f48-a9ec-b31a429de094",
+      "crc?": 3494174853,
+      "hash": 3033487,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

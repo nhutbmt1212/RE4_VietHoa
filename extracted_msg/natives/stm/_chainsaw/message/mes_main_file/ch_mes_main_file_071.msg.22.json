@@ -1,0 +1,550 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_File_071_00",
+      "guid": "90db293a-cb58-417c-9fe4-1d4c8d912bc0",
+      "crc?": 3808487257,
+      "hash": 3795659327,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "海蝕洞穴の碑文",
+        "Eroded Cave Epitaph",
+        "Épitaphe de la grotte érodée",
+        "Epitaffio nella caverna",
+        "Grabinschrift in einer Höhle",
+        "Epitafio de la cueva erosionada",
+        "Стёртая эпитафия в пещере",
+        "Nagrobek w jaskini",
+        "",
+        "",
+        "Epitáfio da Caverna Corroída",
+        "해안 침식 동굴의 비문",
+        "海蝕洞碑文",
+        "海蚀洞中的碑文",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ضريحة الكهف المتهالك",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Epitafio de la cueva erosionada"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_071_01",
+      "guid": "127bd3d2-83f8-4905-be76-8fb0c0e9f310",
+      "crc?": 3898205904,
+      "hash": 2749481490,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "MDCCXLI\r\nよこしまなる者は\r\n武器で我らを　追い立てり\r\n草枯れ　樹も生えぬ\r\n辺獄のごとき孤島に\r\n背教者よ　心せよ\r\n我らは待つ　時来たるまで\r\n<RIGHT>へスター・サドラー</RIGHT>",
+        "MDCCXLI\r\nExpelled by the militant wicked,\r\nwe find ourselves in exile.\r\nWithered is the grass. Barren are the trees.\r\nWe wait in expiation,\r\nthis isolated island our purgatory.\r\nYet despair not, brothers and sisters.\r\nOur time shall come.\r\n\r\n<RIGHT>Hester Saddler</RIGHT>",
+        "MDCCXLI\r\nChassés par les impies belliqueux,\r\nnous nous retrouvons en exil.\r\nL'herbe est sèche. Les arbres sont stériles.\r\nNous attendons l'expiation,\r\ncette île est notre purgatoire.\r\nMais ne perdez pas espoir, mes frères et sœurs.\r\nNotre heure viendra.\r\n\r\n<RIGHT>Hester Saddler</RIGHT>",
+        "MDCCXLI\r\nEspulsi dai perfidi militanti,\r\nci troviamo in esilio.\r\nL'erba è appassita, gli alberi brulli.\r\nEspiamo nell'attesa,\r\nquest'isola remota è il nostro purgatorio.\r\nNon disperate, fratelli e sorelle.\r\nArriverà il nostro momento.\r\n\r\n<RIGHT>Hester Saddler</RIGHT>",
+        "MDCCXLI\r\nVertrieben von den kriegerischen Gottlosen\r\nfinden wir uns im Exil wieder.\r\nVerdorrt ist das Gras, karg der Wald.\r\nEin Leben in Sühne,\r\ndie Insel unser Fegefeuer.\r\nDoch verzagt nicht, Brüder und Schwestern.\r\nUnsere Zeit wird kommen.\r\n\r\n<RIGHT>Hester Saddler</RIGHT>",
+        "MDCCXLI\r\nExpulsados por la milicia impía,\r\ncastigados con el exilio.\r\nMarchita la hierba. Secos los árboles.\r\nEsperamos como expiación,\r\nen esta isla desolada, nuestro purgatorio.\r\nMas no desesperéis, hermanos y hermanas.\r\nNuestra hora llegará.\r\n\r\n<RIGHT>Hester Saddler</RIGHT>",
+        "MDCCXLI\r\nВоинственный безумец изгнал нас.\r\nТрава увяла, деревья засохли.\r\nМы ждём, расплачиваясь за грехи,\r\nи этот одинокий остров стал нашим\r\nчистилищем. Но не отчаивайтесь,\r\nбратья и сёстры. Наше время придёт.\r\n<RIGHT>Эстер Сэдлер</RIGHT>",
+        "MDCCXLI\r\nWypędzeni przez zajadłych niegodziwców,\r\nstaliśmy się wygnańcami.\r\nTrawa wyschła. Drzewa obumarły.\r\nCzekamy, pokutując,\r\na ta samotna wyspa to nasz czyściec.\r\nLecz nie lękajcie się, bracia i siostry.\r\nNasz czas nadejdzie.\r\n\r\n<RIGHT>Hester Saddler</RIGHT>",
+        "",
+        "",
+        "MDCCXLI\r\nExpulsos pelos soldados cruéis,\r\nestamos exilados.\r\nA grama é seca. As árvores, infrutíferas.\r\nEm expiação aguardamos,\r\nesta ilha isolada é o nosso purgatório.\r\nMas não se desesperem, irmãos e irmãs.\r\nNossa hora virá.\r\n<RIGHT>Hester Saddler</RIGHT>",
+        "MDCCXLI\r\n난폭하고 사악한 자들에게 추방되어\r\n망명을 떠나니.\r\n풀은 시들고 나무도 말라간다.\r\n지옥과도 같은 고립된 섬에서\r\n속죄하며 기다리니.\r\n형제들이여 아직 절망하지 말라.\r\n때가 오리라.\r\n\r\n<RIGHT>헤스터 새들러</RIGHT>",
+        "MDCCXLI\r\n心懷邪念者手執兵器\r\n將我等逼至絕境\r\n此孤島寸草不生\r\n恍如地獄之邊緣\r\n弟兄姊妹應當慎其行\r\n我等之時代終將降臨\r\n\r\n<RIGHT>海斯特·薩德勒</RIGHT>",
+        "MDCCXLI\r\n好战恶徒　驱逐正道\r\n吾辈受轧　流走他乡\r\n青草枯萎　树木荒芜\r\n卧薪铭记　尝胆以待\r\n此之孤岛　吾辈炼狱\r\n兄弟姐妹　勿要绝望\r\n吾辈时代　终将降临\r\n\r\n<RIGHT>海斯特 · 萨德勒</RIGHT>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MDCCXLI\r\nوجدنا أنفسنا منفيين بعد أن طردنا الأشرار المسلحون.\r\nننتظر التكفير عن خطايانا على هذه الجزيرة الطاهرة\r\nذات العشب الذابل والأشجار الجرداء،\r\nلكن لا تيأسوا يا إخوتي يا أخواتي.\r\nسيحين وقتنا.\r\n<RIGHT>هيستر سادلر</RIGHT>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MDCCXLI\r\nExpulsados por la milicia impía,\r\ncastigados con el exilio.\r\nMarchita la hierba. Secos los árboles.\r\nEsperamos como expiación,\r\nen esta isla desolada, nuestro purgatorio.\r\nMas no desesperen, hermanos y hermanas.\r\nNuestra hora llegará.\r\n\r\n<RIGHT>Hester Saddler</RIGHT>"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_071_02",
+      "guid": "650ea9d7-5606-4924-b9fe-b55d09cf1d4a",
+      "crc?": 3258010678,
+      "hash": 2729898869,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<FOCUS>"
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_071_03",
+      "guid": "c7e1066c-72ee-4c0c-8138-2c0ccfa9cea9",
+      "crc?": 1675650377,
+      "hash": 1494013206,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

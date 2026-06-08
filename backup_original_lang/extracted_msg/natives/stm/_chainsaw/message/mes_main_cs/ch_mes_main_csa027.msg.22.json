@@ -1,0 +1,4340 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "優先度"
+    },
+    {
+      "ty": 2,
+      "name": "話し相手"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_csa027_s00a",
+      "guid": "f65e2b5a-9baf-47ce-90d5-aaa7fe8faebc",
+      "crc?": 2057258488,
+      "hash": 4094396328,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.96>\r\n<MESTIME 38.46, 39.53>\r\n<MESTIME 40.34, 42.28>\r\n<MESTIME 43.93, 45.36>\r\n<MESTIME 45.37, 47.98>\r\n<MESTIME 49.05, 50.2>\r\n<MESTIME 50.77, 55.46>\r\n<MESTIME 55.47, 56.46>\r\n<MESTIME 58.85, 63.5>\r\n<MESTIME 63.76, 66.55>\r\n<MESTIME 66.55, 70.13>\r\n<MESTIME 70.14, 73.63>\r\n<MESTIME 73.64, 75.73>\r\n<MESTIME 75.75, 77.46>\r\n<MESTIME 78.12, 81.28>\r\n<MESTIME 81.29, 84.75>\r\n<MESTIME 84.78, 87.21>\r\n<MESTIME 87.22, 89.5>\r\n<MESTIME 89.92, 91.91>\r\n<MESTIME 91.92, 94.72>\r\n<MESTIME 95.12, 97.52>\r\n<MESTIME 98.16, 101.52>\r\n<MESTIME 102.25, 104.41>\r\n<MESTIME 110.02, 111.88>\r\n<MESTIME 111.88, 112.67>\r\n<MESTIME 112.67, 115.2>\r\n<MESTIME 115.57, 117.45>\r\n<MESTIME 117.48, 120.97>\r\n<MESTIME 120.98, 122.07>"
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0010_cha100",
+      "guid": "dc756bec-2291-4b94-bd6c-0a9d4ffacd7d",
+      "crc?": 2312791130,
+      "hash": 806776142,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン！　こっち！　急いで！",
+        "Leon! This way, hurry!",
+        "Leon ! Par ici, vite !",
+        "Leon! Presto, di qua!",
+        "Leon, hier lang, schnell!",
+        "¡Leon, aquí! ¡Deprisa! ",
+        "Леон! Сюда, скорей!",
+        "Leon! Tędy, szybko!",
+        "",
+        "",
+        "Leon! Por aqui, corre!",
+        "레온! 이쪽으로, 서둘러!",
+        "里昂！這邊，快點！",
+        "里昂！这边，快点！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "من هنا يا ليون، أسرع!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Leon, aquí! ¡Deprisa!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0015_cha000",
+      "guid": "f3e28994-5450-4341-9707-87a905807bcf",
+      "crc?": 1332791724,
+      "hash": 708099236,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "アシュリー！？",
+        "Ashley!?",
+        "Ashley !?",
+        "Ashley!?",
+        "Ashley?!",
+        "¡Ashley!",
+        "Эшли?!",
+        "Ashley?!",
+        "",
+        "",
+        "Ashley?!",
+        "애슐리!?",
+        "艾殊莉？",
+        "阿什莉！？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آشلي؟!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡¿Ashley?!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0020_cha100",
+      "guid": "1fb30e89-cd47-4528-a1d5-e885445bf34c",
+      "crc?": 413521826,
+      "hash": 1121230176,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "な―― なんなのこれ！？",
+        "Wh-What's happening to me?",
+        "Mais qu'est-ce qui m'arrive ?",
+        "Che... cosa mi succede?",
+        "Was... Was passiert mit mir?",
+        "¿Qué... me está pasando? ",
+        "Что... Что со мной такое?",
+        "C-co się ze mną dzieje?",
+        "",
+        "",
+        "O-O que tá acontecendo comigo?",
+        "나, 나 왜 이러는 거야?",
+        "我、我這是怎麼了？",
+        "我、我这是怎么了？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ما-ماذا يحدث لي؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Qué... qué me está pasando?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0025_cha300",
+      "guid": "26f2e952-0d90-4cdc-94bf-ce942927d1dc",
+      "crc?": 3722090060,
+      "hash": 1530391499,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "アシュリー…",
+        "Ashley.",
+        "Ashley.",
+        "Ashley.",
+        "Ashley.",
+        "Ashley.",
+        "Эшли.",
+        "Ashley.",
+        "",
+        "",
+        "Ashley.",
+        "애슐리.",
+        "艾殊莉。",
+        "阿什莉。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آشلي.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ashley."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0030_cha300",
+      "guid": "ab96a7fd-40ad-4d50-b696-b2455170ee91",
+      "crc?": 2660173173,
+      "hash": 3207837372,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "こんな風に血を吐くのは初めてか？",
+        "Is this the first time you've\r\ncoughed up blood like this?",
+        "Est-ce que c'est la première fois\r\nque tu craches du sang comme ça ?",
+        "È la prima volta che tossisci sangue così?",
+        "Ist das das erste Mal, dass du Blut hustest?",
+        "¿Es la primera vez que toses sangre así?",
+        "Скажи, ты до этого уже кашляла кровью?",
+        "Czy to pierwszy raz,\r\nkiedy tak kaszlesz krwią?",
+        "",
+        "",
+        "É a primeira vez que você tosse sangue assim?",
+        "이런 식으로 피를 토한 게 처음이야?",
+        "妳是第一次咳嗽咳出血來嗎？",
+        "你是第一次咳嗽咳出血来吗？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أهذه أول مرة تسعلين فيها دمًا كهذا؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Es la primera vez que toses sangre así?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0035_cha000",
+      "guid": "a1e5c4f4-cca0-42d6-872c-0af81e8c26ce",
+      "crc?": 497063052,
+      "hash": 3970856682,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "何を知ってる",
+        "You wanna start explaining?",
+        "Tu nous expliques ?",
+        "Ti va di spiegarci?",
+        "Was weißt du darüber?",
+        "¿Sabes la causa?",
+        "Может, объяснишь?",
+        "Zechcesz to wyjaśnić?",
+        "",
+        "",
+        "Quer começar a explicar?",
+        "뭘 알고 있는 거지?",
+        "你是知道什麼嗎？",
+        "你是知道什么吗？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هل ستشرح الأمر؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Sabes la causa?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0040_cha300",
+      "guid": "ce2f5205-bef5-432b-84d3-3c39bdd67930",
+      "crc?": 3030071906,
+      "hash": 3072274740,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "咳に 吐血――\r\nこれらはあるものが引き起こしてる",
+        "The cough, the blood—it's caused\r\nby something called a...",
+        "La toux, le sang... c'est dû à\r\nquelque chose qu'on appelle...",
+        "La tosse, il sangue,\r\nsono causati da una cosa chiamata...",
+        "Der Husten, das Blut...\r\nwird verursacht von etwas namens",
+        "La sangre, la tos... La causa es algo llamado...",
+        "Такой кашель вызывает нечто под названием...",
+        "Kaszel, krew – to wszystko jest\r\nspowodowane czymś, co nazywa się...",
+        "",
+        "",
+        "A tosse, o sangue... É tudo causado por algo chamado...",
+        "그 기침과 피—\r\n그 증상들이 나타나는 원인은...",
+        "咳嗽、吐血……這些症狀都是因為……",
+        "咳嗽，吐血……这些症状都是因为……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هذا السعال وهذا الدم—بسبب شيء يدعى...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "La sangre, la tos... La causa es algo llamado..."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0045_cha300",
+      "guid": "c80f50d2-dcad-4db4-a746-7c158ac67395",
+      "crc?": 1100830437,
+      "hash": 242618203,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "…“プラーガ”だ",
+        "\"plaga.\"",
+        "\"plaga\".",
+        "\"Plaga\".",
+        "„Plaga“.",
+        "\"plaga\".",
+        "«плага».",
+        "„plaga”.",
+        "",
+        "",
+        "\"plaga\".",
+        "\"플라가\"야.",
+        "「普拉卡」。",
+        "“普拉卡”。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "\"البلاغا\".",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "plaga."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0050_cha300",
+      "guid": "05943903-a65f-4481-943f-8fae33850b1c",
+      "crc?": 1997913913,
+      "hash": 1130116493,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "そう　見たろ？　あの…“村人たち”を",
+        "OK. You saw those \"people,\" right?",
+        "OK. T'as vu ces \"gens\", pas vrai ?",
+        "Ok. Hai visto quelle \"persone\", no?",
+        "Okay. Ihr habt diese „Leute“ gesehen?",
+        "Vale. Viste a esa \"gente\", ¿eh?",
+        "Короче... Вы видели тех «людей», да?",
+        "Dobra. Widziałeś tamtych „ludzi”, nie?",
+        "",
+        "",
+        "Tá. Você viu essa \"gente\", não é?",
+        "맞아. 그 \"사람들\" 봤지?",
+        "好了，你們也看見那些……「人」了，對吧？",
+        "好了，你们也看到那些……“人”了，对吧？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حسنًا. رأيت هؤلاء \"الأشخاص\"، أليس كذلك؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bueno. Viste a esa \"gente\", ¿verdad?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0055_cha300",
+      "guid": "11847826-2df3-4121-8dde-c663267f8ef1",
+      "crc?": 212347145,
+      "hash": 2939950874,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "同じものが君の中にいる",
+        "Well, you have the same thing inside you.",
+        "Ben toi, t'as la même chose dans ton corps.",
+        "Beh, dentro di te c'è la stessa cosa.",
+        "Du hast das Gleiche in dir wie sie.",
+        "Pues tienes dentro lo mismo que ellos.",
+        "Вот. Внутри тебя такая же штука.",
+        "No to w środku masz to samo, co oni.",
+        "",
+        "",
+        "Você tá com a mesma coisa aí dentro.",
+        "그 사람들과 똑같은 게 네 몸 안에 있어.",
+        "妳身體裡也有相同的東西，",
+        "你身体里也有相同的东西，",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لديك نفس العلة بداخلك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Pues tienes dentro lo mismo que ellos."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0060_cha300",
+      "guid": "4a3e1d1d-82ec-4641-8b35-73c1665983b2",
+      "crc?": 314541182,
+      "hash": 2838833353,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "奴らをあんな風に …変えたものが",
+        "The same thing that made them like that.",
+        "La même chose qui les a rendus comme ça.",
+        "La cosa che li ha resi così.",
+        "Das Gleiche, warum sie so wurden.",
+        "Lo que los convirtió en... eso.",
+        "Именно из-за неё они стали такими.",
+        "To samo, co ich takimi uczyniło.",
+        "",
+        "",
+        "A mesma coisa que deixou eles daquele jeito.",
+        "그게 그들을 저렇게 만들었지.",
+        "會把妳變得……和他們一樣。",
+        "会把你变得……和他们一样。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "نفس الشيء الذي جعلهم هكذا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Lo que los convirtió... en eso."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0065_cha300",
+      "guid": "dc9823e6-d0b0-4102-a2af-866c7fa78d5d",
+      "crc?": 1865953283,
+      "hash": 1623797014,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "咳や吐血はほんの始まりに過ぎない",
+        "This, what you're experiencing, these symptoms...",
+        "Ça, ce qui t'arrive, ces symptômes...",
+        "Questo, quello che ti succede, questi sintomi...",
+        "Das, diese Symptome, die du da zeigst,",
+        "Esto que experimentas, los síntomas...",
+        "Эти симптомы, которые у тебя проявились... ",
+        "To, czego doświadczasz, te objawy...",
+        "",
+        "",
+        "Isso que você tá sentindo, esses sintomas...",
+        "지금 네가 느끼는 이 증상들...",
+        "這些，妳現在正在經受的症狀……",
+        "这些，你现在正在经受的症状……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ما تشعرين به، وتلك الأعراض...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Esto, que experimentas, los síntomas..."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0070_cha300",
+      "guid": "32f677f6-4c6f-4a45-89ad-a7f84b2ab48f",
+      "crc?": 768332826,
+      "hash": 4124890768,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "いずれ君もああなる",
+        "They're only the beginning.",
+        "Eh ben c'est que le début.",
+        "Non è che l'inizio.",
+        "sind erst der Anfang.",
+        "Son el principio.",
+        "лишь только начало.",
+        "To dopiero początek.",
+        "",
+        "",
+        "São só o começo.",
+        "그것들은 단지 시작일 뿐이야.",
+        "只是早期反應。",
+        "只是早期反应。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إنها فقط البداية.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Son el principio."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0075_cha100",
+      "guid": "78af5ae3-8c3e-45cd-8cc3-449583ef2837",
+      "crc?": 4184892719,
+      "hash": 1130278816,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "あんなのになりたくない",
+        "I don't want to become like them.",
+        "Je veux pas devenir comme eux.",
+        "Non voglio diventare come loro.",
+        "Ich will nicht wie die werden.",
+        "No quiero ser una de ellos. ",
+        "Я не хочу стать такой.",
+        "Nie chcę stać się taka jak oni.",
+        "",
+        "",
+        "Eu não quero ficar como eles.",
+        "난 저렇게 되고 싶지 않아.",
+        "我不要變成他們那樣。",
+        "我不要变成他们那样。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا أريد أن أصبح مثلهم.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No quiero ser como ellos."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0080_cha300",
+      "guid": "7b91ff27-0454-4c5e-a1c8-ac5fbe6f4f6d",
+      "crc?": 2900385443,
+      "hash": 1207589473,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "なら君は… ラッキーだ",
+        "You are, well, lucky.",
+        "Quelque part on peut dire que t'as... de la chance.",
+        "Ma tu sei... fortunata.",
+        "Du hast Glück. Na ja...",
+        "Tienes, bueno, suerte",
+        "Ну, всё не так... страшно.",
+        "No to masz szczęście.",
+        "",
+        "",
+        "Bom, você tem... sorte.",
+        "넌 그래도, 운이 좋은 거야.",
+        "好吧，算妳……走運。",
+        "好吧，算你……走运。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حسنًا، أنت محظوظة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tienes, bueno, suerte."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0085_cha300",
+      "guid": "aeaf79ea-a1bf-4630-b605-cb935cbae28e",
+      "crc?": 2555664273,
+      "hash": 2667480644,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "“プラーガ”と呼ばれるその寄生体は…",
+        "You see, at this early stage,\r\nthe parasite—the plaga.",
+        "Tu vois, à ce stade précoce, le parasite... la plaga...",
+        "Vedi, a questo stadio il parassita, la plaga...",
+        "In diesem Stadium kann der Parasit, der Plaga,",
+        "En esta fase, el parásito, la plaga...",
+        "Пока что этого паразита, плагу,",
+        "Widzisz, na tym etapie\r\nten pasożyt – plaga.",
+        "",
+        "",
+        "Nesse estágio inicial, o parasita... a plaga...",
+        "너 같은 초기 단계에서는 기생체... 즉, 플라가를",
+        "這種早期階段的寄生蟲，也就是「普拉卡」……",
+        "这种早期阶段的寄生虫，也就是……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لأنه في هذه المرحلة المبكرة من الإصابة بالطفيلي، البلاغا...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "En esta fase, el parásito, la plaga."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0090_cha300",
+      "guid": "bef9a8c6-79de-4f65-b237-2f1c9776121a",
+      "crc?": 1013659477,
+      "hash": 1605217770,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "初期なら外科手術で…",
+        "It is possible to remove it...",
+        "Il est encore possible de l'extraire...",
+        "Può essere ancora rimosso...",
+        "er kann noch entfernt werden.",
+        "Aún se puede eliminar...",
+        "ещё возможно удалить",
+        "Da się go usunąć...",
+        "",
+        "",
+        "Ainda é possível tirá-la...",
+        "제거하는 게 가능하거든...",
+        "是可以清除掉的……",
+        "“普拉卡”，是可以清除掉的……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "من السهل إزالته...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Aún se puede eliminar..."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0095_cha300",
+      "guid": "8be9eb9f-d039-4265-a3c6-4e4795ffee34",
+      "crc?": 2162357562,
+      "hash": 2051527306,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "完全に取り除けるはずだ",
+        "with a surgical procedure.",
+        "par une opération chirurgicale.",
+        "con un'operazione chirurgica.",
+        "Mit einem kleinen Eingriff.",
+        "Con algo de cirugía.",
+        "хирургическим путём.",
+        "...poprzez zabieg medyczny.",
+        "",
+        "",
+        "com procedimento cirúrgico.",
+        "외과적 수술로 말이지.",
+        "做外科手術就好。",
+        "做外科手术就好。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عن طريق عملية جراحية.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "con un procedimiento quirúrgico."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0100_cha300",
+      "guid": "66100647-9f42-421a-9edf-3c57178603fc",
+      "crc?": 2712043509,
+      "hash": 3688853291,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ちょっとしたノウハウと…",
+        "And all you need is some know-how.",
+        "Il faut juste un peu de savoir-faire.",
+        "Ti serve solo sapere come.",
+        "Man braucht nur etwas Know-how.",
+        "Solo necesitas saber cómo.",
+        "Нужны кое-какие знания.",
+        "Potrzebujesz tylko pewnej wiedzy.",
+        "",
+        "",
+        "Você só precisa saber como.",
+        "노하우가 조금 필요할 뿐이야.",
+        "只需要掌握一點知識，",
+        "只需要掌握一点知识，",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كل ما نحتاج إليه هو معرفة الطريقة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Solo hay que saber hacerlo."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0105_cha300",
+      "guid": "17bcebb6-9f35-4772-9eb5-497acfd640ef",
+      "crc?": 3709737465,
+      "hash": 3779784804,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ちゃんとした… 設備があれば",
+        "And, oh yeah—the right equipment.",
+        "Et aussi, le bon matériel.",
+        "E sì, la giusta attrezzatura.",
+        "Ach ja, und die richtigen Tools.",
+        "Y tener el instrumental para hacerlo.",
+        "Видите? И оборудование.",
+        "Oraz, oczywiście – odpowiedniego wyposażenia.",
+        "",
+        "",
+        "E, claro, do equipamento certo.",
+        "아, 맞아. 제대로 된 설비도.",
+        "還有就是……適當的設備。",
+        "还有就是……适当的设备。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أوه، وبالطبع—المعدات المناسبة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Y tener... el equipo adecuado."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0110_cha000",
+      "guid": "da4e24d9-dc6f-4e9e-ae57-5000a1d32f38",
+      "crc?": 2534029715,
+      "hash": 3248498714,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "まさかお前も？",
+        "Wait. You, too?",
+        "Quoi ? Toi aussi ?",
+        "Quindi anche tu...?",
+        "Warte. Du auch?",
+        "¿Tú también?",
+        "Так ты тоже?",
+        "Czekaj. Ty też?",
+        "",
+        "",
+        "Peraí... você também?",
+        "잠깐, 설마 너도?",
+        "你也是？",
+        "你也是？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مهلًا. أنت أيضًا أصبت به؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Qué? ¿Tú también?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0115_cha300",
+      "guid": "e27f27c1-5393-4fef-b994-f2ad1dd0b3d3",
+      "crc?": 3858805923,
+      "hash": 430271858,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "心配すんな　俺に考えがある",
+        "No worries. See, I have a plan.",
+        "Vous en faites pas. Luis a un plan.",
+        "Niente paura. Io ho un piano.",
+        "Keine Sorge, denn ich hab einen Plan.",
+        "Tranquilos. Yo tengo un plan.",
+        "Не бойтесь. У Луиса есть план.",
+        "Bez obaw. Widzicie, mam pewien plan.",
+        "",
+        "",
+        "Não esquenta. Eu... tenho um plano.",
+        "걱정 마. 나한테 계획이 있어.",
+        "別擔心。我呢，有個計劃。",
+        "别担心。我呢，有个计划。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا داعي للقلق، فأنا لدي خطة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tranquilo. Tengo un plan."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0120_cha300",
+      "guid": "2bd7f8e6-adbd-4488-ace3-7d53fa744689",
+      "crc?": 177377426,
+      "hash": 1168969717,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "お前らが俺を信じるなら",
+        "But you're going to have to trust me.",
+        "Mais va falloir me faire confiance.",
+        "Ma dovete fidarvi di me.",
+        "Aber ihr müsst mir vertrauen.",
+        "Pero tendréis que confiar en mí.",
+        "Но без доверия никак.",
+        "Ale będziecie musieli mi zaufać.",
+        "",
+        "",
+        "Mas vão ter que confiar em mim.",
+        "단, 너희들이 날 믿어야 해.",
+        "前提是你們要相信我。",
+        "前提是你们要相信我。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لكن سيتعين عليكما الوثوق بي.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Pero tendrán que confiar en mí."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0125_cha300",
+      "guid": "d976e718-a6cb-49c1-8652-ac4bf4ffcfbd",
+      "crc?": 2743975696,
+      "hash": 3255610110,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "よし！　俺たちは仲間だ！",
+        "Great! We're partners then!",
+        "Super ! On est partenaires !",
+        "Grande! Allora siamo soci!",
+        "Gut, dann sind wir Partner.",
+        "¡Bien! ¡Entonces, socios!",
+        "Класс! Значит, решено!",
+        "Wspaniale! Jesteśmy zatem partnerami!",
+        "",
+        "",
+        "Ótimo! Somos parceiros, então!",
+        "좋았어! 이제 우린 파트너인 거다!",
+        "很好！我們是一伙的了！",
+        "很好！我们是一伙的了！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "رائع! نحن شركاء إذن!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Bien! ¡Entonces, somos socios!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0130_cha000",
+      "guid": "90ec102b-c32d-4ea8-a5df-8067fa59d734",
+      "crc?": 994973946,
+      "hash": 4173310079,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "おい どういう――",
+        "Hey, why are you—",
+        "Attends, pourquoi tu...",
+        "Perché ci stai aiu...",
+        "Hey, warum hilfst--",
+        "Eh, por qué...",
+        "Эй, почему ты...",
+        "Ej, co ty...",
+        "",
+        "",
+        "Aí, por que você...",
+        "이봐, 넌 어째서—",
+        "嘿，為什麼……",
+        "嘿，为什么……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "مهلًا، لمَ—",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Oye, ¿por qué...?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0135_cha300",
+      "guid": "25d41a1b-fb77-41f4-b4aa-14dbb766da3d",
+      "crc?": 2018964504,
+      "hash": 2358165490,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "さあ　ここからは時間との戦いだ",
+        "No time for any questions. The clock is ticking!",
+        "Pas de temps pour les questions. L'heure tourne !",
+        "Niente domande adesso. Il tempo scorre!",
+        "Wir haben keine Zeit für Fragen, die Uhr tickt.",
+        "Nada de preguntas. ¡El tiempo es oro!",
+        "Вопросы подождут. У нас мало времени!",
+        "Nie ma czasu na pytania. Zegar tyka!",
+        "",
+        "",
+        "Sem perguntas agora. O tempo é curto!",
+        "질문 받을 시간 없어.\r\n지금부터는 시간과의 싸움이야!",
+        "別問那麼多為什麼。時間可不等人！",
+        "别问那么多为什么。时间可不等人！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا مجال للأسئلة. الوقت يمر!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Nada de preguntas. ¡El tiempo es oro!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0140_cha000",
+      "guid": "f1b36e4a-4f77-41f7-a4b4-c58d5f5bce69",
+      "crc?": 3389244874,
+      "hash": 3430378670,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "なぜ俺たちを助ける？",
+        "Why are you helping us?",
+        "Pourquoi tu nous aides ?",
+        "Perché ci aiuti?",
+        "Warum hilfst du uns?",
+        "¿Por qué nos ayudas?",
+        "Почему ты решил помочь?",
+        "Dlaczego nam pomagasz?",
+        "",
+        "",
+        "Por que você tá ajudando?",
+        "어째서 우릴 돕는 거지?",
+        "你為什麼要幫我們？",
+        "你为什么要帮我们？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لمَ تساعدنا؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Por qué nos ayudas?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0145_cha300",
+      "guid": "c8055028-daf4-4cd2-ac8c-ac8b64e6655e",
+      "crc?": 1886879411,
+      "hash": 2739999363,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "俺にも関わりがある　良心の呵責さ",
+        "Because it makes me feel better.\r\nLet's leave it at that.",
+        "Eh ben, ça m'aide à me sentir mieux.\r\nRestons-en là.",
+        "Perché mi fa sentire meglio.\r\nMettiamola così.",
+        "Weil ich mich dann besser fühle,\r\nbelassen wir’s dabei.",
+        "Porque me hace sentir bien.\r\nDejémoslo ahí.",
+        "Мне от этого легче,\r\nскажем так.",
+        "Ponieważ to sprawia, że czuję się lepiej.\r\nI na tym poprzestańmy.",
+        "",
+        "",
+        "Porque faz eu me sentir melhor.\r\nE vamos deixar isso assim.",
+        "왜냐하면 그래야 내 마음이 편하니까.\r\n그렇게 알고 있어.",
+        "因為能讓我好受點。\r\n別問那麼多了。",
+        "因为能让我好受点。\r\n别问那么多了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لأن ذلك يشعرني بشعور جيد. لن أضيف المزيد من التعليقات على هذا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Porque me hace sentir bien.\r\nDejémoslo ahí."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_csa027_s00a_0150_cha300",
+      "guid": "8d8df637-7e26-4a83-97af-ff57ac3690b4",
+      "crc?": 4150911608,
+      "hash": 3402371425,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "また連絡する",
+        "I will contact you later.",
+        "Je vous recontacte plus tard.",
+        "Mi faccio vivo io.",
+        "Ich melde mich später.",
+        "Te llamaré luego.",
+        "Ладно, до связи.",
+        "Skontaktuję się z wami później.",
+        "",
+        "",
+        "Faço contato depois.",
+        "나중에 연락하지.",
+        "我會再聯繫你的。",
+        "我会再联系你的。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سأتصل بكما لاحقًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Te llamaré luego."
+      ]
+    }
+  ]
+}

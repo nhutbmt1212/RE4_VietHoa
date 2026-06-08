@@ -1,0 +1,246 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp33_0002",
+      "guid": "4af0480d-369f-4e9c-a86a-b3eeeeb346cd",
+      "crc?": 1723428935,
+      "hash": 945321177,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 2.84>\r\n<VOTIME 0.0>\r\n<CONVEND 2.84>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp33_0002_0020_cha000",
+      "guid": "03591e10-9b1b-48cd-8669-55e0387b7108",
+      "crc?": 4152204790,
+      "hash": 3412870746,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "蛇の像か…",
+        "Statue of some snakes...",
+        "Une statue de serpents...",
+        "Una statua di due serpenti...",
+        "Eine Schlangenstatue...",
+        "Estatua de dos serpientes...",
+        "Статуя со змеями...",
+        "Posąg z jakimiś wężami...",
+        "",
+        "",
+        "Estátua de cobras...",
+        "뱀들의 조각상이라...",
+        "這是蛇的雕像……",
+        "这是蛇的雕像……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تمثال لثعبانين…",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Una estatua de dos serpientes..."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp33_0001",
+      "guid": "6df41218-e995-4f9f-886e-b19050ca361a",
+      "crc?": 461444458,
+      "hash": 1039246559,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 3.18>\r\n<VOTIME 0.0>\r\n<CONVEND 3.18>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_CamDemo_Vo_cp33_0001_0010_cha100",
+      "guid": "75d60ca9-0bc9-46e5-be59-6cecc99a323f",
+      "crc?": 590278043,
+      "hash": 1259041121,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ここを開けなきゃ",
+        "Gotta get this open somehow.",
+        "Je dois trouver un moyen d'ouvrir ça.",
+        "Devo trovare un modo per aprire.",
+        "Ich muss das irgendwie aufkriegen.",
+        "Tengo que abrir esta puerta.",
+        "Это надо как-то открыть.",
+        "Muszę to jakoś otworzyć.",
+        "",
+        "",
+        "Tenho que abrir isso aqui.",
+        "어떻게 해서든 이걸 열어야 해.",
+        "得想辦法打開它。",
+        "得想办法打开它。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ينبغي أن أفتح هذه بطريقة أو بأخرى.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tengo que abrir esta puerta."
+      ]
+    }
+  ]
+}

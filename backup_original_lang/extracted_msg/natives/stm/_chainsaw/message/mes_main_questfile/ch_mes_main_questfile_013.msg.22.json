@@ -1,0 +1,444 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_013_00",
+      "guid": "7f73dacc-fead-43bd-beb4-b93c946f88c9",
+      "crc?": 2707012496,
+      "hash": 2872917699,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "残忍な騎士",
+        "Merciless Knight",
+        "Chevalier sans pitié",
+        "Un cavaliere spietato",
+        "Ungalanter Ritter",
+        "Caballero sin piedad",
+        "Безжалостный рыцарь",
+        "Bezlitosny rycerz",
+        "",
+        "",
+        "Cavaleiro Impiedoso",
+        "잔인한 기사",
+        "無情騎士",
+        "残忍的骑士",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "الفارس القاسي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Caballero sin piedad"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_013_01",
+      "guid": "8815ba1d-e17b-4325-9a01-c384b27b66bc",
+      "crc?": 1108552913,
+      "hash": 3098790885,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COL FILE>特殊な変異を起こした騎士</COL>の化け物を始末してくれ。\r\n他個体に比べ明らかに強靭だ。\r\nオレたちの同胞も一刀両断にされた。気をつけろよ。",
+        "I seek a brave soul willing to dispose of that\r\nmonstrosity of a <COL FILE>knight</COL>.\r\n\r\nBut be warned: it is much stronger than the\r\nothers. He cut down our best with a single strike.",
+        "Je cherche une âme courageuse capable de\r\nnous débarrasser de ce <COL FILE>chevalier</COL> monstrueux.\r\n\r\nMais attention : il est beaucoup plus fort que\r\nles autres. Il a vaincu les meilleurs d'entre nous\r\nd'un seul coup d'épée.",
+        "Ho bisogno di qualcuno abbastanza coraggioso\r\nda eliminare quel mostruoso <COL FILE>cavaliere</COL>.\r\n\r\nVi avverto: è molto più forte degli altri.\r\nGli è bastato un singolo colpo per far fuori\r\nil migliore tra noi.",
+        "Ich suche nach einer mutigen Seele, die dieses\r\nMonstrum von einem <COL FILE>Ritter</COL> beseitigt.\r\n\r\nAber sei gewarnt: Er ist viel stärker als die an-\r\nderen. Hat einen unserer besten Männer mit nur\r\neinem Hieb in zwei Hälften geteilt.",
+        "Busco a alguien valiente que se atreva con\r\nese <COL FILE>caballero</COL> monstruoso.\r\n\r\nPero cuidado: es mucho más fuerte que los\r\ndemás. Partió en dos a nuestro mejor guerrero\r\ncon un solo golpe.",
+        "Я ищу храбреца, готового прикончить этого жуткого\r\n<COL FILE>рыцаря</COL>. \r\n\r\nНо предупреждаю сразу: он гораздо\r\nсильнее, чем остальные. Одним ударом убивает\r\nсильнейших противников.",
+        "Szukam śmiałka, który pozbędzie się tego\r\npotwornego <COL FILE>rycerza</COL>.\r\n\r\nAle ostrożnie: ten jest dużo silniejszy niż inni.\r\nZabija naszych najlepszych ludzi jednym ciosem.",
+        "",
+        "",
+        "Procuro uma alma corajosa disposta a se livrar\r\ndaquele <COL FILE>cavaleiro</COL> monstruoso. Mas atenção: ele\r\né muito mais forte do que os outros. Ele matou\r\nnosso melhor homem com um único golpe.",
+        "난 저 흉물스러운 <COL FILE>기사</COL>를 기꺼이 처리해 줄\r\n용맹한 영혼을 찾아.\r\n\r\n다만 경고하건대, 다른 녀석들에 비해 훨씬\r\n강력해. 내 동료들을 한 방에 베어 버렸다고.",
+        "我需要勇士替我處理掉那個<COL FILE>怪物騎士</COL>。\r\n\r\n他比其他騎士都要強，還一刀把我們的同伴\r\n砍成了兩半。記得要小心點。",
+        "我需要一位勇士帮我处理掉那个<COL FILE>鬼魅骑士</COL>。\r\n\r\n但是要小心：\r\n它比别的骑士要更强大，\r\n我们有的同胞甚至被他一劈两半。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ابحث عن شخص شجاع على استعداد للتخلص من ذلك\r\n<COL FILE>الفارس الشنيع</COL>.\r\n\r\nلكن يجب الحذر، إنه أقوى بكثير من الآخرين.\r\nلقد قضى على أفضل مقاتلينا بضربة واحدة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Busco a un o a una valiente que se atreva con\r\nese <COL FILE>caballero</COL> monstruoso.\r\n\r\nPero cuidado: es mucho más fuerte que los demás. \r\nPartió en dos a nuestro mejor guerrero con un solo golpe."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_013_02",
+      "guid": "7be4adf6-a17d-418d-9f35-558e93c8d084",
+      "crc?": 2170180445,
+      "hash": 1383815582,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

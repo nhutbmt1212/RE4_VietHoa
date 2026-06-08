@@ -1,0 +1,736 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse225_s00a",
+      "guid": "4d45d5bf-5c8d-498a-92f3-53f344594f45",
+      "crc?": 1403532589,
+      "hash": 2438392359,
+      "attributes": [
+        {
+          "String": "<MESTIME 15.95, 17.63>\r\n<MESTIME 18.57, 22.13>\r\n<MESTIME 23.1, 25.21>\r\n<MESTIME 26.23, 29.33>\r\n<MESTIME 29.83, 32.06>\r\n<MESTIME 33.61, 34.21>\r\n<MESTIME 35.17, 36.16>\r\n<MESTIME 36.17, 37.69>\r\n<MESTIME 38.3, 41.91>\r\n<MESTIME 42.76, 45.48>\r\n<MESTIME 46.7, 48.15>\r\n<MESTIME 48.16, 49.43>\r\n<MESTIME 50.51, 51.8>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse225_s00a_0010_cha600",
+      "guid": "6d877528-a685-451a-925f-5d0d144de207",
+      "crc?": 1674172040,
+      "hash": 340782207,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "たいしたざまだな…",
+        "Having a bad day?",
+        "Dure journée ?",
+        "Giornata complicata?",
+        "Schlechter Tag?",
+        "¿Un mal día?",
+        "Так себе день?",
+        "Masz zły dzień?",
+        "",
+        "",
+        "Tendo um dia ruim?",
+        "일진 한번 사납지?",
+        "今天不走運嗎？",
+        "今天不走运吗？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أتمرين بيوم سيئ؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Tienes un mal día?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse225_s00a_0020_cha200",
+      "guid": "221c69ac-981f-402c-aafc-c32e4488eb59",
+      "crc?": 911711291,
+      "hash": 677955910,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ウェスカー　どういう風の吹き回し？",
+        "Wesker. To what do I owe this pleasure?",
+        "Wesker. Qu'est-ce qui me vaut cet honneur ?",
+        "Wesker. A cosa devo il piacere?",
+        "Wesker. Was verschafft mir die Ehre?",
+        "Wesker. ¿A qué debo el placer?",
+        "Вескер. Чем обязана встрече?",
+        "Wesker. Czemu zawdzięczam tę przyjemność?",
+        "",
+        "",
+        "Wesker. A que devo essa honra?",
+        "웨스커. 어쩐 일로 여기까지 행차한 거야?",
+        "威斯卡，什麼風把你吹來了？",
+        "威斯卡，什么风把你吹来了？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ويسكر. إلى ما أدين بسروري لهذا الشرف؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Wesker. ¿A qué debo el placer?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse225_s00a_0030_cha600",
+      "guid": "6fd6f75b-640a-44f0-bfe7-b433b5141407",
+      "crc?": 4209563523,
+      "hash": 1035200814,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "俺の時間を無駄にするな",
+        "Stop wasting my time, Ada.",
+        "Arrête de me faire perdre mon temps, Ada.",
+        "Non farmi perdere tempo, Ada.",
+        "Hör auf meine Zeit zu verschwenden.",
+        "Déjate de tonterías, Ada. ",
+        "Не тяни время, Ада.",
+        "Nie marnuj mojego czasu, Ada.",
+        "",
+        "",
+        "Pare de desperdiçar meu tempo, Ada.",
+        "더 이상 시간 낭비하게 하지 마, 에이다.",
+        "別浪費我的時間，艾達。",
+        "别浪费我的时间，艾达。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "توقفي عن إضاعة وقتي يا آدا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Deja de jugar, Ada."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse225_s00a_0040_cha600",
+      "guid": "fbc9c69e-ec88-4f56-819c-285bca5130c5",
+      "crc?": 3891549160,
+      "hash": 3761021939,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ルイスを見つけ… アンバーを確保しろ",
+        "Find Luis. Fetch me the Amber.",
+        "Trouve Luis et apporte-moi l'Ambre.",
+        "Trova Luis. Recuperami l'Ambra.",
+        "Finde Luis. Bring mir den Bernstein.",
+        "Busca a Luis. Tráeme el Ámbar.",
+        "Найди Луиса. И принеси янтарь.",
+        "Znajdź Luisa. I dostarcz mi Bursztyn.",
+        "",
+        "",
+        "Encontre Luis. Me traga o Âmbar.",
+        "루이스를 찾아서 앰버를 가지고 와.",
+        "去找路易斯，把「琥珀」帶回來。",
+        "去找路易斯，把“琥珀”带回来。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اعثري على لويس وأحضري ليّ \"الآمبر\".",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Busca a Luis. Tráeme el ámbar."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse225_s00a_0050_cha200",
+      "guid": "1c3a733a-2bad-4abe-b566-c8dfefe563eb",
+      "crc?": 3680015273,
+      "hash": 1897876801,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "この部屋の感謝をするべき？",
+        "I should probably thank you for this room.",
+        "En tout cas, merci pour la chambre.",
+        "Grazie per questa stanza.",
+        "Unerwartet fürsorglich von dir.",
+        "Gracias por el alojamiento.",
+        "Кстати, спасибо за номер…",
+        "Powinnam ci chyba podziękować za ten pokój.",
+        "",
+        "",
+        "Te agradeço muito pelo quarto.",
+        "방 잡아 준 건 고마워해야겠지?",
+        "謝謝你為我準備的房間。",
+        "谢谢你为我准备的房间。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ينبغي أن أشكرك على هذه الغرفة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Gracias por la habitación."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse225_s00a_0060_cha200",
+      "guid": "0f277ac6-9bb9-4585-95c7-f87559b2e1e5",
+      "crc?": 3546624542,
+      "hash": 980394338,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "そう…",
+        "Are you staying...",
+        "Vous restez...",
+        "Resta qui?",
+        "Bleib doch noch",
+        "¿Te quedas?",
+        "Останешься?",
+        "Zostajesz...",
+        "",
+        "",
+        "Cê vai ficar...",
+        "계속 여기에 있으면서...",
+        "要留下來……",
+        "要留下来……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هل ستبقى...؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Te quedas...?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse225_s00a_0070_cha200",
+      "guid": "c8ad56a7-70b6-4d78-a5d5-818e110b5711",
+      "crc?": 2150275926,
+      "hash": 3757287704,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "じゃあ　支援を？",
+        "to back me up?",
+        "pour m'épauler ?",
+        "Mi dà una mano?",
+        "und hilf mir.",
+        "¿De refuerzo?",
+        "Поможешь мне?",
+        "...żeby mnie wesprzeć?",
+        "",
+        "",
+        "... pra me apoiar?",
+        "지원이라도 해 주려고?",
+        "幫我一把嗎？",
+        "帮我一把吗？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لتكون دعمًا لي؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿De apoyo?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse225_s00a_0080_cha600",
+      "guid": "8c18c38a-4858-45ca-a476-125dcf8b2839",
+      "crc?": 601422018,
+      "hash": 68873262,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "子守りが　まだ必要か？",
+        "I'm not here to babysit you.",
+        "Je ne suis pas ton baby-sitter.",
+        "Non sono il tuo baby sitter.",
+        "Ich bin nicht dein Aufpasser.",
+        "No soy tu niñera.",
+        "Я что тебе, нянька?",
+        "Nie jestem tu, żeby cię niańczyć.",
+        "",
+        "",
+        "Não vim aqui pra ser sua babá.",
+        "네 뒤치다꺼리를 하려고 온 게 아니야.",
+        "我不是來當保姆的。",
+        "我不是来当保姆的。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لستُ هنا لرعايتك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No vine aquí a cuidarte."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse225_s00a_0090_cha600",
+      "guid": "860c24a5-a7fa-460c-b37a-33954111a78f",
+      "crc?": 597641476,
+      "hash": 1261246560,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "お前が役に立つことを証明してみせろ",
+        "See that you remain an asset—and not a liability.",
+        "Arrange-toi pour être un atout, et pas un fardeau.",
+        "Tu dovresti essere una risorsa, e non certo un peso.",
+        "Und ich bezahle dich nicht dafür,\r\nmir zur Last zu fallen.",
+        "Recuerda que eres la solución, no el problema.",
+        "Ты должна быть ресурсом, а не обузой.",
+        "Upewnij się, że pozostajesz użytecznym zasobem,\r\nnie obciążeniem.",
+        "",
+        "",
+        "Vim garantir que você seja um recurso, não um risco.",
+        "네가 아직 쓸 만한지 골칫거리인지 확인하러 왔다.",
+        "最好發揮點價值，別總叫我擦屁股。",
+        "最好发挥点价值，别总叫我擦屁股。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "احرصي على أن تظلي عونًا، ولا تكوني عائقًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Procura seguir siendo un activo, y no una carga."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse225_s00a_0100_cha600",
+      "guid": "558992dd-7728-466a-8bf0-643ddb10432f",
+      "crc?": 3498389315,
+      "hash": 550679344,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "俺は無能なコマに用はない",
+        "I have absolutely no use for your incompetence.",
+        "Je ne tolérerai pas plus longtemps ton incompétence.",
+        "Non tollererò oltre la tua incompetenza.",
+        "Ich habe keine Verwendung für Inkompetenz.",
+        "No pienso aceptar tu incompetencia.",
+        "Терпеть не могу дилетантов.",
+        "Niepotrzebna mi twoja niekompetencja.",
+        "",
+        "",
+        "A sua incompetência é inútil pra mim.",
+        "무능한 넌 아무 쓸모가 없어서 말이야.",
+        "我可不會養著對我沒用的廢物。",
+        "我可不会养着对我没用的废物。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا أطيق عدم الكفاءة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "La incompetencia no me sirve para nada."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse225_s00a_0110_cha200",
+      "guid": "ea6361d3-136a-4d2b-add4-8481da8ac6de",
+      "crc?": 933946145,
+      "hash": 3765750671,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "とんだ脅しね　ウェスカー",
+        "Easy with the threats, Wesker.",
+        "Mollo, les menaces, Wesker.",
+        "Basta minacce, Wesker.",
+        "Soll das eine Drohung sein?",
+        "No me amenaces, Wesker.",
+        "Давай полегче, Вескер.",
+        "Skończ z tymi groźbami, Wesker.",
+        "",
+        "",
+        "Cuidado com ameaças, Wesker.",
+        "협박을 아무렇지 않게 하네, 웨스커.",
+        "你在威脅我？威斯卡。",
+        "你在威胁我？威斯卡。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا تهددني يا ويسكر.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No me amenaces, Wesker."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse225_s00a_0120_cha600",
+      "guid": "b9655720-d9d3-4f55-81c1-f155d21497e3",
+      "crc?": 1526411691,
+      "hash": 3701492640,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "結果をだせ",
+        "Just get it done.",
+        "Fais ton travail.",
+        "Fa' quello che devi.",
+        "Mach deinen Job.",
+        "Haz el trabajo.",
+        "Займись делом.",
+        "Po prostu wykonaj zadanie.",
+        "",
+        "",
+        "Só termine isso.",
+        "빨리 끝내.",
+        "快去幹活。",
+        "快去干活。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "فقط أنهي الأمر.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Solo hazlo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse225_s00a_0130_cha600",
+      "guid": "deb9388e-6879-4c23-8ada-305a460c6a4f",
+      "crc?": 491711014,
+      "hash": 3852373383,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "また連絡する",
+        "I'll be in touch.",
+        "Je te recontacte.",
+        "Mi farò sentire.",
+        "Ich melde mich.",
+        "Ya te llamaré.",
+        "Я на связи.",
+        "Będę w kontakcie.",
+        "",
+        "",
+        "Eu entro em contato.",
+        "연락하지.",
+        "我再聯繫妳。",
+        "我再联系你。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سأكون على تواصل.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Estaré en contacto."
+      ]
+    }
+  ]
+}

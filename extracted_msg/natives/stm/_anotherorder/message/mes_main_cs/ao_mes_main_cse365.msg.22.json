@@ -1,0 +1,442 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse365_s00a",
+      "guid": "a9a8a253-9699-49cf-ad15-a822c6750088",
+      "crc?": 42833272,
+      "hash": 3946482724,
+      "attributes": [
+        {
+          "String": "<MESTIME 7.43, 8.5>\r\n<MESTIME 8.56, 9.82>\r\n<MESTIME 10.51, 12.87>\r\n<MESTIME 12.88, 16.43>\r\n<MESTIME 16.45, 17.78>\r\n<MESTIME 20.88, 21.91>\r\n<MESTIME 21.96, 23.72>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse365_s00a_0010_cha000",
+      "guid": "3e1864d1-46c0-485a-93ee-45c56c9814ee",
+      "crc?": 4253874542,
+      "hash": 2197215894,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "アシュリー！",
+        "Ashley!",
+        "Ashley !",
+        "Ashley!",
+        "Ashley!",
+        "¡Ashley!",
+        "Эшли!",
+        "Ashley!",
+        "",
+        "",
+        "Ashley!",
+        "애슐리!",
+        "艾殊莉！",
+        "阿什莉！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آشلي!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Ashley!"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse365_s00a_0020_cha100",
+      "guid": "04d75bae-db71-449c-8aac-990065c009a3",
+      "crc?": 1128555025,
+      "hash": 3419133494,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン！",
+        "Leon!",
+        "Leon !",
+        "Leon!",
+        "Leon!",
+        "¡Leon!",
+        "Леон!",
+        "Leon!",
+        "",
+        "",
+        "Leon!",
+        "레온!",
+        "里昂！",
+        "里昂！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليون!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Leon!"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse365_s00a_0030_chb600",
+      "guid": "edb8f7f9-6882-4b4b-87c1-9222c5d04a83",
+      "crc?": 1096716605,
+      "hash": 617950319,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "愚かですね　ミスター・ケネディ",
+        "Such a fool, Mr. Kennedy.",
+        "Comme vous êtes stupide, M. Kennedy.",
+        "Che stolto, signor Kennedy.",
+        "Solch Dummheit, Mr. Kennedy.",
+        "Qué estúpido, señor Kennedy.",
+        "Как глупо, мистер Кеннеди.",
+        "Jakiż z ciebie głupiec, panie Kennedy.",
+        "",
+        "",
+        "Tão tolo, Sr. Kennedy.",
+        "이리도 어리석어서야, 미스터 케네디.",
+        "你真傻，甘迺迪先生。",
+        "你真傻，肯尼迪先生。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يا لك من أحمق يا سيد كينيدي.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Es un necio, señor Kennedy."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse365_s00a_0040_chb600",
+      "guid": "96408fdb-8790-4c21-bf5c-a5da985d4bf6",
+      "crc?": 1445118194,
+      "hash": 2412864804,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "サドラー様の恩寵をその身に賜ったというのに\r\nみずからそれを…",
+        "To have been bestowed with Lord\r\nSaddler's grace, and yet fail to—",
+        "Vous avez reçu la grâce de Lord Saddler,\r\net pourtant vous échouez à...",
+        "Aver ricevuto in dono la grazia\r\ndi Lord Saddler, eppure non riuscire a...",
+        "Lord Saddler ließ Ihnen seine Gnade\r\nzuteilwerden, doch Sie sind...",
+        "Habiendo sido bendecido con la gracia\r\nde Lord Saddler, y no entiende...",
+        "Владыка Сэдлер одарил тебя своей\r\nмилостью, но ты так и не...",
+        "Zostać obdarzonym łaską lorda\r\nSaddlera, a mimo to nie zdołać...",
+        "",
+        "",
+        "Receber a graça de Lorde Saddler\r\ne ainda assim não conseguir...",
+        "새들러 님의 은총을 하사 받아 놓고도 그걸...",
+        "明明已經接受了薩德勒教主的恩典，\r\n可你卻偏偏……",
+        "明明已经接受了萨德勒教主的恩典，\r\n可你却偏偏……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أنعم السيد سادلر على روحك برحمته، لكنك لم…",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ha sido bendecido con la gracia\r\nde Lord Saddler, y no entiende..."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse365_s00a_0050_cha000",
+      "guid": "a65bef9a-ffd0-460c-bc17-2bb8154cd943",
+      "crc?": 3594656251,
+      "hash": 1445433995,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "しゃべりすぎだ",
+        "You talk too much.",
+        "Tu parles trop.",
+        "Tu parli troppo.",
+        "Du redest zu viel.",
+        "Hablas demasiado.",
+        "Много болтаешь.",
+        "Za dużo gadasz.",
+        "",
+        "",
+        "Você fala demais.",
+        "넌 너무 말이 많아.",
+        "廢話真多。",
+        "废话真多。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أنت ثرثار.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hablas mucho."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse365_s00a_0060_cha200",
+      "guid": "3cb916f7-1362-4e2e-8f06-f2e55bc0d429",
+      "crc?": 3858172974,
+      "hash": 1024009086,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン",
+        "Good boy.",
+        "C'est bien.",
+        "Perfetto.",
+        "Gut so.",
+        "Buen chico.",
+        "Вот так.",
+        "Grzeczny chłopiec.",
+        "",
+        "",
+        "Bom garoto.",
+        "잘했어.",
+        "真乖。",
+        "真乖。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "فتى مطيع.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Buen chico."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse365_s00a_0070_cha200",
+      "guid": "b5247031-c462-41b7-9a2c-8bdae805932c",
+      "crc?": 1068114372,
+      "hash": 2886438038,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "”協力”感謝するわ",
+        "Just keep him busy a little longer.",
+        "Occupe-le encore un peu.",
+        "Tienilo occupato ancora un po'.",
+        "Beschäftige ihn noch ein bisschen.",
+        "Entretenlo un poco más. ",
+        "Отвлеки его немного.",
+        "Zajmij go jeszcze przez chwilę.",
+        "",
+        "",
+        "É só distrair ele mais um pouquinho.",
+        "조금만 더 잡아 놓고 있어.",
+        "再多當一會「小助手」吧。",
+        "再多当会“小助手”吧。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أبقه مشغولًا لفترة أطول قليلًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mantenlo ocupado un poco más."
+      ]
+    }
+  ]
+}

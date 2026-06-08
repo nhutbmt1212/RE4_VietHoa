@@ -1,0 +1,550 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_File_011_00",
+      "guid": "d806f312-721b-4d56-80a0-6c6b5cdda086",
+      "crc?": 1265170869,
+      "hash": 271618633,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "湖岸の地図",
+        "Lakeside Map",
+        "Carte du lac",
+        "Mappa del lago",
+        "Karte des Seeufers",
+        "Mapa de la orilla del lago",
+        "Карта окрестностей озера",
+        "Mapa jeziora",
+        "",
+        "",
+        "Mapa da Região do Lago",
+        "호숫가 지도",
+        "湖畔地圖",
+        "湖畔地图",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "خريطة قرب البحيرة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mapa de la orilla del lago"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_011_01",
+      "guid": "09c111be-f6f6-436f-af4b-c52497f06a37",
+      "crc?": 2738555855,
+      "hash": 3387585139,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "外からの厄　　　を取り戻しに　　　　　　\r\n　　が主より別命　るまで、娘は教会に幽　　　　\r\n\r\n　　　で教会の門は閉じられる\r\n<COL FILE>鍵</COL>は湖の向こう、<COL FILE>対岸の洞窟</COL>に　　　\r\n\r\n　　　巨山のごとき湖の　　　　　　　　が\r\n愚かな侵入者か　　　てくれよう",
+        "A pest fro   he outsid  has  ome for the  irl.\r\nLock her  n the chu ch and   ait orders  rom\r\n ur lord.  ntil then, keep the chur   door shut.\r\n\r\nThe <COL FILE>key</COL> ill be held in th  <COL FILE>cave</COL>\r\non the  ther side   the lake.\r\n\r\nThe monst r will deal  ith the fooli h intruder.",
+        "Un nuisib e de l'extérieu est  enu pour la  ille.\r\nEnfermez-la  ans l'égl se et  ttendez les ordres\r\nde  otre seigneur.  usque-là, gardez l'ent ée  de\r\nl'église fermée.\r\n\r\nLa <COL FILE>clé</COL> sera  onservée dans l  <COL FILE>grotte</COL> de l'autre\r\ncôté d  lac.\r\n\r\nLe monst e se cha gera de cet intrus imprud nt.",
+        "U a rogna provenie te dall'est rno è q i\r\nin cer a della raga za. Trasferit la in chi sa\r\ne r state in at esa di ulte iori ord ni dal n stro\r\nsign re. Nel fra tempo, ten te ben chiusa\r\nl  porta.\r\n\r\nLa <COL FILE>chiave</COL> sarà cust dita nel a <COL FILE>caverna</COL> sul l to\r\noppo to del lago.\r\n\r\nIl most o si o cuperà d llo stu ido intruso.",
+        "Ein Störenfried von außerh       ist nach dem\r\nMädchen gekommen. Schließt        in der Kirche\r\n     n und wartet auf         eren Befehl unseres\r\nHerrn.\r\n\r\nVerschli       die Kirche und versteck         n\r\n<COL FILE>Schlüssel</COL> in der <COL FILE>Höhle</COL>        der anderen Seite\r\n       s Sees.\r\n\r\nDie   reatur wird sich des töric    en\r\nEindringlings annehmen.",
+        "Una al maña extr n jera ha venid  a or la ch  ca.\r\nEnc rra la en l  igles a y esp  ad l s órden s\r\nd l Señor.  asta enton es, cerrad a a cal y c nto.\r\n\r\nLa <COL FILE>llave</COL>   stará en l  <COL FILE>cueva</COL> al otr  lad  del lago.\r\n\r\nEl monstr o se encar ará del put  i truso. ",
+        "Вредитель явился  ...звне за  ...чонкой.\r\nЗапри её в церк...  и жди  ...казов нашего\r\n...ладыки. До той поры не  ...крывай церковн...\r\nдверь.\r\n\r\n<COL FILE>Ключ</COL> буд...  лежать в <COL FILE>пещере</COL> на той сторо...\r\nозера.\r\n\r\nЧудов...  прикончит  того глуп...  чужака.",
+        "Szk dnik z zewn trz przyszed po dz ewczy ę.\r\nZamkn ć ją w kości le i  zekać na rozk zy\r\nod n szego  ana. Do tego cz su trzy ać\r\nbramę zam niętą.\r\n\r\n<COL FILE>Klucz</COL>  ędzie znajdow ł si  w <COL FILE>jaskini</COL>\r\nna dr gim końcu  eziora.\r\n\r\nNieo trożnym int uzem zajmie się p twór.",
+        "",
+        "",
+        "Uma peste d  fora vei  at ás da   nina.\r\nPrenda-a n  igre a e a  arde ordens d  \r\n osso Senhor. té lá, deixe as p rtas da igrej  fechad s.\r\n\r\nA <COL FILE>chave</COL>  icará na <COL FILE>caverna</COL>\r\ndo outr  lado d  lago.\r\n\r\nO monst o vai c idar d intruso  olo.",
+        "바깥에서 재     를 찾으러 왔다.\r\n주인님의 명령      때까지   를 교회에\r\n가두어       교회의 문을 굳게 닫아라.\r\n\r\n<COL FILE>열쇠</COL>는 호수 반대편\r\n<COL FILE>동굴</COL> 안        다.\r\n\r\n그   이 멍청한 방해꾼        겠지.",
+        "有隻外　害蟲來　找　女　。\r\n把她關　教堂，直至　主另有吩　。\r\n記　把教　的門鎖　。\r\n<COL FILE>鑰匙</COL>　湖對岸　<COL FILE>洞穴</COL>。\r\n怪物　阻　那個愚　的外　人。",
+        "有一　外　的渣　来　那个女　。\r\n把　锁在教　　，　待　主的命　。\r\n在那　前，要关好　堂的门。\r\n\r\n<COL FILE>钥匙</COL>会　保存　湖对岸　　<COL FILE>洞</COL>里。\r\n\r\n怪　会对付愚　　入侵者。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "جاء شخص غريب م  الخار  للفتا.\r\nاحبسوها في الكنيس  وانتظ  الأوامر م سيدنا. حتى حين، أغلقوا باب الكنيس  .\r\n\r\nسيُحفظ <COL FILE>المفتاح</COL> ف  <COL FILE>الكهف</COL>\r\nالموجود على الجه الأخرى  البحيرة.\r\n\r\nسيتولى الو حش أمر الدخيل الغب ي.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Una al maña extr n jera vino  a or la ch  ca.\r\nEnc rra la en l  igles a y esp  en l s órden s\r\nd l Señor.  asta enton es, cierren a cal y c nto.\r\n\r\nLa <COL FILE>llave</COL>   stará en l  <COL FILE>cueva</COL> al otr  lad  del lago.\r\n\r\nEl monstr o se encar ará del put  i truso."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_011_02",
+      "guid": "f78f7a6c-68d1-4165-98b4-58064d589b84",
+      "crc?": 3333308664,
+      "hash": 2065763937,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<FOCUS>"
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_011_03",
+      "guid": "2bd61e82-cf36-46af-a049-1e964ec23ef2",
+      "crc?": 745351660,
+      "hash": 2243483137,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

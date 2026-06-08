@@ -1,0 +1,550 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_016_00",
+      "guid": "9241121b-1641-46b5-b8f3-e3a23567794f",
+      "crc?": 2095842489,
+      "hash": 3835429892,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "サラザール家の面汚し",
+        "The Disgrace of the Salazar Family",
+        "La honte de la famille Salazar",
+        "La disgrazia dei Salazar",
+        "Schande der Familie",
+        "Muerte a los Salazar",
+        "Позор семьи Салазаров",
+        "Zakała rodu Salazarów",
+        "",
+        "",
+        "A Desgraça da Família Salazar",
+        "살라자르가의 수치",
+        "讓薩拉札家蒙羞",
+        "萨拉扎家族之耻",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عار عائلة سالازار",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "La desgracia de los Salazar"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_016_01",
+      "guid": "96909c05-c421-43c5-8bc4-31b5d94c1cc7",
+      "crc?": 1698289811,
+      "hash": 513734161,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "憎きラモン・サラザール……。\r\nたとえ絵ですら腹立たしい。\r\n写真の部屋に飾られている<COL FILE>奴の肖像画</COL>を\r\nどうにかして汚してくれないか。\r\n<COL FILE>何かぶつけてみる</COL>のもいいかもしれないな。",
+        "That detestable Ramón Salazar...\r\n\r\nEven the very sight of his image makes my skin\r\ncrawl. Do me a service and find some way to\r\ndeface the <COL FILE>portrait of him</COL> in the room shown\r\nin the photograph, will you?\r\n\r\nI'm not particular about how you do it. <COL FILE>Hitting it\r\nwith something</COL> might do the trick.",
+        "Cet ignoble Ramón Salazar...\r\n\r\nLa simple vue de son image me donne la nausée.\r\nSi quelqu'un veut me rendre service, qu'il trouve\r\nun moyen de lui refaire <COL FILE>le portrait</COL> dans\r\nla pièce que l'on voit sur la photo !\r\n\r\n<COL FILE>Frapper son visage avec quelque chose</COL> devrait\r\nfaire l'affaire. Du moment qu'il finit souillé, peu\r\nimporte la manière !",
+        "L'odioso Ramón Salazar...\r\n\r\nAnche solo vedere la sua immagine mi fa\r\naccapponare la pelle. Fatemi un piacere,\r\ntrovate un modo per deturpare <COL FILE>il suo ritratto</COL>\r\nnella stanza mostrata in foto.\r\n\r\nQualunque metodo è lecito. Potrebbe servire\r\n<COL FILE>colpirlo con qualcosa</COL>.",
+        "Ramón Salazar, dieser Widerling...\r\n\r\nAllein beim Anblick seiner Visage rollen sich mir\r\ndie Fußnägel hoch. Tu mir jemand den Gefallen\r\nund verunstalte <COL FILE>sein Porträt</COL> für mich, ja?\r\nEs hängt in dem Raum, der auf dem Foto zu\r\nsehen ist.\r\nWie es gemacht wird, ist mir gleich.\r\nWahrscheinlich wäre es am besten, es einfach mit\r\nirgendwas <COL FILE>zu bewerfen</COL>.",
+        "El detestable Ramón Salazar...\r\nCon solo verlo se me revuelve el estómago.\r\nQue alguien haga el favor de borrarle la cara a\r\nese <COL FILE>retrato suyo</COL> de la habitación que aparece\r\nen la foto.\r\n\r\nEl método me da igual, pero creo que\r\n<COL FILE>mancharlo con algo</COL> podría funcionar.",
+        "Этот гнусный Рамон Салазар…\r\n\r\nСмотрю на его физиономию — и оторопь берёт.\r\nЯ прошу об услуге: нужно найти способ изуродовать\r\nего <COL FILE>портрет</COL> в комнате, которая изображена на этой\r\nфотографии.\r\n\r\nКак именно? Даже не знаю.\r\nМожно, например, <COL FILE>ударить его чем-нибудь</COL>.",
+        "Ten przebrzydły Ramón Salazar...\r\n\r\nNa sam jego widok mam ciarki.\r\nWyświadcz mi przysługę i znajdź jakiś sposób,\r\naby oszpecić <COL FILE>jego portret</COL> znajdujący się\r\nw pokoju wskazanym na zdjęciu, dobrze?\r\n\r\nNie interesuje mnie, jak to zrobisz.\r\nMożesz na przykład czymś w niego <COL FILE>uderzyć</COL>.",
+        "",
+        "",
+        "Aquele abominável Ramón Salazar...\r\n\r\nSó ver uma foto dele já me dá arrepios.\r\nFaça-me um favor e dê um jeito de desfigurar\r\no <COL FILE>retrato dele</COL> no cômodo que aparece na foto,\r\npode ser?\r\n\r\nNão me importa como.<COL FILE> Bater nele com alguma coisa\r\n</COL> pode funcionar.",
+        "저 가증스러운 라몬 살라자르...\r\n\r\n그 녀석 그림을 보는 것만으로도\r\n소름이 끼쳐. 사진에 나온 방으로\r\n가서 걸려 있는 <COL FILE>그 녀석의 초상화</COL>를\r\n엉망으로 만들어 주지 않겠어?\r\n\r\n어떤 식으로 하든 상관하지 않겠어.\r\n<COL FILE>뭔가를 던지는 것도</COL> 좋을 거야.",
+        "該死的拉蒙·薩拉札……\r\n\r\n光是看他的畫像就已經一肚子怒火。來，\r\n去照片裡這個房間，幫我弄髒<COL FILE>他的肖像畫</COL>。\r\n方法我無所謂，隨便<COL FILE>扔些東西上去</COL>也可以。",
+        "该死的拉蒙 · 萨拉扎……\r\n就算只是看到他的画像，我也会气得牙痒。\r\n帮我个忙，去这张照片的屋子里，\r\n污损<COL FILE>他的画像</COL>行吗？\r\n\r\n方法无所谓。\r\n随便<COL FILE>用东西砸它</COL>就行。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "رامون سالازار البغيض…\r\n\r\nحتى النظر إلى صورته يصيبني بالاشمئزاز.\r\nأيمكن إسداء\r\nصنيع لي وتشويه <COL FILE>صورته</COL> الموجودة\r\nفي غرفة التصوير؟\r\n\r\nلا يهمني كيف، لكن<COL FILE>ضربها بشيء ما</COL>\r\nقد يفي بالغرض.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "El detestable Ramón Salazar...\r\n\r\nCon solo verlo se me revuelve el estómago.\r\nQue alguien haga el favor de borrarle la cara a\r\nese <COL FILE>retrato suyo</COL> de la habitación que aparece en esta foto.\r\n\r\nEl método me da igual, pero creo que\r\n<COL FILE>golpearlo con algo</COL> podría funcionar."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_016_02",
+      "guid": "ab95681c-41ac-45f4-8885-c0403adf02e7",
+      "crc?": 1841403782,
+      "hash": 2696708036,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<FOCUS>"
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_016_03",
+      "guid": "ab95681c-41ac-45f4-8885-c0403adf02e8",
+      "crc?": 3729169214,
+      "hash": 2847291557,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,785 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse310_s00a",
+      "guid": "7cc71bdd-d0bb-46ea-acd5-16c825b62aad",
+      "crc?": 2657798231,
+      "hash": 3712735222,
+      "attributes": [
+        {
+          "String": "<MESTIME 19.63, 23.77>\r\n<MESTIME 25.01, 29.2>\r\n<MESTIME 29.61, 31.92>\r\n<MESTIME 32.07, 35.63>\r\n<MESTIME 36.65, 38.48>\r\n<MESTIME 39.34, 43.27>\r\n<MESTIME 45.54, 47.66>\r\n<MESTIME 48.72, 49.76>\r\n<MESTIME 50.68, 52.67>\r\n<MESTIME 54.8, 56.31>\r\n<MESTIME 59.24, 62.02>\r\n<MESTIME 63.98, 65.89>\r\n<MESTIME 66.56, 68.3>\r\n<MESTIME 71.69, 73.7>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse310_s00a_0010_cha200",
+      "guid": "ef59094c-b9b7-42a6-b8fd-b54f7470b182",
+      "crc?": 2951142348,
+      "hash": 1929600907,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "死にたいなら好きにすればいい\r\nアンバーを渡した後にね",
+        "If you're trying to kill yourself, can you\r\ndo it after you've delivered the Amber?",
+        "Si tu tiens à tout prix à mourir, attends\r\nau moins de m'avoir donné l'Ambre !",
+        "Se proprio vuoi ammazzarti, potresti farlo\r\ndopo aver consegnato l'Ambra?",
+        "Wenn du dich umbringen willst, mach es bitte,\r\nnachdem du den Bernstein geliefert hast.",
+        "Si lo que quieres es morir,\r\n¿te importa hacerlo tras recuperar el Ámbar?",
+        "Если собрался умирать, давай сначала принесёшь янтарь.",
+        "Jeśli próbujesz się zabić, to czy możesz\r\nz tym zaczekać, aż dostanę Bursztyn?",
+        "",
+        "",
+        "Se tiver tentando se matar, pode fazer isso\r\ndepois de me entregar o Âmbar?",
+        "그렇게까지 죽고 싶다면 앰버를\r\n가지고 온 다음으로 해 주지 않겠어?",
+        "你想死我不攔你，但能不能先把「琥珀」給我？",
+        "你想死我不拦你，但能不能先把“琥珀”给我？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إذا كنت تحاول قتل نفسك أيمكنك أن تقوم بذلك\r\nبعدما تحضر \"الآمبر\"؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Si intentas matarte, podrías hacerlo\r\ndespués de entregarme el ámbar!"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse310_s00a_0020_cha300",
+      "guid": "1e08bfad-839a-42ad-9127-2a8f0c7fb6f8",
+      "crc?": 3096647447,
+      "hash": 1000220053,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "燃やされちまった  薬はもうない",
+        "It's all gone... Burnt to nothing.",
+        "Il y a plus rien... Tout a cramé.",
+        "È finita. È tutto distrutto.",
+        "Sie ist weg... Einfach verbrannt.",
+        "La perdí... Todo cenizas.",
+        "Препарат… всё сгорело.",
+        "Wszystko zniszczone... spalone na popiół.",
+        "",
+        "",
+        "Acabou tudo... Virou cinzas.",
+        "다 없어졌어... 다 타 버렸다고.",
+        "都沒了……都燒光了。",
+        "都没了……都烧光了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "دُمر كل شيء... أصبح رماداً.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No quedó nada... Solo cenizas."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse310_s00a_0030_cha200",
+      "guid": "1bb1ea44-1dd9-49eb-9b60-6ccb7b08f40d",
+      "crc?": 2863501698,
+      "hash": 3988891641,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "そうまでして なぜ助けたいの？",
+        "Why is this so important to you?",
+        "Pourquoi c'est si important pour toi ?",
+        "Perché è così importante per te?",
+        "Warum ist dir das so wichtig?",
+        "¿Por qué te importa tanto?",
+        "Что ты так переживаешь?",
+        "Czemu to dla ciebie takie ważne?",
+        "",
+        "",
+        "Por que isso é importante pra você?",
+        "그게 왜 그렇게 중요한 거야?",
+        "那藥對你來說就這麼重要嗎？",
+        "那药对你来说就这么重要吗？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لماذا هذا مهم لك للغاية؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Por qué te importa tanto?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse310_s00a_0040_cha300",
+      "guid": "127c3fca-c5c0-47c1-a2d3-4d62ba68236a",
+      "crc?": 1590601199,
+      "hash": 4226204498,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "やらなきゃいけない… 後始末がある",
+        "There are things I must set right.",
+        "Il y a des choses que je dois réparer.",
+        "Ci sono delle cose che devo sistemare.",
+        "Ich habe einiges wiedergutzumachen.",
+        "Hay errores que debo corregir.",
+        "Я должен… многое исправить.",
+        "Są rzeczy, które muszę wyprostować.",
+        "",
+        "",
+        "Tem coisas que eu preciso corrigir.",
+        "내가 바로잡아야 할 일이 있어.",
+        "因為有人……等著我去救。",
+        "因为有人……等着我去救。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هناك أمور يجب أن أصلحها.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hay asuntos que debo solucionar."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse310_s00a_0050_cha300",
+      "guid": "bc88a971-9071-425b-8712-27d79d22c7f0",
+      "crc?": 298197218,
+      "hash": 2299803393,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "でももう叶わない",
+        "But that is impossible now.",
+        "Mais maintenant c'est impossible.",
+        "Ma farlo ora è impossibile.",
+        "Aber das geht jetzt nicht mehr.",
+        "Pero ya es imposible.",
+        "Но теперь — всё.",
+        "Ale teraz to niemożliwe.",
+        "",
+        "",
+        "Mas agora isso é impossível.",
+        "그런데 이제는 어쩌지도 못하게 됐어.",
+        "可是現在全完了。",
+        "可现在全完了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لكن ذلك مستحيل الآن.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Pero eso ya es imposible."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse310_s00a_0060_cha300",
+      "guid": "08f7f4a6-6468-40b1-a023-e98abfb0e60d",
+      "crc?": 1032489246,
+      "hash": 724395717,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "終わりだ… もう誰も助けられない",
+        "It's all over—and I can't help them anymore.",
+        "Tout est foutu. Je peux plus rien faire pour eux.",
+        "È finita, non posso più aiutarli.",
+        "Das war’s. Es gibt keine Rettung mehr.",
+        "Se acabó, no puedo hacer nada por ellos.",
+        "Это конец. Я не смогу им помочь.",
+        "Wszystko przepadło – i nie mogę im już pomóc.",
+        "",
+        "",
+        "Acabou tudo... eu não posso mais ajudar eles.",
+        "다 끝났어... 더 이상 도와줄 수가 없어.",
+        "全都完了……我救不了他們了。",
+        "全都完了……我救不了他们了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لقد انتهي كل شيء، ولا أستطيع مساعدتهما بعد الآن.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Todo terminó... y ya no puedo ayudarlos."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse310_s00a_0070_cha200",
+      "guid": "c0905799-eb45-4d52-b0b7-2f93cce7fa05",
+      "crc?": 78084452,
+      "hash": 4101237997,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "泣き言はやめて　ルイス",
+        "Pull yourself together, Luis.",
+        "Ressaisis-toi, Luis.",
+        "Ora basta frignare, Luis.",
+        "Reiß dich zusammen, Luis.",
+        "Cálmate de una vez, Luis.",
+        "Соберись уже, Луис.",
+        "Zbierz się do kupy, Luis.",
+        "",
+        "",
+        "Levanta daí, Luis.",
+        "정신 똑바로 차려, 루이스.",
+        "別灰心，路易斯。",
+        "别灰心，路易斯。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تمالك نفسك يا لويس.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tranquilízate, Luis."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse310_s00a_0080_cha200",
+      "guid": "1aedde09-c01e-4f90-bdb8-8b696b286f92",
+      "crc?": 2185719550,
+      "hash": 1887682782,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "らしくない",
+        "Make more.",
+        "Refais-en.",
+        "Fanne altra.",
+        "Stell sie her.",
+        "Haz más.",
+        "Ты сможешь.",
+        "Możesz zrobić tego więcej.",
+        "",
+        "",
+        "Faça mais.",
+        "더 만들면 돼.",
+        "再做嘛！",
+        "再做嘛！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اصنع المزيد.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Haz más."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse310_s00a_0090_cha200",
+      "guid": "09f6f82b-d0a8-42c2-8f58-726834ff5b66",
+      "crc?": 98588976,
+      "hash": 1757354414,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "作りかたは知ってるんでしょ",
+        "You know how. Just do it.",
+        "Tu en es capable alors fais-le.",
+        "Sei in grado. Puoi farlo.",
+        "Du kennst doch die Formel.",
+        "Sabes cómo, venga.",
+        "Сделай препарат.",
+        "Wiesz przecież jak. Po prostu to zrób.",
+        "",
+        "",
+        "Você sabe fazer.",
+        "어떻게 만드는지 알잖아.",
+        "你會做，就再做嘛。",
+        "你会做，就再做嘛。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تعرف كيف تقوم بذلك. قم بالأمر.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sabes cómo. Solo hazlo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse310_s00a_0100_cha300",
+      "guid": "e0c9c02d-b4e0-44a0-8390-11207dd7f4fa",
+      "crc?": 3539578454,
+      "hash": 1227026945,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ああ　それだよ…",
+        "I guess it is possible.",
+        "C'est peut-être jouable.",
+        "Forse hai ragione.",
+        "Vielleicht hast du recht.",
+        "Sí, es posible.",
+        "А что, может, правда?",
+        "To może się udać.",
+        "",
+        "",
+        "É, acho que é possível.",
+        "할 수 있을 것 같아.",
+        "我想起來了！",
+        "我想起来了！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أظن أن هذا ممكن.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Supongo que es posible."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse310_s00a_0110_cha300",
+      "guid": "20fa80ca-d1ab-4407-81a8-55eda62a87cc",
+      "crc?": 3515923697,
+      "hash": 875576052,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "薬の原料はこの城にある",
+        "The ingredients are all here. In the castle.",
+        "Tous les ingrédients sont là, dans le château.",
+        "Il necessario è tutto qui, nel castello.",
+        "Alles, was ich dazu brauche, gibt es hier!",
+        "Hay ingredientes por aquí, en el castillo.",
+        "Все компоненты здесь — здесь, в замке.",
+        "Wszystkie składniki są tu, w zamku.",
+        "",
+        "",
+        "Os ingredientes estão aqui, no castelo.",
+        "원료는 여기에 다 있어. 이 성안에.",
+        "製藥的材料都在這，在城堡裡！",
+        "制药的材料都在这，在城堡里！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "جميع المكونات موجودة هنا في القلعة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Los ingredientes están aquí, en el castillo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse310_s00a_0120_cha300",
+      "guid": "864a3742-b221-4822-b1c6-42742ca4f6a6",
+      "crc?": 1400296032,
+      "hash": 2598550745,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "少し　時間が要る…",
+        "Yes, I need time...",
+        "Il me faut un peu de temps...",
+        "Sì, mi serve tempo...",
+        "Ich versprech dir,",
+        "Sí, tardaré...",
+        "Пусть, не сразу…",
+        "Tak, potrzebuję czasu...",
+        "",
+        "",
+        "Sim, preciso de tempo...",
+        "그래, 시간이 필요해...",
+        "聽著，我需要時間……",
+        "听着，我需要时间……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أجل. أحتاج إلى بعض الوقت...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Sí, tardaré..."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse310_s00a_0130_cha300",
+      "guid": "5c4e88bc-2caf-4866-80b6-6bb642324f1d",
+      "crc?": 2576950007,
+      "hash": 3431224663,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "アンバーは必ず渡す",
+        "but I can still get you your Amber.",
+        "mais je te promets que t'auras l'Ambre.",
+        "Ma ti darò la tua Ambra.",
+        "danach kriegst du den Stein.",
+        "pero conseguiré el Ámbar.",
+        "но я принесу тебе янтарь.",
+        "...ale wciąż mogę dostarczyć ci Bursztyn.",
+        "",
+        "",
+        "Mas vou conseguir o seu Âmbar.",
+        "하지만, 앰버는 꼭 가져다줄게.",
+        "但我一定會給妳「琥珀」。",
+        "但我一定会给你“琥珀”。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لكن يمكنني أن أحضر لك \"الآمبر\" التي تريدينها.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "pero puedo conseguirte tu ámbar."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse310_s00a_0140_cha200",
+      "guid": "b4d1a876-0e7b-408c-ae86-b5fdd2e597d8",
+      "crc?": 509553126,
+      "hash": 422635355,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "わかった　行くわよ",
+        "All right then. Let's go.",
+        "D'accord. On y va.",
+        "Bene allora. Andiamo.",
+        "Na gut. Dann los.",
+        "De acuerdo, vamos.",
+        "Ладно. Пошли.",
+        "Dobrze zatem. Chodźmy.",
+        "",
+        "",
+        "Então tá. Vamos.",
+        "알았어 그럼. 갈까.",
+        "那行吧，我們走。",
+        "那行吧，我们走。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حسنًا. لننطلق.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Perfecto. Vamos."
+      ]
+    }
+  ]
+}

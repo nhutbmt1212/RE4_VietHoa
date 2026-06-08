@@ -1,0 +1,550 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_File_059_00",
+      "guid": "0621eba4-195f-4cdc-8ff4-482fdd1ff6cd",
+      "crc?": 1040318200,
+      "hash": 2540558461,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "イルミナドス教典 3章2節",
+        "Iluminados 3:2",
+        "Iluminados 3:2",
+        "Iluminados 3:2",
+        "Iluminados 3:2",
+        "Iluminados 3:2",
+        "Илюминадос 3:2",
+        "Iluminados 3:2",
+        "",
+        "",
+        "Iluminados 3:2",
+        "일루미나도스 교전 3장 2절",
+        "《光明教教典》第3章第2節",
+        "光明教典 第三章第二节",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إيلومينادوس 3:2",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Iluminados 3:2"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_059_01",
+      "guid": "40328537-88ff-4bc8-a8af-e84395eaf38a",
+      "crc?": 3198208929,
+      "hash": 2303440738,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "号砲が 山々に轟くのを聞け\r\n大岩は礫となって　城壁を砕いた\r\n\r\n夜空が 紅く染まるのを見よ\r\n罪深き血は 大河となって海を染めた\r\n\r\n我らの命と 敵の血で\r\n積年の罪を あがないたまえ",
+        "Hear the signal echo through the mountains.\r\nRocks become gravel and the castle walls crumble.\r\n\r\nBehold the crimson shade of the night sky.\r\nA river of tainted blood befouls the sea.\r\n\r\nSacrifice your life and the blood of your enemy.\r\nAtone for your ancient sins.",
+        "Entendez le signal résonner dans les montagnes.\r\nLes rochers deviennent graviers et les murs du\r\nchâteau s'écroulent.\r\n\r\nContemplez la teinte cramoisie du ciel nocturne.\r\nUne rivière de sang impur souille la mer.\r\n\r\nSacrifiez votre vie et le sang de vos ennemis.\r\nExpiez vos péchés passés.",
+        "Ascolta il segnale dell'eco attraverso le\r\nmontagne. Le rocce diventano ghiaia,\r\ne le mura del castello si frantumano.\r\n\r\nGuarda l'ombra cremisi del cielo notturno.\r\nUn fiume di sangue infetto deturpa il mare.\r\n\r\nSacrifica la tua vita e il sangue del tuo nemico.\r\nFai ammenda per i tuoi antichi peccati.",
+        "Höret das Signal zwischen den Bergen widerhallen.\r\nFelsen zerfallen zu Kies, die Mauern der Burg\r\nzerbröckeln.\r\n\r\nSehet die glutrote Farbe des Nachthimmels.\r\nEin Strom verdorbenen Blutes besudelt die See.\r\n\r\nOpfert euer Leben und das Blut eurer Feinde.\r\nTut Buße für die Sünden eures vergangenen Lebens.",
+        "Escuchad el eco de la señal retumbando en las\r\nmontañas. Las rocas se convierten en gravilla y\r\nlos muros del castillo se desmoronan.\r\n\r\nContemplad la sombra carmesí del cielo nocturno.\r\nUn río de sangre maldita corrompe el mar.\r\n\r\nSacrificad vuestra vida y la sangre de vuestros\r\nenemigos. Expiad vuestros pecados ancestrales.",
+        "Слушай звук, эхом звучащий в горах.\r\nКамни обратились в пыль, и стены замка рухнули.\r\n\r\nВзгляни на багряный оттенок вечернего неба.\r\nРека осквернённой крови загрязняет море.\r\n\r\nПожертвуй собой и кровью врага своего.\r\nИскупи свои давние грехи.",
+        "Usłysz wezwanie odbijające się echem od gór.\r\nSkały zamieniają się w żwir i kruszą się mury zamku.\r\n\r\nUjrzyj karmazynową łunę na nocnym niebie.\r\nRzeka skażonej krwi zatruwa morze.\r\n\r\nPoświęć swe życie i krew swego wroga.\r\nPokutuj za swe zamierzchłe grzechy.",
+        "",
+        "",
+        "Ouça o sinal ecoando pelas montanhas. Rochas\r\nviram cascalho e muros de castelo desmoronam.\r\n\r\nObserve o tom carmesim do céu da noite.\r\nUm rio de sangue maculado suja o mar.\r\n\r\nSacrifique sua vida e o sangue de seu inimigo.\r\nPague seus pecados antigos.",
+        "산중에 울려 퍼지는 호포를 들어라\r\n암석은 자갈이 되어 성벽을 무너뜨렸다\r\n\r\n밤하늘이 진홍빛으로 물드는 것을 보아라\r\n오염된 피는 강이 되어 바다를 물들였다\r\n\r\n목숨과 적의 피로 오랜 죄를 뉘우쳐라",
+        "傾聽在山脈迴盪的號炮聲吧。\r\n巨岩頓成碎石，城牆崩塌倒下。\r\n\r\n遙望染成朱紅的夜空吧。\r\n罪孽深重的血化成河流，玷污大海。\r\n\r\n奉上你的性命，奉上仇敵的血吧。\r\n要彌補長年罪過，別無他法。",
+        "听那号炮在山间回响，\r\n巨岩顷刻化为碎石，城墙崩塌。\r\n\r\n看那夜空被染至绯红，\r\n污秽流淌化为血河，玷污大海。\r\n\r\n献上你的生命，献上敌人的血。\r\n为积年的孽债，赎罪。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اسمعوا صدى الإشارة عبر الجبال،\r\nتتحول الصخور إلى حصى وتنهار جدران القلعة.\r\n\r\nتأملوا اللهيب القرمزي في سماء الليل،\r\nإنه بحر يلوثه نهر من الدماء.\r\n\r\nضحوا بأرواحكم وبدماء أعدائكم.\r\nاطلبوا العفو عن خطاياكم السابقة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Escuchen el eco de la señal retumbando en las\r\nmontañas. Las rocas se convierten en gravilla y\r\nlos muros del castillo se desmoronan.\r\n\r\nContemplen la sombra carmesí del cielo nocturno.\r\nUn río de sangre maldita corrompe el mar.\r\n\r\nSacrifiquen su vida y la sangre de sus\r\nenemigos. Expíen sus pecados ancestrales."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_059_02",
+      "guid": "62018b28-06ae-48ae-956a-55629ada7b00",
+      "crc?": 1356920592,
+      "hash": 2875439028,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<FOCUS>"
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_059_03",
+      "guid": "4c65b4de-02ad-4acc-b0d9-9aea413d5d03",
+      "crc?": 1306798123,
+      "hash": 3313979738,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_File_040_00",
+      "guid": "afb27818-3d46-42ef-91fa-5ae2879764a4",
+      "crc?": 1993513041,
+      "hash": 1116770124,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "イルミナドス教典 4章9節",
+        "Iluminados 4:9",
+        "Iluminados 4:9",
+        "Iluminados 4:9",
+        "Iluminados 4:9",
+        "Iluminados 4:9",
+        "Илюминадос 4:9",
+        "Iluminados 4:9",
+        "",
+        "",
+        "Iluminados 4:9",
+        "일루미나도스 교전 4장 9절",
+        "《光明教教典》第4章第9節",
+        "光明教典 第四章第九节",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إيلومينادوس 4:9",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Iluminados 4:9"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_040_01",
+      "guid": "762fe441-55d4-477c-a892-2e4792f282ca",
+      "crc?": 2397752158,
+      "hash": 2364764187,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "眠れ 育て　我らの赤子\r\n母たちは毎夜 お前の肌着を繕った\r\n日々大きくなる　お前の体に合わせるために\r\n\r\nお前は 日に7キンタルの麦と 成牛半頭を食し\r\n今や 小屋ほども大きくなれり\r\n育て赤子よ　兄姉のぶんまで",
+        "Sleep well and flourish, dear child.\r\n\r\nAs your body grows, your mothers\r\nshall sew new smallclothes.\r\n\r\nAt seven quintal of wheat and half a bull a day,\r\nyou have outgrown your pen.\r\n\r\nFlourish, dear child, for the sake of your\r\nbrothers and sisters who cannot.",
+        "Dors bien et continue de t'épanouir, cher enfant.\r\n\r\nÀ mesure que ton corps se développe, tes mères\r\nte cousent de nouveaux vêtements.\r\n\r\nAvec sept quintaux de blé et la moitié d'un\r\ntaureau par jour, tu es déjà trop grand pour ton\r\nparc.\r\n\r\nÉpanouis-toi, cher enfant, pour tes frères et sœurs\r\nqui n'ont pas cette chance.",
+        "Dormi bene e prospera, bambino caro.\r\nMentre il tuo corpo cresce, le tue madri\r\ncuciranno nuovi indumenti apposta per te.\r\n\r\nCon sette quintali di grano e mezzo bovino\r\nal giorno, sei già più grosso della tua culla.\r\n\r\nProspera, bambino caro, per il bene dei tuoi\r\nfratelli e sorelle, che non possono farlo.",
+        "Schlaf selig und gedeihe, mein Kind.\r\n\r\nWenn dein Körper deinen Kleidern entwächst,\r\nso werde deine Mutter dir neue nähen.\r\n\r\nMit sieben Zentnern Weizen und einem halben Stier\r\npro Tag bist du deiner Krippe entwachsen.\r\n\r\nGedeihe, mein Kind, um deiner Brüder und\r\nSchwestern willen, die es nicht mehr können.",
+        "Duerme bien y florece, hijo mío.\r\n\r\nMientras tu cuerpo crece, tus madres\r\ncoserán nuevas ropas diminutas.\r\n\r\nCon siete quintales de trigo y medio toro\r\nal día ya casi no cabes en tu redil.\r\n\r\nFlorece, hijo mío, por tus hermanos y\r\nhermanas que no pudieron hacerlo.",
+        "Крепко спи и набирайся сил, наше милое дитя.\r\n\r\nТы расти, а мамы новые штанишки сошьют тебе.\r\n\r\nВ день съедая семь центнеров пшеницы и полбыка,\r\nПерерос свою ты колыбель, позабыв уют.\r\n\r\nКрепко спи и набирайся сил, наше милое дитя,\r\nРади братьев и сестёр, которых больше нет.",
+        "Śpij dobrze i rozwijaj się, drogie dziecię.\r\n\r\nGdy będziesz rosło, twoje matki uszyją\r\nci nowe ubranka.\r\n\r\nSiedem kwintali pszenicy i pół byka dziennie,\r\na wyrośniesz poza swój kojec.\r\n\r\nRozwijaj się, drogie dziecię, przez wzgląd\r\nna twych braci i siostry, którym nie jest to dane.",
+        "",
+        "",
+        "Durma bem e floresça, doce criança.\r\nEnquanto seu corpo cresce, sua mãe\r\ncostura vestes novas para ti.\r\n\r\nCom setecentos quilos de trigo e meio boi por dia,\r\nvocê já está maior que seu cercadinho.\r\n\r\nFloresça, doce criança, e honre seus\r\nirmãos e irmãs que não crescerão mais.",
+        "잘 자고 쑥쑥 크거라 우리 아가\r\n\r\n네 몸이 자랄 때마다 네 엄마들은\r\n새 옷가지를 꿰매리라\r\n\r\n하루에 일곱 포대의 밀과 황소 반 마리를\r\n먹고서 네 우리보다 더 커졌구나\r\n\r\n쑥쑥 크거라 우리 아가\r\n네 형제들과 자매들 몫까지",
+        "快快睡吧，乖寶寶。\r\n快快長大吧，乖寶寶。\r\n你天天變高，媽媽為你作新衣袍。\r\n\r\n七擔小麥半頭牛，每天吃到飽。\r\n小小圈槽放不下，每天到處跑。\r\n\r\n快快長大吧，乖寶寶。\r\n哥哥姊姊沒法成人，你要活到老。\r\n快快長大吧，乖寶寶。",
+        "快快安睡，亲爱的儿郎。\r\n睡个好觉，快点成长。\r\n伴随身体长大，母亲为你缝制衣裳。\r\n\r\n七公担的小麦和半头牛，\r\n是你每日的口粮。\r\n围栏已然挡不住你的强壮。\r\n\r\n亲爱的儿郎，\r\n为了那些没能长大的兄弟姐妹，\r\n你定要茁壮成长。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "انعم بالنوم وانمو يا طفلي العزيز. فكلما كبرت حجمًا،\r\nستحيك أمك لك ملابس داخلية جديدة.\r\n\r\nتتناول سبعة قناطر من القمح ونصف ثور يوميًا، وأصبح\r\nمهدك صغيرًا عليك. انمو يا طفلي العزيز من أجل\r\nإخوتك وأخواتك الذين لا يستطيعون أن يكبروا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Duerme bien y florece, hijo mío.\r\n\r\nMientras tu cuerpo crece, tus madres\r\ncoserán nuevas ropas diminutas.\r\n\r\nCon siete quintales de trigo y medio toro\r\nal día, ya casi no cabes en tu redil.\r\n\r\nFlorece, hijo mío, por tus hermanos y\r\nhermanas que no pudieron hacerlo."
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_040_02",
+      "guid": "15b648d7-695c-4ece-b74d-37c7d9041c9d",
+      "crc?": 2608864586,
+      "hash": 231901124,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<FOCUS>"
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_040_03",
+      "guid": "08086cf9-c143-4996-a6bc-d423753c9962",
+      "crc?": 1906403090,
+      "hash": 549584181,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

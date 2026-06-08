@@ -1,0 +1,785 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse450_s00a",
+      "guid": "f3d2e16f-dd05-438a-9e0c-d1717f1189a2",
+      "crc?": 3470636242,
+      "hash": 3417156011,
+      "attributes": [
+        {
+          "String": "<MESTIME 16.15, 18.29>\r\n<MESTIME 21.3, 23.11>\r\n<MESTIME 25.66, 27.19>\r\n<MESTIME 28.42, 30.0>\r\n<MESTIME 32.07, 35.41>\r\n<MESTIME 36.0, 38.79>\r\n<MESTIME 40.27, 42.3>\r\n<MESTIME 43.1, 45.76>\r\n<MESTIME 46.63, 49.43>\r\n<MESTIME 54.25, 58.52>\r\n<MESTIME 63.67, 68.25>\r\n<MESTIME 70.01, 71.65>\r\n<MESTIME 72.01, 74.13>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse450_s00a_0010_cha200",
+      "guid": "8675d0b3-3acc-40c9-b4eb-5510c63cd6ce",
+      "crc?": 306472450,
+      "hash": 2397578107,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "指令通り…　デバイスを接続した",
+        "I'm at the site and jacked into the main terminal.",
+        "Je suis connectée au terminal principal.",
+        "Sono arrivata, ho collegato il dispositivo.",
+        "Ich bin jetzt mit dem Terminal verbunden.",
+        "Estoy conectada al terminal principal.",
+        "Я на месте… Подключила терминал.",
+        "Jestem na miejscu i włamałam się do głównego terminala.",
+        "",
+        "",
+        "Tô no local e conectada ao terminal principal.",
+        "지령대로 도착했고 제어 단말기에 접속했어.",
+        "我到了，裝置也接好了。",
+        "我到了，装置也连好了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أنا في الموقع واخترقت المحطة الرئيسية.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Estoy conectada a la terminal principal."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse450_s00a_0030_cha200",
+      "guid": "a97f8b35-e77d-4546-a870-2c691ed3303b",
+      "crc?": 1841491615,
+      "hash": 2855312468,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "島を完全に破壊するのね？",
+        "You're going to blow up this entire island.",
+        "Vous allez faire sauter toute l'île ?",
+        "Farà esplodere l'intera isola?",
+        "Du willst die Insel komplett zerstören.",
+        "Quieres volar toda la isla...",
+        "Ты хочешь взорвать весь остров.",
+        "Zamierzasz wysadzić całą wyspę.",
+        "",
+        "",
+        "Você vai explodir essa ilha inteira.",
+        "섬 전체를 날려 버리려는 거군.",
+        "真的要把整個島都炸了啊……",
+        "真要把整个岛都炸了啊？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ستفجر هذه الجزيرة بأكملها.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Vas a hacer explotar toda la isla."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse450_s00a_0040_cha200",
+      "guid": "88834105-c08f-491e-855e-60c4398621f7",
+      "crc?": 189727902,
+      "hash": 4101474670,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "大統領の娘ごと",
+        "Including the president's daughter.",
+        "Y compris la fille du président...",
+        "Inclusa la figlia del presidente?",
+        "Und die Tochter des Präsidenten?",
+        "...con la hija del presidente.",
+        "И дочку президента.",
+        "W tym także córkę prezydenta.",
+        "",
+        "",
+        "Incluindo a filha do presidente!",
+        "대통령의 딸까지 포함해서.",
+        "連總統的女兒一起？",
+        "连总统的女儿一起？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "بما في ذلك ابنة الرئيس!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "La hija del presidente está ahí."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse450_s00a_0050_cha200",
+      "guid": "5ac1094d-5d5b-479a-b76b-8c762a3126ea",
+      "crc?": 2032189238,
+      "hash": 3379543737,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "アメリカを敵に回す気？",
+        "Won't that make things harder for you?",
+        "Ça risque pas de vous compliquer les choses ?",
+        "Non renderà le cose più difficili?",
+        "Ist dir das nicht zu gewagt?",
+        "¿No complicará tus planes?",
+        "А ты не сделаешь хуже?",
+        "Nie jest to dla ciebie problem?",
+        "",
+        "",
+        "Sua vida não vai ficar mais difícil?",
+        "그렇게 되면 곤란해지지 않겠어?",
+        "這不是對你更不利嗎？",
+        "这不是对你更不利吗？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ألن يجعل ذلك الأمور أصعب عليك؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿No complicará tus planes?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse450_s00a_0060_cha600",
+      "guid": "8e8ec415-4909-4276-8dce-a054fb1ff38e",
+      "crc?": 983328853,
+      "hash": 2768257969,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "中途半端な考えは捨てろ",
+        "There's no room for half measures.",
+        "Il n'y a pas de place pour la demi-mesure.",
+        "Non c'è spazio per le mezze misure.",
+        "Ich mache keine halben Sachen.",
+        "No valen las medias tintas.",
+        "Полумеры… здесь бесполезны.",
+        "Nie bawię się w półśrodki.",
+        "",
+        "",
+        "Não há espaço para meios-termos.",
+        "그런 어중간한 생각 할 여유 없어.",
+        "畏手畏腳怎麼成大事。",
+        "畏手畏脚怎么成大事。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليس هناك مجال للحلول الوسط.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Es todo o nada."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse450_s00a_0070_cha600",
+      "guid": "d79f3aad-956f-4e23-a6e2-3141487fa43a",
+      "crc?": 3955370339,
+      "hash": 2333255407,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "弱者は強者の贄になるのみだ",
+        "The weak exist to serve the strong.",
+        "Les faibles doivent se sacrifier pour les forts.",
+        "I deboli devono sacrificarsi per i forti.",
+        "Die Schwachen erbringen ihr Opfer.",
+        "El débil existe para servir al fuerte.",
+        "Слабые должны служить сильным.",
+        "Słabi istnieją, by służyć silnym.",
+        "",
+        "",
+        "Os fracos existem para servirem aos mais fortes.",
+        "약자는 강자를 위해 존재하는 거야.",
+        "物競天擇，弱肉強食。",
+        "物竞天择，弱肉强食。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إن الضعفاء موجودون لخدمة الأقوياء.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "El débil existe para servir al fuerte."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse450_s00a_0080_cha600",
+      "guid": "9785ad5c-1c32-4078-aef2-3d22362e7e8a",
+      "crc?": 2396792753,
+      "hash": 288634692,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "おまえはアンバー奪取に戻れ",
+        "Enough talk. Bring me the Amber.",
+        "Assez parlé. Va me chercher l'Ambre.",
+        "Ora basta. Recupera l'Ambra.",
+        "Genug jetzt. Bring mir den Stein.",
+        "Basta ya. Tráeme el Ámbar.",
+        "Хватит болтать. Неси янтарь.",
+        "Dość gadania. Przynieś mi Bursztyn.",
+        "",
+        "",
+        "Chega de papo. Me traga o Âmbar.",
+        "잡담은 여기까지. 앰버를 가지고 와.",
+        "夠了，快把貨拿回來。",
+        "够了，快把货拿回来。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "كفى ثرثرة. احضري لي \"الآمبر\".",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Suficiente. Tráeme el ámbar."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse450_s00a_0090_cha600",
+      "guid": "16072583-404a-4d35-9edb-84771b92fefe",
+      "crc?": 3922247532,
+      "hash": 3566386475,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "戻りの移動手段は用意してある",
+        "I've arranged a way for you to get back to the island.",
+        "J'ai fait le nécessaire pour que tu puisses quitter l'île.",
+        "Ho preparato un mezzo per farti tornare sull'isola.",
+        "Für deine Rückfahrt zur Insel ist gesorgt.",
+        "He preparado el transporte para ir a la isla.",
+        "Ты сможешь вернуться на остров — я всё устроил.",
+        "Przygotowałem ci drogę powrotną na wyspę.",
+        "",
+        "",
+        "Preparei uma forma de você voltar à ilha.",
+        "섬으로 돌아갈 수 있는 수단을 준비했어.",
+        "回島上的方法都幫妳安排好了。",
+        "回岛上的方法都帮你安排好了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "توصلت إلى طريقة لإعادتك إلى الجزيرة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Preparé una forma para que vuelvas a la isla."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse450_s00a_0100_cha200",
+      "guid": "9ab660be-30c7-4597-b9f7-0e8b284d3de3",
+      "crc?": 1831698147,
+      "hash": 980799431,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "あらそう 準備いいのね",
+        "Copy that. On it now.",
+        "Bien reçu. J'y vais.",
+        "Ricevuto. Sto andando.",
+        "Verstanden. Bin unterwegs.",
+        "Recibido. Ya voy.",
+        "Поняла. Сделаю.",
+        "Przyjęłam. Idę tam.",
+        "",
+        "",
+        "Entendido. Deixa comigo.",
+        "알겠어. 지금 가지.",
+        "知道了。我這就去辦。",
+        "知道了。我这就办。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "عُلم. سأقوم بذلك الآن.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Recibido. Ya voy."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse450_s00a_0110_cha200",
+      "guid": "43314473-6287-4a43-bb17-8d5ef7e2d88b",
+      "crc?": 2319618040,
+      "hash": 3016252115,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse450_s00a_0120_cha200",
+      "guid": "818855f3-873b-4628-a41e-745b9bf2fa94",
+      "crc?": 28162456,
+      "hash": 3322330091,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "いいわ ルイス　今回は言う通りにしてあげる…",
+        "OK, Luis. What was it that you said again?",
+        "OK, Luis. Tu disais quoi, déjà ?",
+        "Ok, Luis. Che cos'è che avevi detto?",
+        "Okay, Luis. Was hattest du noch mal gesagt?",
+        "Vale, Luis. ¿Qué fue eso que dijiste?",
+        "Ну, Луис. Как ты там говорил?",
+        "Dobra, Luis. To co powiedziałeś?",
+        "",
+        "",
+        "Ta bom, Luis. Como foi que você disse mesmo?",
+        "좋아, 루이스. 당신이 뭐라고 했더라?",
+        "對了，路易斯……你說過什麼來著？",
+        "对了，路易斯……你说过什么来着？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حسنًا، ماذا قال لويس؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bien, Luis. ¿Qué era eso que decías?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse450_s00a_0130_cha200",
+      "guid": "5e8d9328-4de1-41bf-b622-bddf8a4058ba",
+      "crc?": 513972663,
+      "hash": 1817172499,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ウェスカー　忘れてない？",
+        "You should have known by now, Wesker.",
+        "Vous devriez le savoir, Wesker...",
+        "Penso che tu lo sappia, Wesker...",
+        "Langsam sollte Wesker wissen,",
+        "Deberías saberlo, Wesker...",
+        "Пора понять, Вескер…",
+        "Powinieneś już to wiedzieć, Wesker.",
+        "",
+        "",
+        "Já devia saber disso, Wesker...",
+        "지금쯤이면 눈치챘어야지, 웨스커.",
+        "你可別忘了，威斯卡。",
+        "你可别忘了，威斯卡。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا بد أنك تعرف الآن يا ويسكر...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ya deberías saberlo, Wesker..."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse450_s00a_0140_cha200",
+      "guid": "d0f0d336-d3d3-4f13-b822-05b8e99235f9",
+      "crc?": 3818837750,
+      "hash": 4287446113,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "私が思い通りには動かないってこと",
+        "I don't always play by your rules.",
+        "Je ne vous obéis pas toujours.",
+        "Non sempre seguo i tuoi ordini.",
+        "dass ich nicht nach seinen Regeln spiele.",
+        "No siempre sigo tus reglas.",
+        "Я не всегда играю по твоим правилам.",
+        "Nie zawsze gram zgodnie z twoimi zasadami.",
+        "",
+        "",
+        "Nem sempre eu sigo as suas regras.",
+        "내가 당신 뜻대로 움직이지 않는다는 걸.",
+        "我也有自己的原則。",
+        "我也有自己的原则。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أنني لا أقوم بالأمور دائمًا وفقًا لقواعدك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Yo no siempre juego con tus reglas."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse450_s00a_0020_cha200",
+      "guid": "b3b1c81c-54b9-4799-8ad3-ebf7adc07524",
+      "crc?": 3256474847,
+      "hash": 982903283,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Подключила терминал.",
+        "",
+        "",
+        "",
+        "... e conectada ao terminal principal.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "واخترقت المحطة الطرفية الرئيسية.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "y me conecté a la terminal principal."
+      ]
+    }
+  ]
+}

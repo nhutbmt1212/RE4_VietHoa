@@ -1,0 +1,444 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_002_00",
+      "guid": "27cbe281-0710-42b3-815e-caa5b08dec61",
+      "crc?": 2281640011,
+      "hash": 3779506597,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "クサリヘビの入手",
+        "Viper Hunter",
+        "Vipères à point",
+        "Cacciatore di vipere",
+        "Vipernjagd",
+        "Cazador de víboras",
+        "Охота на гадюк",
+        "Polowanie na żmije",
+        "",
+        "",
+        "Caçador de Víboras",
+        "살무사 헌터",
+        "毒蛇獵人",
+        "蝰蛇猎人",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "صيد الأفاعي",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Cazador de víboras"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_002_01",
+      "guid": "92e68a71-6867-4caf-a4e1-1a56685d2d1c",
+      "crc?": 3778535653,
+      "hash": 1559140581,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "病に倒れた仲間のために<COL FILE>クサリヘビ</COL>を集めてくれ。\r\nせめて最期にうまいものを食べさせてやりたいんだ。",
+        "A dear friend of mine is gravely ill and I'd very\r\nmuch like to treat them to some delicious\r\n<COL FILE>vipers</COL> before they pass.\r\n\r\nIs there a snake charmer willing to lend a hand?",
+        "Un de mes amis est gravement malade.\r\nAvant qu'il ne passe l'arme à gauche, j'aimerais\r\nlui faire goûter les excellentes <COL FILE>vipères</COL> que l'on\r\ntrouve par ici. Rien à voir avec les couleuvres\r\nque ces fanatiques veulent nous faire avaler !\r\n\r\nY a-t-il un charmeur de serpent pour me prêter\r\nmain forte ?",
+        "Un mio caro amico è gravemente malato,\r\ne vorrei potergli offrire in dono delle deliziose\r\n<COL FILE>vipere</COL> prima che passi a miglior vita.\r\n\r\nC'è un incantatore di serpenti disposto ad aiutarmi?",
+        "Ein guter Freund ist schwer krank und ich würde\r\nihm gerne ein paar leckere <COL FILE>Vipern</COL> servieren,\r\nbevor es mit ihm zu Ende geht.\r\n\r\nWähre jemand gewillt, mir zu helfen?",
+        "Un amigo mío está muy enfermo y me gustaría\r\ndeleitarlo con algunas sabrosas <COL FILE>víboras</COL> antes de\r\nque sea demasiado tarde.\r\n\r\n¿Algún encantador de serpientes disponible? ",
+        "Мой добрый друг серьёзно заболел, и я хочу\r\nугостить его вкусным обедом из <COL FILE>гадюк</COL>, пока\r\nон ещё жив. \r\n\r\nПризываю на помощь заклинателя змей.",
+        "Mój przyjaciel jest ciężko chory i chcę\r\nmu zaserwować parę przepysznych\r\n<COL FILE>żmij</COL> zanim umrze.\r\n\r\nCzy jest na sali jakiś zaklinacz węży?",
+        "",
+        "",
+        "Um amigo muito querido está gravemente doente\r\ne eu adoraria presenteá-lo com <COL FILE>víboras</COL> deliciosas\r\nantes de sua morte.\r\n\r\nAlgum encantador de serpentes quer me dar uma mão?",
+        "내 친구들이 아주 위중한 상태라 죽기 전에\r\n꼭 맛있는 <COL FILE>살무사</COL>를 대접해 주고 싶어.\r\n\r\n기꺼이 거들어 줄 뱀술사 없을까?",
+        "我有個朋友快沒命了，我希望他能在斷氣之前\r\n至少吃點好的。\r\n\r\n有沒有弄蛇人可以幫我收集幾條<COL FILE>毒蛇</COL>？",
+        "我的一位挚友身患重病，\r\n我很想在他去世前请他吃一顿<COL FILE>蝰蛇</COL>大餐。\r\n有人愿意引蛇出洞吗？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "أحد أصدقائي المقربين مريض للغاية وأريد حقًا أن\r\nأدعوه لتناول بعض\r\n<COL FILE>الأفاعي</COL> اللذيذة قبل أن يموت.\r\n\r\nأيوجد ساحر أفاعي يمكنه مساعدتي؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Un amigo mío está muy enfermo y me gustaría\r\ndeleitarlo con algunas sabrosas <COL FILE>víboras</COL> antes de\r\nque sea demasiado tarde.\r\n\r\n¿Hay algún encantador de serpientes dispuesto a ayudar?"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_002_02",
+      "guid": "7688d45e-bcfa-460d-94e8-8e5a70fde2c2",
+      "crc?": 2783989333,
+      "hash": 277218982,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

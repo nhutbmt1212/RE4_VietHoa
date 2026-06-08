@@ -1,0 +1,246 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse500_s00a",
+      "guid": "49229c30-2e03-4c2a-bcdb-1ca4e3b6d0ac",
+      "crc?": 1891398187,
+      "hash": 4054099737,
+      "attributes": [
+        {
+          "String": "<MESTIME 22.48, 25.81>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse500_s00a_0010_cha200",
+      "guid": "3089bb04-fd31-41ae-b3d6-b4ba5d8ed8b6",
+      "crc?": 2471851844,
+      "hash": 2443937568,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "それじゃあ　レオン　サドラーまで案内して",
+        "Now, find Leon...and Saddler.",
+        "Bon, maintenant Leon... et Saddler.",
+        "Adesso si va a cercare Leon e Saddler.",
+        "Okay. Auf zu Leon... und Saddler.",
+        "Vale, a buscar a Leon... y a Saddler...",
+        "Так, где Леон… и Сэдлер.",
+        "Teraz muszę znaleźć Leona... i Saddlera.",
+        "",
+        "",
+        "Agora, encontrar o Leon... e o Saddler.",
+        "이제, 레온과... 새들러를 찾아야 해.",
+        "現在，去找里昂……和薩德勒。",
+        "现在，去找里昂……和萨德勒。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "الآن عليّ أن اعثر على ليون...وسادلر.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ahora, a buscar a Leon... y a Saddler."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse500_s00a_0020_cha200",
+      "guid": "c6e485a6-8080-4d5b-bb1c-8b5670a8111c",
+      "crc?": 4017269857,
+      "hash": 3898368486,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0020_cha200"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse500_s00a_0030_cha200",
+      "guid": "298a4284-5e58-48d6-9f44-caed2d3eb4b3",
+      "crc?": 294232925,
+      "hash": 3526180815,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_cse500_s00a_0030_cha200"
+      ]
+    }
+  ]
+}

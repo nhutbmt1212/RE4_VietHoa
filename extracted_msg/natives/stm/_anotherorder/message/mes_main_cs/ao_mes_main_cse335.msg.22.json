@@ -1,0 +1,883 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse335_s00a",
+      "guid": "12cdad1b-3204-43c7-ae83-9648482309b8",
+      "crc?": 3455267517,
+      "hash": 4200743041,
+      "attributes": [
+        {
+          "String": "<MESTIME 9.66, 12.97>\r\n<MESTIME 13.66, 15.55>\r\n<MESTIME 16.32, 20.95>\r\n<MESTIME 22.04, 23.96>\r\n<MESTIME 24.36, 28.4>\r\n<MESTIME 28.86, 31.32>\r\n<MESTIME 32.5, 33.62>\r\n<MESTIME 33.88, 35.25>\r\n<MESTIME 35.86, 38.78>\r\n<MESTIME 56.0, 56.46>\r\n<MESTIME 57.12, 59.27>\r\n<MESTIME 59.46, 60.21>\r\n<MESTIME 60.46, 63.31>\r\n<MESTIME 64.25, 67.19>\r\n<MESTIME 67.52, 69.16>\r\n<MESTIME 69.52, 69.93>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0010_cha600",
+      "guid": "ac25ec17-626b-4abb-a7a0-ce9317a14b30",
+      "crc?": 3863162962,
+      "hash": 1786305315,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "それで… “アンバー”はどうなった",
+        "So, what's become of the Amber?",
+        "Alors, du nouveau sur l'Ambre ?",
+        "Allora, che fine ha fatto l'Ambra?",
+        "Also, was Neues zum Bernstein?",
+        "Bueno, ¿qué hay del Ámbar?",
+        "Ну? Что у тебя с янтарём?",
+        "To co z Bursztynem?",
+        "",
+        "",
+        "Então, o que aconteceu com o Âmbar?",
+        "그래서, \"앰버\"는 어떻게 됐지?",
+        "說，「琥珀」怎麼樣了？",
+        "说，“琥珀”怎么样了？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إذن، ما أخبار البحث عن \"الآمبر\"؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bueno, ¿qué hay del ámbar?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0020_cha200",
+      "guid": "f9389611-b9f1-4382-9b13-6cf3eb0cd54d",
+      "crc?": 3561141848,
+      "hash": 2014353615,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "悪いわね まだよ",
+        "Sorry. Nothing yet.",
+        "Désolée. Pas encore.",
+        "Mi spiace, ancora nulla.",
+        "Nein, tut mir leid.",
+        "Perdón. Aún nada.",
+        "Прости. Пока нет.",
+        "Przykro mi. Jeszcze go nie mam.",
+        "",
+        "",
+        "Desculpe. Nada ainda.",
+        "미안. 아직이야.",
+        "抱歉，還沒進展。",
+        "抱歉，还没进展。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "المعذرة. لم أتوصل لشيء بعد.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Perdón. Aún nada."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0030_cha200",
+      "guid": "eb5bcde6-8675-4926-8432-39c92d317c25",
+      "crc?": 326058791,
+      "hash": 364970232,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "でも “協力者”が城を混乱させてるところよ",
+        "But my little helper is creating quite the commotion.",
+        "Mais mon charmant \"petit assistant\"\r\ncause une belle pagaille.",
+        "Ma il mio piccolo aiutante\r\nsta facendo proprio un bel trambusto.",
+        "Aber mein „Helferlein“ stiftet ordentlich Unruhe.",
+        "Pero mi ayudante sí que ha estado bastante ocupado.",
+        "Но мой помощник устроил очень много шума.",
+        "Ale mój mały pomocnik robi tu trochę zamieszania.",
+        "",
+        "",
+        "Mas o meu ajudantezinho tá causando uma bela comoção.",
+        "하지만 내 지원군이 꽤 소란을 피워 주고 있지.",
+        "不過，我的「小助手」倒是給他們添了不少麻煩。",
+        "不过，我的“小助手”倒是给他们添了不少麻烦。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لكن مساعدي الصغير يثير فوضى حقيقية.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Pero mi ayudante sí que ha estado bastante ocupado."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0040_cha200",
+      "guid": "f25489bb-6965-4afe-9c19-32d9b1bce807",
+      "crc?": 1008901742,
+      "hash": 4253078400,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "計画に変更はないわ",
+        "Everything will work out just fine.",
+        "Tout se passera comme prévu.",
+        "Andrà tutto alla perfezione.",
+        "Alles wird laufen wie geplant.",
+        "Todo saldrá según el plan.",
+        "Уверена, всё будет в порядке.",
+        "Wszystko się w końcu powiedzie.",
+        "",
+        "",
+        "Tudo vai dar certo no fim.",
+        "모든 게 다 잘 될 거야.",
+        "船到橋頭自然直。",
+        "船到桥头自然直。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سيسير كل شيء على ما يرام.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Todo saldrá según el plan."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0050_cha600",
+      "guid": "5f0c7ecd-834a-4367-9380-b561e664f70e",
+      "crc?": 329269749,
+      "hash": 2395859684,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "飼い犬は入念にしつけておけ　過信するな",
+        "As long as you can keep your dog under control.",
+        "Encore faut-il que tu gardes ton chien sous contrôle.",
+        "Basta che tu tenga il tuo cagnolino sotto controllo.",
+        "Solange du deinen Hund unter Kontrolle behältst.",
+        "Confío en que podrás controlar a tu sabueso.",
+        "Ты, главное, держи свою псину на привязи.",
+        "Jeśli tylko jesteś w stanie utrzymać swojego psa na smyczy.",
+        "",
+        "",
+        "Desde que você mantenha seu cachorrinho sob controle.",
+        "네가 그 개를 잘 다루는 한 그렇겠지.",
+        "前提是妳可得把妳的狗管好了。",
+        "前提是你可得把你的狗管好了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ما دمت تبقين خادمك تحت السيطرة.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Confío en que podrás controlar a tu sabueso."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0060_cha200",
+      "guid": "f866b590-53c7-4a10-a7a5-9bcdbe5eef71",
+      "crc?": 1421426027,
+      "hash": 863824768,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "彼は優秀よ　安心して",
+        "He's a good boy. Predictable.",
+        "Il est utile... et prévisible.",
+        "È un bravo cane. Prevedibile.",
+        "Der tut nichts. Glaub mir.",
+        "Es buen chico. Predecible.",
+        "Он славный мальчик. Послушный.",
+        "To dobry piesek. Przewidywalny.",
+        "",
+        "",
+        "É um bom garoto. Previsível.",
+        "좋은 애야. 행동이 뻔하지.",
+        "他是個好孩子。不會亂來。",
+        "他是个好孩子。不会乱来。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إنه فتى مطيع، ويمكن توقع تصرفاته.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Es obediente. Predecible."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0070_cha600",
+      "guid": "8e1d834e-363d-4224-9aa2-f20739242b45",
+      "crc?": 1347899486,
+      "hash": 1377676909,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "いいだろう",
+        "Fine.",
+        "Bien.",
+        "Bene.",
+        "Schön.",
+        "Bien.",
+        "Ладно.",
+        "Dobrze.",
+        "",
+        "",
+        "Certo.",
+        "그거 잘 됐군.",
+        "好。",
+        "好。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حسنًا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bien."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0080_cha600",
+      "guid": "d783ef46-e7bc-43dd-bded-239a10416541",
+      "crc?": 777939391,
+      "hash": 896522912,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "好きにしろ",
+        "Keep your mutt.",
+        "Tu peux le garder.",
+        "Tieni il cagnaccio.",
+        "Behalt ihn.",
+        "Haz lo que quieras.",
+        "Оставь пса.",
+        "Pilnuj swojego kundla.",
+        "",
+        "",
+        "Fique com ele.",
+        "잘 지켜봐.",
+        "牽好他。",
+        "牵好他。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يمكنك الوثوق به كما تشائين.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Haz lo que quieras."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0090_cha600",
+      "guid": "9f1ac00c-b7dd-4771-8577-3b8fc43602e0",
+      "crc?": 2356433939,
+      "hash": 1996654095,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "手を噛まれないよう注意することだ",
+        "But don't come crying to me if you get bit.",
+        "Mais ne viens pas pleurer si tu te fais mordre.",
+        "Ma non venire a piangere da me se ti morde.",
+        "Aber beschwer dich nicht bei mir,\r\nwenn er dich beißt.",
+        "Pero no te quejes si al final te muerde.",
+        "Но не жалуйся, если он тебя покусает.",
+        "Ale nie przychodź potem z płaczem, jak cię ugryzie.",
+        "",
+        "",
+        "Mas não venha chorar pra mim se for mordida.",
+        "물리고 나서 나한테 울면서 오지만 말라고.",
+        "到時候被咬了，可別來找我。",
+        "到时候被咬了，可别来找我。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لكن لا تأتي إليّ باكية إن تضررتي منه.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Pero no te quejes si al final te muerde."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0100_chy000",
+      "guid": "ace50108-71e1-4ee2-84cf-53a4ab0722ba",
+      "crc?": 953726940,
+      "hash": 1026774007,
+      "attributes": [
+        {
+          "String": "<RADIO ON>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0110_cha200",
+      "guid": "4ce7e63a-0c69-4b0a-a2d1-89df3d33a7c6",
+      "crc?": 1215000893,
+      "hash": 2011746806,
+      "attributes": [
+        {
+          "String": "<IGNORE SE>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "レオン 考えは変わった？",
+        "Leon. Changed your mind yet?",
+        "Leon. T'as laissé tomber ?",
+        "Leon. Hai cambiato idea?",
+        "Leon. Meinen Rat befolgt?",
+        "Leon. ¿Has cambiado de opinión?",
+        "Леон. Ты не передумал?",
+        "Leon. Zmieniłeś może zdanie?",
+        "",
+        "",
+        "Leon. Mudou de ideia?",
+        "레온. 생각은 좀 바뀌었어?",
+        "里昂。改主意了嗎？",
+        "里昂。改主意了吗？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يا ليون. هل غيرت رأيك؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Leon. ¿Cambiaste de opinión?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0120_cha000",
+      "guid": "e093e39e-f664-4934-8edf-262a425a807e",
+      "crc?": 1986364454,
+      "hash": 1909516922,
+      "attributes": [
+        {
+          "String": "<IGNORE SE>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "エイダか？",
+        "Ada?",
+        "Ada ?",
+        "Ada?",
+        "Ada?",
+        "¿Ada?",
+        "Ада?",
+        "Ada?",
+        "",
+        "",
+        "Ada?",
+        "에이다?",
+        "艾達？",
+        "艾达？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آدا؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¿Ada?"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0130_cha200",
+      "guid": "94b6cc3d-ef84-4af2-bb48-b65920fb1e30",
+      "crc?": 198890348,
+      "hash": 3400326462,
+      "attributes": [
+        {
+          "String": "<IGNORE SE>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "あきらめの悪いあなたに 情報をあげる",
+        "Assuming you haven't, I've got a tip for you.",
+        "J'imagine que non, alors j'ai une info pour toi.",
+        "Immagino di no, e ho un'informazione.",
+        "Sicher nicht, also... wird dich das interessieren.",
+        "Asumiendo que no, tengo un consejo.",
+        "Допустим, что нет. Тогда слушай.",
+        "Zakładam, że jeszcze nie, więc mam wskazówkę.",
+        "",
+        "",
+        "Caso não tenha mudado, uma dica pra você.",
+        "생각이 바뀌진 않은 것 같으니, 당신에게 정보를 줄게.",
+        "要是還沒有，我給你一個情報。",
+        "要是还没有，我给你一个情报。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "إذا لم تغير رأيك، فعندي نصيحة لك.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Asumiendo que no, tengo un consejo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0140_cha200",
+      "guid": "e3ed5a26-08e4-435e-958b-5a9d74c9c58c",
+      "crc?": 3241407537,
+      "hash": 4183879216,
+      "attributes": [
+        {
+          "String": "<IGNORE SE>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "あの子 領主の間に連れて行かれたみたい",
+        "Seems like something big is about\r\nto go down in the throne room.",
+        "Quelque chose d'important\r\nse prépare dans la salle du trône.",
+        "Qualcosa di grosso accadrà\r\nnella sala del trono.",
+        "Wie’s aussieht,\r\ngeht’s im Thronsaal gleich zur Sache.",
+        "Se va a celebrar algo importante\r\nen el salón del trono.",
+        "В тронном зале назревает что-то серьёзное.",
+        "Zdaje się, że coś dużego wydarzy się\r\nw sali tronowej.",
+        "",
+        "",
+        "Parece que algo grande tá pra acontecer\r\nna sala do trono.",
+        "어떤 커다란 놈이 영주의 방으로 내려가는 것 같았어.",
+        "王座廳那裡好像要出什麼大事了。",
+        "王座厅那里好像要出什么大事了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هناك أمر مهم سيحدث\r\nفي غرفة العرش على ما يبدو.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Algo importante va a celebrarse\r\nen el salón del trono."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0150_cha200",
+      "guid": "d8e39873-f606-425d-a782-7b8255a111e0",
+      "crc?": 3686711998,
+      "hash": 563420040,
+      "attributes": [
+        {
+          "String": "<IGNORE SE>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "子守も大変ね",
+        "Babysitting's tough, huh.",
+        "Dur, le babysitting, hein ?",
+        "Dura fare la balia?",
+        "Babysitten nervt, hm?",
+        "Ser niñera es duro, ¿eh? ",
+        "Трудно быть нянькой, да?",
+        "Trudno jest być niańką, co?",
+        "",
+        "",
+        "É difícil bancar a babá, né.",
+        "애 보기도 힘들어.",
+        "保姆難當。",
+        "保姆难当。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "رعاية الأطفال أمر صعب، هاه.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Es difícil ser niñera."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse335_s00a_0160_chy000",
+      "guid": "525098e1-0ca1-46a8-a52c-608eda552853",
+      "crc?": 4271705113,
+      "hash": 1477047114,
+      "attributes": [
+        {
+          "String": "<RADIO OFF>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse315_s00a",
+      "guid": "ff0dfe14-08c6-407e-9b06-01f95d01d180",
+      "crc?": 998003047,
+      "hash": 2544529070,
+      "attributes": [
+        {
+          "String": "<MESTIME 7.23, 12.78>\r\n<MESTIME 13.87, 18.07>\r\n<MESTIME 18.6, 22.11>\r\n<MESTIME 23.08, 24.37>\r\n<MESTIME 24.39, 27.81>\r\n<MESTIME 28.67, 29.56>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse315_s00a_0010_cha300",
+      "guid": "b70456aa-29ad-4dec-88c1-6e01a5f88f89",
+      "crc?": 342495192,
+      "hash": 2846414367,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "よし… ありあわせになっちまうが うまくいくはずだ",
+        "OK. Won't be my finest effort\r\n—but it might just work.",
+        "OK, c'est avec les moyens du bord...\r\nmais ça devrait marcher.",
+        "Ok, non sarà il mio lavoro migliore,\r\nma dovrebbe funzionare.",
+        "Okay. Es wird nicht perfekt sein,\r\naber... besser als nichts.",
+        "Vale... no será mi mejor cosecha, pero funcionará.",
+        "Ну что… получится так себе… но хоть что-то.",
+        "Dobra. Może nie wyjdzie idealnie,\r\nale ma szansę zadziałać.",
+        "",
+        "",
+        "Ok... Não vai ser o meu melhor, mas deve funcionar.",
+        "좋아... 최선은 아니지만— 효과는 있을 거야.",
+        "我承認，這不是最佳方案……但應該管用。",
+        "我承认，这不是最佳方案……但应该管用。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "حسنًا... هذا ليس أفضل ما لديّ، لكن قد ينجح الأمر.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bien... no será mi mejor trabajo...\r\npero funcionará."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse315_s00a_0020_cha300",
+      "guid": "9e5de80e-7d8e-4666-b1a2-3d408336ee49",
+      "crc?": 1132114205,
+      "hash": 1437816873,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "エイダ 原料を集めてくれ",
+        "Ada, find these ingredients...",
+        "Ada, trouve ces ingrédients...",
+        "Ada, devi trovarmi queste cose,",
+        "Hör zu. Das hier brauche ich.",
+        "Ada, trae estos ingredientes...",
+        "Ада, найди вот это…",
+        "Ada, znajdź te składniki...",
+        "",
+        "",
+        "Ada, encontre esses ingredientes...",
+        "에이다, 이 원료들을 찾아 줘...",
+        "艾達，把這些材料找來……",
+        "艾达，把这些材料找来……",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "آدا، اعثري على تلك المكونات...",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ada, busca estos ingredientes..."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse315_s00a_0030_cha300",
+      "guid": "ad352d46-bcba-458c-b864-fe840cd082b0",
+      "crc?": 4181248844,
+      "hash": 3344797877,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "たぶんこれで 新しい薬が作れる",
+        "and just maybe, I can make\r\na new batch of medicine.",
+        "et alors peut-être que je pourrai refaire le médoc.",
+        "e così forse riuscirò a produrre la medicina.",
+        "Wenn es gut läuft, kann ich so\r\nneue Medizin herstellen.",
+        "Y es posible, que pueda hacer más medicina.",
+        "и, возможно… я сделаю ещё лекарства.",
+        "...a może będę w stanie\r\nstworzyć nową dawkę leku.",
+        "",
+        "",
+        "... e quem sabe eu não consiga fazer mais remédios.",
+        "어쩌면, 새로운 약을 만들 수 있을 거야.",
+        "說不定，我就能再做出一批藥。",
+        "说不定，我就能再做出一批药。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "وربما أستطيع صنع دفعة جديدة من الدواء.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "y quizá pueda hacer más del medicamento."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse315_s00a_0040_cha300",
+      "guid": "7fa9ab29-3744-4e55-be2d-c4543fc96d52",
+      "crc?": 3190821616,
+      "hash": 3543043913,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ただ…　時間がない",
+        "Time's not our friend.",
+        "On a peu de temps.",
+        "Il tempo non è molto.",
+        "Uns bleibt nicht viel Zeit.",
+        "El tiempo apremia.",
+        "Время — наш враг.",
+        "Czas nam nie sprzyja.",
+        "",
+        "",
+        "O tempo tá contra nós.",
+        "시간이 얼마 없어.",
+        "時間不等人。",
+        "时间不等人。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "الوقت ليس في صالحنا.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No tenemos tiempo."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse315_s00a_0050_cha300",
+      "guid": "df6453c4-473c-4e47-b1a5-7cc41e0c64c7",
+      "crc?": 191120444,
+      "hash": 2735466276,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "急いでくれ　俺はアンバーを回収する",
+        "You go, find them, and I will go grab the Amber.",
+        "Vas-y, trouve-les. Moi, je vais chercher l'Ambre.",
+        "Tu vai, portamele, e io ti prendo l'Ambra.",
+        "Besorg du das, ich hol den Bernstein.",
+        "Ve, tráelos, y yo conseguiré el Ámbar.",
+        "Иди. Найди всё, а я за янтарём.",
+        "Idź, znajdź je, a ja idę po Bursztyn.",
+        "",
+        "",
+        "Você vai, acha isso e eu vou pegar o Âmbar.",
+        "당신은 가서 원료를 찾아.\r\n난 앰버를 가지러 갈 테니까.",
+        "快去，妳找材料，我去拿「琥珀」。",
+        "快去，你找材料，我去拿“琥珀”。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "اذهبي واعثري عليها وأنا سأذهب لأحضر \"الآمبر\".",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ve, búscalos. Yo iré por el ámbar."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse315_s00a_0060_cha300",
+      "guid": "70d18e1e-692a-40b8-96f3-aea2020d86f8",
+      "crc?": 3440318635,
+      "hash": 4277281115,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "幸運を！",
+        "Wish me luck!",
+        "On croise les doigts.",
+        "Prega per me!",
+        "Wünsch mir Glück!",
+        "¡Deséame suerte!",
+        "Удачи мне!",
+        "Życz mi szczęścia!",
+        "",
+        "",
+        "Torça por mim!",
+        "행운을 빌어 줘!",
+        "祝我好運！",
+        "祝我好运！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "تمني لي التوفيق!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Deséame suerte!"
+      ]
+    }
+  ]
+}

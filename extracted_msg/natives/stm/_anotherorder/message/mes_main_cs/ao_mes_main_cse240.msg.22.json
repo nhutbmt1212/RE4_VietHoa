@@ -1,0 +1,148 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse240_s00a",
+      "guid": "61ea4a1b-76b8-4ede-a913-12d8135264da",
+      "crc?": 2669798566,
+      "hash": 2676787263,
+      "attributes": [
+        {
+          "String": "<MESTIME 41.88, 44.62>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse240_s00a_0010_cha200",
+      "guid": "177b2225-ce26-4e14-ba58-82dafab7b79a",
+      "crc?": 802966288,
+      "hash": 4016198065,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "そっちはダメ　ここで遊びましょう",
+        "Sorry, big guy. Can't let you go that way.",
+        "Désolée mon grand, mais toi tu vas rester là.",
+        "Mi dispiace, amico. Non posso farti passare.",
+        "Tut mir leid, hier ist Endstation.",
+        "Perdona, grandullón.\r\nNo dejaré que pases.",
+        "Нет, здоровяк. Тебе точно не туда.",
+        "Wybacz, wielkoludzie. Nie mogę ci na to pozwolić.",
+        "",
+        "",
+        "Foi mal, garotão. Cê não pode ir por aí.",
+        "덩치 큰 양반, 미안하지만 그쪽으로는 못 보내.",
+        "抱歉，大帥哥。我可不能放你走。",
+        "抱歉，大帅哥。我可不能放你走。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "معذرة أيها الضخم. لا أستطيع تركك تذهب في هذا الاتجاه.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Lo siento, grandote. No vas a pasar por ahí."
+      ]
+    }
+  ]
+}

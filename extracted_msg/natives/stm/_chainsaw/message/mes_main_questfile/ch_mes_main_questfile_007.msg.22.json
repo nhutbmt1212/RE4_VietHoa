@@ -1,0 +1,444 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_QuestFile_007_00",
+      "guid": "2a7bd1e1-f27a-45a0-b453-1796850f664c",
+      "crc?": 1410981410,
+      "hash": 259025563,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "黄金の卵",
+        "Egg Hunt",
+        "Chasse à l'œuf",
+        "A caccia di uova",
+        "Eiersuche",
+        "A la caza del huevo",
+        "Охота за яйцами",
+        "Polowanie na jajo",
+        "",
+        "",
+        "Caça aos Ovos",
+        "황금알",
+        "黃金雞蛋",
+        "寻蛋启事",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "البحث عن البيض",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Caza de huevos"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_007_01",
+      "guid": "1d5d5eef-eb78-47eb-8276-627789295003",
+      "crc?": 2363712665,
+      "hash": 2578049395,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "世にも珍しい<COL FILE>金色の卵</COL>を手に入れてくれ。\r\nそんなものをなんに使うかって？\r\n……世の中、知らない方が幸せなこともあるんだぜ？",
+        "Someone fetch me a rare <COL FILE>gold chicken egg</COL>!\r\n\r\nWhat will I do with it? Well, sometimes it's\r\nmore fun not knowing, right?",
+        "Qu'on aille me chercher un <COL FILE>œuf de poule doré</COL> !\r\n\r\nQu'est-ce que je vais en faire ? Eh bien, il y a\r\nparfois des choses qu'il vaut mieux ne pas savoir,\r\nn'est-ce pas ?",
+        "Cerco qualcuno che mi procuri un <COL FILE>uovo di gallina\r\ndorato</COL>! A cosa mi serve? Beh, in alcuni casi\r\nè meglio non sapere, non trovi?",
+        "Bring mir bitte jemand ein seltenes <COL FILE>goldenes\r\nHühnerei</COL>!\r\n\r\nWas ich damit vorhabe? ... Sagen wir mal so:\r\nManche Dinge will man lieber nicht wissen.",
+        "¡Quiero que alguien me traiga un <COL FILE>huevo dorado</COL>!\r\n\r\n¿Que qué voy a hacer con él? Bueno, a veces la\r\nignorancia es felicidad, ¿no es cierto? ",
+        "Люди, принесите мне редкое <COL FILE>золотое куриное яйцо</COL>!\r\n\r\nДля чего оно мне нужно? Я вам так скажу:\r\nменьше знаешь — крепче спишь!",
+        "Niech ktoś mi przyniesie to rzadkie\r\n<COL FILE>złote kurze jajo</COL>!\r\n\r\nCo zamierzam z nim zrobić? Cóż, czasem\r\nlepiej nie wiedzieć wszystkiego, prawda?",
+        "",
+        "",
+        "Preciso que peguem um <COL FILE>ovo de galinha dourado</COL>\r\npra mim! O que vou fazer com eles?\r\nBom, às vezes é mais divertido\r\nnem ficar sabendo, não acha?",
+        "누가 나한테 진귀한 <COL FILE>금색 달걀</COL>을 가져다줘!\r\n\r\n그걸로 뭐 할 거냐고? 뭐, 가끔은 모르는 게\r\n더 재미있잖아, 안 그래?",
+        "快點給我一顆<COL FILE>金色雞蛋</COL>！很難找的！\r\n\r\n我要拿來做什麼？嘿，有些事情還是不知道\r\n比較好哦？",
+        "谁能给我一个世间稀有的<COL FILE>金壳鸡蛋</COL>？！\r\n你问我拿它来做什么？\r\n有些事还是不知道为好，对吧？",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ليحضر لي أحد <COL FILE>بيضة دجاجة ذهبية</COL> نادرة!\r\n\r\nماذا سأفعل بها؟ أحيانًا الجهل بالأمور يكون أمتع،\r\nأليس كذلك؟",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Quiero que alguien me traiga un raro <COL FILE>huevo dorado</COL>!\r\n\r\n¿Que qué voy a hacer con él? Bueno, a veces la\r\nignorancia es felicidad, ¿no es cierto?\r\n"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_QuestFile_007_02",
+      "guid": "4e8c064d-714e-47af-8c85-b07612102ed8",
+      "crc?": 3736995510,
+      "hash": 621738512,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    }
+  ]
+}

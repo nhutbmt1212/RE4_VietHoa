@@ -1,0 +1,295 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_cse350_s00a",
+      "guid": "fd1b2122-1eb0-46d6-972f-b2893ec1e274",
+      "crc?": 2173192574,
+      "hash": 4098123854,
+      "attributes": [
+        {
+          "String": "<MESTIME 1.78, 3.62>\r\n<MESTIME 15.39, 17.54>\r\n<MESTIME 22.39, 23.99>\r\n<MESTIME 65.39, 69.64>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse350_s00a_0010_cha200",
+      "guid": "4febe599-8461-431a-8e83-7ba0d8f373cd",
+      "crc?": 1142213407,
+      "hash": 1024784893,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "決着をつけないとね",
+        "I need to put that thing down.",
+        "Il faut que j'abatte cette créature.",
+        "Devo ammazzare quel coso.",
+        "Ich muss das Ding loswerden.",
+        "Voy a acabar con esa cosa.",
+        "Надо убить эту тварь.",
+        "Muszę się nim zająć.",
+        "",
+        "",
+        "Preciso acabar com aquela coisa.",
+        "저 녀석을 처리해야겠어.",
+        "得把那傢伙收拾了。",
+        "得把那家伙收拾了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "يجب أن أنزل ذلك الشيء.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Debo eliminar a esa cosa."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse350_s00a_0020_cha200",
+      "guid": "4f7f860e-654e-4276-9307-00ca6c5f2abd",
+      "crc?": 3968963372,
+      "hash": 2434164243,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "こっちよ　遊びたいんでしょ！？",
+        "That's it! Come on now!",
+        "C'est ça. Amène-toi !",
+        "Ora basta. Vieni qui!",
+        "Jetzt reicht’s! Komm mit!",
+        "Vale. ¡Ven a por mí!",
+        "Ну всё. Иди сюда!",
+        "Otóż to! Wyłaź!",
+        "",
+        "",
+        "É isso. Pode vir!",
+        "옳지! 따라 와!",
+        "正好！來追我呀！",
+        "正好！来追我呀！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "هذا يكفي. هيا الآن!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Eso es. ¡Ven acá!"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse350_s00a_0030_cha200",
+      "guid": "1c99a385-65af-403b-99ea-ddc12cccc320",
+      "crc?": 344731858,
+      "hash": 3824490429,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "ここなら…",
+        "This spot will do.",
+        "Voilà, ici ça ira.",
+        "Qui va bene.",
+        "Hier sollte es gehen.",
+        "Este es un buen sitio.",
+        "Да, вот здесь.",
+        "To miejsce się nada.",
+        "",
+        "",
+        "Isso deve servir.",
+        "여기가 좋겠어.",
+        "就去那裡。",
+        "就去那里。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "سيفي هذا المكان بالغرض.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Aquí está bien."
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_cse350_s00a_0040_cha200",
+      "guid": "c2abe0cb-8082-4ffb-8d0e-886351852986",
+      "crc?": 3484135015,
+      "hash": 3091540360,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "いい加減うんざりだわ　ここで終わりにしてあげる",
+        "Can't stand the clingy type.\r\nTime to end this for good.",
+        "Je supporte pas qu'on me colle.\r\nIl est temps qu'on en finisse.",
+        "Ti sei proprio innamorato di me.\r\nMa ora la facciamo finita.",
+        "War ’ne schöne Zeit, aber...\r\ndu klammerst mir zu sehr.",
+        "No aguanto a los pegajosos.\r\nHora de acabar con esto.",
+        "Навязчивая тварь.\r\nПора с ней покончить.",
+        "Nie znoszę takich namolnych typów.\r\nCzas to wreszcie zakończyć.",
+        "",
+        "",
+        "Não suporto gente grudenta.\r\nHora de acabar logo com isso.",
+        "이래서 끈질긴 타입은 싫다니까.\r\n슬슬 끝내는 게 좋겠어.",
+        "我最討厭死纏爛打。差不多該分手了。",
+        "我最讨厌死缠烂打。差不多该分手了。",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "لا أتحمل النوع اللزج.\r\nحان الوقت لإنهاء الأمور للأبد.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No soporto a los fastidiosos.\r\nHora de terminar con esto."
+      ]
+    }
+  ]
+}

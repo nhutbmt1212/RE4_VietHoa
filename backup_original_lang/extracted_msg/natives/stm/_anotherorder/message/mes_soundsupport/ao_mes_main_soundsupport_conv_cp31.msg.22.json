@@ -1,0 +1,981 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": 2,
+      "name": "Ja"
+    },
+    {
+      "ty": 2,
+      "name": "En"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0003",
+      "guid": "43c8cdf1-fcfc-4a17-b625-3578bd3e88c9",
+      "crc?": 2412530106,
+      "hash": 598098423,
+      "attributes": [
+        {
+          "String": "<MESTIME 0.0, 1.92>\r\n<MESTIME 26.22, 27.01>\r\n<VOTIME 0.0 26.22>\r\n<CONVEND 27.01>"
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0003_0005_chXXXX",
+      "guid": "ad3722d8-53c5-419b-80e1-ff7194aecb46",
+      "crc?": 789123687,
+      "hash": 4055060496,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（無線のコール音）",
+        "[radio bleeps]",
+        "[appel radio]",
+        "[chiamata alla radio]",
+        "[Rufton]",
+        "[pitidos de radio]",
+        "[звуки вызова по рации]",
+        "[odgłosy z radiostacji]",
+        "",
+        "",
+        "[rádio apita]",
+        "[무전 호출음]",
+        "（無線通訊呼出聲）",
+        "（无线电呼叫音）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[إشارة الراديو الصوتية]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[pitidos de radio]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0003_1000_chXXXX",
+      "guid": "813f5cff-7398-44c4-b39d-a6d452cc2235",
+      "crc?": 4254179998,
+      "hash": 2457869119,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（無線の終了音）",
+        "[call disconnects]",
+        "[fin de l'appel]",
+        "[fine della chiamata]",
+        "[Luis legt auf]",
+        "[fin de la llamada]",
+        "[звонок завершается]",
+        "[koniec połączenia]",
+        "",
+        "",
+        "[chamada desconectada]",
+        "[무전 종료음]",
+        "（無線通訊終結聲）",
+        "（无线电切断音）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[فقدان الاتصال]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[fin de la llamada]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0135",
+      "guid": "35955824-9601-4c83-8ad2-0955fb202550",
+      "crc?": 325005425,
+      "hash": 1344960690,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0135_0020_cha300",
+      "guid": "09c50176-1804-4990-a73d-dd792b2cf4b4",
+      "crc?": 3100201723,
+      "hash": 615603470,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（ルイスの驚いた悲鳴）",
+        "[Luis screams in surprise]",
+        "[Luis pousse un cri de surprise]",
+        "[grido sorpreso di Luis]",
+        "[Luis schreit auf]",
+        "[Luis exclama de sorpresa]",
+        "[Луис удивлённо вскрикивает]",
+        "[zaskoczony Luis krzyczy]",
+        "",
+        "",
+        "[Luis grita surpreso]",
+        "[루이스의 깜짝 놀란 비명]",
+        "（路易斯驚呼聲）",
+        "（路易斯惊叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[صراخ عن مفاجأة من لويس]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Luis grita sorprendido]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0033",
+      "guid": "f5adaf1b-4b2f-4898-bc70-5748747e055d",
+      "crc?": 1394155425,
+      "hash": 1304463290,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+      "guid": "cfd45470-6450-4356-8d1f-8724bbb08304",
+      "crc?": 2391819103,
+      "hash": 3333826809,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0033_0010_cha200"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0124",
+      "guid": "b8d457a3-6972-47d9-8272-718cb032cd1a",
+      "crc?": 264143318,
+      "hash": 113627963,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0124_0010_cha300",
+      "guid": "baf67bce-a3a6-41d5-8ca8-3760623356a4",
+      "crc?": 2076221785,
+      "hash": 3583630896,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（ルイスのむせる声）",
+        "[Luis coughing]",
+        "[Luis tousse]",
+        "[Luis tossisce]",
+        "[Luis hustet]",
+        "[Luis tose]",
+        "[Луис кашляет]",
+        "[Luis kaszle]",
+        "",
+        "",
+        "[Luis tossindo]",
+        "[루이스가 기침하는 소리]",
+        "（路易斯嗆咳聲）",
+        "（路易斯咳嗽声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[سعال لويس]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Luis tose]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0125",
+      "guid": "abe9771c-6f14-4ab1-b9aa-60a7d5009286",
+      "crc?": 1285712690,
+      "hash": 802885748,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0125_0010_cha300",
+      "guid": "2a871bd1-3cb7-4bf2-ac9a-9253c970c91b",
+      "crc?": 2907062572,
+      "hash": 4049759689,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（ルイスの激しくせき込む声）",
+        "[Luis violently coughing]",
+        "[Luis tousse violemment]",
+        "[tosse forte di Luis]",
+        "[Luis hustet heftig]",
+        "[Luis tose violentamente]",
+        "[Луис сильно кашляет]",
+        "[Luis gwałtownie kaszle]",
+        "",
+        "",
+        "[Luis tossindo violentamente]",
+        "[루이스가 심하게 기침하는 소리]",
+        "（路易斯劇烈嗆咳聲）",
+        "（路易斯剧烈咳嗽声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[سعال شديد من لويس]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[Luis tose fuertemente]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0035",
+      "guid": "c739104b-3404-4d4c-8afb-95bcec8ca0b2",
+      "crc?": 4142919526,
+      "hash": 2002561888,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+      "guid": "cab59e17-4b2d-4510-9dd4-d3dcc066dbbc",
+      "crc?": 1312092288,
+      "hash": 1146824257,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0035_0010_cha200"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+      "guid": "1b1c42d5-0386-43e6-9bf7-0cd90cc0387a",
+      "crc?": 4219274115,
+      "hash": 2587619007,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+      "guid": "0dd64545-9ec8-42e0-a044-8bbf26c7e190",
+      "crc?": 3233850762,
+      "hash": 2199343913,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0010_0010_cha300"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp32_0007",
+      "guid": "5ff2ffb6-b60b-4ad5-8f8c-ffd600f51a3e",
+      "crc?": 1281364209,
+      "hash": 1792405943,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp32_0007_0010_chy900",
+      "guid": "d4ba8c55-4125-49be-b010-a6d8037ef7ef",
+      "crc?": 1841834166,
+      "hash": 3938078626,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "（刺客の叫び声)",
+        "[robed monster roars in the distance]",
+        "[créature en robe noire qui rugit au loin]",
+        "[creatura che ruggisce in lontananza]",
+        "[animalisches Gebrüll in der Ferne]",
+        "[la criatura de la túnica ruge en la distancia]",
+        "[чудовище в мантии ревёт вдалеке]",
+        "[potwór w czarnej szacie ryczy w oddali]",
+        "",
+        "",
+        "[monstro de manto ruge ao longe]",
+        "[멀리서 포효하는 검은 로브를 걸친 괴물]",
+        "（遠處傳來黑袍怪物吼叫聲）",
+        "（黑袍怪物的叫声）",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[زئير وحش ذي رداء من بعيد]",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[monstruo con túnica ruge a la distancia]"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+      "guid": "d7ff5197-7da4-492d-8c2f-1366f5e10f5e",
+      "crc?": 1261432639,
+      "hash": 1836802622,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059"
+      ]
+    },
+    {
+      "name": "AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+      "guid": "7a06068b-1b84-4e35-a22b-61b35a01f739",
+      "crc?": 3391701348,
+      "hash": 2558807751,
+      "attributes": [
+        {
+          "String": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200",
+        "<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_SoundSupport_Conv_cp31_0059_0010_cha200"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,868 @@
+{
+  "version": 22,
+  "languages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "attribute_headers": [
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": -1,
+      "name": ""
+    },
+    {
+      "ty": 2,
+      "name": "file"
+    }
+  ],
+  "entries": [
+    {
+      "name": "CH_Mes_Main_File_090_00",
+      "guid": "9925ebe5-72d4-4470-af82-481ee19182a7",
+      "crc?": 2648677094,
+      "hash": 3335555363,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "イルミナドス教典 終章",
+        "Iluminados Final Chapter",
+        "Iluminados - Dernier chapitre",
+        "Iluminados - Ultimo capitolo",
+        "Iluminados – Letztes Kapitel",
+        "Iluminados: Capítulo final",
+        "Илюминадос: последняя глава",
+        "Iluminados: ostatni rozdział",
+        "",
+        "",
+        "Capítulo Final dos Iluminados",
+        "일루미나도스 교전 최종장",
+        "《光明教教典》終章",
+        "光明教典 终章",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "فصل إيلومينادوس الأخير",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Los Iluminados: Capitulo final"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_090_01",
+      "guid": "123c4d02-2bbd-48fd-9feb-9525e159b396",
+      "crc?": 1409447955,
+      "hash": 2438362614,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "聖なる虫を讃えよ！\r\n我らは　生きながらに楽園を約束された\r\n\r\n男も　女も　幼子も\r\n神の慈愛は 何者をもへだてない\r\n獣も　魚も　鳥も\r\n生ある者は 等しく祝福される",
+        "Praise be to the holy insects!\r\nWe have been promised paradise on earth!\r\n\r\nMan, woman, or child!\r\nHis love does not discriminate!\r\nBeast, fish, or bird!\r\nAll creatures shall be equally blessed!",
+        "Loués soient les insectes sacrés !\r\nLe paradis sur terre nous est promis !\r\n\r\nHomme, femme, ou enfant,\r\nson amour est le même pour tous !\r\nBête, poisson, ou oiseau,\r\nchaque créature recevra sa bénédiction !",
+        "Lode ai sacri insetti!\r\nCi è stato promesso il paradiso in terra!\r\n\r\nUomo, donna, o bambino!\r\nIl suo amore non discrimina nessuno!\r\nBestia, pesce, o uccello!\r\nTutte le creature saranno illuminate\r\nugualmente!",
+        "Preiset die heiligen Insekten!\r\nUns wurde das Paradies auf Erden versprochen!\r\n\r\nMann, Frau oder Kind!\r\nSeine Liebe unterscheidet nicht!\r\nVieh, Fisch oder Vogel!\r\nJede Kreatur sei gleichermaßen gesegnet!",
+        "¡Loados sean los insectos sagrados!\r\n¡Se nos ha prometido el paraíso en la tierra!\r\n\r\n¡Hombre, mujer o niño!\r\n¡Su amor no discrimina a nadie!\r\n¡Bestia, pez o pájaro!\r\n¡Todas las criaturas serán bendecidas!",
+        "Слава священным насекомым!\r\nНам был обещан рай на земле!\r\n\r\nМужчинам, женщинам и детям!\r\nОн любит всех в равной мере!\r\nЗверей, рыб и птиц!\r\nОн благословит всех существ до единого!",
+        "Chwała świętym owadom!\r\nObiecano nam raj na ziemi!\r\n\r\nMężczyzna, kobieta czy dziecko!\r\nJego miłość spływa na wszystkich!\r\nBestia, ryba czy ptak!\r\nWszelkie stworzenie będzie błogosławione!",
+        "",
+        "",
+        "Louvados sejam os insetos sagrados!\r\nO paraíso na terra nos foi prometido!\r\n\r\nHomem, mulher ou criança!\r\nO amor Dele não discrimina!\r\nFera, peixe ou pássaro!\r\nTodas as criaturas serão igualmente abençoadas!",
+        "신성한 벌레들이여, 찬양하라!\r\n우리에게는 낙원이 약속되었다\r\n\r\n남자도 여자도 아이도\r\n신의 사랑은 차등을 두지 않으니\r\n짐승도 물고기도 새들도\r\n모든 생물이 공평히 축복받으리라",
+        "頌讚聖蟲吧！\r\n天堂將降臨於大地！\r\n\r\n不論男女老幼，祂的愛從不偏頗。\r\n不論鳥獸蟲魚，祂的祝福不失公正。",
+        "赞美神圣之虫吧！\r\n吾辈获承诺，乐如人间之天堂！\r\n\r\n无论男人、女人或为孩童！\r\n神之慈爱，不偏不倚！\r\n任凭野兽、游鱼还是飞鸟！\r\n众生芸芸，皆得福报！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "المجد للحشرات المقدسة!\r\nلقد وعدنا بجنة على الأرض!\r\n\r\nحبه لا يفرق بين الرجال والنساء والأطفال!\r\nأو حتى الوحوش والأسماك والطيور!\r\nستُبارك جميع الكائنات بالتساوي!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Loados sean los insectos sagrados!\r\n¡Se nos prometió el paraíso en la tierra!\r\n\r\n¡Hombre, mujer o niño!\r\n¡Su amor no discrimina a nadie!\r\n¡Bestia, pez o pájaro!\r\n¡Todas las criaturas serán bendecidas!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_090_02",
+      "guid": "37301ff0-968f-4ded-954f-cbeb586c8850",
+      "crc?": 2769505824,
+      "hash": 2433685580,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "聖なる虫を讃えよ！\r\n我らは神の手肢なり\r\n\r\n叡智の光は　山々を越え\r\n全能の枝は　大海を渡る\r\n天上の悦楽は　万物に宿る\r\n我ら躰を苗床にして",
+        "Praise be to the holy insects!\r\nWe are the humble servants of God!\r\n\r\nHis wisdom will overcome any mountain!\r\nHis omnipotence will cross any ocean!\r\nThe light of heaven dwells in all things!\r\nLet our bodies be the seedbed!",
+        "Loués soient les insectes sacrés !\r\nNous sommes les humbles serviteurs de Dieu !\r\n\r\nSa sagesse franchira les montagnes !\r\nSon omnipotence traversera les océans !\r\nLa lumière céleste se trouve en toutes choses !\r\nQue nos corps soient un terreau fertile !",
+        "Lode ai sacri insetti!\r\nSiamo gli umili servitori di Dio!\r\n\r\nLa sua saggezza scalerà le montagne!\r\nLa sua onnipotenza attraverserà gli oceani!\r\nLa luce del paradiso dimora in tutte le cose!\r\nChe i nostri corpi siano terreno di semina!",
+        "Preiset die heiligen Insekten!\r\nWir sind die demütigen Diener Gottes!\r\n\r\nSeine Weisheit überwindet alle Berge!\r\nSeine Allmacht überquert jede See!\r\nDas Licht des Himmels wohnt allem inne!\r\nLasst unsere Leiber der Boden sein,\r\nauf dem alles gedeiht!",
+        "¡Loados sean los insectos sagrados!\r\n¡Somos los humildes sirvientes de Dios!\r\n\r\n¡Su sabiduría conquistará cualquier montaña!\r\n¡Su omnipotencia cruzará los océanos!\r\n¡La luz celestial reside en todas las cosas!\r\n¡Que nuestros cuerpos sean el semillero!",
+        "Слава священным насекомым!\r\nМы покорные служители Господа!\r\n\r\nЕго мудрость преодолеет любые горы!\r\nЕго могуществу не страшны океаны!\r\nРайский свет живёт во всём сущем!\r\nПлоть наша станет началом!",
+        "Chwała świętym owadom!\r\nJesteśmy skromnymi sługami Pana!\r\n\r\nJego mądrość przewyższa wszystkie góry!\r\nJego potęga jest większa od oceanów!\r\nNiebiańska światłość mieszka we\r\nwszelkim stworzeniu!\r\nNiechaj nasze ciała staną się glebą!",
+        "",
+        "",
+        "Louvados sejam os insetos sagrados!\r\nSomos os humildes servos de Deus!\r\n\r\nSua sabedoria superará qualquer montanha!\r\nSua onipotência cruzará qualquer oceano!\r\nA luz do paraíso mora em todas as coisas!\r\nQue nossos corpos sejam a terra fértil!",
+        "신성한 벌레들이여, 찬양하라!\r\n우리는 신의 충신이 되었다\r\n\r\n그의 예지는 산을 넘고\r\n그의 전능함은 바다를 넘어\r\n천국의 빛이 만물에 깃드니\r\n우리가 그 묘목이 되자",
+        "頌讚聖蟲吧！\r\n我們將成為神的手足！\r\n\r\n祂的睿智會照耀萬山。\r\n祂的全能可跨越百海。\r\n我們將以身軀作苗床，\r\n天上喜樂將藏於萬物。",
+        "赞美神圣之虫吧！\r\n吾辈皆卑微，愿作上神之奴仆！\r\n\r\n神之睿智，可越万丈崇山！\r\n神之全能，能跨无边重洋！\r\n天堂之光存于万物！\r\n吾辈之躯愿为苗床！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "المجد للحشرات المقدسة!\r\nنحن خدم السيد المتواضعون!\r\n\r\nحكمته تغلب أي جبل!\r\nوستعبر قوته المطلقة أي محيط!\r\nيكمن نور الجنة في كل شيء!\r\nفلتكن أجسادنا البذرة!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Loados sean los insectos sagrados!\r\n¡Somos los humildes sirvientes de Dios!\r\n\r\n¡Su sabiduría conquistará cualquier montaña!\r\n¡Su omnipotencia cruzará los océanos!\r\n¡La luz celestial reside en todas las cosas!\r\n¡Que nuestros cuerpos sean el semillero!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_090_03",
+      "guid": "3adcd0ba-1b54-4239-9a9e-216560410db1",
+      "crc?": 1694863405,
+      "hash": 3480483411,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "聖なる虫を讃えよ！\r\n我らは神の家畜なり\r\n\r\n我らの祈りは　殖え続け\r\n地上を隙なく満たすだろう\r\n我らはどこまでも広がり\r\nついには　星の海をも超えるだろう",
+        "Praise be to the holy insects!\r\nWe are the flock and the shepherd guides us!\r\n\r\nOur prayers will be sung all over the world!\r\nThey will be heard by all!\r\nAt last, we shall exceed the stars in the sky!",
+        "Loués soient les insectes sacrés !\r\nNous sommes le troupeau et le berger nous guide !\r\n\r\nNos prières seront chantées dans le monde entier !\r\nElles seront entendues par tous !\r\nEnfin, nous serons plus nombreux que les étoiles !",
+        "Lode ai sacri insetti!\r\nNoi siamo il gregge e il pastore ci guida!\r\n\r\nLe nostre preghiere risuoneranno in tutto\r\nil mondo! Tutti le ascolteranno!\r\nInfine, supereremo le stelle nel cielo!",
+        "Preiset die heiligen Insekten!\r\nWir sind die Herde und der Hirte führt uns.\r\n\r\nUnsere Gebete werden auf der ganzen Welt\r\nerklingen! Ein jeder wird sie hören!\r\nSchließlich wird es mehr von uns geben,\r\nals Sterne am Firmament leuchten!",
+        "¡Loados sean los insectos sagrados!\r\n¡Somos el rebaño y el pastor nos guía!\r\n\r\n¡Nuestras plegarias se oirán por todo el mundo!\r\n¡Serán oídas por todas las gentes!\r\n¡Al fin, rebasaremos el cielo estrellado!",
+        "Слава священным насекомым!\r\nМы — стая, ведомая нашим пастырем!\r\n\r\nНаши молитвы будут звучать по всему миру!\r\nИх услышит каждый!\r\nМы наконец засияем ярче, чем звёзды в небе!",
+        "Chwała świętym owadom!\r\nJesteśmy owczarnią prowadzoną przez pasterza!\r\n\r\nŚpiewajmy nasze modlitwy na całym świecie!\r\nNiech usłyszą je wszyscy!\r\nAż sięgniemy wyżej niż gwiazdy na niebie!",
+        "",
+        "",
+        "Louvados sejam os insetos sagrados!\r\nSomos o seu rebanho e o pastor nos guiará!\r\n\r\nNossas preces serão cantadas por todo o mundo!\r\nElas serão ouvidas por todos!\r\nE haverá, enfim, mais de nós que estrelas no céu!",
+        "신성한 벌레들이여, 찬양하라!\r\n양이 된 우리들을 신이라는\r\n양치기가 이끄니\r\n\r\n우리 기도는 널리 울려 퍼져\r\n천지를 가득 메우고\r\n하늘의 별까지 닿을 것이다",
+        "頌讚聖蟲吧！\r\n我們將成為神的家畜。\r\n\r\n我們的祈禱聲會傳偏大地，\r\n所有生物將得以傾聽。\r\n我們將無處不在，終而跨越星海。",
+        "赞美神圣之虫吧！\r\n吾辈为羊群，愿遵牧人之驱遣！\r\n\r\n祈祷会响彻五洲！\r\n众生将皆可倾闻！\r\n吾辈众众，必超天空之繁星！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "المجد للحشرات المقدسة!\r\nنحن القطيع والراعي يرشدنا!\r\n\r\nستُتلى دعواتنا في جميع أنحاء العالم!\r\nسيسمعها الجميع!\r\nأخيرًا، سنتجاوز النجوم في السماء!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "¡Loados sean los insectos sagrados!\r\n¡Somos el rebaño y el pastor nos guía!\r\n\r\n¡Nuestras plegarias se oirán por todo el mundo!\r\n¡Serán oídas por todas las gentes!\r\n¡Al fin, rebasaremos el cielo estrellado!"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_090_04",
+      "guid": "24d5f577-bd22-42f4-a543-f4b5a5de8ede",
+      "crc?": 3646631222,
+      "hash": 2181769669,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": "<FOCUS>"
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_090_05",
+      "guid": "d83f2ff5-f19d-4388-83c1-c39de2529b13",
+      "crc?": 516312282,
+      "hash": 2423554289,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "<END>",
+        "<END>",
+        "<END>",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "<END>"
+      ]
+    },
+    {
+      "name": "CH_Mes_Main_File_090_06",
+      "guid": "baca36f5-add4-4f97-b782-eba1a37e8491",
+      "crc?": 1561557851,
+      "hash": 303945384,
+      "attributes": [
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "Unknown": ""
+        },
+        {
+          "String": ""
+        }
+      ],
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}
