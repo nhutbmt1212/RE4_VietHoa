@@ -75,8 +75,13 @@ def translate_text(api_key, english_text, max_retries=3):
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": english_text}
         ],
-        "temperature": 0.1,
-        "max_tokens": 1024,
+        "temperature": 1.0,
+        "top_p": 0.95,
+        "max_tokens": 16384,
+        "chat_template_kwargs": {
+            "thinking": True,
+            "reasoning_effort": "high"
+        },
         "stream": False
     }
     
@@ -92,7 +97,7 @@ def translate_text(api_key, english_text, max_retries=3):
     
     for attempt in range(1, max_retries + 1):
         try:
-            with urllib.request.urlopen(req, timeout=15) as response:
+            with urllib.request.urlopen(req, timeout=180) as response:
                 res_data = json.loads(response.read().decode('utf-8'))
                 vietnamese_text = res_data["choices"][0]["message"]["content"].strip()
                 

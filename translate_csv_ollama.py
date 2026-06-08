@@ -13,11 +13,26 @@ if sys.stdout.encoding != 'utf-8':
     except:
         pass
 
+# ── Provider selection ────────────────────────────────────────────────────────
+# Set PROVIDER = "nvidia" to use NVIDIA NIM API (requires openai package)
+# Set PROVIDER = "ollama" to use local Ollama
+PROVIDER = "nvidia"
+
+# Ollama settings
 OLLAMA_BASE = "http://127.0.0.1:11434"
 OLLAMA_URL  = f"{OLLAMA_BASE}/api/chat"
-MODEL_NAME  = "gemma3:12b"   # fallback — auto-detected at startup if not available
-CSV_PATH    = "vietnamese_translation.csv"
-BACKUP_DIR  = "backup_original_lang"
+OLLAMA_MODEL = "gemma3:12b"   # auto-detected at startup if not available
+
+# NVIDIA NIM settings
+NVIDIA_BASE_URL = "https://integrate.api.nvidia.com/v1"
+NVIDIA_API_KEY  = "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"
+NVIDIA_MODEL    = "deepseek-ai/deepseek-v4-flash"
+
+# Active model name (set at startup based on PROVIDER)
+MODEL_NAME  = NVIDIA_MODEL if PROVIDER == "nvidia" else OLLAMA_MODEL
+
+CSV_PATH      = "vietnamese_translation.csv"
+BACKUP_DIR    = "backup_original_lang"
 SAVE_INTERVAL = 10  # Save CSV every 10 translations
 
 SYSTEM_PROMPT = """You are a professional game translator. Translate the following Resident Evil 4 Remake (RE4) game text from English to Vietnamese.
@@ -81,12 +96,80 @@ def _get(url, timeout=5):
         return None
 
 
-def check_ollama_status():
-    """Verify Ollama is running and pick a model to use.
-    
-    Returns the model name to use, or None if Ollama is unreachable.
-    """
+# ── NVIDIA provider ───────────────────────────────────────────────────────────
+
+def check_nvidia_status():
+    """Verify NVIDIA API key is valid and model is accessible. Returns model name or None."""
     global MODEL_NAME
+    try:
+        from openai import OpenAI
+    except ImportError:
+        print("[ERROR] 'openai' package not installed. Run: pip install openai")
+        return None
+
+    print(f"Checking NVIDIA NIM API ({NVIDIA_MODEL})...")
+    try:
+        client = OpenAI(base_url=NVIDIA_BASE_URL, api_key=NVIDIA_API_KEY)
+        # Lightweight ping — 1 token
+        client.chat.completions.create(
+            model=NVIDIA_MODEL,
+            messages=[{"role": "user", "content": "Hi"}],
+            max_tokens=1,
+            stream=False,
+        )
+        MODEL_NAME = NVIDIA_MODEL
+        print(f"NVIDIA API OK. Using model: {MODEL_NAME}")
+        return MODEL_NAME
+    except Exception as e:
+        print(f"[ERROR] NVIDIA API check failed: {e}")
+        return None
+
+
+def translate_text_nvidia(english_text, max_retries=3):
+    """Translate via NVIDIA NIM using the openai SDK."""
+    from openai import OpenAI
+    client = OpenAI(base_url=NVIDIA_BASE_URL, api_key=NVIDIA_API_KEY)
+
+    for attempt in range(1, max_retries + 1):
+        try:
+            completion = client.chat.completions.create(
+                model=NVIDIA_MODEL,
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user",   "content": english_text},
+                ],
+                temperature=0.1,
+                top_p=0.95,
+                max_tokens=512,
+                extra_body={
+                    "chat_template_kwargs": {
+                        "thinking": True,
+                        "reasoning_effort": "high",
+                    }
+                },
+                stream=False,
+            )
+            result = completion.choices[0].message.content.strip()
+            # Strip hallucinated wrapper quotes
+            for q in ('"', "'"):
+                if (result.startswith(q) and result.endswith(q)
+                        and not (english_text.startswith(q) and english_text.endswith(q))):
+                    result = result[1:-1].strip()
+            return result
+        except Exception as e:
+            print(f"\n[WARNING] NVIDIA attempt {attempt}/{max_retries}: {e}")
+            if attempt < max_retries:
+                time.sleep(2)
+
+    print(f"\n[ERROR] All NVIDIA attempts failed for: {repr(english_text)}")
+    return None
+
+
+# ── Ollama provider ───────────────────────────────────────────────────────────
+
+def check_ollama_status():
+    """Verify Ollama is running and pick a model to use. Returns model name or None."""
+    global MODEL_NAME, OLLAMA_MODEL
     max_retries = 5
     retry_delay = 2
 
@@ -97,17 +180,16 @@ def check_ollama_status():
             available = [m["name"] for m in data.get("models", [])]
             if not available:
                 print("[ERROR] Ollama is running but no models are installed.")
-                print("        Run: ollama pull qwen2.5:7b")
+                print("        Run: ollama pull gemma3:12b")
                 return None
 
             print(f"Ollama is running. Available models: {available}")
-
-            # Use configured MODEL_NAME if present, otherwise pick first
-            if MODEL_NAME in available:
-                print(f"Using model: {MODEL_NAME}")
+            if OLLAMA_MODEL in available:
+                print(f"Using model: {OLLAMA_MODEL}")
             else:
-                MODEL_NAME = available[0]
-                print(f"[INFO] Configured model not found — using '{MODEL_NAME}' instead.")
+                OLLAMA_MODEL = available[0]
+                print(f"[INFO] Configured model not found — using '{OLLAMA_MODEL}' instead.")
+            MODEL_NAME = OLLAMA_MODEL
             return MODEL_NAME
 
         if attempt < max_retries:
@@ -118,25 +200,18 @@ def check_ollama_status():
     print("        Make sure Ollama is running:  ollama serve")
     return None
 
-def translate_text(english_text, max_retries=3):
-    """Call local Ollama to translate english_text into Vietnamese.
-    
-    Retries up to max_retries times on timeout or connection error.
-    Returns translated string, or None if all attempts fail.
-    """
+
+def translate_text_ollama(english_text, max_retries=3):
+    """Translate via local Ollama API."""
     payload = {
         "model": MODEL_NAME,
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": english_text}
+            {"role": "user",   "content": english_text},
         ],
-        "options": {
-            "temperature": 0.1,
-            "num_predict": 256
-        },
-        "stream": False
+        "options": {"temperature": 0.1, "num_predict": 512},
+        "stream": False,
     }
-
     data = json.dumps(payload).encode("utf-8")
 
     for attempt in range(1, max_retries + 1):
@@ -145,30 +220,42 @@ def translate_text(english_text, max_retries=3):
                 OLLAMA_URL,
                 data=data,
                 headers={"Content-Type": "application/json"},
-                method="POST"
+                method="POST",
             )
             with urllib.request.urlopen(req, timeout=120) as response:
                 res_data = json.loads(response.read().decode("utf-8"))
-                vietnamese_text = res_data["message"]["content"].strip()
-
-                # Strip hallucinated wrapper quotes
+                result = res_data["message"]["content"].strip()
                 for q in ('"', "'"):
-                    if (vietnamese_text.startswith(q) and vietnamese_text.endswith(q)
+                    if (result.startswith(q) and result.endswith(q)
                             and not (english_text.startswith(q) and english_text.endswith(q))):
-                        vietnamese_text = vietnamese_text[1:-1].strip()
-
-                return vietnamese_text
-
+                        result = result[1:-1].strip()
+                return result
         except urllib.error.URLError as e:
-            print(f"\n[WARNING] Attempt {attempt}/{max_retries} failed: {e}")
+            print(f"\n[WARNING] Ollama attempt {attempt}/{max_retries}: {e}")
             if attempt < max_retries:
                 time.sleep(2)
         except (KeyError, json.JSONDecodeError) as e:
-            print(f"\n[ERROR] Unexpected response from Ollama: {e}")
+            print(f"\n[ERROR] Unexpected Ollama response: {e}")
             return None
 
-    print(f"\n[ERROR] All {max_retries} attempts failed for: {repr(english_text)}")
+    print(f"\n[ERROR] All Ollama attempts failed for: {repr(english_text)}")
     return None
+
+
+# ── Unified dispatcher ────────────────────────────────────────────────────────
+
+def check_api_status():
+    """Check whichever provider is selected. Returns model name or None."""
+    if PROVIDER == "nvidia":
+        return check_nvidia_status()
+    return check_ollama_status()
+
+
+def translate_text(english_text):
+    """Translate using the active provider."""
+    if PROVIDER == "nvidia":
+        return translate_text_nvidia(english_text)
+    return translate_text_ollama(english_text)
 
 import re
 
@@ -204,12 +291,13 @@ def main():
     # 1. Backup original files
     backup_original_files()
     
-    # 2. Check Ollama
-    chosen_model = check_ollama_status()
+    # 2. Check API connection
+    chosen_model = check_api_status()
     if not chosen_model:
-        print("Please start Ollama and make sure a model is available.")
-        print("Run: ollama serve")
-        print("     ollama pull qwen2.5:7b")
+        if PROVIDER == "nvidia":
+            print("Check your NVIDIA API key and network connection.")
+        else:
+            print("Please start Ollama:  ollama serve")
         return
 
     print(f"Translating with model: {chosen_model}")

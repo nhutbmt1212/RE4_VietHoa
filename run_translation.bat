@@ -3,12 +3,12 @@ title RE4 Translation Tool
 setlocal enabledelayedexpansion
 
 echo ============================================================
-echo          RE4 REMAKE - OLLAMA & NVIDIA TRANSLATION RUNNER
+echo          RE4 REMAKE - OLLAMA AND NVIDIA TRANSLATION RUNNER
 echo ============================================================
 echo.
 echo Select Translation Mode:
 echo  [1] Local AI (Ollama - gemma3:12b)
-echo  [2] Cloud AI (NVIDIA NIM API - Llama 3.3 70B [Free & High Quality])
+echo  [2] Cloud AI (NVIDIA NIM API - Llama 3.3 70B [Free and High Quality])
 echo.
 set /p CHOICE="Enter your choice (1 or 2): "
 

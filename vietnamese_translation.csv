@@ -1,45 +1,45 @@
 ﻿File Path,Entry Name,Entry Index,English,Vietnamese
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3000_10_000,0,Glasses (Rectangle),
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3001_10_000,2,Glasses (Windsor),
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3002_10_000,4,Glasses (Round),
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3100_10_000,6,Sunglasses (Windsor),
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3101_10_000,8,Sunglasses (Oversized),
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3102_10_000,10,Sunglasses (Browline),
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3200_10_000,12,Face Paint,
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3300_10_000,14,Countess Set,
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3400_10_000,16,Cute Bear Earring,
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3000_10_000,0,Glasses (Rectangle),Kính (Hình chữ nhật)
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3001_10_000,2,Glasses (Windsor),Kính (Windsor)
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3002_10_000,4,Glasses (Round),Kính (Tròn)
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3100_10_000,6,Sunglasses (Windsor),Kính râm (Windsor)
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3101_10_000,8,Sunglasses (Oversized),Kính râm (Quá khổ)
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3102_10_000,10,Sunglasses (Browline),Kính râm (Browline)
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3200_10_000,12,Face Paint,Sơn mặt
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3300_10_000,14,Countess Set,Bộ Nữ Bá Tước
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3400_10_000,16,Cute Bear Earring,Bông tai gấu dễ thương
 natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3500_20_000,18,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Accessory_Name_ac3500_20_000,
 natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Caption_ac3500_20_000,19,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Accessory_Caption_ac3500_20_000,
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3600_30_000,20,Hair Color (Blonde),
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3601_30_000,22,Hair Color (Green),
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3600_30_000,20,Hair Color (Blonde),Màu tóc (Vàng)
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3601_30_000,22,Hair Color (Green),Màu tóc (Xanh)
 natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3602_30_000,24,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Accessory_Name_ac3602_30_000,
 natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Caption_ac3602_30_000,25,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Accessory_Caption_ac3602_30_000,
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3700_10_000,26,Chicken Hat,
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3700_10_000,26,Chicken Hat,Mũ gà
 natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Caption_ac3700_10_000,27,<REF CH_Mes_Main_StatusEffectID_00_100_020_0>,
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3800_20_000,28,Wolf Set,
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3800_20_000,28,Wolf Set,Bộ sói
 natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Caption_ac3800_20_000,29,<REF CH_Mes_Main_StatusEffectID_00_100_010_0>,
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3900_10_000,30,Cat Set,
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac3900_10_000,30,Cat Set,Bộ mèo
 natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Caption_ac3900_10_000,31,<REF CH_Mes_Main_StatusEffectID_00_100_000_0>,
-natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac4000_10_000,32,Bear Hat,
+natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Name_ac4000_10_000,32,Bear Hat,Mũ gấu
 natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22,AO_Mes_Main_Accessory_Caption_ac4000_10_000,33,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Accessory_Caption_ac4000_10_000,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp11.msg.22,AO_Mes_Main_CamDemo_Vo_cp11_0001,0,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp11_0001,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp11.msg.22,AO_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha200,1,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp11_0001_0010_cha200,
-natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp11.msg.22,AO_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha200,3,Saddler... The leader of the cult.,
+natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp11.msg.22,AO_Mes_Main_CamDemo_Vo_cp11_0002_0010_cha200,3,Saddler... The leader of the cult.,Saddler... Kẻ cầm đầu giáo phái.
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0001,0,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0001,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0001_0010_cha200,1,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0001_0010_cha200,
-natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0002_0010_cha200,3,I think I'll pass.,
-natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0003_0010_cha200,5,Rotten.,
-natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0004_0010_cha200,7,Burning flesh... I thought I'd left that life behind.,
+natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0002_0010_cha200,3,I think I'll pass.,Tôi nghĩ tôi sẽ bỏ qua.
+natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0003_0010_cha200,5,Rotten.,Mục nát.
+natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0004_0010_cha200,7,Burning flesh... I thought I'd left that life behind.,Mùi thịt cháy... Tôi tưởng mình đã bỏ lại cuộc sống đó.
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0005,8,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0005,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0005_0010_cha200,9,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0005_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0006,10,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0006,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0006_0010_cha200,11,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0006_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0007,12,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0007,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0007_0010_cha200,13,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0007_0010_cha200,
-natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0008_0010_cha200,15,At least their holy book looks interesting.,
+natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0008_0010_cha200,15,At least their holy book looks interesting.,Ít nhất thì cuốn sách thánh của chúng trông cũng thú vị.
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0009,16,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0009,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0009_0010_cha200,17,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0009_0010_cha200,
-natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0010_0010_cha200,19,"Fly, my pretty.",
+natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0010_0010_cha200,19,"Fly, my pretty.","Bay đi, cưng ơi."
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0011,20,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0011,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0011_0010_cha200,21,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0011_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0012,22,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0012,
@@ -54,14 +54,14 @@ natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.m
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0016_0010_cha200,31,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0016_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0017,32,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0017,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0017_0010_cha200,33,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0017_0010_cha200,
-natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0018_0010_cha200,35,Did Luis do this?,
+natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0018_0010_cha200,35,Did Luis do this?,Luis làm cái này à?
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0019,36,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0019,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0019_0010_cha200,37,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0019_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0020,38,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0020,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0020_0010_cha200,39,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0020_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0021,40,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0021,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0021_0010_cha200,41,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp21_0021_0010_cha200,
-natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0022_0010_cha200,43,This could use some cleaning.,
+natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22,AO_Mes_Main_CamDemo_Vo_cp21_0022_0010_cha200,43,This could use some cleaning.,Cái này cần được lau dọn.
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp22.msg.22,AO_Mes_Main_CamDemo_Vo_cp22_0001,0,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp22_0001,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp22.msg.22,AO_Mes_Main_CamDemo_Vo_cp22_0001_0010_cha200,1,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp22_0001_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp22.msg.22,AO_Mes_Main_CamDemo_Vo_cp22_0002,2,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp22_0002,
@@ -86,12 +86,12 @@ natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp22.m
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp22.msg.22,AO_Mes_Main_CamDemo_Vo_cp22_0011_0010_cha200,21,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp22_0011_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp22.msg.22,AO_Mes_Main_CamDemo_Vo_cp22_0012,22,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp22_0012,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp22.msg.22,AO_Mes_Main_CamDemo_Vo_cp22_0012_0010_cha200,23,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp22_0012_0010_cha200,
-natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp22.msg.22,AO_Mes_Main_CamDemo_Vo_cp22_0013_0010_cha200,25,I don't need it that bad.,
+natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp22.msg.22,AO_Mes_Main_CamDemo_Vo_cp22_0013_0010_cha200,25,I don't need it that bad.,Tôi không cần nó đến thế.
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp22.msg.22,AO_Mes_Main_CamDemo_Vo_cp22_0014,26,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp22_0014,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp22.msg.22,AO_Mes_Main_CamDemo_Vo_cp22_0014_0010_cha200,27,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp22_0014_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp22.msg.22,AO_Mes_Main_CamDemo_Vo_cp22_0015,28,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp22_0015,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp22.msg.22,AO_Mes_Main_CamDemo_Vo_cp22_0015_0010_cha200,29,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp22_0015_0010_cha200,
-natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp31.msg.22,AO_Mes_Main_CamDemo_Vo_cp31_0011_0010_cha200,1,"Hm, a raccoon. Guess this is fate.",
+natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp31.msg.22,AO_Mes_Main_CamDemo_Vo_cp31_0011_0010_cha200,1,"Hm, a raccoon. Guess this is fate.","Hừm, một con gấu mèo. Chắc là số phận rồi."
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp31.msg.22,AO_Mes_Main_CamDemo_Vo_cp31_0001,2,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp31_0001,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp31.msg.22,AO_Mes_Main_CamDemo_Vo_cp31_0001_0010_cha200,3,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp31_0001_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp31.msg.22,AO_Mes_Main_CamDemo_Vo_cp31_0002,4,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_CamDemo_Vo_cp31_0002,
@@ -117,8 +117,8 @@ natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0001_0020_cha200,2,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0001_0020_cha200,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0002,3,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0002,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0002_0010_cha200,4,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0002_0010_cha200,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0003_0010_cha200,6,That's where I need to go.,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0003_0030_cha600,7,Stick to the high ground. You have the means.,
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0003_0010_cha200,6,That's where I need to go.,Đó là nơi tôi cần đến.
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0003_0030_cha600,7,Stick to the high ground. You have the means.,Hãy đi trên cao. Em có cách mà.
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0003_0020_cha600,8,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0003_0020_cha600,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0004,9,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0004,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0004_0010_cha200,10,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0004_0010_cha200,
@@ -136,16 +136,16 @@ natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0010_0010_cha200,23,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0010_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0011,24,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0011,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0011_0010_cha200,25,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0011_0010_cha200,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0012_0010_cha200,27,That looks dangerous. Better tread carefully.,
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0012_0010_cha200,27,That looks dangerous. Better tread carefully.,Trông nguy hiểm đấy. Tốt hơn nên đi cẩn thận.
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0013,28,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0013,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0013_0010_cha200,29,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0013_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0013_0020_cha200,30,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0013_0020_cha200,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0014,31,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0014,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0014_0010_cha200,32,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0014_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0014_0020_cha200,33,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp01_0014_0020_cha200,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0015_0010_cha200,35,I wonder what that is.,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp41.msg.22,AO_Mes_Main_Bino_cp41_0002_0010_cha200,1,A radio tower. That's where I need to go.,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp41.msg.22,AO_Mes_Main_Bino_cp41_0008_0010_cha200,3,The area's well guarded. I need to be careful.,
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22,AO_Mes_Main_Bino_cp01_0015_0010_cha200,35,I wonder what that is.,Không biết đó là gì nhỉ.
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp41.msg.22,AO_Mes_Main_Bino_cp41_0002_0010_cha200,1,A radio tower. That's where I need to go.,Một tháp radio. Đó là nơi tôi cần đến.
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp41.msg.22,AO_Mes_Main_Bino_cp41_0008_0010_cha200,3,The area's well guarded. I need to be careful.,Khu vực này được canh gác cẩn mật. Tôi cần phải cẩn thận.
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp41.msg.22,AO_Mes_Main_Bino_cp41_0001,4,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp41_0001,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp41.msg.22,AO_Mes_Main_Bino_cp41_0001_0010_cha200,5,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp41_0001_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp41.msg.22,AO_Mes_Main_Bino_cp41_0003,6,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp41_0003,
@@ -160,32 +160,34 @@ natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp41.msg.22,AO_
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp41.msg.22,AO_Mes_Main_Bino_cp41_0007_0010_cha200,15,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp41_0007_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp51.msg.22,AO_Mes_Main_Bino_cp51_0001,0,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp51_0001,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp51.msg.22,AO_Mes_Main_Bino_cp51_0001_0010_cha200,1,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp51_0001_0010_cha200,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp51.msg.22,AO_Mes_Main_Bino_cp51_0004_0010_cha200,3,Just what I was looking for.,
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp51.msg.22,AO_Mes_Main_Bino_cp51_0004_0010_cha200,3,Just what I was looking for.,Đúng thứ tôi đang tìm.
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp51.msg.22,AO_Mes_Main_Bino_cp51_0002,4,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp51_0002,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp51.msg.22,AO_Mes_Main_Bino_cp51_0002_0010_cha200,5,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp51_0002_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp51.msg.22,AO_Mes_Main_Bino_cp51_0003,6,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp51_0003,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp51.msg.22,AO_Mes_Main_Bino_cp51_0003_0010_cha200,7,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Bino_cp51_0003_0010_cha200,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0012_0010_cha300,1,And here we go. This way.,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0012_0020_cha200,2,Is it close?,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0012_0030_cha300,3,Not exactly. But it's safe.,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0012_0040_cha200,4,"No Amber, no deal. You know the terms.",
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0012_0010_cha300,1,And here we go. This way.,Và đi thôi. Lối này.
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0012_0020_cha200,2,Is it close?,Có gần không?
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0012_0030_cha300,3,Not exactly. But it's safe.,Không hẳn. Nhưng nó an toàn.
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0012_0040_cha200,4,"No Amber, no deal. You know the terms.","Không có Hổ Phách, không có thỏa thuận. Anh biết điều kiện mà."
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0012_0050_cha300,5,"We're good. We're good.
-What do you want with it anyway?",
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0012_0060_cha200,6,I don't know...yet.,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0020_0010_cha200,8,"Ah, my eyes... What's—?",
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0022_0010_cha200,10,Is this all in my head?,
+What do you want with it anyway?","Chúng ta ổn rồi. Chúng ta ổn rồi.
+Cô muốn làm gì với nó?"
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0012_0060_cha200,6,I don't know...yet.,Tôi không biết... chưa.
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0020_0010_cha200,8,"Ah, my eyes... What's—?","Ah, mắt tôi... Cái gì—?"
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0022_0010_cha200,10,Is this all in my head?,Có phải tất cả chỉ trong đầu tôi không?
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0024,11,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Conv_cp01_0024,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0024_0010_cha200,12,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Conv_cp01_0024_0010_cha200,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0025,13,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Conv_cp01_0025,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0025_0010_cha200,14,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Conv_cp01_0025_0010_cha200,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0026_0010_cha200,16,Found you.,
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0026_0010_cha200,16,Found you.,Tìm thấy rồi.
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0027,17,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Conv_cp01_0027,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0027_0010_cha200,18,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Conv_cp01_0027_0010_cha200,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0028_0010_cha200,20,Wrong way.,
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0005_0010_cha200,22,And stay gone.,
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0028_0010_cha200,20,Wrong way.,Sai đường rồi.
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0005_0010_cha200,22,And stay gone.,Và đừng quay lại.
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0007_0010_cha600,24,"And don't forget your mission: the Amber.
-Nothing else matters.",
-natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0007_0020_cha600,25,Wrap this little tour up and bring it to me.,
+Nothing else matters.","Và đừng quên nhiệm vụ của anh: Hổ Phách.
+Không gì khác quan trọng."
+natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0007_0020_cha600,25,Wrap this little tour up and bring it to me.,Kết thúc chuyến tham quan nho nhỏ này và mang nó đến cho tôi.
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0010_0010_cha200,27,Understood. But maybe a little sightseeing first?,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0008,28,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Conv_cp01_0008,
 natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22,AO_Mes_Main_Conv_cp01_0008_0010_cha200,29,<COLOR FF0000>#Rejected#</COLOR> AO_Mes_Main_Conv_cp01_0008_0010_cha200,
