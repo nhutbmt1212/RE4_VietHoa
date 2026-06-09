@@ -62,19 +62,21 @@ def main():
         target_json = target_msg + ".json"
         os.makedirs(os.path.dirname(target_msg), exist_ok=True)
 
-        with open(original_json, "r", encoding="utf-8") as f:
+        with open(original_json, "r", encoding="utf-8-sig") as f:
             data = json.load(f)
 
         for idx, viet_text in edits:
             if idx < len(data["entries"]):
                 content = data["entries"][idx]["content"]
-                # Replace ALL non-empty slots so game picks it up regardless of active language
+                # Always overwrite slot 1 (English) so game picks it up even if
+                # the English slot was empty. Also overwrite all other non-empty
+                # slots so every language gets the Vietnamese text.
                 for i in range(len(content)):
-                    if content[i].strip():
+                    if content[i].strip() or i == 1:
                         content[i] = viet_text
 
 
-        with open(target_json, "w", encoding="utf-8") as f:
+        with open(target_json, "w", encoding="utf-8-sig") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
 
         shutil.copy2(original_msg, target_msg)
@@ -118,6 +120,14 @@ def main():
         if res.returncode == 0:
             print("PAK patch installed to game successfully!")
             print(f"  -> {pak_output}")
+
+            # 4. Deploy ALL loose files directly to game directory
+            print("\nDeploying ALL translated loose files directly to game directory...")
+            try:
+                shutil.copytree(mod_dir, game_dir, dirs_exist_ok=True)
+                print(f"Successfully copied all loose files to {game_dir}")
+            except Exception as e:
+                print(f"Error copying loose files: {e}")
         else:
             print("Error building PAK patch.")
 

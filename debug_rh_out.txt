@@ -1,0 +1,13 @@
+﻿Original ch_mes_main_sys_common size: 200958 bytes
+Our hash (with /): 7CAEFB85040CABA0
+Our hash (no /):   A75BE834384D0CAC
+
+Main PAK size: 57,777,147,068 bytes
+Main PAK: magic=b'KPKA' version=00080004 files=142124 fp=36CB8ABB
+Entry table: 142124 entries
+Data starts at: 6,821,968
+
+Searching for decompressed_size == 200958...
+  Scanned 100,000/142,124... candidates so far: 0
+Found 0 candidates with decompressed_size=200958
+

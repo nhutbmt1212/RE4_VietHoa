@@ -269,10 +269,14 @@ def build_pak(src_folder: str, output_pak: str):
     PAK_FINGERPRINT = 0xDEC0ADDE
     ENTRY_SIZE      = 48  # bytes per entry
 
-    # Collect files
+    # Collect files — only pack valid game asset files (exclude .json, .new, .edited, etc.)
+    EXCLUDE_EXTENSIONS = {'.json', '.new', '.edited', '.bak', '.tmp'}
     all_files = []
     for root, _, files in os.walk(src_folder):
         for fname in files:
+            _, ext = os.path.splitext(fname)
+            if ext.lower() in EXCLUDE_EXTENSIONS:
+                continue
             full = os.path.join(root, fname)
             rel  = os.path.relpath(full, src_folder).replace('\\', '/')
             all_files.append((rel, full))
@@ -285,7 +289,6 @@ def build_pak(src_folder: str, output_pak: str):
 
     HEADER_SIZE = 16
     data_start  = HEADER_SIZE + total * ENTRY_SIZE
-    current_offset = data_start
 
     for rel_path, full_path in all_files:
         raw = open(full_path, 'rb').read()
@@ -307,7 +310,7 @@ def build_pak(src_folder: str, output_pak: str):
 
         entry = {
             'hash_name':        hash_name,
-            'offset':           current_offset,
+            'offset':           0,          # placeholder — set after sort
             'compressed_size':  len(compressed),
             'decompressed_size':len(raw),
             'attributes':       attr,
@@ -315,12 +318,19 @@ def build_pak(src_folder: str, output_pak: str):
         }
         entries.append(entry)
         file_data_blobs.append(compressed)
-        current_offset += len(compressed)
 
         print(f"  [PACK] {virtual_path}  ({len(raw)} -> {len(compressed)} bytes)")
 
-    # Sort entry table by hash_name (ascending)
+    # Sort entry table by hash_name (ascending) — RE Engine requires sorted table
     combined = sorted(zip(entries, file_data_blobs), key=lambda x: x[0]['hash_name'])
+
+    # FIX: Calculate offsets AFTER sorting so each entry matches the actual
+    # position of its blob in the output file (blob order follows sorted order).
+    current_offset = data_start
+    for entry, blob in combined:
+        entry['offset'] = current_offset
+        current_offset += len(blob)
+
     entries_sorted = [c[0] for c in combined]
 
     with open(output_pak, 'wb') as f:
@@ -333,7 +343,7 @@ def build_pak(src_folder: str, output_pak: str):
         # Entry table placeholder (will seek back and fill)
         f.write(b'\x00' * (total * ENTRY_SIZE))
 
-        # File data (in order of collection, NOT sorted)
+        # File data written in sorted order — matches the recalculated offsets
         for _, blob in combined:
             f.write(blob)
 

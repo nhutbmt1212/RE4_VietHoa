@@ -1,0 +1,28 @@
+﻿Extracted: 118136 bytes, magic=16000000
+
+Searching for encrypted strings...
+  Plaintext 'ASSISTED' UTF-16LE: 410053005300490053005400450044000000
+  'ASSISTED' NOT found (wrong encrypt algorithm?)
+
+Trying full file decrypt...
+  After full decrypt:
+    'ASSISTED' at: -1
+    '─É╞»ß╗óC Hß╗û TRß╗ó' at: 118058
+
+MSG22 header bytes:
+  [  0] 16000000 = 22
+  [  4] 474d5347 = 1196641607
+  [  8] 10000000 = 16
+  [ 12] 00000000 = 0
+  [ 16] f7000000 = 247
+  [ 20] 00000000 = 0
+  [ 24] 21000000 = 33
+  [ 28] 00000000 = 0
+  [ 32] e02d0100 = 77280
+  [ 36] 00000000 = 0
+  [ 40] 00080000 = 2048
+  [ 44] 00000000 = 0
+  [ 48] 08080000 = 2056
+  [ 52] 00000000 = 0
+  [ 56] 90080000 = 2192
+  [ 60] 00000000 = 0

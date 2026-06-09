@@ -1,0 +1,34 @@
+﻿Reading PAK_006 entries...
+PAK_006: 508 files indexed
+
+  [NO MATCH in PAK] cs_dinnextslabpro-light.oft.1
+  [NO MATCH in PAK] cs_dinnextw1g-regular.oft.1
+  [NO MATCH in PAK] cs_helveticaltpro-ultcomp.oft.1
+  [NO MATCH in PAK] cs_helveticaneueltw1g-cn.oft.1
+  [NO MATCH in PAK] cs_helveticaneueltw1g-mdcn.oft.1
+  [NO MATCH in PAK] cs_helveticaneueltw1g-roman.oft.1
+  [NO MATCH in PAK] cs_neuehelveticapro-69cmmd.oft.1
+Loose files with PAK match: 18
+
+  [DEPLOYED] dev1_term_account.msg.22 (19,668 bytes)
+  [DEPLOYED] dev1_term_error.msg.22 (6,686 bytes)
+  [DEPLOYED] dev1_term_gameover.msg.22 (4,422 bytes)
+  [DEPLOYED] dev1_term_graphicsetting.msg.22 (95,522 bytes)
+  [DEPLOYED] dev1_term_hud.msg.22 (68,172 bytes)
+  [DEPLOYED] dev1_term_inventory.msg.22 (16,272 bytes)
+  [DEPLOYED] dev1_term_menu.msg.22 (168,400 bytes)
+  [DEPLOYED] dev1_term_network.msg.22 (8,174 bytes)
+  [DEPLOYED] dev1_term_pcoption.msg.22 (41,738 bytes)
+  [DEPLOYED] dev1_term_photomode.msg.22 (37,844 bytes)
+  [DEPLOYED] dev1_term_renet.msg.22 (18,664 bytes)
+  [DEPLOYED] dev1_term_saveload.msg.22 (53,982 bytes)
+  [DEPLOYED] dev1_term_sound.msg.22 (9,042 bytes)
+  [DEPLOYED] dev1_term_startup.msg.22 (3,936 bytes)
+  [DEPLOYED] dev1_term_storeanddlc.msg.22 (27,734 bytes)
+  [DEPLOYED] dev1_term_zz_other.msg.22 (19,842 bytes)
+  [DEPLOYED] ch_mes_main_sys_bonus.msg.22 (294,722 bytes)
+  [DEPLOYED] ch_mes_main_sys_mainmenu.msg.22 (55,182 bytes)
+
+Total deployed: 18/18
+
+H├úy khß╗ƒi ─æß╗Öng lß║íi game ─æß╗â kiß╗âm tra!

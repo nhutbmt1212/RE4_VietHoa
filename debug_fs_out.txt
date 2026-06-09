@@ -1,0 +1,708 @@
+﻿=== Dev1_Term_Menu_MainMenu_QuitGame trong dev1_term_menu ===
+  idx=42 name=Dev1_Term_Menu_StartMenu_MainMenu
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_Ma
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_Ma
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_Ma
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_Ma
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_Ma
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_Ma
+
+  idx=43 name=Dev1_Term_Menu_MainMenu_Pause_01
+    slot[0]=PAUSE
+    slot[1]=Paused
+    slot[2]=Pause
+    slot[3]=In pausa
+    slot[4]=Pause
+    slot[5]=Pausa
+
+  idx=44 name=Dev1_Term_Menu_MainMenu_Pause_02
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pau
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pau
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pau
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pau
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pau
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pau
+
+  idx=45 name=Dev1_Term_Menu_MainMenu_Restart
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+
+  idx=46 name=Dev1_Term_Menu_MainMenu_Restart_Desc_01
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+
+  idx=47 name=Dev1_Term_Menu_MainMenu_Restart_Desc_02
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+
+  idx=48 name=Dev1_Term_Menu_MainMenu_Restart_Confirm
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Res
+
+  idx=49 name=Dev1_Term_Menu_MainMenu_Options
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Opt
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Opt
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Opt
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Opt
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Opt
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Opt
+
+  idx=50 name=Dev1_Term_Menu_MainMenu_Options_Desc
+    slot[0]=πé▓πâ╝πâáπü«σÉäτ¿«Φ¿¡σ«ÜπéÆΦíîπüäπü╛πüÖ
+    slot[1]=Change game settings.
+    slot[2]=Modifier divers param├¿tres.
+    slot[3]=Modifica le impostazioni di gioco.
+    slot[4]=Spieleinstellungen vornehmen.
+    slot[5]=Ajusta las opciones del juego.
+
+  idx=51 name=Dev1_Term_Menu_MainMenu_ControllerSetting
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Con
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Con
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Con
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Con
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Con
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Con
+
+  idx=52 name=Dev1_Term_Menu_MainMenu_ControllerSetting_Desc
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Con
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Con
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Con
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Con
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Con
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Con
+
+  idx=53 name=Dev1_Term_Menu_MainMenu_Record
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+
+  idx=54 name=Dev1_Term_Menu_MainMenu_Record_Desc
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+
+  idx=55 name=Dev1_Term_Menu_MainMenu_Record_Challenge
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+
+  idx=56 name=Dev1_Term_Menu_MainMenu_Record_Reward
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+
+  idx=57 name=Dev1_Term_Menu_MainMenu_Record_CurrentCP
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+
+  idx=58 name=Dev1_Term_Menu_MainMenu_Record_Completed
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+
+  idx=59 name=Dev1_Term_Menu_MainMenu_Record_NotCompleted
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+
+  idx=60 name=Dev1_Term_Menu_MainMenu_Record_Total
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+
+  idx=61 name=Dev1_Term_Menu_MainMenu_Record_Used
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+
+  idx=62 name=Dev1_Term_Menu_MainMenu_Record_PersonalBest
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Rec
+
+  idx=63 name=Dev1_Term_Menu_MainMenu_PhotoMode
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pho
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pho
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pho
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pho
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pho
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pho
+
+  idx=64 name=Dev1_Term_Menu_MainMenu_PhotoMode_Desc
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pho
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pho
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pho
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pho
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pho
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Pho
+
+  idx=65 name=Dev1_Term_Menu_MainMenu_QuitGame
+    slot[0]=QUIT GAME
+    slot[1]=QUIT GAME
+    slot[2]=QUITTER
+    slot[3]=ESCI DAL GIOCO
+    slot[4]=SPIEL BEENDEN
+    slot[5]=SALIR
+
+  idx=66 name=Dev1_Term_Menu_MainMenu_QuitGame_Desc
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+
+  idx=67 name=Dev1_Term_Menu_MainMenu_QuitGame_Confirm_01
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+
+  idx=68 name=Dev1_Term_Menu_MainMenu_QuitGame_Confirm_02
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Qui
+
+  idx=69 name=Dev1_Term_Menu_MainMenu_Skip
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+
+  idx=70 name=Dev1_Term_Menu_MainMenu_Skip_Desc_01
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+
+  idx=71 name=Dev1_Term_Menu_MainMenu_Skip_Desc_02
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ski
+
+  idx=72 name=Dev1_Term_Menu_MainMenu_Retry
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+
+  idx=73 name=Dev1_Term_Menu_MainMenu_Retry_Desc
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+
+  idx=74 name=Dev1_Term_Menu_MainMenu_Retry_Confirm
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_MainMenu_Ret
+
+
+=== T├¼m 'SEPARATE WAYS' trong Tß║ñT Cß║ó JSON files ===
+  EXACT MATCH: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+    idx=0 slot[0] name=AO_Mes_Main_Sys_Bonus_Record_Category00
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+    idx=0 slot[1] name=AO_Mes_Main_Sys_Bonus_Record_Category00
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+    idx=0 slot[4] name=AO_Mes_Main_Sys_Bonus_Record_Category00
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+    idx=0 slot[7] name=AO_Mes_Main_Sys_Bonus_Record_Category00
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+    idx=102 slot[0] name=AO_Mes_Main_Sys_Bonus_ContentsCategory_00
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+    idx=102 slot[1] name=AO_Mes_Main_Sys_Bonus_ContentsCategory_00
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+    idx=102 slot[4] name=AO_Mes_Main_Sys_Bonus_ContentsCategory_00
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+    idx=102 slot[7] name=AO_Mes_Main_Sys_Bonus_ContentsCategory_00
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22.json
+    idx=0 slot[0] name=AO_Mes_Main_Sys_MainMenu_GameTitle
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22.json
+    idx=0 slot[1] name=AO_Mes_Main_Sys_MainMenu_GameTitle
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22.json
+    idx=0 slot[4] name=AO_Mes_Main_Sys_MainMenu_GameTitle
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22.json
+    idx=0 slot[7] name=AO_Mes_Main_Sys_MainMenu_GameTitle
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_chainsaw\message\mes_develop_misc\ch_mes_develop_ao.msg.22.json
+    idx=0 slot[0] name=Mes_Develop_AO_GameTitle
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=CHEMINS S├ëPAR├ëS
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_chainsaw\message\mes_develop_misc\ch_mes_develop_ao.msg.22.json
+    idx=0 slot[1] name=Mes_Develop_AO_GameTitle
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=CHEMINS S├ëPAR├ëS
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_chainsaw\message\mes_develop_misc\ch_mes_develop_ao.msg.22.json
+    idx=0 slot[4] name=Mes_Develop_AO_GameTitle
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=CHEMINS S├ëPAR├ëS
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_chainsaw\message\tu\mes_tu0003_sys.msg.22.json
+    idx=5 slot[0] name=CH_Mes_TU0003_Sys_MainMenu
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_chainsaw\message\tu\mes_tu0003_sys.msg.22.json
+    idx=5 slot[1] name=CH_Mes_TU0003_Sys_MainMenu
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_chainsaw\message\tu\mes_tu0003_sys.msg.22.json
+    idx=5 slot[4] name=CH_Mes_TU0003_Sys_MainMenu
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+  EXACT MATCH: natives\stm\_chainsaw\message\tu\mes_tu0003_sys.msg.22.json
+    idx=5 slot[7] name=CH_Mes_TU0003_Sys_MainMenu
+      slot[0]=SEPARATE WAYS
+      slot[1]=SEPARATE WAYS
+      slot[2]=UNE AUTRE VOIE
+      slot[3]=STRADE DIVERSE
+      slot[4]=SEPARATE WAYS
+      slot[5]=CAMINOS DISTINTOS
+
+
+=== T├¼m 'THE MERCENARIES' trong Tß║ñT Cß║ó JSON files ===
+  EXACT MATCH: natives\stm\_chainsaw\message\mes_develop_misc\ch_mes_develop_ao.msg.22.json
+    idx=2 slot[1] name=Mes_Develop_AO_GameTitle_MS_Temp
+      slot[0]=MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_chainsaw\message\mes_develop_misc\ch_mes_develop_ao.msg.22.json
+    idx=2 slot[4] name=Mes_Develop_AO_GameTitle_MS_Temp
+      slot[0]=MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_chainsaw\message\tu\mes_tu0002_sys.msg.22.json
+    idx=5 slot[0] name=CH_Mes_TU0002_Sys_MainMenu
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_chainsaw\message\tu\mes_tu0002_sys.msg.22.json
+    idx=5 slot[1] name=CH_Mes_TU0002_Sys_MainMenu
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_chainsaw\message\tu\mes_tu0002_sys.msg.22.json
+    idx=5 slot[4] name=CH_Mes_TU0002_Sys_MainMenu
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_chainsaw\message\tu\mes_tu0002_sys.msg.22.json
+    idx=5 slot[6] name=CH_Mes_TU0002_Sys_MainMenu
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_chainsaw\message\tu\mes_tu0002_sys.msg.22.json
+    idx=5 slot[7] name=CH_Mes_TU0002_Sys_MainMenu
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_activity.msg.22.json
+    idx=25 slot[0] name=MC_Mes_Main_Sys_Activity_RichPresence_01
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_activity.msg.22.json
+    idx=25 slot[1] name=MC_Mes_Main_Sys_Activity_RichPresence_01
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_activity.msg.22.json
+    idx=25 slot[4] name=MC_Mes_Main_Sys_Activity_RichPresence_01
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_activity.msg.22.json
+    idx=25 slot[6] name=MC_Mes_Main_Sys_Activity_RichPresence_01
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_activity.msg.22.json
+    idx=25 slot[7] name=MC_Mes_Main_Sys_Activity_RichPresence_01
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_activity.msg.22.json
+    idx=31 slot[0] name=MC_Mes_Main_Sys_Activity_CurrentStatus_0010
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_activity.msg.22.json
+    idx=31 slot[1] name=MC_Mes_Main_Sys_Activity_CurrentStatus_0010
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_activity.msg.22.json
+    idx=31 slot[4] name=MC_Mes_Main_Sys_Activity_CurrentStatus_0010
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_activity.msg.22.json
+    idx=31 slot[6] name=MC_Mes_Main_Sys_Activity_CurrentStatus_0010
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_activity.msg.22.json
+    idx=31 slot[7] name=MC_Mes_Main_Sys_Activity_CurrentStatus_0010
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_activity.msg.22.json
+    idx=32 slot[1] name=MC_Mes_Main_Sys_Activity_CurrentStatus_0020
+      slot[0]=The Mercenaries
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_activity.msg.22.json
+    idx=32 slot[4] name=MC_Mes_Main_Sys_Activity_CurrentStatus_0020
+      slot[0]=The Mercenaries
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_activity.msg.22.json
+    idx=32 slot[6] name=MC_Mes_Main_Sys_Activity_CurrentStatus_0020
+      slot[0]=The Mercenaries
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_activity.msg.22.json
+    idx=32 slot[7] name=MC_Mes_Main_Sys_Activity_CurrentStatus_0020
+      slot[0]=The Mercenaries
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_mainmenu.msg.22.json
+    idx=0 slot[0] name=MC_Mes_Main_Sys_MainMenu_GameTitle
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_mainmenu.msg.22.json
+    idx=0 slot[1] name=MC_Mes_Main_Sys_MainMenu_GameTitle
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_mainmenu.msg.22.json
+    idx=0 slot[4] name=MC_Mes_Main_Sys_MainMenu_GameTitle
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_mainmenu.msg.22.json
+    idx=0 slot[6] name=MC_Mes_Main_Sys_MainMenu_GameTitle
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+  EXACT MATCH: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_mainmenu.msg.22.json
+    idx=0 slot[7] name=MC_Mes_Main_Sys_MainMenu_GameTitle
+      slot[0]=THE MERCENARIES
+      slot[1]=THE MERCENARIES
+      slot[2]=MERCENAIRES
+      slot[3]=MERCENARI
+      slot[4]=THE MERCENARIES
+      slot[5]=MERCENARIOS
+
+
+=== T├¼m 'EXIT' (exact, as mode name) ===
+  natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22.json idx=65 name=Dev1_Term_Menu_MainMenu_QuitGame
+    slot[0]=QUIT GAME
+    slot[1]=QUIT GAME
+    slot[2]=QUITTER
+    slot[3]=ESCI DAL GIOCO
+    slot[4]=SPIEL BEENDEN
+    slot[5]=SALIR
+
+  natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22.json idx=66 name=Dev1_Term_Menu_MainMenu_QuitGame_Desc
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+
+  natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22.json idx=67 name=Dev1_Term_Menu_MainMenu_QuitGame_Confirm_01
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+
+  natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22.json idx=68 name=Dev1_Term_Menu_MainMenu_QuitGame_Confirm_02
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Ma
+

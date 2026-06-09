@@ -1,0 +1,113 @@
+﻿=== PH├éN T├ìCH: Slot n├áo ─æ╞░ß╗úc sß╗¡ dß╗Ñng trong bß║ún mod? ===
+
+Mapping slot -> Language (dß╗▒a theo EXIT entry):
+  slot[ 0] = Japanese
+  slot[ 1] = English
+  slot[ 2] = French
+  slot[ 3] = Italian
+  slot[ 4] = German
+  slot[ 5] = Spanish
+  slot[ 6] = Russian
+  slot[ 7] = Polish
+  slot[ 8] = Dutch?/Czech?
+  slot[ 9] = Unknown
+  slot[10] = Portuguese-BR
+  slot[11] = Korean
+  slot[12] = Traditional Chinese
+  slot[13] = Simplified Chinese
+  slot[14] = Unknown14
+  slot[15] = Unknown15
+  slot[16] = Unknown16
+  slot[17] = Unknown17
+  slot[18] = Unknown18
+  slot[19] = Unknown19
+  slot[20] = Unknown20
+  slot[21] = Arabic
+  slot[22] = Unknown22
+  slot[23] = Unknown23
+  slot[24] = Unknown24
+  slot[25] = Unknown25
+  slot[26] = Unknown26
+  slot[27] = Unknown27
+  slot[28] = Unknown28
+  slot[29] = Unknown29
+  slot[30] = Unknown30
+  slot[31] = Unknown31
+  slot[32] = Latin-American Spanish
+
+=== ─ÉIß╗éM Mß║ñU CHß╗ÉT ===
+Game RE4 Remake KH├öNG c├│ slot tiß║┐ng Viß╗çt ri├¬ng.
+C├ích mod phß╗ò biß║┐n: ghi tiß║┐ng Viß╗çt v├áo slot 1 (English)
+  hoß║╖c v├áo mß╗Öt slot empty ─æß╗â game fallback sang.
+
+ao_mes_main_sys_mainmenu idx=0 'AO_Mes_Main_Sys_MainMenu_GameTitle' content:
+  slot[ 0](Japanese): 'SEPARATE WAYS' <-- Sß║╝ ─É╞»ß╗óC GHI ─É├ê
+  slot[ 1](English): 'SEPARATE WAYS' <-- Sß║╝ ─É╞»ß╗óC GHI ─É├ê
+  slot[ 2](French): 'UNE AUTRE VOIE' <-- Sß║╝ ─É╞»ß╗óC GHI ─É├ê
+  slot[ 3](Italian): 'STRADE DIVERSE' <-- Sß║╝ ─É╞»ß╗óC GHI ─É├ê
+  slot[ 4](German): 'SEPARATE WAYS' <-- Sß║╝ ─É╞»ß╗óC GHI ─É├ê
+  slot[ 5](Spanish): 'CAMINOS DISTINTOS' <-- Sß║╝ ─É╞»ß╗óC GHI ─É├ê
+  slot[ 6](Russian): '╨ö╨Æ╨É ╨ƒ╨ú╨ó╨ÿ' <-- Sß║╝ ─É╞»ß╗óC GHI ─É├ê
+  slot[ 7](Polish): 'SEPARATE WAYS' <-- Sß║╝ ─É╞»ß╗óC GHI ─É├ê
+  slot[ 8](Dutch?/Czech?): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[ 9](Unknown): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[10](Portuguese-BR): 'CAMINHOS DISTINTOS' <-- Sß║╝ ─É╞»ß╗óC GHI ─É├ê
+  slot[11](Korean): '∞ä╕φì╝δáê∞¥┤φè╕ ∞¢¿∞¥┤∞ªê' <-- Sß║╝ ─É╞»ß╗óC GHI ─É├ê
+  slot[12](Traditional Chinese): 'ΘÇåσæ╜µ«èΘÇö' <-- Sß║╝ ─É╞»ß╗óC GHI ─É├ê
+  slot[13](Simplified Chinese): 'ΘÇåσæ╜µ«èΘÇö' <-- Sß║╝ ─É╞»ß╗óC GHI ─É├ê
+  slot[14](Unknown14): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[15](Unknown15): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[16](Unknown16): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[17](Unknown17): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[18](Unknown18): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[19](Unknown19): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[20](Unknown20): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[21](Arabic): '╪º┘ü╪¬╪▒╪º┘é ╪º┘ä╪╖╪▒┘é' <-- Sß║╝ ─É╞»ß╗óC GHI ─É├ê
+  slot[22](Unknown22): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[23](Unknown23): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[24](Unknown24): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[25](Unknown25): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[26](Unknown26): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[27](Unknown27): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[28](Unknown28): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[29](Unknown29): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[30](Unknown30): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[31](Unknown31): (empty) <-- EMPTY (Bß╗Ä QUA)
+  slot[32](Latin-American Spanish): 'CAMINOS SEPARADOS' <-- Sß║╝ ─É╞»ß╗óC GHI ─É├ê
+
+=== Vß║ñN ─Éß╗Ç PH├üT HIß╗åN ===
+Import script ghi ─æ├¿ Tß║ñT Cß║ó slot != empty.
+Vß╗¢i ao_mes_main_sys_mainmenu idx=0 'SEPARATE WAYS':
+  slot[0]='SEPARATE WAYS' -> GHI: 'C├üCH LY'
+  slot[1]='SEPARATE WAYS' -> GHI: 'C├üCH LY'
+  slot[2]='UNE AUTRE VOIE' -> GHI: 'C├üCH LY'
+  ... tß║Ñt cß║ú ng├┤n ngß╗» ─æß╗üu bß╗ï ghi ─æ├¿ th├ánh 'C├üCH LY'
+
+─Éiß╗üu n├áy ─É├ÜNG vß╗ü l├╜ thuyß║┐t.
+Vß║¡y tß║íi sao game vß║½n hiß╗çn 'SEPARATE WAYS'?
+
+=== KIß╗éM TRA PAK: File c├│ nß║▒m trong PAK patch kh├┤ng? ===
+
+ao_mes_main_sys_mainmenu trong CSV: 30 entries
+  File Path: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22
+  Idx: 0, Orig: SEPARATE WAYS
+  Viet: C├üCH LY
+
+  File Path: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22
+  Idx: 1, Orig: CONTINUE
+  Viet: TIß║╛P Tß╗ñC
+
+  File Path: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22
+  Idx: 2, Orig: LOAD GAME
+  Viet: Tß║óI TR├Æ CH╞áI
+
+  File Path: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22
+  Idx: 3, Orig: NEW GAME
+  Viet: TR├Æ CH╞áI Mß╗ÜI
+
+  File Path: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22
+  Idx: 4, Orig: EXIT
+  Viet: THO├üT
+
+─É╞░ß╗¥ng dß║½n thß╗▒c trong extracted_msg:
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22

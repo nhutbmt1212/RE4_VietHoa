@@ -1,0 +1,43 @@
+﻿=== Test compile ch_mes_main_sys_common ===
+msg  exists: True
+json exists: True
+
+Entry 191 TR╞»ß╗ÜC khi sß╗¡a:
+  content[0] = 'ASSISTED'
+  content[1] = 'ASSISTED'
+
+Entry 191 SAU khi sß╗¡a:
+  content[0] = '─É╞»ß╗óC Hß╗û TRß╗ó'
+  content[1] = '─É╞»ß╗óC Hß╗û TRß╗ó'
+
+Compiling with: d:\RE4_VietHoa\tools\REMSG_Converter\src\main.py
+Return code: 0
+STDERR: WARNING:root:Non-printable character in entry CH_Mes_Main_Sys_Common_Money[Arabic]=<ICON MONEY-FIX>\u200f{0}.
+Please use an editor like VS Code to visualize and edit the output text carefully,
+ to avoid issues during import/export with other format.
+WARNING:root:Non-printable character in entry CH_Mes_Main_Sys_Common_Money_Unit[Arabic]=\u200e<RTL>{0} \u0645\u0646 \u0627\u0644\u0628\u064a\u0632\u064a\u062a\u0627\u200e<ICON MONEY-FIX>.
+Please use an editor like VS Code to visualize and edit the ou
+STDOUT: All Done.
+processing:D:\RE4_VietHoa\tmp_test_compile\ch_mes_main_sys_common.msg.22
+
+
+.new file exists: True
+File size: 200788 bytes
+Magic: 16000000
+
+Search in compiled .msg.22:
+  '─É╞»ß╗óC Hß╗û TRß╗ó' (UTF-16-LE): NOT FOUND
+  '─É╞»ß╗óC Hß╗û TRß╗ó' (UTF-8):     NOT FOUND
+  'ASSISTED' (UTF-16-LE):    NOT FOUND
+
+Original msg size: 200958 bytes
+Compiled msg size: 200788 bytes
+  'ASSISTED' in original: NOT FOUND
+
+=== REMSG_Converter info ===
+  HexTool.py
+  main.py
+  REMSG.py
+  REMSGUtil.py
+  REWString.py
+  __pycache__

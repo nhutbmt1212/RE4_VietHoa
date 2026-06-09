@@ -1,0 +1,35 @@
+﻿=== Hash tests ===
+  7CAEFB85040CABA0 : /natives/stm/_chainsaw/message/mes_main_sys/ch_mes_main_sys_common.msg.22
+  00223802BF5B6BB9 : /natives/stm/_chainsaw/message/mes_main_conv/ch_mes_main_conv_cp51.msg.22
+  1B1351150139F31B : /natives/stm/_chainsaw/message/mes_main_sys/ch_mes_main_sys_purpose.msg.22
+  25D3E61BA230692E : \natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_common.msg.22
+
+PAK has 508 entries
+
+First 5 PAK hashes:
+  00223802BF5B6BB9 offset=24400 size=11246/53126
+  007D7DBE7D24C0E7 offset=35646 size=5450/30452
+  01241F7C496A36D6 offset=41096 size=513/1994
+  018CC6AD70E8459C offset=41609 size=1156/2320
+  01FF4CAEC21FE64E offset=42765 size=7011/17128
+
+Last 5 PAK hashes:
+  FD7A78CFBC2F1179 offset=3791919 size=509/1996
+  FD96E9BD3C9AF9AF offset=3792428 size=4116/14134
+  FDCA9DEEFBA5AA9D offset=3796544 size=1835/4134
+  FEF640136740BA79 offset=3798379 size=468/1958
+  FFE6AE806E434373 offset=3798847 size=2096/3510
+
+Data starts at: 24400
+PAK file size: 3,800,943
+Γ£ô All offsets are valid!
+
+Checking sort order...
+Γ£ô Entry table is properly sorted!
+
+Target hash for ch_mes_main_sys_common: 7CAEFB85040CABA0
+Found in PAK: True
+  offset=2002010 size=45875/118136 attr=1
+  First 8 bytes: ecbd0750145db7ef
+  Magic check: b'\xec\xbd\x07P'
+  Decompress error: Error -5 while decompressing data: incomplete or truncated stream

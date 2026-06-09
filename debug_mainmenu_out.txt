@@ -1,0 +1,595 @@
+﻿=== [1] dev1_term_menu.msg.22 ===
+Total entries: 338
+Slots per entry: 33
+First entry slots: ['σê¥σ¢₧Φ¿¡σ«Ü', 'Initial Settings', 'Param├¿tres initiaux', 'Impostazioni iniziali', 'Erste Einstellungen']
+
+--- Entries c├│ chß╗⌐a SEPARATE / MERCENARIES / EXIT ---
+  idx=27 slot=0 name=Dev1_Term_Menu_StartMenu_Exit
+    content=['EXIT', 'Quit', 'Quitter', 'Esci', 'Beenden', 'SALIR', '╨Æ╤ï╨╣╤é╨╕', 'Wyjd┼║', '', '', 'Sair', '∞óàδúî', 'ΘÇÇσç║', 'ΘÇÇσç║µ╕╕µêÅ', '', '', '', '', '', '', '', '┘à╪║╪º╪»╪▒╪⌐', '', '', '', '', '', '', '', '', '', '', '']
+  idx=39 slot=1 name=Dev1_Term_Menu_StartMenu_Exit_Confirm
+    content=['πé▓πâ╝πâáπéÆτ╡éΣ║åπüùπü╛πüÖπüï∩╝ƒ', 'Exit the game?', 'Quitter le jeu ?', 'Uscire dal gioco?', 'Das Spiel verlassen?', '┬┐Quieres salir del juego?', '╨Æ╤ï╨╣╤é╨╕ ╨╕╨╖ ╨╕╨│╤Ç╤ï?', 'Czy chcesz wyj┼¢─ç z gry?', '', '', 'Sair do jogo?', 'Ω▓î∞₧ä∞¥ä ∞óàδúîφòÿ∞ï£Ω▓á∞è╡δïêΩ╣î?', 'µÿ»σÉªτ╡Éµ¥ƒΘüèµê▓∩╝ƒ', 'ΦªüΘÇÇσç║µ╕╕µêÅσÉù∩╝ƒ', '', '', '', '', '', '', '', '╪º┘ä╪«╪▒┘ê╪¼ ┘à┘å ╪º┘ä┘ä╪╣╪¿╪⌐╪ƒ', '', '', '', '', '', '', '', '', '', '', '']
+  idx=231 slot=0 name=Dev1_Term_Menu_Bonus_Mercenaries
+    content=['<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries']
+  idx=232 slot=0 name=Dev1_Term_Menu_Bonus_Mercenaries_Desc
+    content=['<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc', '<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bonus_Mercenaries_Desc']
+
+=== [2] ch_mes_main_sys_mainmenu.msg.22 ===
+Total entries: 107
+Slots per entry: 33
+First entry slots: ['┬⌐CAPCOM CO., LTD. 2005, 2023 ALL RIGHTS RESERVED.', '┬⌐CAPCOM CO., LTD. 2005, 2023 ALL RIGHTS RESERVED.', '┬⌐CAPCOM CO., LTD. 2005, 2023 ALL RIGHTS RESERVED.', '┬⌐CAPCOM CO., LTD. 2005, 2023 ALL RIGHTS RESERVED.', '┬⌐CAPCOM CO., LTD. 2005, 2023 ALL RIGHTS RESERVED.']
+
+--- Entries c├│ chß╗⌐a SEPARATE / MERCENARIES / EXIT ---
+
+=== [3] CSV - t├¼m SEPARATE WAYS / MERCENARIES / EXIT ===
+  [OK] idx=8 file=ao_mes_main_cse570.msg.22
+    Orig: I think we both know this is where
+we go our separate ways.
+    Viet: T├┤i ngh─⌐ cß║ú hai ch├║ng ta ─æß╗üu biß║┐t ─æ├óy l├á n╞íi
+ch├║ng ta ─æi theo con ─æ╞░ß╗¥n
+  [OK] idx=1 file=ao_mes_main_file_627.msg.22
+    Orig: OK! Can't rush! Gotta get the facts down!
+
+First, the test subjects ar
+    Viet: OK! Kh├┤ng thß╗â vß╗Öi v├áng! Phß║úi ghi lß║íi c├íc sß╗▒ kiß╗çn!
+
+Tr╞░ß╗¢c ti├¬n, c├íc ─æß╗æi
+  [OK] idx=38 file=ao_mes_main_sys_activity.msg.22
+    Orig: Head for the Exit
+    Viet: ─Éi ─æß║┐n Lß╗æi ra
+  [OK] idx=0 file=ao_mes_main_sys_bonus.msg.22
+    Orig: SEPARATE WAYS
+    Viet: C├üCH LY
+  [OK] idx=53 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete all challenges for Separate Ways.
+    Viet: Ho├án th├ánh tß║Ñt cß║ú c├íc thß╗¡ th├ích cho Separate Ways.
+  [OK] idx=54 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Chapter 1 of Separate Ways.
+    Viet: Ho├án th├ánh Ch╞░╞íng 1 cß╗ºa Separate Ways.
+  [OK] idx=55 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Chapter 2 of Separate Ways.
+    Viet: Ho├án th├ánh Ch╞░╞íng 2 cß╗ºa Separate Ways.
+  [OK] idx=56 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Chapter 3 of Separate Ways.
+    Viet: Ho├án th├ánh Ch╞░╞íng 3 cß╗ºa Separate Ways.
+  [OK] idx=57 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Chapter 4 of Separate Ways.
+    Viet: Ho├án th├ánh Ch╞░╞íng 4 cß╗ºa Separate Ways.
+  [OK] idx=58 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Chapter 5 of Separate Ways.
+    Viet: Ho├án th├ánh Ch╞░╞íng 5 cß╗ºa Separate Ways.
+  [OK] idx=59 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Chapter 6 of Separate Ways.
+    Viet: Ho├án th├ánh Ch╞░╞íng 6 cß╗ºa Separate Ways.
+  [OK] idx=60 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Chapter 7 of Separate Ways.
+    Viet: Ho├án th├ánh Ch╞░╞íng 7 cß╗ºa Separate Ways.
+  [OK] idx=61 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Perform a grapple gun melee attack in Separate Ways.
+    Viet: Thß╗▒c hiß╗çn mß╗Öt cuß╗Öc tß║Ñn c├┤ng cß║¡n chiß║┐n bß║▒ng s├║ng m├│c ß╗ƒ Separate Ways.
+  [OK] idx=62 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Get the exclusive upgrade for a weapon in Separate Ways.
+    Viet: Nhß║¡n ─æ╞░ß╗úc n├óng cß║Ñp ─æß╗Öc quyß╗ün cho mß╗Öt v┼⌐ kh├¡ ß╗ƒ Separate Ways.
+  [OK] idx=63 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat {0} enemies with a handgun in Separate Ways.
+    Viet: ─É├ính bß║íi {0} kß║╗ th├╣ bß║▒ng s├║ng ngß║»n ß╗ƒ Separate Ways.
+  [OK] idx=64 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat {0} enemies with a shotgun in Separate Ways.
+    Viet: ─É├ính bß║íi {0} kß║╗ th├╣ bß║▒ng s├║ng shotgun ß╗ƒ Separate Ways.
+  [OK] idx=65 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat {0} enemies with a rifle in Separate Ways.
+    Viet: ─É├ính bß║íi {0} kß║╗ th├╣ bß║▒ng s├║ng tr╞░ß╗¥ng ß╗ƒ Separate Ways.
+  [OK] idx=66 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat {0} enemies with a submachine gun in Separate Ways.
+    Viet: ─É├ính bß║íi {0} kß║╗ th├╣ bß║▒ng s├║ng m├íy ß╗ƒ Separate Ways.
+  [OK] idx=67 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat {0} enemies with melee attacks in Separate Ways.
+    Viet: ─É├ính bß║íi {0} kß║╗ th├╣ bß║▒ng tß║Ñn c├┤ng cß║¡n chiß║┐n trong Separate Ways.
+  [OK] idx=68 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat {0} enemies with a knife in Separate Ways.
+    Viet: ─É├ính bß║íi {0} kß║╗ th├╣ bß║▒ng con dao trong Separate Ways.
+  [OK] idx=69 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat {0} enemies with explosives in Separate Ways.
+    Viet: ─É├ính bß║íi {0} kß║╗ th├╣ bß║▒ng chß║Ñt nß╗ò trong Separate Ways.
+  [OK] idx=70 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat {0} enemies with flash grenades in Separate Ways.
+    Viet: ─É├ính bß║íi {0} kß║╗ th├╣ bß║▒ng lß╗▒u ─æß║ín s├íng trong Separate Ways.
+  [OK] idx=71 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat {0} enemies with the Blast Crossbow in Separate Ways.
+    Viet: ─É├ính bß║íi {0} kß║╗ th├╣ bß║▒ng Blast Crossbow trong Separate Ways.
+  [OK] idx=72 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat {0} enemies with grapple gun melee attacks
+in Separate Ways.
+    Viet: ─É├ính bß║íi {0} kß║╗ th├╣ bß║▒ng tß║Ñn c├┤ng cß║¡n chiß║┐n s├║ng m├│c
+trong Separate Wa
+  [OK] idx=73 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat the Black Robe in the village
+square in Separate Ways.
+    Viet: ─É├ính bß║íi ├üo Cho├áng ─Éen ß╗ƒ quß║úng tr╞░ß╗¥ng l├áng
+trong Separate Ways.
+  [OK] idx=74 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat El Gigante in Separate Ways.
+    Viet: ─É├ính bß║íi El Gigante trong Separate Ways.
+  [OK] idx=75 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat Pesanta in Separate Ways.
+    Viet: ─É├ính bß║íi Pesanta trong Separate Ways.
+  [OK] idx=76 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat Osmund Saddler in Separate Ways.
+    Viet: ─É├ính bß║íi Osmund Saddler trong Separate Ways.
+  [OK] idx=77 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Hit at least {0} enemies in a single grapple gun melee
+attack in Separ
+    Viet: ─É├ính tr├║ng ├¡t nhß║Ñt {0} kß║╗ th├╣ trong mß╗Öt cuß╗Öc tß║Ñn c├┤ng cß║¡n chiß║┐n s├║ng m
+  [OK] idx=78 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Chapter 1 of Separate Ways without
+destroying any catapults.
+    Viet: Ho├án th├ánh Ch╞░╞íng 1 cß╗ºa Separate Ways m├á kh├┤ng
+ti├¬u diß╗çt bß║Ñt kß╗│ m├íy ph
+  [OK] idx=79 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat all the ganado heading to the church after
+they've been summone
+    Viet: ─É├ính bß║íi tß║Ñt cß║ú ganado ─æang ─æi ─æß║┐n nh├á thß╗¥ sau khi
+hß╗ì ─æ├ú ─æ╞░ß╗úc triß╗çu tß║¡
+  [OK] idx=80 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Knock off the village chief's hat in Separate Ways.
+    Viet: ─É├ính r╞íi m┼⌐ cß╗ºa tr╞░ß╗ƒng l├áng trong Separate Ways.
+  [OK] idx=81 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Solve the combination lock without reading
+the collection room file in
+    Viet: Giß║úi kh├│a kß║┐t hß╗úp m├á kh├┤ng ─æß╗ìc
+tß║¡p tin ph├▓ng thu thß║¡p trong Separate W
+  [OK] idx=82 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Defeat {0} enemies by crushing them under the
+pounding rocks in Separa
+    Viet: ─É├ính bß║íi {0} kß║╗ th├╣ bß║▒ng c├ích nghiß╗ün n├ít ch├║ng d╞░ß╗¢i nhß╗»ng tß║úng ─æ├í
+─æß║¡p 
+  [OK] idx=83 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete any chapter with {0}%
+accuracy in Separate Ways.
+    Viet: Ho├án th├ánh bß║Ñt kß╗│ ch╞░╞íng n├áo vß╗¢i ─æß╗Ö ch├¡nh x├íc {0}%
+trong Separate Ways
+  [OK] idx=84 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Sell a single treasure for at least
+{0} ptas. in Separate Ways.
+    Viet: B├ín mß╗Öt kho b├íu ─æ╞ín lß║╗ vß╗¢i gi├í ├¡t nhß║Ñt
+{0} ptas. trong Separate Ways.
+  [OK] idx=85 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Increase your maximum health
+to the limit in Separate Ways.
+    Viet: T─âng sß╗⌐c khß╗Åe tß╗æi ─æa cß╗ºa bß║ín
+to giß╗¢i hß║ín trong Separate Ways.
+  [OK] idx=86 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Upgrade the attach├⌐ case to
+the largest size in Separate Ways.
+    Viet: N├óng cß║Ñp vali l├¬n
+k├¡ch th╞░ß╗¢c lß╗¢n nhß║Ñt trong Separate Ways.
+  [OK] idx=87 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Obtain all weapons and weapon parts in Separate Ways.
+    Viet: Thu ─æ╞░ß╗úc tß║Ñt cß║ú v┼⌐ kh├¡ v├á phß╗Ñ kiß╗çn v┼⌐ kh├¡ trong Separate Ways.
+  [OK] idx=88 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete all requests from the Merchant in Separate Ways.
+    Viet: Ho├án th├ánh tß║Ñt cß║ú y├¬u cß║ºu tß╗½ Th╞░╞íng nh├ón trong Separate Ways.
+  [OK] idx=89 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Separate Ways on Standard mode <COL FILE>or higher</COL>.
+    Viet: Ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Standard <COL FILE>hoß║╖c cao h╞ín</
+  [OK] idx=90 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Separate Ways on Standard mode <COL FILE>or higher</COL>
+with
+    Viet: Ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Standard <COL FILE>hoß║╖c cao h╞ín</
+  [OK] idx=91 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Separate Ways on Standard mode with an <COL FILE>S+</COL> ran
+    Viet: Ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Standard vß╗¢i xß║┐p hß║íng <COL FILE>S
+  [OK] idx=92 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Separate Ways on Hardcore mode <COL FILE>or higher</COL>.
+    Viet: Ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Hardcore <COL FILE>hoß║╖c cao h╞ín</
+  [OK] idx=93 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Separate Ways on Hardcore mode <COL FILE>or higher</COL>
+with
+    Viet: Ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Hardcore <COL FILE>hoß║╖c cao h╞ín</
+  [OK] idx=94 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Separate Ways on Hardcore mode with an <COL FILE>S+</COL> ran
+    Viet: Ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Hardcore vß╗¢i xß║┐p hß║íng <COL FILE>S
+  [OK] idx=95 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Separate Ways on Professional mode.
+    Viet: Ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Professional.
+  [OK] idx=96 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Separate Ways on Professional mode
+with an <COL FILE>A</COL> 
+    Viet: Ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Professional
+vß╗¢i xß║┐p hß║íng <COL FI
+  [OK] idx=97 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Separate Ways on Professional mode
+with an <COL FILE>S+</COL>
+    Viet: Ho├án th├ánh Separate Ways ß╗ƒ chß║┐ ─æß╗Ö Professional
+vß╗¢i xß║┐p hß║íng <COL FILE>
+  [OK] idx=98 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Separate Ways within {0} hours.
+    Viet: Ho├án th├ánh Separate Ways trong {0} giß╗¥.
+  [OK] idx=99 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Separate Ways without using a recovery item.
+    Viet: Ho├án th├ánh Separate Ways m├á kh├┤ng sß╗¡ dß╗Ñng vß║¡t phß║⌐m hß╗ôi phß╗Ñc.
+  [OK] idx=100 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Separate Ways using only knives and handguns.
+    Viet: Ho├án th├ánh Separate Ways chß╗ë sß╗¡ dß╗Ñng dao v├á s├║ng ngß║»n.
+  [OK] idx=101 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Complete Separate Ways without talking
+to the Merchant once.
+    Viet: Ho├án th├ánh Separate Ways m├á kh├┤ng n├│i chuyß╗çn
+tß╗¢i Th╞░╞íng nh├ón mß╗Öt lß║ºn.
+  [OK] idx=102 file=ao_mes_main_sys_bonus.msg.22
+    Orig: SEPARATE WAYS
+    Viet: ─É╞»ß╗£NG ─ÉI RI├èNG BIß╗åT
+  [OK] idx=103 file=ao_mes_main_sys_bonus.msg.22
+    Orig: A large and powerful submachine gun.
+(Obtain bonus weapons via the Sto
+    Viet: Mß╗Öt khß║⌐u s├║ng m├íy mß║ính mß║╜ v├á lß╗¢n.
+(Nhß║¡n v┼⌐ kh├¡ th╞░ß╗ƒng qua menu L╞░u trß╗»
+  [OK] idx=104 file=ao_mes_main_sys_bonus.msg.22
+    Orig: A knife forged with infinite possibilities.
+(Obtain bonus weapons via 
+    Viet: Mß╗Öt con dao ─æ╞░ß╗úc r├¿n vß╗¢i v├┤ sß╗æ khß║ú n─âng.
+(Nhß║¡n v┼⌐ kh├¡ th╞░ß╗ƒng qua menu 
+  [OK] idx=113 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by clearing a specific chapter in Separate Ways.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh mß╗Öt ch╞░╞íng cß╗Ñ thß╗â trong Separate Ways.
+  [OK] idx=115 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by completing Separate Ways on Assisted mode with an S+ rank.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Assisted vß╗¢i xß║┐
+  [OK] idx=116 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by completing Separate Ways on Standard mode <COL FILE>or highe
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Standard <COL F
+  [OK] idx=117 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by completing Separate Ways on Standard mode
+<COL FILE>or highe
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Standard <COL F
+  [OK] idx=118 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by completing Separate Ways on Standard mode with an S+ rank.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Standard vß╗¢i xß║┐
+  [OK] idx=119 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by completing Separate Ways on Professional mode.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Professional.
+  [OK] idx=120 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by completing Separate Ways on Professional mode with an A rank
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Professional vß╗¢
+  [OK] idx=121 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by completing Separate Ways on Professional mode with an S+ ran
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Professional vß╗¢
+  [OK] idx=122 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by obtaining a specific weapon in Separate Ways.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích sß╗ƒ hß╗»u mß╗Öt v┼⌐ kh├¡ cß╗Ñ thß╗â trong Separate Ways.
+  [OK] idx=123 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by completing all the Merchant requests in Separate Ways.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh tß║Ñt cß║ú y├¬u cß║ºu cß╗ºa Th╞░╞íng nh├ón trong Sepa
+  [OK] idx=125 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by completing Separate Ways on Hardcore mode <COL FILE>or highe
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Hardcore <COL F
+  [OK] idx=126 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by completing Separate Ways on Hardcore mode
+<COL FILE>or highe
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Hardcore <COL F
+  [OK] idx=127 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by completing Separate Ways on Hardcore mode with an S+ rank.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Hardcore vß╗¢i xß║┐
+  [OK] idx=128 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by obtaining a specific treasure in Separate Ways.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích sß╗ƒ hß╗»u mß╗Öt kho b├íu cß╗Ñ thß╗â trong Separate Ways.
+  [OK] idx=129 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Unlock by obtaining a specific weapon in Separate Ways.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích c├│ ─æ╞░ß╗úc mß╗Öt v┼⌐ kh├¡ cß╗Ñ thß╗â trong Separate Ways.
+  [OK] idx=151 file=ao_mes_main_sys_bonus.msg.22
+    Orig: Professional mode has been unlocked!
+Select the game mode in Separate 
+    Viet: Chß║┐ ─æß╗Ö chuy├¬n nghiß╗çp ─æ├ú ─æ╞░ß╗úc mß╗ƒ kh├│a!
+Chß╗ìn chß║┐ ─æß╗Ö ch╞íi trong Separate 
+  [OK] idx=9 file=ao_mes_main_sys_common.msg.22
+    Orig: Separate Ways
+    Viet: Con ─É╞░ß╗¥ng Ri├¬ng Biß╗çt
+  [OK] idx=7 file=ao_mes_main_sys_generalguide.msg.22
+    Orig: View the Separate Ways credits.
+    Viet: Xem t├¡n dß╗Ñng cß╗ºa Separate Ways.
+  [OK] idx=4 file=ao_mes_main_sys_hud.msg.22
+    Orig: EXITING TRACKING MODE
+    Viet: THO├üT CHß║╛ ─Éß╗ÿ THEO D├òI
+  [OK] idx=0 file=ao_mes_main_sys_mainmenu.msg.22
+    Orig: SEPARATE WAYS
+    Viet: C├üCH LY
+  [OK] idx=4 file=ao_mes_main_sys_mainmenu.msg.22
+    Orig: EXIT
+    Viet: THO├üT
+  [OK] idx=9 file=ao_mes_main_sys_mainmenu.msg.22
+    Orig: Only Separate Ways challenges
+can be earned in this extra game.
+    Viet: Chß╗ë c├│ nhß╗»ng thß╗¡ th├ích Separate Ways
+c├│ thß╗â ─æ╞░ß╗úc kiß║┐m trong tr├▓ ch╞íi p
+  [OK] idx=10 file=ao_mes_main_sys_mainmenu.msg.22
+    Orig: The costumes and accessories set in the Extras menu will be applied
+to
+    Viet: Bß╗Ö trang phß╗Ñc v├á phß╗Ñ kiß╗çn ─æ╞░ß╗úc ─æß║╖t trong menu Extras sß║╜ ─æ╞░ß╗úc ├íp dß╗Ñng
+t
+  [OK] idx=2 file=ao_mes_main_sys_mapgimmick.msg.22
+    Orig: Exit
+    Viet: Cß╗¡a ra
+  [OK] idx=3 file=ao_mes_main_sys_mapgimmick.msg.22
+    Orig: Castle Exit
+    Viet: Lß╗æi ra L├óu ─æ├ái
+  [OK] idx=10 file=ao_mes_main_sys_mapgimmick.msg.22
+    Orig: Exit
+    Viet: Lß╗æi ra
+  [OK] idx=23 file=ao_mes_main_sys_mapgimmick.msg.22
+    Orig: Exit
+    Viet: Tho├ít
+  [OK] idx=25 file=ao_mes_main_sys_mapgimmick.msg.22
+    Orig: Exit
+    Viet: Tho├ít
+  [OK] idx=2 file=ao_mes_main_sys_purpose.msg.22
+    Orig: Head for the exit
+    Viet: ─Éi tß╗¢i lß╗æi tho├ít
+  [OK] idx=0 file=ao_mes_main_sys_saveload.msg.22
+    Orig: When loading Separate Ways saved data from a completed
+playthrough, yo
+    Viet: Khi tß║úi dß╗» liß╗çu l╞░u cß╗ºa Separate Ways tß╗½ mß╗Öt lß║ºn ch╞íi ho├án th├ánh,
+bß║ín 
+  [OK] idx=1 file=ao_mes_main_sys_saveload.msg.22
+    Orig: When loading Separate Ways saved data from a completed
+playthrough, yo
+    Viet: Khi tß║úi dß╗» liß╗çu l╞░u cß╗ºa Separate Ways tß╗½ mß╗Öt lß║ºn ch╞íi ho├án th├ánh,
+bß║ín 
+  [OK] idx=39 file=dev1_term_menu.msg.22
+    Orig: Exit the game?
+    Viet: Tho├ít tr├▓ ch╞íi?
+  [MISSING] idx=1 file=dev1_term_mercenaries.msg.22
+    Orig: <COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Mercenaries_Menu_Exit_Desc
+    Viet: [EMPTY]
+  [OK] idx=73 file=dev1_term_saveload.msg.22
+    Orig: Exit without saving
+    Viet: Tho├ít m├á kh├┤ng l╞░u
+  [OK] idx=0 file=ch_mes_develop_ao.msg.22
+    Orig: SEPARATE WAYS
+    Viet: C├üCH RI├èNG BIß╗åT
+  [OK] idx=1 file=ch_mes_develop_ao.msg.22
+    Orig: Play Separate Ways.
+    Viet: Ch╞íi C├ích Ri├¬ng Biß╗çt.
+  [OK] idx=2 file=ch_mes_develop_ao.msg.22
+    Orig: THE MERCENARIES
+    Viet: NHß╗«NG Tß╗ÿI PHß║áM
+  [OK] idx=3 file=ch_mes_develop_ao.msg.22
+    Orig: Play The Mercenaries.
+    Viet: Ch╞íi Nhß╗»ng Tß╗Öi Phß║ím.
+  [OK] idx=10 file=ch_mes_main_conv_cp42.msg.22
+    Orig: Hey! Since when was this a dead end?
+This used to lead to the exit.
+    Viet: H╤ì╨╣! Kß╗â tß╗½ khi n├áo th├¼ ─æ├óy l├á mß╗Öt ng├╡ cß╗Ñt?
+Con ─æ╞░ß╗¥ng n├áy tr╞░ß╗¢c kia dß║½n
+  [OK] idx=8 file=ch_mes_main_csa073.msg.22
+    Orig: I think we both know this is where
+we go our separate ways.
+    Viet: T├┤i ngh─⌐ cß║ú hai ch├║ng ta ─æß╗üu biß║┐t ─æ├óy l├á n╞íi
+ch├║ng ta ─æi theo con ─æ╞░ß╗¥n
+  [OK] idx=185 file=ch_mes_main_sys_generalguide.msg.22
+    Orig: Exit the pause menu and return to the game.
+    Viet: Tho├ít menu tß║ím dß╗½ng v├á trß╗ƒ vß╗ü tr├▓ ch╞íi.
+  [OK] idx=133 file=ch_mes_main_sys_map.msg.22
+    Orig: Facility 1 Exit
+    Viet: Lß╗æi ra C╞í sß╗ƒ 1
+  [OK] idx=280 file=ch_mes_main_sys_map.msg.22
+    Orig: Facility 1 Exit
+    Viet: Cß╗¡a ra C╞í sß╗ƒ 1
+  [OK] idx=31 file=ch_mes_main_sys_mapgimmick.msg.22
+    Orig: Village Exit
+    Viet: Lß╗æi ra l├áng
+  [OK] idx=22 file=ch_mes_main_sys_pc.msg.22
+    Orig: EXIT
+    Viet: THO├üT
+  [OK] idx=2 file=mes_tu0002_sys.msg.22
+    Orig: - Added the extra game "The Mercenaries."
+    Viet: - Th├¬m tr├▓ ch╞íi phß╗Ñ "The Mercenaries."
+  [OK] idx=5 file=mes_tu0002_sys.msg.22
+    Orig: THE MERCENARIES
+    Viet: THE MERCENARIES
+  [OK] idx=6 file=mes_tu0002_sys.msg.22
+    Orig: Play The Mercenaries.
+    Viet: Ch╞íi The Mercenaries.
+  [OK] idx=2 file=mes_tu0003_sys.msg.22
+    Orig: - Added the extra game "Separate Ways."
+    Viet: - Th├¬m tr├▓ ch╞íi phß╗Ñ "Con ─æ╞░ß╗¥ng ri├¬ng."
+  [OK] idx=5 file=mes_tu0003_sys.msg.22
+    Orig: SEPARATE WAYS
+    Viet: CON ─É╞»ß╗£NG RI├èNG
+  [OK] idx=6 file=mes_tu0003_sys.msg.22
+    Orig: Play Separate Ways.
+    Viet: Ch╞íi Con ─æ╞░ß╗¥ng ri├¬ng.
+  [OK] idx=7 file=mes_tu0003_sys.msg.22
+    Orig: Added the extra game "Separate Ways."
+    Viet: Th├¬m tr├▓ ch╞íi phß╗Ñ "Con ─æ╞░ß╗¥ng ri├¬ng."
+  [OK] idx=25 file=mc_mes_main_sys_activity.msg.22
+    Orig: THE MERCENARIES
+    Viet: THE MERCENARIES
+  [OK] idx=26 file=mc_mes_main_sys_activity.msg.22
+    Orig: The Mercenaries
+    Viet: The Mercenaries
+  [OK] idx=28 file=mc_mes_main_sys_activity.msg.22
+    Orig: The Mercenaries
+    Viet: The Mercenaries
+  [OK] idx=31 file=mc_mes_main_sys_activity.msg.22
+    Orig: THE MERCENARIES
+    Viet: THE MERCENARIES
+  [OK] idx=32 file=mc_mes_main_sys_activity.msg.22
+    Orig: THE MERCENARIES
+    Viet: THE MERCENARIES
+  [OK] idx=2 file=mc_mes_main_sys_generalguide.msg.22
+    Orig: Play The Mercenaries.
+    Viet: Ch╞íi The Mercenaries.
+  [OK] idx=0 file=mc_mes_main_sys_mainmenu.msg.22
+    Orig: THE MERCENARIES
+    Viet: NHß╗«NG Tß╗ÿI PHß║áM
+  [MISSING] idx=7 file=mc_mes_main_sys_mainmenu.msg.22
+    Orig: <COLOR FF0000>#Rejected#</COLOR> MC_Mes_Main_Sys_MainMenu_Exit
+    Viet: [EMPTY]
+  [OK] idx=1 file=mc_mes_main_sys_pc.msg.22
+    Orig: EXIT
+    Viet: THO├üT
+  [OK] idx=0 file=mc_mes_main_sys_richtutorial.msg.22
+    Orig: The Mercenaries
+    Viet: The Mercenaries
+
+=== [4] Ph├ón t├¡ch logic slot trong import_translation.py ===
+Logic hiß╗çn tß║íi:
+  for i in range(len(content)):
+      if content[i].strip():   <- chß╗ë ghi ─æ├¿ slot != empty
+          content[i] = viet_text
+
+Vß║Ñn ─æß╗ü tiß╗üm ß║⌐n: nß║┐u slot ENGLISH bß╗ï empty, nh╞░ng slot kh├íc c├│ text,
+th├¼ game vß║½n ─æß╗ìc slot ─æ├│ v├á hiß╗ân thß╗ï tiß║┐ng Anh.
+
+--- Kiß╗âm tra slot structure cß╗ºa entry SEPARATE WAYS trong dev1_term_menu ---
+
+=== [5] _anotherorder/message contents ===
+  natives\stm\_anotherorder\message\mes_main_accessory\ao_mes_main_accessory.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp11.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp21.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp22.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_camdemo\ao_mes_main_camdemo_vo_cp31.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp01.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp41.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_bino_cp51.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp01.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp11.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp21.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp22.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp31.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp32.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp41.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_conv_cp51.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_merchant.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_questconv.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_radio.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_conv\ao_mes_main_resultconv.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse000.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse010.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse030.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse100.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse120.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse130.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse140.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse145.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse150.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse200.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse210.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse215.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse225.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse240.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse250.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse300.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse305.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse310.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse315.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse320.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse335.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse340.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse345.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse350.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse355.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse356.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse365.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse375.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse400.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse410.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse420.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse450.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse455.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse460.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse500.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse510.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse520.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse530.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse540.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse545.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse550.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse570.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse590.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_cs\ao_mes_main_cse599.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_601.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_603.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_604.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_605.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_606.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_607.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_608.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_609.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_611.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_612.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_613.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_614.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_615.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_616.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_618.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_619.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_621.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_622.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_623.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_624.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_625.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_file\ao_mes_main_file_627.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_item\ao_mes_main_itemperks.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_item\ao_mes_main_item_caption.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_item\ao_mes_main_item_name.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_item\ao_mes_main_wpcustom.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_questfile\ao_mes_main_questfile_101.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_questfile\ao_mes_main_questfile_102.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_questfile\ao_mes_main_questfile_103.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_questfile\ao_mes_main_questfile_104.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_questfile\ao_mes_main_questfile_105.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_questfile\ao_mes_main_questfile_106.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_questfile\ao_mes_main_questfile_107.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_101.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_102.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_105.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_106.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_109.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_110.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_111.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_114.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_118.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_119.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_120.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_121.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_122.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_123.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_124.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_radiolog\ao_mes_main_radiolog_125.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_speach\ao_mes_main_speach.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_speach\ao_mes_main_speechmerchant.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_action.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_activity.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_common.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_costume.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_file.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_generalguide.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_gimmickui.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_hud.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_map.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mapgimmick.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mapname.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_option.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_purpose.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_result.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_richtutorial.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_saveload.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_shop.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_shopitem.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_subprogress.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_tutorial.msg.22.json
+  natives\stm\_anotherorder\message\mes_main_tips\ao_mes_main_tips.msg.22.json
+  natives\stm\_anotherorder\message\mes_soundsupport\ao_mes_main_soundsupport_conv_cp11.msg.22.json
+  natives\stm\_anotherorder\message\mes_soundsupport\ao_mes_main_soundsupport_conv_cp22.msg.22.json
+  natives\stm\_anotherorder\message\mes_soundsupport\ao_mes_main_soundsupport_conv_cp31.msg.22.json
+  natives\stm\_anotherorder\message\mes_soundsupport\ao_mes_main_soundsupport_conv_cp32.msg.22.json
+  natives\stm\_anotherorder\message\mes_soundsupport\ao_mes_main_soundsupport_conv_cp51.msg.22.json
+  natives\stm\_anotherorder\message\mes_soundsupport\ao_mes_main_soundsupport_cs.msg.22.json
+  natives\stm\_anotherorder\message\mes_soundsupport\ao_mes_main_soundsupport_ingame.msg.22.json
+  natives\stm\_anotherorder\message\mes_soundsupport\ao_mes_main_soundsupport_questconv.msg.22.json
+  natives\stm\_anotherorder\message\mes_soundsupport\ao_mes_main_soundsupport_radio.msg.22.json
+  natives\stm\_anotherorder\message\mes_soundsupport\ao_mes_main_soundsupport_resultconv.msg.22.json
+  natives\stm\_anotherorder\message\mes_soundsupport\ao_mes_main_soundsupport_speech.msg.22.json
+  natives\stm\_anotherorder\message\mes_soundsupport\ao_mes_main_soundsupport_speechmerchant.msg.22.json

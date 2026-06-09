@@ -1,0 +1,45 @@
+﻿PAK size: 3,800,943 bytes
+PAK entries: 508
+
+=== Kiß╗âm tra file trong PAK ===
+  Γ£ô IN PAK: natives/stm/_chainsaw/message/mes_main_sys/ch_mes_main_sys_common.msg.22
+  Γ£ô IN PAK: natives/stm/_chainsaw/message/mes_main_sys/ch_mes_main_sys_purpose.msg.22
+  Γ£ô IN PAK: natives/stm/_chainsaw/message/mes_main_conv/ch_mes_main_conv_cp51.msg.22
+  Γ£ô IN PAK: natives/stm/_chainsaw/message/mes_main_sys/ch_mes_main_sys_mainmenu.msg.22
+
+=== ch_mes_main_sys_common - ASSISTED (idx=191) slots ===
+name: CH_Mes_Main_Sys_Common_GameMode_01
+  slot[ 0] = 'ASSISTED' <-- ─æ╞░ß╗úc ghi ─æ├¿
+  slot[ 1] = 'ASSISTED' <-- ─æ╞░ß╗úc ghi ─æ├¿
+  slot[ 2] = 'FACILE' <-- ─æ╞░ß╗úc ghi ─æ├¿
+  slot[ 3] = 'ASSISTITA' <-- ─æ╞░ß╗úc ghi ─æ├¿
+  slot[ 4] = 'ASSISTIERT' <-- ─æ╞░ß╗úc ghi ─æ├¿
+  slot[ 5] = 'ASISTIDO' <-- ─æ╞░ß╗úc ghi ─æ├¿
+  slot[ 6] = '╨ú╨ƒ╨á╨₧╨⌐╨ü╨¥╨¥╨½╨Ö' <-- ─æ╞░ß╗úc ghi ─æ├¿
+  slot[ 7] = 'WSPOMAGANY' <-- ─æ╞░ß╗úc ghi ─æ├¿
+  slot[10] = 'FACILITADO' <-- ─æ╞░ß╗úc ghi ─æ├¿
+  slot[11] = '∞ºÇ∞¢É' <-- ─æ╞░ß╗úc ghi ─æ├¿
+  slot[12] = 'Φ╝öσè⌐' <-- ─æ╞░ß╗úc ghi ─æ├¿
+  slot[13] = 'Φ╛àσè⌐' <-- ─æ╞░ß╗úc ghi ─æ├¿
+  slot[21] = '╪º┘ä┘à╪│╪º╪╣┘Ä╪»' <-- ─æ╞░ß╗úc ghi ─æ├¿
+  slot[32] = 'ASISTIDO' <-- ─æ╞░ß╗úc ghi ─æ├¿
+
+Kß║┐t luß║¡n: import_translation ghi slot n├áo?
+  Logic: if content[i].strip() or i == 1: -> ghi
+
+  slot[0]='ASSISTED' -> GHI: '─É╞»ß╗óC Hß╗û TRß╗ó'
+  slot[1]='ASSISTED' -> GHI: '─É╞»ß╗óC Hß╗û TRß╗ó'  (lu├┤n ghi)
+
+Nh╞░ng game hiß╗ân thß╗ï 'ASSISTED'... Vß║¡y file n├áy C├ô trong PAK kh├┤ng?
+
+=== Kiß╗âm tra import_translation flow ===
+  OK: ch_mes_main_sys_common.msg.22 -> 116 edits
+    idx=57 viet=<ICON UI_EV_SKIP>Bß╗Å Qua Cß║únh
+    idx=191 viet=─É╞»ß╗óC Hß╗û TRß╗ó
+    idx=192 viet=TI├èU CHUß║¿N
+    idx=193 viet=Cß╗¿NG
+  OK: ch_mes_main_sys_purpose.msg.22 -> 61 edits
+    idx=3 viet=Xem ─æiß╗üu g├¼ ─æang mß║Ñt nhiß╗üu thß╗¥i gian
+    idx=57 viet=─Éi ─æß║┐n ─æß╗ënh n├║i
+  OK: ch_mes_main_conv_cp51.msg.22 -> 17 edits
+    idx=57 viet=N├áo, sao lß║íi l├óu thß║┐?

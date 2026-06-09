@@ -1,10 +1,8 @@
 {
   "installed": true,
-  "mode": "option",
-  "target": "loose",
+  "mode": "always-on",
+  "target": "pak",
   "files": [
-    "natives/stm/_chainsaw/message/dev1_term/dev1_term_menu.msg.22",
-    "natives/stm/_mercenaries/message/mes_main_sys/mc_mes_main_sys_mainmenu.msg.22",
-    "natives/stm/_chainsaw/message/mes_main_sys/ch_mes_main_sys_common.msg.22"
+    "re_chunk_000.pak.patch_006.pak"
   ]
 }

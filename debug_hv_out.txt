@@ -1,0 +1,32 @@
+﻿Hash WITHOUT leading slash:
+  A75BE834384D0CAC : ch_mes_main_sys_common
+  DDD660E0F73AB803 : ch_mes_main_sys_purpose
+  B72504351EF219CC : ch_mes_main_conv_cp51
+  0B46A2D707648B85 : dev1_term_menu
+  EC0E75E46C061686 : ch_mes_main_sys_mainmenu
+
+Hash WITH leading slash (current):
+  7CAEFB85040CABA0 : ch_mes_main_sys_common
+  1B1351150139F31B : ch_mes_main_sys_purpose
+  00223802BF5B6BB9 : ch_mes_main_conv_cp51
+  F3E4A5BDD01DD2BF : dev1_term_menu
+  31A92E2AF50DEF6C : ch_mes_main_sys_mainmenu
+
+Scanning patch_005.pak (141,269,442 bytes)...
+  2163 files
+  KH├öNG T├îM THß║ñY trong patch_005!
+
+  First 5 hashes in patch_005: ['6BC646620FBA7F7B', '4DB4FDC0F06EA30C', '735776685015D65C', '0F2D92D4BAC3B0F2', 'A7B6DB1CB20058BD']
+
+  NOTE: Nß║┐u kh├┤ng t├¼m thß║Ñy ß╗ƒ cß║ú 2 dß║íng hash, ngh─⌐a l├á
+  game lß║Ñy file tß╗½ MAIN PAK (57GB) chß╗⌐ kh├┤ng phß║úi tß╗½ patch_001~005.
+  patch_006 cß╗ºa ch├║ng ta PHß║óI override ─æ╞░ß╗úc main pak.
+
+  -> Kiß╗âm tra: thß╗¡ verify bß║▒ng c├ích extract 1 file tß╗½ patch_006 v├á xem nß╗Öi dung
+
+=== Verify: ─æß╗ìc ch_mes_main_sys_common tß╗½ patch_006 cß╗ºa ch├║ng ta ===
+  Found ch_mes_main_sys_common in patch_006
+  offset=2002010 compressed=45875 decompressed=118136 attr=1
+  Extracted 118136 bytes, MSG magic: 16000000
+  Γ£ù '─É╞»ß╗óC Hß╗û TRß╗ó' NOT FOUND in extracted file!
+  'ASSISTED' also not found (file content issue)

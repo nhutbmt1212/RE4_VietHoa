@@ -1,0 +1,12 @@
+﻿json mode with edit file/folder input but no json file found.
+python : Traceback (most recent call last):
+At line:1 char:1
++ python debug_cp11_pak.py 2>&1 | Out-File -Encoding utf8 debug_cp11_ou ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "D:\RE4_VietHoa\debug_cp11_pak.py", line 40, in <module>
+    with open(test_json, 'r', encoding='utf-8') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'cp11_test.msg.22.json'

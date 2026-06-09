@@ -1,0 +1,59 @@
+﻿=== PAK Patch 006: d:\Games\Resident Evil 4\re_chunk_000.pak.patch_006.pak ===
+PAK tß╗ôn tß║íi, k├¡ch th╞░ß╗¢c: 1,684,530 bytes
+Magic: b'KPKA'
+Scanning full PAK for file references...
+  NOT FOUND: ao_mes_main_sys_mainmenu
+  NOT FOUND: ch_mes_main_sys_mainmenu
+  NOT FOUND: mc_mes_main_sys_mainmenu
+  NOT FOUND: dev1_term_menu
+  NOT FOUND: mes_develop_misc
+  NOT FOUND: ch_mes_develop
+
+=== STEP 4B: File n├áo hiß╗ân thß╗ï SEPARATE WAYS tr├¬n main menu? ===
+
+Nh├¼n v├áo screenshot: Menu ch├¡nh RE4 c├│:
+  - Cß╗¿U CHUYß╗åN CH├ìNH  (─æ├ú dß╗ïch)
+  - SEPARATE WAYS     (CH╞»A Dß╗èCH)
+  - THE MERCENARIES   (CH╞»A Dß╗èCH)
+  - PH├ÜC Lß╗óI          (─æ├ú dß╗ïch)
+  - T├ÖY CHß╗îN          (─æ├ú dß╗ïch)
+
+T├¼m file chß╗⌐a cß║ú 4 items n├áy c├╣ng nhau...
+
+=== STEP 4C: mes_develop_misc ===
+
+  File: ch_mes_develop_ao.msg.22.json (8 entries)
+    idx=0: SEPARATE WAYS
+    idx=1: SEPARATE WAYSπéÆπâùπâ¼πéñπüùπü╛πüÖ
+    idx=2: MERCENARIES
+    idx=3: MERCENARIESπéÆπâùπâ¼πéñπüùπü╛πüÖ
+    idx=4: Leon
+    idx=6: Ada
+
+  File: ch_mes_develop_sys_map.msg.22.json (349 entries)
+    idx=0: µ¥æΦÉ╜∩╝êDummy∩╝ë1
+    idx=1: µ¥æπü«σà¿Σ╜ôΘüáµÖ»∩╝êΣ╗«∩╝ë
+
+
+    idx=2: Loc40 ΘüáµÖ»∩╝êΣ╗«∩╝ë
+
+
+    idx=3: st400_100 µ¥æπü╕πü«σ░ÅΘüô∩╝êΣ╗«∩╝ë
+    idx=4: st40_101 µ¥æπü»πüÜπéîπü«σ░Åσ▒ï∩╝êΣ╗«∩╝ë
+    idx=5: st40_102 µ¥æπü╕πü«σ░ÅΘüôC
+    idx=6: st40_103 µ¥æπü╕πü«σ░ÅΘüôA2
+    idx=7: st40_104 µ¥æπü╕πü«σ░ÅΘüôA3
+    idx=8: τîƒσ╕½πü«Φ⌐░πéüµëÇ
+    idx=9: Σ╕¡σñ«σ║âσá┤
+    idx=10: st40_201 Φ╛▓σá┤σàÑπéèσÅú∩╝êΣ╗«∩╝ë
+    idx=11: Σ╕¡σñ«σ║âσá┤
+    idx=12: Σ╕¡σñ«σ║âσá┤
+    idx=13: Θ¢åΣ╝ÜµëÇ
+    idx=14: Θ¢åΣ╝ÜµëÇ
+    idx=15: st40_500 µ¥æπü╕πü«µ₧ùΘüôA
+    idx=16: st40_501 µ¥æπü╕πü«µ₧ùΘüôB
+    idx=17: st40_502 µ¥æπü╕πü«µ₧ùΘüôC
+    idx=18: st40_503 µ¥æπü╕πü«µ₧ùΘüôD
+    idx=19: st40_504 µ¥æπü╕πü«µ₧ùΘüôE
+
+=== DLC dir contents ===

@@ -2,6 +2,7 @@ import os
 import sys
 import json
 import csv
+import time
 import subprocess
 import shutil
 import zipfile
@@ -111,12 +112,17 @@ def restore_game():
         except Exception as e:
             print(f"[ERROR] Failed to parse status file for uninstallation: {e}")
 
-    # 2. Hard check for known loose files if status file was not helpful
-    fallback_paths = [
-        "natives/stm/_chainsaw/message/dev1_term/dev1_term_menu.msg.22",
-        "natives/stm/_chainsaw/message/mes_main_sys/ch_mes_main_sys_common.msg.22",
-        "natives/stm/_mercenaries/message/mes_main_sys/mc_mes_main_sys_mainmenu.msg.22"
-    ]
+    # 2. Hard check: scan the entire game natives/ folder and remove any .msg.22 loose files
+    # This catches all loose files regardless of how they were installed
+    game_natives = os.path.join(GAME_DIR, "natives")
+    fallback_paths = []
+    if os.path.exists(game_natives):
+        for root, dirs, files in os.walk(game_natives):
+            for fname in files:
+                if fname.endswith(".msg.22"):
+                    full = os.path.join(root, fname)
+                    rel = os.path.relpath(full, GAME_DIR).replace("\\", "/")
+                    fallback_paths.append(rel)
     for rel_path in fallback_paths:
         full_path = os.path.join(GAME_DIR, rel_path)
         if os.path.exists(full_path):
@@ -275,17 +281,29 @@ def inject_mod(mode="option", target="loose"):
         remsg_script = os.path.join(SCRIPT_DIR, "tools", "REMSG_Converter", "src", "main.py")
         cmd = ["python", remsg_script, "-i", target_msg, "-e", target_json, "-m", "json"]
 
-        res = subprocess.run(cmd, capture_output=True, text=True)
+        res = subprocess.run(cmd, capture_output=True, text=True, timeout=30)
         if res.returncode != 0:
             print(f"  [ERROR] Compiling failed for {file_path}: {res.stderr}")
             continue
 
         new_msg = target_msg + ".new"
+        # Retry check a few times in case of Windows file-lock (e.g., antivirus)
+        for attempt in range(3):
+            if os.path.exists(new_msg):
+                break
+            time.sleep(0.1)
+        
         if os.path.exists(new_msg):
-            os.remove(target_msg)
-            os.remove(target_json)
-            os.rename(new_msg, target_msg)
-            compiled_count += 1
+            try:
+                os.remove(target_msg)
+                os.remove(target_json)
+                # Use shutil.copy2 + remove instead of os.rename to avoid file lock issues on Windows
+                shutil.copy2(new_msg, target_msg)
+                os.remove(new_msg)
+                compiled_count += 1
+            except Exception as e:
+                print(f"  [ERROR] Failed to finalize compiled file {file_path}: {e}")
+                continue
             
             # If target is loose, copy directly to game directory
             if target == "loose" and os.path.exists(GAME_DIR):
@@ -295,6 +313,8 @@ def inject_mod(mode="option", target="loose"):
                 copied_files.append(file_path)
         else:
             print(f"  [ERROR] Compiled file (.new) not generated for {file_path}")
+            if res.stderr:
+                print(f"          Compiler stderr: {res.stderr[:200]}")
 
         processed_count += 1
         if processed_count % 50 == 0:
@@ -313,6 +333,29 @@ def inject_mod(mode="option", target="loose"):
         print("\033[92m[SUCCESS] Installed via REFramework Loose Files! Mod active without Mod Manager.\033[0m")
         success = True
     elif target == "pak" and os.path.exists(GAME_DIR):
+        # For PAK mode: also deploy dev1_term_* and mes_main_sys files as loose files so they
+        # override the startup-locked PAK entries (REFramework loads loose files
+        # after PAK, so these will always win regardless of language setting).
+        LOOSE_OVERRIDE_PREFIXES = (
+            "natives/stm/_chainsaw/message/dev1_term/",
+            "natives/stm/_chainsaw/message/mes_main_sys/",
+            "natives/stm/_anotherorder/message/mes_main_sys/",
+            "natives/stm/_mercenaries/message/mes_main_sys/",
+        )
+        loose_override_count = 0
+        for root, dirs, files in os.walk(MOD_DIR):
+            for fname in files:
+                full = os.path.join(root, fname)
+                rel = os.path.relpath(full, MOD_DIR).replace("\\", "/")
+                if any(rel.startswith(p) for p in LOOSE_OVERRIDE_PREFIXES):
+                    game_dest = os.path.join(GAME_DIR, rel)
+                    os.makedirs(os.path.dirname(game_dest), exist_ok=True)
+                    shutil.copy2(full, game_dest)
+                    copied_files.append(rel)
+                    loose_override_count += 1
+        if loose_override_count:
+            print(f"[OK] Deployed {loose_override_count} dev1_term loose override file(s) to game directory.")
+
         print(f"\nBuilding PAK patch and installing to game directory:\n{PAK_OUTPUT}")
         try:
             build_pak(MOD_DIR, PAK_OUTPUT)
@@ -348,7 +391,7 @@ def inject_mod(mode="option", target="loose"):
             "installed": True,
             "mode": mode,
             "target": target,
-            "files": copied_files if target == "loose" else [os.path.relpath(PAK_OUTPUT, GAME_DIR)]
+            "files": copied_files if (target == "loose" or copied_files) else [os.path.relpath(PAK_OUTPUT, GAME_DIR)]
         }
         try:
             with open(STATUS_FILE, "w") as f:

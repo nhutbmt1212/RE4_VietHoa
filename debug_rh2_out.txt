@@ -1,0 +1,65 @@
+﻿Our hash: 7CAEFB85040CABA0
+
+Binary search for our hash in main PAK (142,124 entries)...
+NOT FOUND in main PAK!
+
+Nearest entries around our hash 7CAEFB85040CABA0:
+  idx=128750: 60F028D5FEBB430D (sd=-6508161664786369842)
+  idx=128751: 1C5A1EF334B3C9EB (sd=3456949523850694098)
+  idx=128752: F66FAFA31A541547 (sd=-6553218560704909066)
+  idx=128753: ABEE242B32271B7F (sd=2102879019116762007)
+  idx=128754: B6E97E4AC00D02CB (sd=-1851305774612839348)
+
+No-slash hash: A75BE834384D0CAC
+NOT FOUND (no-slash) in main PAK!
+
+=== GIß║ó THUYß║╛T Mß╗ÜI ===
+Nß║┐u file KH├öNG trong main PAK -> Game load tß╗½:
+  1. Streaming file system ri├¬ng biß╗çt
+  2. REFramework mod loader
+  3. Loose files trong th╞░ mß╗Ñc game
+
+Kiß╗âm tra xem c├│ th╞░ mß╗Ñc 'natives' hay 'reframework' trong game dir kh├┤ng:
+  [FILE] AkConvolutionReverb.dll (197,120b)
+  [FILE] AkReflect.dll (166,912b)
+  [FILE] AkSoundSeedAir.dll (172,032b)
+  [FILE] amd_ags_x64.dll (42,496b)
+  [FILE] CrashHandler.dll (11,776b)
+  [FILE] CrashReport.exe (156,087,520b)
+  [FILE] CrashReportDll.dll (161,696b)
+  [DIR] D3D12
+  [FILE] DELETE_OPENVR_API_DLL_IF_YOU_WANT_TO_USE_OPENXR (6b)
+  [FILE] dinput8.dll (12,818,944b)
+  [DIR] dlc
+  [FILE] InstallerMessage.exe (1,623,168b)
+  [FILE] InstallerMessage_RunlScript.vdf (534b)
+  [FILE] local_config.ini (29,422b)
+  [FILE] local_config_default.ini (587b)
+  [FILE] MasteringSuite.dll (201,728b)
+  [FILE] MSSpatial.dll (128,512b)
+  [DIR] natives
+  [FILE] openvr_api.dll (818,904b)
+  [FILE] openxr_loader.dll (645,632b)
+  [FILE] re2_framework_log.txt (9,142,458b)
+  [FILE] re2_fw_config.txt (2,874b)
+  [FILE] re4.exe (90,238,368b)
+  [DIR] reframework
+  [FILE] reframework_accessed_files.txt (9,620,951b)
+  [FILE] reframework_loose_files.txt (4,873b)
+  [FILE] reframework_revision.txt (42b)
+  [FILE] ref_ui.ini (123b)
+  [FILE] re_chunk_000.pak (57,777,147,068b)
+  [FILE] re_chunk_000.pak.patch_001.pak (1,521,620,228b)
+  [FILE] re_chunk_000.pak.patch_002.pak (59,595,907b)
+  [FILE] re_chunk_000.pak.patch_003.pak (1,911,375,913b)
+  [FILE] re_chunk_000.pak.patch_004.pak (1,845,114b)
+  [FILE] re_chunk_000.pak.patch_005.pak (141,269,442b)
+  [FILE] re_chunk_000.pak.patch_006.pak (3,800,943b)
+  [FILE] shader.cache2 (116,134,708b)
+  [FILE] steam_api64.dll (981,144b)
+  [FILE] steam_api64.rne (295,336b)
+  [FILE] steam_emu.ini (4,467b)
+  [FILE] unins000.dat (96,595b)
+  [FILE] unins000.exe (1,515,889b)
+  [FILE] winmm.dll (148,992b)
+  [DIR] _Redist

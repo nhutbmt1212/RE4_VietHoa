@@ -1,0 +1,107 @@
+﻿=== Nß╗Öi dung PAK patch_006 ===
+Magic: b'KPKA', Version: 524292, Files: 126
+Total entries: 126
+  [0] hash=(7D24C0E7,007D7DBE) offset=1555032 size=5450/30452 flags=1
+  [1] hash=(00000000,148A1F40) offset=13988152191374836017 size=7005482535308462/30112015712256 flags=0
+  [2] hash=(000042E8,00000000) offset=1 size=5792128174931254451/236609209532581359 flags=1591328
+  [3] hash=(00000000,00000764) offset=22789096472576 size=4294967296/14834422019356884992 flags=2069042675
+  [4] hash=(40582319,05FAA4BE) offset=33303 size=1102/1966 flags=1
+  [5] hash=(00000000,AEEA44A6) offset=8784576911984005740 size=800616365721743/4861902979072 flags=0
+  [6] hash=(00000AA0,00000000) offset=1 size=489069404044874107/525848687583044193 flags=814512
+  [7] hash=(00000000,00002A1D) offset=117518895153152 size=4294967296/9922628051634487296 flags=3504712087
+  [8] hash=(0B6F824E,08DD5049) offset=1638102 size=15556/36374 flags=1
+  [9] hash=(00000000,667D7311) offset=6363743602407889627 size=4851333253587551/261348759961600 flags=0
+
+=== ch_mes_develop_ao.msg.22 - SEPARATE WAYS (idx=0) ===
+name: Mes_Develop_AO_GameTitle
+Slots:
+  slot[ 0] = 'SEPARATE WAYS'
+  slot[ 1] = 'SEPARATE WAYS'
+  slot[ 2] = 'CHEMINS S├ëPAR├ëS'
+  slot[ 3] = 'STRADE DIVERSE'
+  slot[ 4] = 'SEPARATE WAYS'
+  slot[ 5] = 'CAMINOS DISTINTOS'
+  slot[ 6] = (empty)
+  slot[ 7] = (empty)
+  slot[ 8] = (empty)
+  slot[ 9] = (empty)
+  slot[10] = (empty)
+  slot[11] = '∞ä╕φì╝δáê∞¥┤φè╕ ∞¢¿∞¥┤∞ªê'
+  slot[12] = 'µ«èΘÇöσ»åΣ╗ñ'
+  slot[13] = 'µ«èΘÇöσ»åΣ╗ñ'
+  slot[14] = (empty)
+  slot[15] = (empty)
+  slot[16] = (empty)
+  slot[17] = (empty)
+  slot[18] = (empty)
+  slot[19] = (empty)
+  slot[20] = (empty)
+  slot[21] = (empty)
+  slot[22] = (empty)
+  slot[23] = (empty)
+  slot[24] = (empty)
+  slot[25] = (empty)
+  slot[26] = (empty)
+  slot[27] = (empty)
+  slot[28] = (empty)
+  slot[29] = (empty)
+  slot[30] = (empty)
+  slot[31] = (empty)
+  slot[32] = (empty)
+
+=== ch_mes_develop_ao.msg.22 - THE MERCENARIES (idx=2) ===
+name: Mes_Develop_AO_GameTitle_MS_Temp
+Slots:
+  slot[ 0] = 'MERCENARIES'
+  slot[ 1] = 'THE MERCENARIES'
+  slot[ 2] = 'MERCENAIRES'
+  slot[ 3] = 'MERCENARI'
+  slot[ 4] = 'THE MERCENARIES'
+  slot[ 5] = 'MERCENARIOS'
+  slot[ 6] = (empty)
+  slot[ 7] = (empty)
+  slot[ 8] = (empty)
+  slot[ 9] = (empty)
+  slot[10] = (empty)
+  slot[11] = 'δìö δ¿╕∞ä£δäêδª¼∞ªê'
+  slot[12] = 'σé¡σà╡µ¿íσ╝Å'
+  slot[13] = 'Σ╜úσà╡µ¿íσ╝Å'
+  slot[14] = (empty)
+  slot[15] = (empty)
+  slot[16] = (empty)
+  slot[17] = (empty)
+  slot[18] = (empty)
+  slot[19] = (empty)
+  slot[20] = (empty)
+  slot[21] = (empty)
+  slot[22] = (empty)
+  slot[23] = (empty)
+  slot[24] = (empty)
+  slot[25] = (empty)
+  slot[26] = (empty)
+  slot[27] = (empty)
+  slot[28] = (empty)
+  slot[29] = (empty)
+  slot[30] = (empty)
+  slot[31] = (empty)
+  slot[32] = (empty)
+
+=== ch_mes_develop_ao trong CSV ===
+  idx=0 orig=SEPARATE WAYS viet=C├üCH RI├èNG BIß╗åT
+  idx=1 orig=Play Separate Ways. viet=Ch╞íi C├ích Ri├¬ng Biß╗çt.
+  idx=2 orig=THE MERCENARIES viet=NHß╗«NG Tß╗ÿI PHß║áM
+  idx=3 orig=Play The Mercenaries. viet=Ch╞íi Nhß╗»ng Tß╗Öi Phß║ím.
+  idx=4 orig=Leon viet=Leon
+  idx=6 orig=Ada viet=Ada
+
+=== Kiß╗âm tra extracted_msg cho ch_mes_develop_ao ===
+msg file: EXISTS
+json file: EXISTS
+
+=== Ph├ón t├¡ch pak_builder.py ===
+  L275:     for root, _, files in os.walk(src_folder):
+
+=== vietnamese_mod directory ===
+  NOT FOUND (─æ├ú bß╗ï x├│a sau khi build PAK)
+  -> import_translation x├│a mod_dir sau khi build!
+  -> Cß║ºn tß║ío lß║íi tß╗½ ─æß║ºu ─æß╗â kiß╗âm tra

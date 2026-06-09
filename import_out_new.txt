@@ -1,0 +1,22 @@
+﻿Reading translation CSV...
+Loaded 12281 translations across 508 files.
+Compiled 50/508 files...
+Compiled 100/508 files...
+python : Traceback (most recent call last):
+At line:3 char:1
++ python import_translation.py 2>&1 | Out-File -Encoding utf8 import_ou ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "D:\RE4_VietHoa\import_translation.py", line 151, in <module>
+    main()
+  File "D:\RE4_VietHoa\import_translation.py", line 66, in main
+    data = json.load(f)
+           ^^^^^^^^^^^^
+  File "C:\Users\nhutb\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\nhutb\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 335, in loads
+    raise JSONDecodeError("Unexpected UTF-8 BOM (decode using utf-8-sig)",
+json.decoder.JSONDecodeError: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)

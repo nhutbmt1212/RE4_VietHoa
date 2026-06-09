@@ -1,0 +1,16 @@
+﻿PAK_006 total files: 508
+
+=== File trong PAK_006? ===
+  [Γ£ô IN PAK] ch_mes_develop_ao.msg.22
+  [Γ£ô IN PAK] dev1_term_menu.msg.22
+  [Γ£ô IN PAK] dev1_term_storeanddlc.msg.22
+  [Γ£ô IN PAK] ch_mes_main_sys_common.msg.22
+  [Γ£ô IN PAK] ch_mes_main_sys_mainmenu.msg.22
+  [Γ£ô IN PAK] ch_mes_main_sys_purpose.msg.22
+  [Γ£ô IN PAK] ch_mes_main_conv_cp51.msg.22
+  [Γ£ô IN PAK] ch_mes_main_sys_hud.msg.22
+  [Γ£ô IN PAK] dev1_term_hud.msg.22
+  [Γ£ô IN PAK] mc_mes_main_sys_mainmenu.msg.22
+  [Γ£ô IN PAK] ao_mes_main_sys_mainmenu.msg.22
+
+Missing count: 0

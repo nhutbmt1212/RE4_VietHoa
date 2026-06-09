@@ -1,0 +1,515 @@
+﻿=== [1] CSV - t├¼m ASSISTED/STANDARD/HARDCORE/subtitle ===
+  [OK] ao_mes_main_item_caption.msg.22 idx=3
+    Orig: A standard optical scope with two stages of
+magnification. Can be moun
+    Viet: Mß╗Öt k├¡nh ngß║»m quang hß╗ìc ti├¬u chuß║⌐n vß╗¢i hai giai ─æoß║ín
+ph├│ng ─æß║íi. C├│ thß╗â
+  [OK] ao_mes_main_sys_bonus.msg.22 idx=89
+    Orig: Complete Separate Ways on Standard mode <COL FILE>or higher</COL>.
+    Viet: Ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Standard <COL FILE>hoß║╖c cao h╞ín</
+  [OK] ao_mes_main_sys_bonus.msg.22 idx=90
+    Orig: Complete Separate Ways on Standard mode <COL FILE>or higher</COL>
+with
+    Viet: Ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Standard <COL FILE>hoß║╖c cao h╞ín</
+  [OK] ao_mes_main_sys_bonus.msg.22 idx=91
+    Orig: Complete Separate Ways on Standard mode with an <COL FILE>S+</COL> ran
+    Viet: Ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Standard vß╗¢i xß║┐p hß║íng <COL FILE>S
+  [OK] ao_mes_main_sys_bonus.msg.22 idx=92
+    Orig: Complete Separate Ways on Hardcore mode <COL FILE>or higher</COL>.
+    Viet: Ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Hardcore <COL FILE>hoß║╖c cao h╞ín</
+  [OK] ao_mes_main_sys_bonus.msg.22 idx=93
+    Orig: Complete Separate Ways on Hardcore mode <COL FILE>or higher</COL>
+with
+    Viet: Ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Hardcore <COL FILE>hoß║╖c cao h╞ín</
+  [OK] ao_mes_main_sys_bonus.msg.22 idx=94
+    Orig: Complete Separate Ways on Hardcore mode with an <COL FILE>S+</COL> ran
+    Viet: Ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Hardcore vß╗¢i xß║┐p hß║íng <COL FILE>S
+  [OK] ao_mes_main_sys_bonus.msg.22 idx=115
+    Orig: Unlock by completing Separate Ways on Assisted mode with an S+ rank.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Assisted vß╗¢i xß║┐
+  [OK] ao_mes_main_sys_bonus.msg.22 idx=116
+    Orig: Unlock by completing Separate Ways on Standard mode <COL FILE>or highe
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Standard <COL F
+  [OK] ao_mes_main_sys_bonus.msg.22 idx=117
+    Orig: Unlock by completing Separate Ways on Standard mode
+<COL FILE>or highe
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Standard <COL F
+  [OK] ao_mes_main_sys_bonus.msg.22 idx=118
+    Orig: Unlock by completing Separate Ways on Standard mode with an S+ rank.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Standard vß╗¢i xß║┐
+  [OK] ao_mes_main_sys_bonus.msg.22 idx=125
+    Orig: Unlock by completing Separate Ways on Hardcore mode <COL FILE>or highe
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Hardcore <COL F
+  [OK] ao_mes_main_sys_bonus.msg.22 idx=126
+    Orig: Unlock by completing Separate Ways on Hardcore mode
+<COL FILE>or highe
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Hardcore <COL F
+  [OK] ao_mes_main_sys_bonus.msg.22 idx=127
+    Orig: Unlock by completing Separate Ways on Hardcore mode with an S+ rank.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh Separate Ways tr├¬n chß║┐ ─æß╗Ö Hardcore vß╗¢i xß║┐
+  [OK] ao_mes_main_sys_common.msg.22 idx=5
+    Orig: ASSISTED
+    Viet: Hß╗û TRß╗ó
+  [OK] ao_mes_main_sys_common.msg.22 idx=6
+    Orig: STANDARD
+    Viet: TI├èU CHUß║¿N
+  [OK] ao_mes_main_sys_common.msg.22 idx=7
+    Orig: HARDCORE
+    Viet: Cß╗¿NG
+  [OK] ao_mes_main_sys_mainmenu.msg.22 idx=24
+    Orig: <CENTER>A game mode for players who want to experience the game at nor
+    Viet: <CENTER>Chß║┐ ─æß╗Ö tr├▓ ch╞íi cho ng╞░ß╗¥i ch╞íi muß╗æn trß║úi nghiß╗çm tr├▓ ch╞íi ß╗ƒ mß╗⌐c
+  [OK] ao_mes_main_sys_mainmenu.msg.22 idx=25
+    Orig: <CENTER>A game mode for players who want to experience the game at nor
+    Viet: <CENTER>Chß║┐ ─æß╗Ö tr├▓ ch╞íi cho ng╞░ß╗¥i ch╞íi muß╗æn trß║úi nghiß╗çm tr├▓ ch╞íi ß╗ƒ mß╗⌐c
+  [OK] ao_mes_main_tips.msg.22 idx=79
+    Orig: You can change the game's difficulty level from
+Standard to Assisted i
+    Viet: Bß║ín c├│ thß╗â thay ─æß╗òi mß╗⌐c ─æß╗Ö kh├│ cß╗ºa tr├▓ ch╞íi tß╗½
+Ti├¬u chuß║⌐n sang Hß╗ù trß╗ú 
+  [MISSING] dev1_term_menu.msg.22 idx=32
+    Orig: <COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_Difficulty_S
+    Viet: [EMPTY - CH╞»A Dß╗èCH]
+  [MISSING] dev1_term_menu.msg.22 idx=33
+    Orig: <COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_Difficulty_S
+    Viet: [EMPTY - CH╞»A Dß╗èCH]
+  [MISSING] dev1_term_menu.msg.22 idx=34
+    Orig: <COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_Difficulty_H
+    Viet: [EMPTY - CH╞»A Dß╗èCH]
+  [MISSING] dev1_term_menu.msg.22 idx=35
+    Orig: <COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_Difficulty_H
+    Viet: [EMPTY - CH╞»A Dß╗èCH]
+  [OK] ch_mes_main_conv_cp51.msg.22 idx=57
+    Orig: C'mon, what's taking so long?
+    Viet: N├áo, sao lß║íi l├óu thß║┐?
+  [OK] ch_mes_main_item_caption.msg.22 idx=26
+    Orig: A standard optical scope with two stages of
+magnification. Can be moun
+    Viet: Mß╗Öt k├¡nh ngß║»m quang hß╗ìc ti├¬u chuß║⌐n c├│ hai cß║Ñp ─æß╗Ö
+ph├│ng ─æß║íi. C├│ thß╗â gß║»n
+  [OK] ch_mes_main_item_caption.msg.22 idx=150
+    Orig: The standard attach├⌐ case with a size of 7x10.
+    Viet: Chiß║┐c hß╗Öp ─æß╗▒ng t├ái liß╗çu ti├¬u chuß║⌐n vß╗¢i k├¡ch th╞░ß╗¢c 7x10.
+  [OK] ch_mes_main_item_caption.msg.22 idx=254
+    Orig: An all stainless steel magnum. It has a
+laser sight mounted on top as 
+    Viet: Mß╗Öt loß║íi s├║ng ngß║»n magnum l├ám ho├án to├án bß║▒ng th├⌐p kh├┤ng gß╗ë. N├│ c├│ mß╗Öt 
+  [OK] ch_mes_main_sys_bonus.msg.22 idx=236
+    Orig: Complete the main story on Standard mode <COL FILE>or higher</COL>.
+    Viet: Ho├án th├ánh c├óu chuyß╗çn ch├¡nh ß╗ƒ chß║┐ ─æß╗Ö Ti├¬u chuß║⌐n <COL FILE>hoß║╖c cao h╞ín
+  [OK] ch_mes_main_sys_bonus.msg.22 idx=237
+    Orig: Complete the main story on Standard mode <COL FILE>or higher</COL>
+wit
+    Viet: Ho├án th├ánh c├óu chuyß╗çn ch├¡nh ß╗ƒ chß║┐ ─æß╗Ö Ti├¬u chuß║⌐n <COL FILE>hoß║╖c cao h╞ín
+  [OK] ch_mes_main_sys_bonus.msg.22 idx=238
+    Orig: Complete the main story on Standard mode with an <COL FILE>S+</COL> ra
+    Viet: Ho├án th├ánh c├óu chuyß╗çn ch├¡nh ß╗ƒ chß║┐ ─æß╗Ö Ti├¬u chuß║⌐n vß╗¢i xß║┐p hß║íng <COL FILE
+  [OK] ch_mes_main_sys_bonus.msg.22 idx=239
+    Orig: Complete the main story on Hardcore mode <COL FILE>or higher</COL>.
+    Viet: Ho├án th├ánh cß╗æt truyß╗çn ch├¡nh ß╗ƒ chß║┐ ─æß╗Ö Hardcore <COL FILE>hoß║╖c cao h╞ín</
+  [OK] ch_mes_main_sys_bonus.msg.22 idx=240
+    Orig: Complete the main story on Hardcore mode <COL FILE>or higher</COL>
+wit
+    Viet: Ho├án th├ánh cß╗æt truyß╗çn ch├¡nh ß╗ƒ chß║┐ ─æß╗Ö Hardcore <COL FILE>hoß║╖c cao h╞ín</
+  [OK] ch_mes_main_sys_bonus.msg.22 idx=241
+    Orig: Complete the main story on Hardcore mode with an <COL FILE>S+</COL> ra
+    Viet: Ho├án th├ánh cß╗æt truyß╗çn ch├¡nh ß╗ƒ chß║┐ ─æß╗Ö Hardcore vß╗¢i xß║┐p hß║íng <COL FILE>S
+  [OK] ch_mes_main_sys_bonus.msg.22 idx=293
+    Orig: Unlock by completing the main story on Standard mode <COL FILE>or high
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh cß╗æt truyß╗çn ch├¡nh ß╗ƒ chß║┐ ─æß╗Ö Ti├¬u chuß║⌐n <COL
+  [OK] ch_mes_main_sys_bonus.msg.22 idx=294
+    Orig: Unlock by completing the main story on Standard
+mode with an S+ rank.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh cß╗æt truyß╗çn ch├¡nh ß╗ƒ chß║┐ ─æß╗Ö Ti├¬u chuß║⌐n
+vß╗¢i 
+  [OK] ch_mes_main_sys_bonus.msg.22 idx=295
+    Orig: Unlock by completing the main story on Hardcore mode <COL FILE>or high
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh cß╗æt truyß╗çn ch├¡nh ß╗ƒ chß║┐ ─æß╗Ö Kh├│ <COL FILE>h
+  [OK] ch_mes_main_sys_bonus.msg.22 idx=296
+    Orig: Unlock by completing the main story on Hardcore
+mode with an S+ rank.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh cß╗æt truyß╗çn ch├¡nh ß╗ƒ chß║┐ ─æß╗Ö Kh├│
+vß╗¢i xß║┐p hß║ín
+  [OK] ch_mes_main_sys_bonus.msg.22 idx=299
+    Orig: Unlock by completing the main story on Assisted
+mode with an S+ rank.
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh cß╗æt truyß╗çn ch├¡nh ß╗ƒ chß║┐ ─æß╗Ö Hß╗ù trß╗ú
+vß╗¢i xß║┐p 
+  [OK] ch_mes_main_sys_bonus.msg.22 idx=304
+    Orig: Unlock by completing the main story on Standard mode
+<COL FILE>or high
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh cß╗æt truyß╗çn ch├¡nh ß╗ƒ chß║┐ ─æß╗Ö Ti├¬u chuß║⌐n
+<COL
+  [OK] ch_mes_main_sys_bonus.msg.22 idx=305
+    Orig: Unlock by completing the main story on Assisted mode
+<COL FILE>or high
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh cß╗æt truyß╗çn ch├¡nh ß╗ƒ chß║┐ ─æß╗Ö Hß╗ù trß╗ú
+<COL FIL
+  [OK] ch_mes_main_sys_bonus.msg.22 idx=306
+    Orig: Unlock by completing the main story on Hardcore mode
+<COL FILE>or high
+    Viet: Mß╗ƒ kh├│a bß║▒ng c├ích ho├án th├ánh c├óu chuyß╗çn ch├¡nh ß╗ƒ chß║┐ ─æß╗Ö Hardcore
+<COL F
+  [OK] ch_mes_main_sys_common.msg.22 idx=191
+    Orig: ASSISTED
+    Viet: ─É╞»ß╗óC Hß╗û TRß╗ó
+  [OK] ch_mes_main_sys_common.msg.22 idx=192
+    Orig: STANDARD
+    Viet: TI├èU CHUß║¿N
+  [OK] ch_mes_main_sys_common.msg.22 idx=193
+    Orig: HARDCORE
+    Viet: Cß╗¿NG
+  [OK] ch_mes_main_sys_credit.msg.22 idx=577
+    Orig: Standard QA Test Team
+    Viet: ─Éß╗Öi Kiß╗âm tra Chß║Ñt l╞░ß╗úng Ti├¬u chuß║⌐n
+  [OK] ch_mes_main_sys_generalguide.msg.22 idx=44
+    Orig: This setting is only available in Assisted and Standard game modes.
+    Viet: C├ái ─æß║╖t n├áy chß╗ë c├│ sß║╡n trong c├íc chß║┐ ─æß╗Ö tr├▓ ch╞íi Hß╗ù trß╗ú v├á Ti├¬u chuß║⌐n.
+  [OK] ch_mes_main_sys_mainmenu.msg.22 idx=70
+    Orig: <CENTER>For players who have not played Biohazard 4 (2005).</CENTER>
+
+
+    Viet: <CENTER>D├ánh cho ng╞░ß╗¥i ch╞íi ch╞░a tß╗½ng ch╞íi Biohazard 4 (2005).</CENTER
+  [OK] ch_mes_main_sys_mainmenu.msg.22 idx=71
+    Orig: <CENTER>For players who have not played Resident Evil 4 (2005).</CENTE
+    Viet: <CENTER>D├ánh cho ng╞░ß╗¥i ch╞íi ch╞░a tß╗½ng ch╞íi Resident Evil 4 (2005).</CE
+  [OK] ch_mes_main_sys_mainmenu.msg.22 idx=77
+    Orig: Would you like to change the game mode to Assisted?
+
+ΓÇô Aim assist is a
+    Viet: Bß║ín c├│ muß╗æn thay ─æß╗òi chß║┐ ─æß╗Ö tr├▓ ch╞íi th├ánh Hß╗ù trß╗ú kh├┤ng?
+
+ΓÇô Hß╗ù trß╗ú ngß║»
+  [OK] ch_mes_main_sys_mainmenu.msg.22 idx=79
+    Orig: Would you like to change the game mode to Standard?
+
+Note: Once change
+    Viet: Bß║ín c├│ muß╗æn thay ─æß╗òi chß║┐ ─æß╗Ö ch╞íi sang Ti├¬u chuß║⌐n?
+
+L╞░u ├╜: Mß╗Öt khi ─æ├ú t
+  [OK] ch_mes_main_sys_mainmenu.msg.22 idx=80
+    Orig: Game mode changed to Assisted.
+    Viet: Chß║┐ ─æß╗Ö ch╞íi ─æ├ú ─æ╞░ß╗úc thay ─æß╗òi sang Hß╗ù trß╗ú.
+  [OK] ch_mes_main_sys_mainmenu.msg.22 idx=81
+    Orig: Game mode changed to Standard.
+    Viet: Chß║┐ ─æß╗Ö ch╞íi ─æ├ú ─æ╞░ß╗úc thay ─æß╗òi sang Ti├¬u chuß║⌐n.
+  [OK] ch_mes_main_sys_purpose.msg.22 idx=3
+    Orig: See what's taking so long
+    Viet: Xem ─æiß╗üu g├¼ ─æang mß║Ñt nhiß╗üu thß╗¥i gian
+  [OK] ch_mes_main_sys_saveload.msg.22 idx=22
+    Orig: - ASSISTED -
+    Viet: - Hß╗û TRß╗ó -
+  [OK] ch_mes_main_sys_saveload.msg.22 idx=23
+    Orig: - STANDARD -
+    Viet: - TIß╗éU CHUß║¿N -
+  [OK] ch_mes_main_sys_saveload.msg.22 idx=24
+    Orig: - HARDCORE -
+    Viet: - CHß║╛ ─Éß╗ÿ KH├ô -
+  [OK] ch_mes_main_sys_shop.msg.22 idx=106
+    Orig: STANDARD POWER
+    Viet: C├öNG SUß║ñT TI├èU CHUß║¿N
+  [OK] ch_mes_main_tips.msg.22 idx=113
+    Orig: You can change the game's difficulty level from
+Standard to Assisted i
+    Viet: Bß║ín c├│ thß╗â thay ─æß╗òi mß╗⌐c ─æß╗Ö kh├│ cß╗ºa tr├▓ ch╞íi
+tß╗½ Ti├¬u chuß║⌐n sang Hß╗ù trß╗ú 
+
+=== [2] JSON files - t├¼m ASSISTED/STANDARD/HARDCORE ===
+  File: natives\stm\_anotherorder\message\mes_main_item\ao_mes_main_item_caption.msg.22.json
+  idx=3 slot=1: A standard optical scope with two stages of
+
+magnification. 
+  All slots: ['πâ⌐πéñπâòπâ½τ│╗πü½Φúàτ¥ÇπüºπüìπéïπÇé\r\nΣ╜ÄσÇìτÄçπü¬πüîπéë', 'A standard optical s', 'Une lunette optique ', 'Mirino ottico standa', 'Ein Standardzielfern', 'Mira ├│ptica est├índar']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+  idx=89 slot=1: Complete Separate Ways on Standard mode <COL FILE>or higher<
+  All slots: ['SEPARATE WAYSπü«πé▓πâ╝πâáπâóπâ╝πâë', 'Complete Separate Wa', 'Finir "Une autre voi', 'Termina "Strade dive', 'Schlie├ƒen Sie Separa', 'Completa "Caminos di']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+  idx=90 slot=1: Complete Separate Ways on Standard mode <COL FILE>or higher<
+  All slots: ['SEPARATE WAYSπü«πé▓πâ╝πâáπâóπâ╝πâë', 'Complete Separate Wa', 'Finir "Une autre voi', 'Termina "Strade dive', 'Schlie├ƒen Sie Separa', 'Completa "Caminos di']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+  idx=91 slot=1: Complete Separate Ways on Standard mode with an <COL FILE>S+
+  All slots: ['SEPARATE WAYSπü«πé▓πâ╝πâáπâóπâ╝πâë', 'Complete Separate Wa', 'Finir "Une autre voi', 'Termina "Strade dive', 'Schlie├ƒen Sie Separa', 'Completa "Caminos di']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+  idx=92 slot=1: Complete Separate Ways on Hardcore mode <COL FILE>or higher<
+  All slots: ['SEPARATE WAYSπü«πé▓πâ╝πâáπâóπâ╝πâë', 'Complete Separate Wa', 'Finir "Une autre voi', 'Termina "Strade dive', 'Schlie├ƒen Sie Separa', 'Completa "Caminos di']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+  idx=93 slot=1: Complete Separate Ways on Hardcore mode <COL FILE>or higher<
+  All slots: ['SEPARATE WAYSπü«πé▓πâ╝πâáπâóπâ╝πâë', 'Complete Separate Wa', 'Finir "Une autre voi', 'Termina "Strade dive', 'Schlie├ƒen Sie Separa', 'Completa "Caminos di']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+  idx=94 slot=1: Complete Separate Ways on Hardcore mode with an <COL FILE>S+
+  All slots: ['SEPARATE WAYSπü«πé▓πâ╝πâáπâóπâ╝πâë', 'Complete Separate Wa', 'Finir "Une autre voi', 'Termina "Strade dive', 'Schlie├ƒen Sie Separa', 'Completa "Caminos di']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+  idx=115 slot=1: Unlock by completing Separate Ways on Assisted mode with an 
+  All slots: ['SEPARATE WAYSπü«πé▓πâ╝πâáπâóπâ╝πâë', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+  idx=116 slot=1: Unlock by completing Separate Ways on Standard mode <COL FIL
+  All slots: ['SEPARATE WAYSπü«πé▓πâ╝πâáπâóπâ╝πâë', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+  idx=117 slot=1: Unlock by completing Separate Ways on Standard mode
+
+<COL FI
+  All slots: ['SEPARATE WAYSπü«πé▓πâ╝πâáπâóπâ╝πâë', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+  idx=118 slot=1: Unlock by completing Separate Ways on Standard mode with an 
+  All slots: ['SEPARATE WAYSπü«πé▓πâ╝πâáπâóπâ╝πâë', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+  idx=125 slot=1: Unlock by completing Separate Ways on Hardcore mode <COL FIL
+  All slots: ['SEPARATE WAYSπü«πé▓πâ╝πâáπâóπâ╝πâë', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+  idx=126 slot=1: Unlock by completing Separate Ways on Hardcore mode
+
+<COL FI
+  All slots: ['SEPARATE WAYSπü«πé▓πâ╝πâáπâóπâ╝πâë', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22.json
+  idx=127 slot=1: Unlock by completing Separate Ways on Hardcore mode with an 
+  All slots: ['SEPARATE WAYSπü«πé▓πâ╝πâáπâóπâ╝πâë', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_common.msg.22.json
+  idx=5 slot=1: ASSISTED
+  All slots: ['ASSISTED', 'ASSISTED', 'FACILE', 'ASSISTITA', 'ASSISTIERT', 'ASISTIDO']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_common.msg.22.json
+  idx=6 slot=1: STANDARD
+  All slots: ['STANDARD', 'STANDARD', 'STANDARD', 'NORMALE', 'STANDARD', 'EST├üNDAR']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_common.msg.22.json
+  idx=7 slot=1: HARDCORE
+  All slots: ['HARDCORE', 'HARDCORE', 'HARDCORE', 'ESTREMA', 'VETERAN', 'HARDCORE']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22.json
+  idx=24 slot=1: <CENTER>A game mode for players who want to experience the g
+  All slots: ['<CENTER>µ¿Öµ║ûτÜäπü¬Θ¢úµÿôσ║ªπÇé</CE', '<CENTER>A game mode ', '<CENTER>Pour les jou', '<CENTER>Per i giocat', '<CENTER>F├╝r jene, di', '<CENTER>Modo para aq']
+
+  File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22.json
+  idx=25 slot=1: <CENTER>A game mode for players who want to experience the g
+  All slots: ['<CENTER>µ¿Öµ║ûτÜäπü¬Θ¢úµÿôσ║ªπÇé</CE', '<CENTER>A game mode ', '<CENTER>Pour les jou', '<CENTER>Per i giocat', '<CENTER>F├╝r jene, di', '<CENTER>Modo para aq']
+
+  File: natives\stm\_anotherorder\message\mes_main_tips\ao_mes_main_tips.msg.22.json
+  idx=79 slot=1: You can change the game's difficulty level from
+
+Standard to
+  All slots: ['πé▓πâ╝πâáπé¬πâ╝πâÉπâ╝τö╗Θ¥óπüºπü»πÇüΘ¢úµÿôσ║ªπéÆσñëµ¢┤πüÖπéï', 'You can change the g', 'Vous pouvez passer d', 'Puoi abbassare il li', 'Auf dem Game-Over-Bi', 'Puedes cambiar la di']
+
+  File: natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22.json
+  idx=32 slot=1: <COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_Di
+  All slots: ['<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec']
+
+  File: natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22.json
+  idx=33 slot=1: <COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_Di
+  All slots: ['<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec']
+
+  File: natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22.json
+  idx=34 slot=1: <COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_Di
+  All slots: ['<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec']
+
+  File: natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22.json
+  idx=35 slot=1: <COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_StartMenu_Di
+  All slots: ['<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec', '<COLOR FF0000>#Rejec']
+
+  File: natives\stm\_chainsaw\message\mes_main_item\ch_mes_main_item_caption.msg.22.json
+  idx=26 slot=1: A standard optical scope with two stages of
+
+magnification. 
+  All slots: ['πâ⌐πéñπâòπâ½τ│╗πü¿Σ╕ÇΘâ¿πü«πâ₧πé╖πâ│πé¼πâ│πü½Φúàτ¥Çπüºπüìπéï', 'A standard optical s', 'Une lunette optique ', 'Mirino ottico standa', 'Ein Standardzielfern', 'Mira ├│ptica est├índar']
+
+  File: natives\stm\_chainsaw\message\mes_main_item\ch_mes_main_item_caption.msg.22.json
+  idx=150 slot=1: The standard attach├⌐ case with a size of 7x10.
+  All slots: ['7∩╜ÿ10 πü«σñºπüìπüòπü«πéóπé┐πââπé╖πéºπé▒πâ╝πé╣ ', 'The standard attach├⌐', 'La mallette standard', 'La valigetta standar', 'Der Standardaktenkof', 'Malet├¡n est├índar de ']
+
+  File: natives\stm\_chainsaw\message\mes_main_item\ch_mes_main_item_caption.msg.22.json
+  idx=254 slot=1: An all stainless steel magnum. It has a
+
+laser sight mounted
+  All slots: ['σà¿πé╣πâåπâ│πâ¼πé╣Φú╜πü«πâ₧πé░πâèπâáπÇé\r\nπâ¼πâ╝πé╢πâ╝πâ¥', 'An all stainless ste', 'Un magnum en acier i', 'Una magnum in acciai', 'Eine vollst├ñndig aus', 'Magnum de acero inox']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_bonus.msg.22.json
+  idx=236 slot=1: Complete the main story on Standard mode <COL FILE>or higher
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπÇîSTANDARDπÇì<COL', 'Complete the main st', "Finir l'histoire pri", 'Termina la storia pr', 'Schlie├ƒen Sie die Ha', 'Completa la historia']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_bonus.msg.22.json
+  idx=237 slot=1: Complete the main story on Standard mode <COL FILE>or higher
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπÇîSTANDARDπÇì<COL', 'Complete the main st', "Finir l'histoire pri", 'Termina la storia pr', 'Schlie├ƒen Sie die Ha', 'Completa la historia']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_bonus.msg.22.json
+  idx=238 slot=1: Complete the main story on Standard mode with an <COL FILE>S
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπÇîSTANDARDπÇìπéÆπé»πâ¬πéó', 'Complete the main st', "Finir l'histoire pri", 'Termina la storia pr', 'Schlie├ƒen Sie die Ha', 'Completa la historia']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_bonus.msg.22.json
+  idx=239 slot=1: Complete the main story on Hardcore mode <COL FILE>or higher
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπÇîHARDCOREπÇì<COL', 'Complete the main st', "Finir l'histoire pri", 'Termina la storia pr', 'Schlie├ƒen Sie die Ha', 'Completa la historia']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_bonus.msg.22.json
+  idx=240 slot=1: Complete the main story on Hardcore mode <COL FILE>or higher
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπÇîHARDCOREπÇì<COL', 'Complete the main st', "Finir l'histoire pri", 'Termina la storia pr', 'Schlie├ƒen Sie die Ha', 'Completa la historia']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_bonus.msg.22.json
+  idx=241 slot=1: Complete the main story on Hardcore mode with an <COL FILE>S
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπÇîHARDCOREπÇìπéÆπé»πâ¬πéó', 'Complete the main st', "Finir l'histoire pri", 'Termina la storia pr', 'Schlie├ƒen Sie die Ha', 'Completa la historia']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_bonus.msg.22.json
+  idx=293 slot=1: Unlock by completing the main story on Standard mode <COL FI
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπÇîSTANDARDπÇì<COL', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_bonus.msg.22.json
+  idx=294 slot=1: Unlock by completing the main story on Standard
+
+mode with a
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπÇîSTANDARDπÇìπéÆπé»πâ¬πéó', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_bonus.msg.22.json
+  idx=295 slot=1: Unlock by completing the main story on Hardcore mode <COL FI
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπÇîHARDCOREπÇì<COL', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_bonus.msg.22.json
+  idx=296 slot=1: Unlock by completing the main story on Hardcore
+
+mode with a
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπÇîHARDCOREπÇìπéÆπé»πâ¬πéó', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_bonus.msg.22.json
+  idx=299 slot=1: Unlock by completing the main story on Assisted
+
+mode with a
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπÇîASSISTEDπÇìπéÆπé»πâ¬πéó', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_bonus.msg.22.json
+  idx=304 slot=1: Unlock by completing the main story on Standard mode
+
+<COL F
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπÇîSTANDARDπÇì<COL', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_bonus.msg.22.json
+  idx=305 slot=1: Unlock by completing the main story on Assisted mode
+
+<COL F
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπÇîASSISTEDπÇì<COL', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_bonus.msg.22.json
+  idx=306 slot=1: Unlock by completing the main story on Hardcore mode
+
+<COL F
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπÇîHARDCOREπÇì<COL', 'Unlock by completing', 'D├⌐blocable en finiss', 'Sblocca completando ', 'Wird freigeschaltet,', 'Desbloqueado al comp']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_common.msg.22.json
+  idx=191 slot=1: ASSISTED
+  All slots: ['ASSISTED', 'ASSISTED', 'FACILE', 'ASSISTITA', 'ASSISTIERT', 'ASISTIDO']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_common.msg.22.json
+  idx=192 slot=1: STANDARD
+  All slots: ['STANDARD', 'STANDARD', 'STANDARD', 'NORMALE', 'STANDARD', 'EST├üNDAR']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_common.msg.22.json
+  idx=193 slot=1: HARDCORE
+  All slots: ['HARDCORE', 'HARDCORE', 'HARDCORE', 'ESTREMA', 'VETERAN', 'HARDCORE']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_credit.msg.22.json
+  idx=577 slot=1: Standard QA Test Team
+  All slots: ['Standard QA Test Tea', 'Standard QA Test Tea', 'Standard QA Test Tea', 'Standard QA Test Tea', 'Standard QA Test Tea', 'Standard QA Test Tea']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_generalguide.msg.22.json
+  idx=44 slot=1: This setting is only available in Assisted and Standard game
+  All slots: ['πüôπü«Θáàτ¢«πü»πé▓πâ╝πâáπâóπâ╝πâëπÇîASSISTED', 'This setting is only', "Cette option n'est d", 'Questa impostazione ', 'Diese Option ist nur', 'Esta opci├│n solo est']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_mainmenu.msg.22.json
+  idx=70 slot=1: <CENTER>For players who have not played Biohazard 4 (2005).<
+  All slots: ['<CENTER>µ¿Öµ║ûτÜäπü¬Θ¢úµÿôσ║ªπÇébioh', '<CENTER>For players ', '<CENTER>Pour les jou', '<CENTER>Per chi non ', '<CENTER>F├╝r jene, di', '<CENTER>Para aquello']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_mainmenu.msg.22.json
+  idx=71 slot=1: <CENTER>For players who have not played Resident Evil 4 (200
+  All slots: ['<CENTER>µ¿Öµ║ûτÜäπü¬Θ¢úµÿôσ║ªπÇéresi', '<CENTER>For players ', '<CENTER>Pour les jou', '<CENTER>Per chi non ', '<CENTER>F├╝r jene, di', '<CENTER>Para aquello']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_mainmenu.msg.22.json
+  idx=77 slot=1: Would you like to change the game mode to Assisted?
+
+
+
+ΓÇô Aim
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπéÆπÇîASSISTEDπÇìπü½σñëµ¢┤', 'Would you like to ch', 'Voulez-vous continue', 'Cambiare la modalit├á', 'M├╢chten Sie den Spie', '┬┐Quieres cambiar el ']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_mainmenu.msg.22.json
+  idx=79 slot=1: Would you like to change the game mode to Standard?
+
+
+
+Note:
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπéÆπÇîSTANDARDπÇìπü½σñëµ¢┤', 'Would you like to ch', 'Voulez-vous continue', 'Vuoi cambiare la mod', 'M├╢chten Sie den Spie', '┬┐Quieres cambiar al ']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_mainmenu.msg.22.json
+  idx=80 slot=1: Game mode changed to Assisted.
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπéÆπÇîASSISTEDπÇìπü½σñëµ¢┤', 'Game mode changed to', 'Vous jouez d├⌐sormais', 'Modalit├á di gioco ca', 'Der Spielmodus wurde', 'Modo de juego cambia']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_mainmenu.msg.22.json
+  idx=81 slot=1: Game mode changed to Standard.
+  All slots: ['πé▓πâ╝πâáπâóπâ╝πâëπéÆπÇîSTANDARDπÇìπü½σñëµ¢┤', 'Game mode changed to', 'Vous jouez d├⌐sormais', 'Modalit├á di gioco ca', 'Der Spielmodus wurde', 'Modo de juego cambia']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_saveload.msg.22.json
+  idx=22 slot=1: - ASSISTED -
+  All slots: ['-ASSISTED-', '- ASSISTED -', '- FACILE -', '- ASSISTITA -', '- ASSISTIERT -', 'ASISTIDO']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_saveload.msg.22.json
+  idx=23 slot=1: - STANDARD -
+  All slots: ['-STANDARD-', '- STANDARD -', '- STANDARD -', '- NORMALE -', '- STANDARD -', 'EST├üNDAR']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_saveload.msg.22.json
+  idx=24 slot=1: - HARDCORE -
+  All slots: ['-HARDCORE-', '- HARDCORE -', '- HARDCORE -', '- ESTREMA -', '- VETERAN -', 'HARDCORE']
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_shop.msg.22.json
+  idx=106 slot=1: STANDARD POWER
+  All slots: ['STANDARD POWER', 'STANDARD POWER', 'PUISSANCE STANDARD', 'POTENZA STANDARD', 'STANDARD', 'POTENCIA EST├üNDAR']
+
+  File: natives\stm\_chainsaw\message\mes_main_tips\ch_mes_main_tips.msg.22.json
+  idx=113 slot=1: You can change the game's difficulty level from
+
+Standard to
+  All slots: ['πé▓πâ╝πâáπé¬πâ╝πâÉπâ╝τö╗Θ¥óπüºπü»πÇüΘ¢úµÿôσ║ªπéÆσñëµ¢┤πüÖπéï', 'You can change the g', 'Vous pouvez passer d', 'Puoi abbassare il li', 'Auf dem Game-Over-Bi', 'Puedes cambiar la di']
+
+
+=== [3] JSON files - t├¼m subtitle 'taking so long' ===
+  File: natives\stm\_chainsaw\message\mes_main_conv\ch_mes_main_conv_cp51.msg.22.json
+  idx=57 name=CH_Mes_Main_Conv_cp51_0008_0010_cha000
+    slot[0]=πüèπüä πü╛πüáπü¬πü«πüïΓÇª∩╝ü
+    slot[1]=C'mon, what's taking so long?
+    slot[2]=Allez, pourquoi c'est si long ?
+    slot[3]=Perch├⌐ ci mette cos├¼ tanto?
+    slot[4]=Komm schon, warum dauert das so lang?
+    slot[5]=Venga ya, ┬┐por qu├⌐ tarda tanto?
+    slot[6]=╨¥╤â ╨╢╨╡, ╤ç╨╡╨│╨╛ ╤é╨░╨║ ╨┤╨╛╨╗╨│╨╛?
+    slot[7]=No kurde, co tak d┼éugo?
+    slot[10]=Porra, por que t├í demorando tanto?
+    slot[11]=∞û┤∞ä£, δ¡ÉΩ░Ç ∞¥┤δáçΩ▓î ∞ÿñδ₧ÿ Ω▒╕δáñ?
+    slot[12]=τé║Σ╗ÇΘ║╝ΦªüΦè▒ΘÇÖΘ║╝Σ╣àσòè∩╝ƒ
+    slot[13]=Σ╕║Σ╗ÇΣ╣êΦªüΦè▒Φ┐ÖΣ╣êΣ╣àσòè∩╝ƒ
+    slot[21]=╪¿╪¡┘é┘â╪î ┘ä┘à┘Ä ┘è╪│╪¬╪║╪▒┘é ╪º┘ä╪ú┘à╪▒ ┘â┘ä ┘ç╪░╪º ╪º┘ä┘ê┘é╪¬╪ƒ
+    slot[32]=Vamos, ┬┐por qu├⌐ tarda tanto?
+
+  File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_purpose.msg.22.json
+  idx=3 name=CH_Mes_Main_Sys_Purpose_1101
+    slot[0]=Φ¡ªσ«ÿπéÆµÄóπüÖ
+    slot[1]=See what's taking so long
+    slot[2]=Chercher le policier
+    slot[3]=Cerca l'agente di polizia
+    slot[4]=Den Polizisten suchen
+    slot[5]=Busca al polic├¡a
+    slot[6]=╨Æ╤ï╤Å╤ü╨╜╨╕╤é╨╡, ╨▓ ╤ç╤æ╨╝ ╨┤╨╡╨╗╨╛
+    slot[7]=Zobacz, co tyle trwa
+    slot[10]=Veja por que est├í demorando tanto
+    slot[11]=Ω▓╜∞░░Ω┤Ç∞¥ÿ ∞âüφÖ⌐∞¥ä δ│┤δƒ¼ Ω░äδïñ
+    slot[12]=σ░ïµë╛Φ¡ªσ«ÿ
+    slot[13]=σ»╗µë╛µ£¬σ╜ÆτÜäΦ¡ªσ»ƒ
+    slot[21]=┘è╪¼╪¿ ┘à╪╣╪▒┘ü╪⌐ ┘ä┘à┘Ä ┘è╪│╪¬╪║╪▒┘é ┘â┘ä ┘ç╪░╪º ╪º┘ä┘ê┘é╪¬
+    slot[32]=Busca al polic├¡a
+

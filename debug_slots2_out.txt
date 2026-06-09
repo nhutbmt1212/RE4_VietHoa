@@ -1,0 +1,151 @@
+﻿=== dev1_term_menu.msg.22 - Entry EXIT (idx=27) ===
+name: Dev1_Term_Menu_StartMenu_Exit
+  slot[ 0] = 'EXIT'
+  slot[ 1] = 'Quit'
+  slot[ 2] = 'Quitter'
+  slot[ 3] = 'Esci'
+  slot[ 4] = 'Beenden'
+  slot[ 5] = 'SALIR'
+  slot[ 6] = '╨Æ╤ï╨╣╤é╨╕'
+  slot[ 7] = 'Wyjd┼║'
+  slot[ 8] = (empty)
+  slot[ 9] = (empty)
+  slot[10] = 'Sair'
+  slot[11] = '∞óàδúî'
+  slot[12] = 'ΘÇÇσç║'
+  slot[13] = 'ΘÇÇσç║µ╕╕µêÅ'
+  slot[14] = (empty)
+  slot[15] = (empty)
+  slot[16] = (empty)
+  slot[17] = (empty)
+  slot[18] = (empty)
+  slot[19] = (empty)
+  slot[20] = (empty)
+  slot[21] = '┘à╪║╪º╪»╪▒╪⌐'
+  slot[22] = (empty)
+  slot[23] = (empty)
+  slot[24] = (empty)
+  slot[25] = (empty)
+  slot[26] = (empty)
+  slot[27] = (empty)
+  slot[28] = (empty)
+  slot[29] = (empty)
+  slot[30] = (empty)
+  slot[31] = (empty)
+  slot[32] = (empty)
+
+=== ch_mes_main_sys_mainmenu.msg.22 - To├án bß╗Ö entries ===
+Total: 107 entries
+  idx=  0 name=CH_Mes_Main_Sys_MainMenu_Copyright
+         [0]='┬⌐CAPCOM CO., LTD. 20' | [1]='┬⌐CAPCOM CO., LTD. 20' | [2]='┬⌐CAPCOM CO., LTD. 20' | [3]='┬⌐CAPCOM CO., LTD. 20' | [4]='┬⌐CAPCOM CO., LTD. 20'
+  idx=  1 name=CH_Mes_Main_Sys_MainMenu_Start
+         [0]='<REF Dev1_Term_Menu_' | [1]='<REF Dev1_Term_Menu_' | [2]='<REF Dev1_Term_Menu_' | [3]='<REF Dev1_Term_Menu_' | [4]='<REF Dev1_Term_Menu_'
+  idx=  2 name=CH_Mes_Main_Sys_MainMenu_Play
+         [0]='MAIN STORY' | [1]='MAIN STORY' | [2]='HISTOIRE PRINCIPALE' | [3]='STORIA PRINCIPALE' | [4]='HAUPTSTORY'
+  idx=  3 name=CH_Mes_Main_Sys_MainMenu_Bouns
+         [0]='<REF Dev1_Term_Menu_' | [1]='<REF Dev1_Term_Menu_' | [2]='<REF Dev1_Term_Menu_' | [3]='<REF Dev1_Term_Menu_' | [4]='<REF Dev1_Term_Menu_'
+  idx=  4 name=CH_Mes_Main_Sys_MainMenu_Extra
+         [0]='<COLOR FF0000>#Rejec' | [1]='<COLOR FF0000>#Rejec' | [2]='<COLOR FF0000>#Rejec' | [3]='<COLOR FF0000>#Rejec' | [4]='<COLOR FF0000>#Rejec'
+  idx=  5 name=CH_Mes_Main_Sys_MainMenu_OnlineStore_PS4
+         [0]='<REF Dev1_Term_Store' | [1]='<REF Dev1_Term_Store' | [2]='<REF Dev1_Term_Store' | [3]='<REF Dev1_Term_Store' | [4]='<REF Dev1_Term_Store'
+  idx=  6 name=CH_Mes_Main_Sys_MainMenu_OnlineStore_Xone
+         [0]='<REF Dev1_Term_Store' | [1]='<REF Dev1_Term_Store' | [2]='<REF Dev1_Term_Store' | [3]='<REF Dev1_Term_Store' | [4]='<REF Dev1_Term_Store'
+  idx=  7 name=CH_Mes_Main_Sys_MainMenu_OnlineStore
+         [0]='<REF Dev1_Term_Store' | [1]='<REF Dev1_Term_Store' | [2]='<REF Dev1_Term_Store' | [3]='<REF Dev1_Term_Store' | [4]='<REF Dev1_Term_Store'
+  idx=  8 name=CH_Mes_Main_Sys_MainMenu_OnlineStore_PS4_Requiem_J
+         [0]='<REF Dev1_Term_Store' | [1]='<REF Dev1_Term_Store' | [2]='<REF Dev1_Term_Store' | [3]='<REF Dev1_Term_Store' | [4]='<REF Dev1_Term_Store'
+  idx=  9 name=CH_Mes_Main_Sys_MainMenu_OnlineStore_PS4_Requiem_N
+         [0]='<REF Dev1_Term_Store' | [1]='<REF Dev1_Term_Store' | [2]='<REF Dev1_Term_Store' | [3]='<REF Dev1_Term_Store' | [4]='<REF Dev1_Term_Store'
+  idx= 10 name=CH_Mes_Main_Sys_MainMenu_OnlineStore_Xone_Requiem_
+         [0]='<REF Dev1_Term_Store' | [1]='<REF Dev1_Term_Store' | [2]='<REF Dev1_Term_Store' | [3]='<REF Dev1_Term_Store' | [4]='<REF Dev1_Term_Store'
+  idx= 11 name=CH_Mes_Main_Sys_MainMenu_OnlineStore_Xone_Requiem_
+         [0]='<REF Dev1_Term_Store' | [1]='<REF Dev1_Term_Store' | [2]='<REF Dev1_Term_Store' | [3]='<REF Dev1_Term_Store' | [4]='<REF Dev1_Term_Store'
+  idx= 12 name=CH_Mes_Main_Sys_MainMenu_OnlineStore_Requiem_JP
+         [0]='<REF Dev1_Term_Store' | [1]='<REF Dev1_Term_Store' | [2]='<REF Dev1_Term_Store' | [3]='<REF Dev1_Term_Store' | [4]='<REF Dev1_Term_Store'
+  idx= 13 name=CH_Mes_Main_Sys_MainMenu_OnlineStore_Requiem_NJP
+         [0]='<REF Dev1_Term_Store' | [1]='<REF Dev1_Term_Store' | [2]='<REF Dev1_Term_Store' | [3]='<REF Dev1_Term_Store' | [4]='<REF Dev1_Term_Store'
+  idx= 14 name=CH_Mes_Main_Sys_MainMenu_Option
+         [0]='<REF Dev1_Term_Menu_' | [1]='<REF Dev1_Term_Menu_' | [2]='<REF Dev1_Term_Menu_' | [3]='<REF Dev1_Term_Menu_' | [4]='<REF Dev1_Term_Menu_'
+
+=== ao_mes_main_sys_mainmenu.msg.22 - Entry SEPARATE WAYS (idx=0) ===
+name: AO_Mes_Main_Sys_MainMenu_GameTitle
+  slot[ 0] = 'SEPARATE WAYS'
+  slot[ 1] = 'SEPARATE WAYS'
+  slot[ 2] = 'UNE AUTRE VOIE'
+  slot[ 3] = 'STRADE DIVERSE'
+  slot[ 4] = 'SEPARATE WAYS'
+  slot[ 5] = 'CAMINOS DISTINTOS'
+  slot[ 6] = '╨ö╨Æ╨É ╨ƒ╨ú╨ó╨ÿ'
+  slot[ 7] = 'SEPARATE WAYS'
+  slot[ 8] = (empty)
+  slot[ 9] = (empty)
+  slot[10] = 'CAMINHOS DISTINTOS'
+  slot[11] = '∞ä╕φì╝δáê∞¥┤φè╕ ∞¢¿∞¥┤∞ªê'
+  slot[12] = 'ΘÇåσæ╜µ«èΘÇö'
+  slot[13] = 'ΘÇåσæ╜µ«èΘÇö'
+  slot[14] = (empty)
+  slot[15] = (empty)
+  slot[16] = (empty)
+  slot[17] = (empty)
+  slot[18] = (empty)
+  slot[19] = (empty)
+  slot[20] = (empty)
+  slot[21] = '╪º┘ü╪¬╪▒╪º┘é ╪º┘ä╪╖╪▒┘é'
+  slot[22] = (empty)
+  slot[23] = (empty)
+  slot[24] = (empty)
+  slot[25] = (empty)
+  slot[26] = (empty)
+  slot[27] = (empty)
+  slot[28] = (empty)
+  slot[29] = (empty)
+  slot[30] = (empty)
+  slot[31] = (empty)
+  slot[32] = 'CAMINOS SEPARADOS'
+
+=== mc_mes_main_sys_mainmenu.msg.22 - Entry THE MERCENARIES (idx=0) ===
+name: MC_Mes_Main_Sys_MainMenu_GameTitle
+  slot[ 0] = 'THE MERCENARIES'
+  slot[ 1] = 'THE MERCENARIES'
+  slot[ 2] = 'MERCENAIRES'
+  slot[ 3] = 'MERCENARI'
+  slot[ 4] = 'THE MERCENARIES'
+  slot[ 5] = 'MERCENARIOS'
+  slot[ 6] = 'THE MERCENARIES'
+  slot[ 7] = 'THE MERCENARIES'
+  slot[ 8] = (empty)
+  slot[ 9] = (empty)
+  slot[10] = 'OS MERCEN├üRIOS'
+  slot[11] = 'δìö δ¿╕∞ä£δäêδª¼∞ªê'
+  slot[12] = 'σé¡σà╡µ¿íσ╝Å'
+  slot[13] = 'Σ╜úσà╡µ¿íσ╝Å'
+  slot[14] = (empty)
+  slot[15] = (empty)
+  slot[16] = (empty)
+  slot[17] = (empty)
+  slot[18] = (empty)
+  slot[19] = (empty)
+  slot[20] = (empty)
+  slot[21] = '╪º┘ä┘à╪▒╪¬╪▓┘é╪⌐'
+  slot[22] = (empty)
+  slot[23] = (empty)
+  slot[24] = (empty)
+  slot[25] = (empty)
+  slot[26] = (empty)
+  slot[27] = (empty)
+  slot[28] = (empty)
+  slot[29] = (empty)
+  slot[30] = (empty)
+  slot[31] = (empty)
+  slot[32] = 'LOS MERCENARIOS'
+
+=== KIß╗éM TRA: Import_translation ghi v├áo slot n├áo? ===
+Logic: ghi ─æ├¿ Tß║ñT Cß║ó slot != empty
+Vß║Ñn ─æß╗ü: nß║┐u slot 1 (English) = empty, nh╞░ng slot 0 (Japanese) c├│ text
+th├¼ game sß║╜ fallback sang slot 1 (English) = empty -> hiß╗ân thß╗ï g├¼?
+
+QUAN TRß╗îNG: Game RE4 Remake d├╣ng slot n├áo cho 'kh├┤ng c├│ ng├┤n ngß╗» n├áy'?
+
+=== msg.22 metadata (nß║┐u c├│) ===
+JSON keys: ['version', 'languages', 'attribute_headers', 'entries']
+languages: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]

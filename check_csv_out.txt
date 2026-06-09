@@ -1,0 +1,41 @@
+File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22 | Index: 0 | Eng: SEPARATE WAYS | Viet: CÁCH LY
+File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_bonus.msg.22 | Index: 102 | Eng: SEPARATE WAYS | Viet: ĐƯỜNG ĐI RIÊNG BIỆT
+File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_generalguide.msg.22 | Index: 11 | Eng: Control type that changes "Crouch" from Type A-1. | Viet: Loại điều khiển thay đổi "Quỳ" từ Loại A-1.
+File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_generalguide.msg.22 | Index: 12 | Eng: Control type that changes "Crouch" from Type A-1. | Viet: Loại điều khiển thay đổi "Quỳ" từ Loại A-1.
+File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_generalguide.msg.22 | Index: 13 | Eng: Control type that changes "Crouch" from Type B-1. | Viet: Loại điều khiển thay đổi "Crouch" từ Loại B-1.
+File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_generalguide.msg.22 | Index: 14 | Eng: Control type that changes "Crouch" from Type B-1. | Viet: Loại điều khiển thay đổi "Crouch" từ Loại B-1.
+File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_generalguide.msg.22 | Index: 15 | Eng: Control type that changes "Crouch" from Type C-1. | Viet: Loại điều khiển thay đổi "Crouch" từ Loại C-1.
+File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_generalguide.msg.22 | Index: 16 | Eng: Control type that changes "Crouch" from Type C-1. | Viet: Loại điều khiển thay đổi "Crouch" từ Loại C-1.
+File: natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22 | Index: 0 | Eng: SEPARATE WAYS | Viet: CÁCH LY
+File: natives\stm\_anotherorder\message\mes_main_tips\ao_mes_main_tips.msg.22 | Index: 68 | Eng: Crouching | Viet: Cúi người
+File: natives\stm\_anotherorder\message\mes_main_tips\ao_mes_main_tips.msg.22 | Index: 132 | Eng: Zealots: Crouch Dodging | Viet: Những Người Cuồng Tín: Lăn Trên Mặt Đất
+File: natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22 | Index: 115 | Eng: <COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_ControllerSetting_Crouch_Stand | Viet: 
+File: natives\stm\_chainsaw\message\dev1_term\dev1_term_pcoption.msg.22 | Index: 40 | Eng: Crouch/Stand | Viet: Cúi/Đứng
+File: natives\stm\_chainsaw\message\mes_develop_misc\ch_mes_develop_ao.msg.22 | Index: 0 | Eng: SEPARATE WAYS | Viet: CÁCH RIÊNG BIỆT
+File: natives\stm\_chainsaw\message\mes_main_file\ch_mes_main_file_038.msg.22 | Index: 0 | Eng: Crude Charm | Viet: Vật trang trí thô sơ
+File: natives\stm\_chainsaw\message\mes_main_file\ch_mes_main_file_038.msg.22 | Index: 1 | Eng: "Judgment is Nigh" | Viet: "Phán quyết đang đến"
+File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_activity.msg.22 | Index: 78 | Eng: The enemy down in the dungeons is sensitive to sound. Crouch to move more quietly while you search the area. | Viet: Kẻ thù trong các ngục tối rất nhạy cảm với âm thanh. Quỳ để di chuyển im lặng hơn trong khi bạn tìm kiếm khu vực.
+File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_generalguide.msg.22 | Index: 53 | Eng: Control type that switches "Crouch" and "Command Partner" from Type A-1. | Viet: Loại điều khiển chuyển "Crouch" và "Command Partner" từ Loại A-1.
+File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_generalguide.msg.22 | Index: 54 | Eng: Control type that switches "Crouch" and "Command Partner" from Type A-1. | Viet: Loại điều khiển chuyển "Crouch" và "Command Partner" từ Loại A-1.
+File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_generalguide.msg.22 | Index: 55 | Eng: Control type that switches "Crouch" and "Command Partner" from Type B-1. | Viet: Loại điều khiển chuyển "Crouch" và "Command Partner" từ Loại B-1.
+File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_generalguide.msg.22 | Index: 56 | Eng: Control type that switches "Crouch" and "Command Partner" from Type B-1. | Viet: Loại điều khiển chuyển "Crouch" và "Command Partner" từ Loại B-1.
+File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_generalguide.msg.22 | Index: 59 | Eng: Control type that switches "Crouch" and "Command Partner" from Type C-1. | Viet: Loại điều khiển chuyển "Crouch" và "Command Partner" từ Loại C-1.
+File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_generalguide.msg.22 | Index: 60 | Eng: Control type that switches "Crouch" and "Command Partner" from Type C-1. | Viet: Loại điều khiển chuyển "Crouch" và "Command Partner" từ Loại C-1.
+File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_option.msg.22 | Index: 16 | Eng: Crouch Type | Viet: Loại cúi người
+File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_option.msg.22 | Index: 42 | Eng: <ICON QUICK_TURN-FIX> (Crouch) | Viet: <ICON QUICK_TURN-FIX> (Quỳ)
+File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_option.msg.22 | Index: 285 | Eng: Crouch | Viet: Cúi người
+File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_pc.msg.22 | Index: 299 | Eng: Crouch/Stand/Evade | Viet: Quỳ/Đứng/Tránh
+File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_tutorial.msg.22 | Index: 11 | Eng: <ICON CROUCH> Crouch / Stand | Viet: <ICON CROUCH> Quỳ / Đứng
+File: natives\stm\_chainsaw\message\mes_main_tips\ch_mes_main_tips.msg.22 | Index: 92 | Eng: Crouching | Viet: Quỳ
+File: natives\stm\_chainsaw\message\mes_main_tips\ch_mes_main_tips.msg.22 | Index: 124 | Eng: Crouch Dodging | Viet: Lăn tránh khi cúi
+File: natives\stm\_chainsaw\message\mes_main_tips\ch_mes_main_tips.msg.22 | Index: 286 | Eng: Moving While Crouching | Viet: Di chuyển trong tư thế quỳ
+File: natives\stm\_chainsaw\message\tu\mes_tu0003_sys.msg.22 | Index: 5 | Eng: SEPARATE WAYS | Viet: CON ĐƯỜNG RIÊNG
+File: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_generalguide.msg.22 | Index: 5 | Eng: Control type that changes "Crouch" from Type A-1. | Viet: Kiểu điều khiển thay đổi "Quỳ" từ Loại A-1.
+File: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_generalguide.msg.22 | Index: 6 | Eng: Control type that changes "Crouch" from Type A-1. | Viet: Kiểu điều khiển thay đổi "Quỳ" từ Loại A-1.
+File: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_generalguide.msg.22 | Index: 7 | Eng: Control type that changes "Crouch" from Type B-1. | Viet: Kiểu điều khiển thay đổi "Quỳ" từ Loại B-1.
+File: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_generalguide.msg.22 | Index: 8 | Eng: Control type that changes "Crouch" from Type B-1. | Viet: Kiểu điều khiển thay đổi "Quỳ" từ Loại B-1.
+File: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_generalguide.msg.22 | Index: 9 | Eng: Control type that changes "Crouch" from Type C-1. | Viet: Loại điều khiển thay đổi "Crouch" từ Loại C-1.
+File: natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_generalguide.msg.22 | Index: 10 | Eng: Control type that changes "Crouch" from Type C-1. | Viet: Loại điều khiển thay đổi "Crouch" từ Loại C-1.
+File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_tutorial.msg.22 | Index: 11 | Eng: <ICON CROUCH> Crouch / Stand | Viet: <ICON CROUCH> Ngồi / Đứng
+File: natives\stm\_chainsaw\message\mes_main_file\ch_mes_main_file_038.msg.22 | Index: 0 | Eng: Crude Charm | Viet: Bùa thô
+File: natives\stm\_chainsaw\message\mes_main_file\ch_mes_main_file_038.msg.22 | Index: 1 | Eng: "Judgment is Nigh" | Viet: "Sự phán xét đã cận kề"

@@ -1,0 +1,20 @@
+﻿Target hashes:
+  7CAEFB85040CABA0 : ch_mes_main_sys_common.msg.22
+  1B1351150139F31B : ch_mes_main_sys_purpose.msg.22
+  00223802BF5B6BB9 : ch_mes_main_conv_cp51.msg.22
+  31A92E2AF50DEF6C : ch_mes_main_sys_mainmenu.msg.22
+  F3E4A5BDD01DD2BF : dev1_term_menu.msg.22
+
+patch_005.pak: none of target files found
+patch_004.pak: none of target files found
+patch_003.pak: none of target files found
+patch_002.pak: none of target files found
+patch_001.pak: none of target files found
+
+=== Kß║╛T LUß║¼N ===
+Nß║┐u c├íc file tr├¬n nß║▒m trong patch_001~005, game d├╣ng patch_006 cß╗ºa ch├║ng ta
+  (patch sß╗æ cao h╞ín = ╞░u ti├¬n cao h╞ín)
+
+Nß║┐u KH├öNG t├¼m thß║Ñy trong patch_001~005:
+  -> hash cß╗ºa ch├║ng ta t├¡nh ─É├ÜNG nh╞░ng game vß║½n lß║Ñy tß╗½ main pak
+  -> C├│ thß╗â cß║ºn kiß╗âm tra lß║íi encoding cß╗ºa path string trong hash

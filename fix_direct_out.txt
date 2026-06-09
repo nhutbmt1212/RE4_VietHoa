@@ -1,0 +1,131 @@
+﻿Files to fix: 5
+
+Processing: mc_mes_main_sys_mainmenu.msg.22
+  idx=0 (MC_Mes_Main_Sys_MainMenu_GameTitle)
+    slot[0]: 'THE MERCENARIES' -> 'L├ìNH ─É├üNH THU├è'
+    slot[1]: 'THE MERCENARIES' -> 'L├ìNH ─É├üNH THU├è'
+    slot[2]: 'MERCENAIRES' -> 'L├ìNH ─É├üNH THU├è'
+    slot[3]: 'MERCENARI' -> 'L├ìNH ─É├üNH THU├è'
+    slot[4]: 'THE MERCENARIES' -> 'L├ìNH ─É├üNH THU├è'
+    slot[5]: 'MERCENARIOS' -> 'L├ìNH ─É├üNH THU├è'
+    slot[6]: 'THE MERCENARIES' -> 'L├ìNH ─É├üNH THU├è'
+    slot[7]: 'THE MERCENARIES' -> 'L├ìNH ─É├üNH THU├è'
+    slot[10]: 'OS MERCEN├üRIOS' -> 'L├ìNH ─É├üNH THU├è'
+    slot[11]: 'δìö δ¿╕∞ä£δäêδª¼∞ªê' -> 'L├ìNH ─É├üNH THU├è'
+    slot[12]: 'σé¡σà╡µ¿íσ╝Å' -> 'L├ìNH ─É├üNH THU├è'
+    slot[13]: 'Σ╜úσà╡µ¿íσ╝Å' -> 'L├ìNH ─É├üNH THU├è'
+    slot[21]: '╪º┘ä┘à╪▒╪¬╪▓┘é╪⌐' -> 'L├ìNH ─É├üNH THU├è'
+    slot[32]: 'LOS MERCENARIOS' -> 'L├ìNH ─É├üNH THU├è'
+  Compiled: 56,556 bytes
+  [NEW LOOSE FILE] d:\Games\Resident Evil 4\natives\stm\_mercenaries\message\mes_main_sys\mc_mes_main_sys_mainmenu.msg.22
+
+Processing: ao_mes_main_sys_mainmenu.msg.22
+  idx=0 (AO_Mes_Main_Sys_MainMenu_GameTitle)
+    slot[0]: 'SEPARATE WAYS' -> 'CON ─É╞»ß╗£NG RI├èNG'
+    slot[1]: 'SEPARATE WAYS' -> 'CON ─É╞»ß╗£NG RI├èNG'
+    slot[2]: 'UNE AUTRE VOIE' -> 'CON ─É╞»ß╗£NG RI├èNG'
+    slot[3]: 'STRADE DIVERSE' -> 'CON ─É╞»ß╗£NG RI├èNG'
+    slot[4]: 'SEPARATE WAYS' -> 'CON ─É╞»ß╗£NG RI├èNG'
+    slot[5]: 'CAMINOS DISTINTOS' -> 'CON ─É╞»ß╗£NG RI├èNG'
+    slot[6]: '╨ö╨Æ╨É ╨ƒ╨ú╨ó╨ÿ' -> 'CON ─É╞»ß╗£NG RI├èNG'
+    slot[7]: 'SEPARATE WAYS' -> 'CON ─É╞»ß╗£NG RI├èNG'
+    slot[10]: 'CAMINHOS DISTINTOS' -> 'CON ─É╞»ß╗£NG RI├èNG'
+    slot[11]: '∞ä╕φì╝δáê∞¥┤φè╕ ∞¢¿∞¥┤∞ªê' -> 'CON ─É╞»ß╗£NG RI├èNG'
+    slot[12]: 'ΘÇåσæ╜µ«èΘÇö' -> 'CON ─É╞»ß╗£NG RI├èNG'
+    slot[13]: 'ΘÇåσæ╜µ«èΘÇö' -> 'CON ─É╞»ß╗£NG RI├èNG'
+    slot[21]: '╪º┘ü╪¬╪▒╪º┘é ╪º┘ä╪╖╪▒┘é' -> 'CON ─É╞»ß╗£NG RI├èNG'
+    slot[32]: 'CAMINOS SEPARADOS' -> 'CON ─É╞»ß╗£NG RI├èNG'
+  Compiled: 53,938 bytes
+  [NEW LOOSE FILE] d:\Games\Resident Evil 4\natives\stm\_anotherorder\message\mes_main_sys\ao_mes_main_sys_mainmenu.msg.22
+
+Processing: dev1_term_menu.msg.22
+  idx=65 (Dev1_Term_Menu_MainMenu_QuitGame)
+    slot[0]: 'QUIT GAME' -> 'THO├üT'
+    slot[1]: 'QUIT GAME' -> 'THO├üT'
+    slot[2]: 'QUITTER' -> 'THO├üT'
+    slot[3]: 'ESCI DAL GIOCO' -> 'THO├üT'
+    slot[4]: 'SPIEL BEENDEN' -> 'THO├üT'
+    slot[5]: 'SALIR' -> 'THO├üT'
+    slot[6]: '╨Æ╨½╨Ö╨ó╨ÿ' -> 'THO├üT'
+    slot[7]: 'ZAKO┼âCZ GR─ÿ' -> 'THO├üT'
+    slot[10]: 'SAIR DO JOGO' -> 'THO├üT'
+    slot[11]: 'δéÿΩ░ÇΩ╕░' -> 'THO├üT'
+    slot[12]: 'ΘÇÇσç║Θüèµê▓' -> 'THO├üT'
+    slot[13]: 'ΘÇÇσç║µ╕╕µêÅ' -> 'THO├üT'
+    slot[21]: '┘à╪║╪º╪»╪▒╪⌐ ╪º┘ä┘ä╪╣╪¿╪⌐' -> 'THO├üT'
+    slot[32]: 'SALIR DEL JUEGO' -> 'THO├üT'
+  Compiled: 225,668 bytes
+  [LOOSE DEPLOYED] d:\Games\Resident Evil 4\natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22
+
+Processing: ch_mes_main_sys_common.msg.22
+  idx=191 (CH_Mes_Main_Sys_Common_GameMode_01)
+    slot[0]: 'ASSISTED' -> 'Hß╗û TRß╗ó'
+    slot[1]: 'ASSISTED' -> 'Hß╗û TRß╗ó'
+    slot[2]: 'FACILE' -> 'Hß╗û TRß╗ó'
+    slot[3]: 'ASSISTITA' -> 'Hß╗û TRß╗ó'
+    slot[4]: 'ASSISTIERT' -> 'Hß╗û TRß╗ó'
+    slot[5]: 'ASISTIDO' -> 'Hß╗û TRß╗ó'
+    slot[6]: '╨ú╨ƒ╨á╨₧╨⌐╨ü╨¥╨¥╨½╨Ö' -> 'Hß╗û TRß╗ó'
+    slot[7]: 'WSPOMAGANY' -> 'Hß╗û TRß╗ó'
+    slot[10]: 'FACILITADO' -> 'Hß╗û TRß╗ó'
+    slot[11]: '∞ºÇ∞¢É' -> 'Hß╗û TRß╗ó'
+    slot[12]: 'Φ╝öσè⌐' -> 'Hß╗û TRß╗ó'
+    slot[13]: 'Φ╛àσè⌐' -> 'Hß╗û TRß╗ó'
+    slot[21]: '╪º┘ä┘à╪│╪º╪╣┘Ä╪»' -> 'Hß╗û TRß╗ó'
+    slot[32]: 'ASISTIDO' -> 'Hß╗û TRß╗ó'
+  idx=192 (CH_Mes_Main_Sys_Common_GameMode_02)
+    slot[0]: 'STANDARD' -> 'TI├èU CHUß║¿N'
+    slot[1]: 'STANDARD' -> 'TI├èU CHUß║¿N'
+    slot[2]: 'STANDARD' -> 'TI├èU CHUß║¿N'
+    slot[3]: 'NORMALE' -> 'TI├èU CHUß║¿N'
+    slot[4]: 'STANDARD' -> 'TI├èU CHUß║¿N'
+    slot[5]: 'EST├üNDAR' -> 'TI├èU CHUß║¿N'
+    slot[6]: '╨₧╨æ╨½╨º╨¥╨½╨Ö' -> 'TI├èU CHUß║¿N'
+    slot[7]: 'STANDARDOWY' -> 'TI├èU CHUß║¿N'
+    slot[10]: 'PADR├âO' -> 'TI├èU CHUß║¿N'
+    slot[11]: 'φæ£∞ñÇ' -> 'TI├èU CHUß║¿N'
+    slot[12]: 'µ¿Öµ║û' -> 'TI├èU CHUß║¿N'
+    slot[13]: 'µáçσçå' -> 'TI├èU CHUß║¿N'
+    slot[21]: '╪º┘ä┘é┘è╪º╪│┘è' -> 'TI├èU CHUß║¿N'
+    slot[32]: 'EST├üNDAR' -> 'TI├èU CHUß║¿N'
+  idx=193 (CH_Mes_Main_Sys_Common_GameMode_03)
+    slot[0]: 'HARDCORE' -> 'Cß╗¿NG Rß║«N'
+    slot[1]: 'HARDCORE' -> 'Cß╗¿NG Rß║«N'
+    slot[2]: 'HARDCORE' -> 'Cß╗¿NG Rß║«N'
+    slot[3]: 'ESTREMA' -> 'Cß╗¿NG Rß║«N'
+    slot[4]: 'VETERAN' -> 'Cß╗¿NG Rß║«N'
+    slot[5]: 'HARDCORE' -> 'Cß╗¿NG Rß║«N'
+    slot[6]: '┬½╨Ñ╨É╨á╨ö╨Ü╨₧╨á┬╗' -> 'Cß╗¿NG Rß║«N'
+    slot[7]: 'TRUDNY' -> 'Cß╗¿NG Rß║«N'
+    slot[10]: 'INTENSO' -> 'Cß╗¿NG Rß║«N'
+    slot[11]: 'φòÿδô£∞╜ö∞û┤' -> 'Cß╗¿NG Rß║«N'
+    slot[12]: 'τí¼µ┤╛' -> 'Cß╗¿NG Rß║«N'
+    slot[13]: 'τí¼µá╕' -> 'Cß╗¿NG Rß║«N'
+    slot[21]: '╪º┘ä╪╡╪╣╪¿' -> 'Cß╗¿NG Rß║«N'
+    slot[32]: 'HARDCORE' -> 'Cß╗¿NG Rß║«N'
+  Compiled: 200,544 bytes
+  [NEW LOOSE FILE] d:\Games\Resident Evil 4\natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_common.msg.22
+
+Processing: ch_mes_main_sys_purpose.msg.22
+  idx=3 (CH_Mes_Main_Sys_Purpose_1101)
+    slot[0]: 'Φ¡ªσ«ÿπéÆµÄóπüÖ' -> 'Xem ─æiß╗üu g├¼ ─æang l├óu vß║¡y'
+    slot[1]: 'See what's taking so long' -> 'Xem ─æiß╗üu g├¼ ─æang l├óu vß║¡y'
+    slot[2]: 'Chercher le policier' -> 'Xem ─æiß╗üu g├¼ ─æang l├óu vß║¡y'
+    slot[3]: 'Cerca l'agente di polizia' -> 'Xem ─æiß╗üu g├¼ ─æang l├óu vß║¡y'
+    slot[4]: 'Den Polizisten suchen' -> 'Xem ─æiß╗üu g├¼ ─æang l├óu vß║¡y'
+    slot[5]: 'Busca al polic├¡a' -> 'Xem ─æiß╗üu g├¼ ─æang l├óu vß║¡y'
+    slot[6]: '╨Æ╤ï╤Å╤ü╨╜╨╕╤é╨╡, ╨▓ ╤ç╤æ╨╝ ╨┤╨╡╨╗╨╛' -> 'Xem ─æiß╗üu g├¼ ─æang l├óu vß║¡y'
+    slot[7]: 'Zobacz, co tyle trwa' -> 'Xem ─æiß╗üu g├¼ ─æang l├óu vß║¡y'
+    slot[10]: 'Veja por que est├í demorando ta' -> 'Xem ─æiß╗üu g├¼ ─æang l├óu vß║¡y'
+    slot[11]: 'Ω▓╜∞░░Ω┤Ç∞¥ÿ ∞âüφÖ⌐∞¥ä δ│┤δƒ¼ Ω░äδïñ' -> 'Xem ─æiß╗üu g├¼ ─æang l├óu vß║¡y'
+    slot[12]: 'σ░ïµë╛Φ¡ªσ«ÿ' -> 'Xem ─æiß╗üu g├¼ ─æang l├óu vß║¡y'
+    slot[13]: 'σ»╗µë╛µ£¬σ╜ÆτÜäΦ¡ªσ»ƒ' -> 'Xem ─æiß╗üu g├¼ ─æang l├óu vß║¡y'
+    slot[21]: '┘è╪¼╪¿ ┘à╪╣╪▒┘ü╪⌐ ┘ä┘à┘Ä ┘è╪│╪¬╪║╪▒┘é ┘â┘ä ┘ç╪░╪º ╪º┘ä' -> 'Xem ─æiß╗üu g├¼ ─æang l├óu vß║¡y'
+    slot[32]: 'Busca al polic├¡a' -> 'Xem ─æiß╗üu g├¼ ─æang l├óu vß║¡y'
+  Compiled: 64,704 bytes
+  [NEW LOOSE FILE] d:\Games\Resident Evil 4\natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_purpose.msg.22
+
+DONE! Khß╗ƒi ─æß╗Öng lß║íi game ─æß╗â kiß╗âm tra.
+
+Cß║ºn rebuild PAK006 ─æß╗â ─æß╗ông bß╗Ö:
+  python import_translation.py

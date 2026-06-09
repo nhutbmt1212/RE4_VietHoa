@@ -1,0 +1,368 @@
+﻿File: d:\Games\Resident Evil 4\natives\stm\_chainsaw\message\dev1_term\dev1_term_menu.msg.22
+Size: 168,400 bytes
+
+  NOT FOUND: 'SEPARATE'
+  NOT FOUND: 'MERCENARIES'
+  NOT FOUND: 'EXIT'
+  NOT FOUND: 'Quit'
+  NOT FOUND: 'AnotherOrder'
+  NOT FOUND: 'Another'
+  NOT FOUND: 'Mercen'
+
+=== T├¼m trong extracted JSON (bß║ún gß╗æc) ===
+Total entries: 338
+
+  idx=12 name=Dev1_Term_Menu_StartMenu_StartGame_01
+    slot[0]=START GAME
+    slot[1]=START GAME
+    slot[2]=COMMENCER
+    slot[3]=INIZIA
+    slot[4]=SPIEL STARTEN
+    slot[5]=INICIAR
+
+  idx=13 name=Dev1_Term_Menu_StartMenu_StartGame_02
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+
+  idx=14 name=Dev1_Term_Menu_StartMenu_StartGame_03
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+
+  idx=15 name=Dev1_Term_Menu_StartMenu_StartGame_04
+    slot[0]=START
+    slot[1]=START
+    slot[2]=COMMENCER
+    slot[3]=INIZIA
+    slot[4]=START
+    slot[5]=Empezar
+
+  idx=16 name=Dev1_Term_Menu_StartMenu_Copyright
+    slot[0]=┬⌐CAPCOM CO., LTD. 2021 ALL RIGHTS RESERVED.
+    slot[1]=┬⌐CAPCOM CO., LTD. 2021 ALL RIGHTS RESERVED.
+    slot[2]=┬⌐CAPCOM CO., LTD. 2021 ALL RIGHTS RESERVED.
+    slot[3]=┬⌐CAPCOM CO., LTD. 2021 ALL RIGHTS RESERVED.
+    slot[4]=┬⌐CAPCOM CO., LTD. 2021 ALL RIGHTS RESERVED.
+    slot[5]=┬⌐CAPCOM CO., LTD. 2021 ALL RIGHTS RESERVED.
+
+  idx=17 name=Dev1_Term_Menu_StartMenu_NewGame
+    slot[0]=NEW GAME
+    slot[1]=NEW GAME
+    slot[2]=NOUVELLE PARTIE
+    slot[3]=NUOVA PARTITA
+    slot[4]=NEUES SPIEL
+    slot[5]=NUEVA PARTIDA
+
+  idx=18 name=Dev1_Term_Menu_StartMenu_NewGame_Desc
+    slot[0]=µû░πüƒπü½πé▓πâ╝πâáπéÆΘûïσºïπüùπü╛πüÖ
+    slot[1]=Start a new game.
+    slot[2]=D├⌐marrer une nouvelle partie.
+    slot[3]=Inizia una nuova partita.
+    slot[4]=Ein neues Spiel starten.
+    slot[5]=Empieza una partida nueva.
+
+  idx=19 name=Dev1_Term_Menu_StartMenu_LoadGame
+    slot[0]=LOAD GAME
+    slot[1]=LOAD GAME
+    slot[2]=CHARGER UNE PARTIE
+    slot[3]=CARICA
+    slot[4]=SPIEL LADEN
+    slot[5]=CARGAR PARTIDA
+
+  idx=20 name=Dev1_Term_Menu_StartMenu_LoadGame_Desc
+    slot[0]=πé╗πâ╝πâûπâçπâ╝πé┐πéÆΘü╕µè₧πüùπüªπé▓πâ╝πâáπéÆσåìΘûïπüùπü╛πüÖ
+    slot[1]=Load a saved game.
+    slot[2]=Charger une partie sauvegard├⌐e.
+    slot[3]=Carica un salvataggio.
+    slot[4]=Ein gespeichertes Spiel laden.
+    slot[5]=Carga una partida guardada.
+
+  idx=21 name=Dev1_Term_Menu_StartMenu_Continue
+    slot[0]=CONTINUE
+    slot[1]=CONTINUE
+    slot[2]=CONTINUER
+    slot[3]=CONTINUA
+    slot[4]=FORTSETZEN
+    slot[5]=CONTINUAR
+
+  idx=22 name=Dev1_Term_Menu_StartMenu_Continue_Desc
+    slot[0]=σëìσ¢₧πü«τ╢Üπüìπüïπéëπé▓πâ╝πâáπéÆσåìΘûïπüùπü╛πüÖ
+    slot[1]=Continue playing from your last save.
+    slot[2]=Continuer la partie depuis la derni├¿re sauvegarde.
+    slot[3]=Continua dall'ultimo salvataggio.
+    slot[4]=Das Spiel mit den letzten Speicherdaten fortsetzen
+    slot[5]=Contin├║a la partida desde tu ├║ltimo guardado.
+
+  idx=23 name=Dev1_Term_Menu_StartMenu_Options
+    slot[0]=OPTIONS
+    slot[1]=OPTIONS
+    slot[2]=OPTIONS
+    slot[3]=OPZIONI
+    slot[4]=OPTIONEN
+    slot[5]=OPCIONES
+
+  idx=24 name=Dev1_Term_Menu_StartMenu_Options_Desc
+    slot[0]=πé▓πâ╝πâáπü«σÉäτ¿«Φ¿¡σ«Üπüîπüºπüìπü╛πüÖ
+    slot[1]=Change game settings.
+    slot[2]=Modifier divers param├¿tres.
+    slot[3]=Modifica le impostazioni di gioco.
+    slot[4]=Spieleinstellungen vornehmen.
+    slot[5]=Ajusta las opciones del juego.
+
+  idx=25 name=Dev1_Term_Menu_StartMenu_Bonus
+    slot[0]=BONUS
+    slot[1]=BONUSES
+    slot[2]=BONUS
+    slot[3]=BONUS
+    slot[4]=BONI
+    slot[5]=BONIFICACIONES
+
+  idx=26 name=Dev1_Term_Menu_StartMenu_Bonus_Desc
+    slot[0]=πâ£πâ╝πâèπé╣πé│πâ│πâåπâ│πâäπéÆτó║Φ¬ìπüùπü╛πüÖ
+    slot[1]=View bonus content.
+    slot[2]=Voir le contenu bonus.
+    slot[3]=Accedi ai contenuti bonus.
+    slot[4]=Bonusinhalte ansehen.
+    slot[5]=Accede a las bonificaciones.
+
+  idx=27 name=Dev1_Term_Menu_StartMenu_Exit
+    slot[0]=EXIT
+    slot[1]=Quit
+    slot[2]=Quitter
+    slot[3]=Esci
+    slot[4]=Beenden
+    slot[5]=SALIR
+
+  idx=28 name=Dev1_Term_Menu_StartMenu_Exit_Desc
+    slot[0]=πé▓πâ╝πâáπéÆτ╡éΣ║åπüùπü╛πüÖ
+    slot[1]=Close the game.
+    slot[2]=Quitter le jeu.
+    slot[3]=Esci dal gioco.
+    slot[4]=Das Spiel beenden.
+    slot[5]=Cierra el juego.
+
+  idx=29 name=Dev1_Term_Menu_StartMenu_Difficulty
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+
+  idx=30 name=Dev1_Term_Menu_StartMenu_Difficulty_Casual
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+
+  idx=31 name=Dev1_Term_Menu_StartMenu_Difficulty_Casual_Desc
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+
+  idx=32 name=Dev1_Term_Menu_StartMenu_Difficulty_Standard
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+
+  idx=33 name=Dev1_Term_Menu_StartMenu_Difficulty_Standard_Desc
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+
+  idx=34 name=Dev1_Term_Menu_StartMenu_Difficulty_Hardcore
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+
+  idx=35 name=Dev1_Term_Menu_StartMenu_Difficulty_Hardcore_Desc
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+
+  idx=36 name=Dev1_Term_Menu_StartMenu_Difficulty_VOS
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+
+  idx=37 name=Dev1_Term_Menu_StartMenu_Difficulty_VOS_Desc
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+
+  idx=38 name=Dev1_Term_Menu_StartMenu_Continue_Confirm
+    slot[0]=µ£Çµû░πü«πé╗πâ╝πâûπâçπâ╝πé┐πéÆπâ¡πâ╝πâëπüùπüª
+
+πé▓πâ╝πâáπéÆΘûïσºïπüùπü╛πüÖπüï∩╝ƒ
+    slot[1]=Load most recent saved data?
+    slot[2]=Charger les donn├⌐es sauvegard├⌐es les plus r├⌐centes
+    slot[3]=Caricare il salvataggio pi├╣ recente?
+    slot[4]=Die aktuellsten Speicherdaten laden?
+    slot[5]=┬┐Quieres cargar los datos guardados m├ís recientes?
+
+  idx=39 name=Dev1_Term_Menu_StartMenu_Exit_Confirm
+    slot[0]=πé▓πâ╝πâáπéÆτ╡éΣ║åπüùπü╛πüÖπüï∩╝ƒ
+    slot[1]=Exit the game?
+    slot[2]=Quitter le jeu ?
+    slot[3]=Uscire dal gioco?
+    slot[4]=Das Spiel verlassen?
+    slot[5]=┬┐Quieres salir del juego?
+
+  idx=40 name=Dev1_Term_Menu_StartMenu_WatchMovie
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+
+  idx=41 name=Dev1_Term_Menu_StartMenu_PlayGame
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+
+  idx=42 name=Dev1_Term_Menu_StartMenu_MainMenu
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_St
+
+  idx=231 name=Dev1_Term_Menu_Bonus_Mercenaries
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+
+  idx=232 name=Dev1_Term_Menu_Bonus_Mercenaries_Desc
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+
+  idx=233 name=Dev1_Term_Menu_Bonus_ExtraContentShop
+    slot[0]=EXTRA CONTENT SHOP
+    slot[1]=Extra Content Shop
+    slot[2]=Boutique sp├⌐ciale
+    slot[3]=Negozio extra
+    slot[4]=Boni-Shop
+    slot[5]=Tienda de contenido extra
+
+  idx=234 name=Dev1_Term_Menu_Bonus_ExtraContentShop_Desc
+    slot[0]=CP∩╝êπé»πâ¬πéóπâ¥πéñπâ│πâê∩╝ëπéÆΣ╜┐πüúπüªσÉäτ¿«πéóπéñπâåπâáπéÆΦ│╝σàÑπüùπü╛πüÖ
+    slot[1]=Use Completion Points (CP) to purchase bonus conte
+    slot[2]=├ëchanger vos points de compl├⌐tion (PC) contre du c
+    slot[3]=Usa i Punti di Completamento (PC) per acquistare c
+    slot[4]=Mit Abschlusspunkten (AP) Bonusinhalte kaufen.
+    slot[5]=Usa puntos de compleci├│n (PC) para adquirir bonifi
+
+  idx=235 name=Dev1_Term_Menu_Bonus_Movies
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+
+  idx=236 name=Dev1_Term_Menu_Bonus_Movies_Desc
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+
+  idx=237 name=Dev1_Term_Menu_Bonus_Artwork
+    slot[0]=ARTWORK
+    slot[1]=Concept Art
+    slot[2]=Concept arts
+    slot[3]=Concept art
+    slot[4]=Concept-Art
+    slot[5]=Dise├▒os
+
+  idx=238 name=Dev1_Term_Menu_Bonus_Artwork_Desc
+    slot[0]=µºÿπÇàπü¬πéóπâ╝πâêπéÆΘææΦ│₧πüùπü╛πüÖ
+    slot[1]=View concept art.
+    slot[2]=Voir divers concept arts.
+    slot[3]=Visualizza i concept art.
+    slot[4]=Concept-Art ansehen.
+    slot[5]=Ve los dise├▒os conceptuales del juego.
+
+  idx=239 name=Dev1_Term_Menu_Bonus_Figures
+    slot[0]=FIGURES
+    slot[1]=MODELS
+    slot[2]=MOD├êLES
+    slot[3]=MODELLI
+    slot[4]=MODELLE
+    slot[5]=Modelos
+
+  idx=240 name=Dev1_Term_Menu_Bonus_Figures_Desc
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+
+  idx=241 name=Dev1_Term_Menu_Bonus_Gallery
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+
+  idx=242 name=Dev1_Term_Menu_Bonus_Album
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+
+  idx=243 name=Dev1_Term_Menu_Bonus_ExtraContent
+    slot[0]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[1]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[2]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[3]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[4]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+    slot[5]=<COLOR FF0000>#Rejected#</COLOR> Dev1_Term_Menu_Bo
+

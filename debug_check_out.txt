@@ -1,0 +1,33 @@
+﻿=== Kiß╗âm tra CSV cho c├íc entry ch╞░a dß╗ïch ===
+  [OK] ch_mes_main_sys_common idx=191
+    Orig: ASSISTED
+    Viet: ─É╞»ß╗óC Hß╗û TRß╗ó
+    File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_common.msg.22
+
+  [OK] ch_mes_main_sys_common idx=192
+    Orig: STANDARD
+    Viet: TI├èU CHUß║¿N
+    File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_common.msg.22
+
+  [OK] ch_mes_main_sys_common idx=193
+    Orig: HARDCORE
+    Viet: Cß╗¿NG
+    File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_common.msg.22
+
+  [OK] ch_mes_main_sys_purpose idx=3
+    Orig: See what's taking so long
+    Viet: Xem ─æiß╗üu g├¼ ─æang mß║Ñt nhiß╗üu thß╗¥i gian
+    File: natives\stm\_chainsaw\message\mes_main_sys\ch_mes_main_sys_purpose.msg.22
+
+  [OK] ch_mes_main_conv_cp51 idx=57
+    Orig: C'mon, what's taking so long?
+    Viet: N├áo, sao lß║íi l├óu thß║┐?
+    File: natives\stm\_chainsaw\message\mes_main_conv\ch_mes_main_conv_cp51.msg.22
+
+=== ch_mes_main_sys_mainmenu - ASSISTED description ===
+  [OK] idx=70 orig=<CENTER>For players who have not played Biohazard  viet=<CENTER>D├ánh cho ng╞░ß╗¥i ch╞íi ch╞░a tß╗½ng ch╞íi Biohaza
+  [OK] idx=71 orig=<CENTER>For players who have not played Resident E viet=<CENTER>D├ánh cho ng╞░ß╗¥i ch╞íi ch╞░a tß╗½ng ch╞íi Residen
+  [OK] idx=72 orig=<CENTER>For players who have played Biohazard 4 (2 viet=<CENTER>D├ánh cho ng╞░ß╗¥i ch╞íi ─æ├ú tß╗½ng ch╞íi Biohazard
+  [OK] idx=73 orig=<CENTER>For players who have played Resident Evil  viet=<CENTER>D├ánh cho ng╞░ß╗¥i ch╞íi ─æ├ú tß╗½ng ch╞íi Resident 
+  [OK] idx=74 orig=<CENTER>For steadfast fans of survival horror.</CE viet=<CENTER>D├ánh cho nhß╗»ng ng╞░ß╗¥i h├óm mß╗Ö tr├▓ ch╞íi kinh 
+  [OK] idx=75 orig=<CENTER>For steadfast fans of survival horror.</CE viet=<CENTER>D├ánh cho nhß╗»ng ng╞░ß╗¥i h├óm mß╗Ö tr├▓ ch╞íi kinh 

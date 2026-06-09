@@ -1,0 +1,452 @@
+﻿Total entries: 107
+
+idx=  0 name=CH_Mes_Main_Sys_MainMenu_Copyright
+  JPN=┬⌐CAPCOM CO., LTD. 2005, 2023 ALL RIGHTS RESERVED.
+  ENG=┬⌐CAPCOM CO., LTD. 2005, 2023 ALL RIGHTS RESERVED.
+
+idx=  1 <REF> -> <REF Dev1_Term_Menu_StartMenu_StartGame_01>
+idx=  2 name=CH_Mes_Main_Sys_MainMenu_Play
+  JPN=MAIN STORY
+  ENG=MAIN STORY
+
+idx=  3 <REF> -> <REF Dev1_Term_Menu_StartMenu_Bonus>
+idx=  4 name=CH_Mes_Main_Sys_MainMenu_Extra
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Ex
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Ex
+
+idx=  5 <REF> -> <REF Dev1_Term_StoreAndDLC_StoreName_PS4>
+idx=  6 <REF> -> <REF Dev1_Term_StoreAndDLC_StoreName_XB1>
+idx=  7 <REF> -> <REF Dev1_Term_StoreAndDLC_StoreName_PC>
+idx=  8 <REF> -> <REF Dev1_Term_StoreAndDLC_StoreName_PS4> [BIOHAZARD requiem]
+idx=  9 <REF> -> <REF Dev1_Term_StoreAndDLC_StoreName_PS4> [Resident Evil Requiem]
+idx= 10 <REF> -> <REF Dev1_Term_StoreAndDLC_StoreName_XB1> [BIOHAZARD requiem]
+idx= 11 <REF> -> <REF Dev1_Term_StoreAndDLC_StoreName_XB1> [Resident Evil Requiem]
+idx= 12 <REF> -> <REF Dev1_Term_StoreAndDLC_StoreName_PC> [BIOHAZARD requiem]
+idx= 13 <REF> -> <REF Dev1_Term_StoreAndDLC_StoreName_PC> [Resident Evil Requiem]
+idx= 14 <REF> -> <REF Dev1_Term_Menu_StartMenu_Options>
+idx= 15 name=CH_Mes_Main_Sys_MainMenu_Option_Player1
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Op
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Op
+
+idx= 16 name=CH_Mes_Main_Sys_MainMenu_Option_Player2
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Op
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Op
+
+idx= 17 name=CH_Mes_Main_Sys_MainMenu_SoloMode
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_So
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_So
+
+idx= 18 name=CH_Mes_Main_Sys_MainMenu_SplitMode
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Sp
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Sp
+
+idx= 19 name=CH_Mes_Main_Sys_MainMenu_MultiHost
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Mu
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Mu
+
+idx= 20 name=CH_Mes_Main_Sys_MainMenu_MultiGuest
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Mu
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Mu
+
+idx= 21 name=CH_Mes_Main_Sys_MainMenu_Costume
+  JPN=EXTRAS
+  ENG=EXTRAS
+
+idx= 22 <REF> -> <REF Dev1_Term_Menu_StartMenu_Continue>
+idx= 23 <REF> -> <REF Dev1_Term_Menu_StartMenu_LoadGame>
+idx= 24 <REF> -> <REF Dev1_Term_Menu_StartMenu_NewGame>
+idx= 25 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap0_1
+  JPN=NEW GAME (Chp.0)
+  ENG=NEW GAME (Chp.0)
+
+idx= 26 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap1_0
+  JPN=NEW GAME (Chp.1-0)
+  ENG=NEW GAME (Chp.1-0)
+
+idx= 27 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap1_1
+  JPN=NEW GAME (Chp.1-1)
+  ENG=NEW GAME (Chp.1-1)
+
+idx= 28 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap1_2
+  JPN=NEW GAME (Chp.1-2)
+  ENG=NEW GAME (Chp.1-2)
+
+idx= 29 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap1_3
+  JPN=NEW GAME (Chp.1-3)
+  ENG=NEW GAME (Chp.1-3)
+
+idx= 30 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap2_1
+  JPN=NEW GAME (Chp.2-1)
+  ENG=NEW GAME (Chp.2-1)
+
+idx= 31 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap2_2
+  JPN=NEW GAME (Chp.2-2)
+  ENG=NEW GAME (Chp.2-2)
+
+idx= 32 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap2_3
+  JPN=NEW GAME (Chp.2-3)
+  ENG=NEW GAME (Chp.2-3)
+
+idx= 33 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap3_1
+  JPN=NEW GAME (Chp.3-1)
+  ENG=NEW GAME (Chp.3-1)
+
+idx= 34 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap3_2
+  JPN=NEW GAME (Chp.3-2)
+  ENG=NEW GAME (Chp.3-2)
+
+idx= 35 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap3_3
+  JPN=NEW GAME (Chp.3-3)
+  ENG=NEW GAME (Chp.3-3)
+
+idx= 36 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap4_1
+  JPN=NEW GAME (Chp.4-1)
+  ENG=NEW GAME (Chp.4-1)
+
+idx= 37 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap4_2
+  JPN=NEW GAME (Chp.4-2)
+  ENG=NEW GAME (Chp.4-2)
+
+idx= 38 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap4_3
+  JPN=NEW GAME (Chp.4-3)
+  ENG=NEW GAME (Chp.4-3)
+
+idx= 39 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap5_1
+  JPN=NEW GAME (Chp.5-1)
+  ENG=NEW GAME (Chp.5-1)
+
+idx= 40 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap5_2
+  JPN=NEW GAME (Chp.5-2)
+  ENG=NEW GAME (Chp.5-2)
+
+idx= 41 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap5_3
+  JPN=New Game (Chp.5-3)
+  ENG=New Game (Chp.5-3)
+
+idx= 42 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGameChap5_4
+  JPN=NEW GAME (Chp.5-4)
+  ENG=NEW GAME (Chp.5-4)
+
+idx= 43 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGame_Arena
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_De
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_De
+
+idx= 44 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGame_ChainsawLoc40
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_De
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_De
+
+idx= 45 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGame_VerticalSlice
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_De
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_De
+
+idx= 46 name=CH_Mes_Main_Sys_MainMenu_DevelopNewGame_ChapterJump
+  JPN=Chapter Jump
+  ENG=Chapter Jump
+
+idx= 47 name=CH_Mes_Main_Sys_MainMenu_NewGamePlus
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Ne
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Ne
+
+idx= 48 name=CH_Mes_Main_Sys_MainMenu_SessionCode
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Se
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Se
+
+idx= 49 name=CH_Mes_Main_Sys_MainMenu_SearchPlayer
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Se
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Se
+
+idx= 50 name=CH_Mes_Main_Sys_MainMenu_Matching_Settings
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Ma
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Ma
+
+idx= 51 <REF> -> <REF Dev1_Term_StoreAndDLC_GoStoreConfirm_PS4>
+idx= 52 <REF> -> <REF Dev1_Term_StoreAndDLC_GoStoreConfirm_PS5>
+idx= 53 <REF> -> <REF Dev1_Term_StoreAndDLC_GoStoreConfirm_XB1>
+idx= 54 <REF> -> <REF Dev1_Term_StoreAndDLC_GoStoreConfirm_XSX>
+idx= 55 <REF> -> <REF Dev1_Term_StoreAndDLC_GoStoreConfirm_PC>
+idx= 56 name=CH_Mes_Main_Sys_MainMenu_ExtraAdd
+  JPN=πâíπéñπâ│πâíπâïπâÑπâ╝πü½
+
+µû░πüƒπü¬πé▓πâ╝πâáπâóπâ╝πâëπüîΦ┐╜σèáπüòπéîπü╛πüùπüƒπÇé
+  ENG=Extra games have been added to the main menu.
+
+idx= 57 name=CH_Mes_Main_Sys_MainMenu_CostumeAdd
+  JPN=EXTRASπü«Θáàτ¢«πüîΦ┐╜σèáπüòπéîπü╛πüùπüƒπÇé
+
+πé│πé╣πâüπâÑπâ╝πâáπü¿πéóπé»πé╗πé╡πâ¬πâ╝πéÆσñëµ¢┤πüºπüìπü╛πüÖπÇé
+  ENG=You can now change character costumes
+
+and accessories in th
+
+idx= 58 name=CH_Mes_Main_Sys_MainMenu_Play_title
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pl
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pl
+
+idx= 59 name=CH_Mes_Main_Sys_MainMenu_Bouns_title
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Bo
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Bo
+
+idx= 60 name=CH_Mes_Main_Sys_MainMenu_Extra_title
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Ex
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Ex
+
+idx= 61 name=CH_Mes_Main_Sys_MainMenu_Option_title
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Op
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Op
+
+idx= 62 name=CH_Mes_Main_Sys_MainMenu_SoloMode_title
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_So
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_So
+
+idx= 63 name=CH_Mes_Main_Sys_MainMenu_SplitMode_title
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Sp
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Sp
+
+idx= 64 name=CH_Mes_Main_Sys_MainMenu_MultiHost_title
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Mu
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Mu
+
+idx= 65 name=CH_Mes_Main_Sys_MainMenu_MultiGuest_title
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Mu
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Mu
+
+idx= 66 name=CH_Mes_Main_Sys_MainMenu_Matching_Settings_title
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Ma
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Ma
+
+idx= 67 name=CH_Mes_Main_Sys_MainMenu_GameMode
+  JPN=πé▓πâ╝πâáπâóπâ╝πâëΘü╕µè₧
+  ENG=GAME MODE
+
+idx= 68 name=CH_Mes_Main_Sys_MainMenu_GameMode_01_Detail
+  JPN=<CENTER>πéóπé»πé╖πâºπâ│πé▓πâ╝πâáπü½Σ╕ìµàúπéîπü¬µû╣πü½πüèπüÖπüÖπéüπü«πâóπâ╝πâë</CENTER>
+
+
+
+πâ╗τàºµ║ûµôìΣ╜£πüîπéóπé╖πé╣πâêπüòπéîπü╛πüÖ
+
+
+  ENG=<CENTER>For players who are unfamiliar with action games.</C
+
+idx= 69 name=CH_Mes_Main_Sys_MainMenu_GameMode_01_Detail_RE
+  JPN=<CENTER>πéóπé»πé╖πâºπâ│πé▓πâ╝πâáπü½Σ╕ìµàúπéîπü¬µû╣πü½πüèπüÖπüÖπéüπü«πâóπâ╝πâë</CENTER>
+
+
+
+πâ╗τàºµ║ûµôìΣ╜£πüîπéóπé╖πé╣πâêπüòπéîπü╛πüÖ
+
+
+  ENG=<CENTER>For players who are unfamiliar with action games.</C
+
+idx= 70 name=CH_Mes_Main_Sys_MainMenu_GameMode_02_Detail
+  JPN=<CENTER>µ¿Öµ║ûτÜäπü¬Θ¢úµÿôσ║ªπÇébiohazard 4πéÆµ£¬πâùπâ¼πéñπü«µû╣πü½πüèπüÖπüÖπéüπü«πâóπâ╝πâë</CENTER>
+
+
+
+πâ╗πé▓πâ╝πâá
+  ENG=<CENTER>For players who have not played Biohazard 4 (2005).<
+
+idx= 71 name=CH_Mes_Main_Sys_MainMenu_GameMode_02_Detail_RE
+  JPN=<CENTER>µ¿Öµ║ûτÜäπü¬Θ¢úµÿôσ║ªπÇéresident evil 4πéÆµ£¬πâùπâ¼πéñπü«µû╣πü½πüèπüÖπüÖπéüπü«πâóπâ╝πâë</CENTER>
+
+
+
+
+  ENG=<CENTER>For players who have not played Resident Evil 4 (200
+
+idx= 72 name=CH_Mes_Main_Sys_MainMenu_GameMode_03_Detail
+  JPN=<CENTER>Θ¢úπüùπéüπü«Θ¢úµÿôσ║ªπÇébiohazard 4πü«Φàòσëìπü½Φç¬Σ┐íπü«πüéπéïµû╣πü½πüèπüÖπüÖπéüπü«πâóπâ╝πâë</CENTER>
+
+
+
+πâ╗
+  ENG=<CENTER>For players who have played Biohazard 4 (2005).</CEN
+
+idx= 73 name=CH_Mes_Main_Sys_MainMenu_GameMode_03_Detail_RE
+  JPN=<CENTER>Θ¢úπüùπéüπü«Θ¢úµÿôσ║ªπÇéresident evil 4πü«Φàòσëìπü½Φç¬Σ┐íπü«πüéπéïµû╣πü½πüèπüÖπüÖπéüπü«πâóπâ╝πâë</CENTER>
+
+  ENG=<CENTER>For players who have played Resident Evil 4 (2005).<
+
+idx= 74 name=CH_Mes_Main_Sys_MainMenu_GameMode_04_Detail
+  JPN=<CENTER>µÑ╡ΘÖÉπü«πé╡πâÉπéñπâÉπâ½πéÆµÑ╜πüùπéüπéïµ£ÇΘ½ÿΘ¢úσ║ªπü«πâóπâ╝πâë</CENTER>
+
+
+
+πâ╗πé¬πâ╝πâêπé╗πâ╝πâûπüîπüòπéîπü╛πü¢πéô
+
+πâ╗πâæπâ¬
+  ENG=<CENTER>For steadfast fans of survival horror.</CENTER>
+
+
+
+ΓÇô
+
+idx= 75 name=CH_Mes_Main_Sys_MainMenu_GameMode_04_Detail_RE
+  JPN=<CENTER>µÑ╡ΘÖÉπü«πé╡πâÉπéñπâÉπâ½πéÆµÑ╜πüùπéüπéïµ£ÇΘ½ÿΘ¢úσ║ªπü«πâóπâ╝πâë</CENTER>
+
+
+
+πâ╗πé¬πâ╝πâêπé╗πâ╝πâûπüîπüòπéîπü╛πü¢πéô
+
+πâ╗πâæπâ¬
+  ENG=<CENTER>For steadfast fans of survival horror.</CENTER>
+
+
+
+ΓÇô
+
+idx= 76 name=CH_Mes_Main_Sys_MainMenu_GameMode_AddPop
+  JPN=πé▓πâ╝πâáπâóπâ╝πâëπü«Θü╕µè₧πü½
+
+µ£ÇΘ½ÿΘ¢úσ║ªπÇîPROFESSIONALπÇìπüîΦ┐╜σèáπüòπéîπü╛πüùπüƒπÇé
+  ENG=Professional has now been added as a game mode.
+
+idx= 77 name=CH_Mes_Main_Sys_MainMenu_GameModeChange
+  JPN=πé▓πâ╝πâáπâóπâ╝πâëπéÆπÇîASSISTEDπÇìπü½σñëµ¢┤πüùπüªπé│πâ│πâåπéúπâïπâÑπâ╝πüùπü╛πüÖπüï∩╝ƒ
+
+
+
+πâ╗τàºµ║ûµôìΣ╜£πüîπéóπé╖πé╣πâêπüòπéîπü╛πüÖ
+
+πÇÇΓÇ╗OPTI
+  ENG=Would you like to change the game mode to Assisted?
+
+
+
+ΓÇô Aim
+
+idx= 78 name=CH_Mes_Main_Sys_MainMenu_GameModeChange_announce
+  JPN=πé▓πâ╝πâáπé¬πâ╝πâÉπâ╝τö╗Θ¥óπüºπü»
+
+<ICON INVENTORY>πâ£πé┐πâ│πüºπé▓πâ╝πâáπâóπâ╝πâë∩╝êΘ¢úµÿôσ║ª∩╝ëπéÆσñëµ¢┤πüÖπéïπüôπü¿πüîπüºπüìπü╛πüÖπÇé
+  ENG=You can change the game mode (difficulty) from the
+
+game ove
+
+idx= 79 name=CH_Mes_Main_Sys_MainMenu_GameModeChange_01
+  JPN=πé▓πâ╝πâáπâóπâ╝πâëπéÆπÇîSTANDARDπÇìπü½σñëµ¢┤πüùπüªπé│πâ│πâåπéúπâïπâÑπâ╝πüùπü╛πüÖπüï∩╝ƒ
+
+
+
+ΓÇ╗Σ╕Çσ║ªσñëµ¢┤πüÖπéïπü¿σàâπü½µê╗πüÖπüôπü¿πüîπüºπüìπü╛πü¢πéô
+  ENG=Would you like to change the game mode to Standard?
+
+
+
+Note:
+
+idx= 80 name=CH_Mes_Main_Sys_MainMenu_GameModeChangeOK
+  JPN=πé▓πâ╝πâáπâóπâ╝πâëπéÆπÇîASSISTEDπÇìπü½σñëµ¢┤πüùπü╛πüùπüƒπÇé
+  ENG=Game mode changed to Assisted.
+
+idx= 81 name=CH_Mes_Main_Sys_MainMenu_GameModeChangeOK_01
+  JPN=πé▓πâ╝πâáπâóπâ╝πâëπéÆπÇîSTANDARDπÇìπü½σñëµ¢┤πüùπü╛πüùπüƒπÇé
+  ENG=Game mode changed to Standard.
+
+idx= 82 name=CH_Mes_Main_Sys_MainMenu_ReturnGame
+  JPN=RETURN TO GAME
+  ENG=RETURN TO GAME
+
+idx= 83 <REF> -> <REF Dev1_Term_Menu_MainMenu_QuitGame>
+idx= 84 name=CH_Mes_Main_Sys_MainMenu_DevelopSave
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_De
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_De
+
+idx= 85 name=CH_Mes_Main_Sys_MainMenu_DevelopGoGameOver
+  JPN=(Develop)Go To GameOver
+  ENG=(Develop)Go To GameOver
+
+idx= 86 name=CH_Mes_Main_Sys_MainMenu_DevelopVendingMachine
+  JPN=DevVendingMachine
+  ENG=DevVendingMachine
+
+idx= 87 name=CH_Mes_Main_Sys_MainMenu_ReturnTitle
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Re
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Re
+
+idx= 88 name=CH_Mes_Main_Sys_MainMenu_PauseTitle
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pa
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pa
+
+idx= 89 name=CH_Mes_Main_Sys_MainMenu_PauseTutorial
+  JPN=TUTORIAL
+  ENG=TUTORIALS
+
+idx= 90 name=CH_Mes_Main_Sys_MainMenu_Photomode
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Ph
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Ph
+
+idx= 91 name=CH_Mes_Main_Sys_MainMenu_Result
+  JPN=RESULT
+  ENG=RESULTS
+
+idx= 92 name=CH_Mes_Main_Sys_MainMenu_PauseTitle_Player1
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pa
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pa
+
+idx= 93 name=CH_Mes_Main_Sys_MainMenu_PauseTitle_Player2
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pa
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pa
+
+idx= 94 name=CH_Mes_Main_Sys_MainMenu_PauseTitle_JoinPlayer
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pa
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pa
+
+idx= 95 name=CH_Mes_Main_Sys_MainMenu_PauseTitle_PlayMultiplayer
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pa
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pa
+
+idx= 96 <REF> -> <REF Dev1_Term_Menu_MainMenu_Pause_01>
+idx= 97 name=CH_Mes_Main_Sys_MainMenu_PauseTitle_ShootingGallery_Cancel
+  JPN=QUIT SHOOTING
+  ENG=QUIT SHOOTING
+
+idx= 98 name=CH_Mes_Main_Sys_MainMenu_PauseInfo00
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pa
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pa
+
+idx= 99 name=CH_Mes_Main_Sys_MainMenu_PauseInfo01
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pa
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Pa
+
+idx=100 <REF> -> <REF Dev1_Term_Error_Download_NotFinish_01>
+idx=101 <REF> -> <REF Dev1_Term_Error_Download_NotFinish_02>
+idx=102 <REF> -> <REF Dev1_Term_Error_Caution_DataLoad>
+idx=103 <REF> -> <REF Dev1_Term_Error_Download_PleaseWait_01>
+idx=104 <REF> -> <REF Dev1_Term_Error_Download_PleaseWait_02>
+idx=105 name=CH_Mes_Main_Sys_MainMenu_Pop_BackToMain
+  JPN=πé▓πâ╝πâáπéÆτ╡éΣ║åπüùπü╛πüÖπüï∩╝ƒ
+
+∩╝êπé╗πâ╝πâûπüòπéîπüªπüäπü¬πüäΘÇ▓Φíîπâçπâ╝πé┐πü»σñ▒πéÅπéîπü╛πüÖ∩╝ë
+  ENG=Quit the game?
+
+(All unsaved progress will be lost.)
+
+idx=106 name=CH_Mes_Main_Sys_MainMenu_Synopsis1
+  JPN=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Sy
+  ENG=<COLOR FF0000>#Rejected#</COLOR> CH_Mes_Main_Sys_MainMenu_Sy
+
+
+=== T├¼m SEPARATE / MERCENARIES / EXIT ===
+  idx=83 slot[0]: <REF Dev1_Term_Menu_MainMenu_QuitGame>
+  idx=83 slot[1]: <REF Dev1_Term_Menu_MainMenu_QuitGame>
+  idx=83 slot[2]: <REF Dev1_Term_Menu_MainMenu_QuitGame>
+  idx=83 slot[3]: <REF Dev1_Term_Menu_MainMenu_QuitGame>
+  idx=83 slot[4]: <REF Dev1_Term_Menu_MainMenu_QuitGame>
+  idx=83 slot[5]: <REF Dev1_Term_Menu_MainMenu_QuitGame>
+  idx=83 slot[6]: <REF Dev1_Term_Menu_MainMenu_QuitGame>
+  idx=83 slot[7]: <REF Dev1_Term_Menu_MainMenu_QuitGame>
+  idx=83 slot[10]: <REF Dev1_Term_Menu_MainMenu_QuitGame>
+  idx=83 slot[11]: <REF Dev1_Term_Menu_MainMenu_QuitGame>
+  idx=83 slot[12]: <REF Dev1_Term_Menu_MainMenu_QuitGame>
+  idx=83 slot[13]: <REF Dev1_Term_Menu_MainMenu_QuitGame>
+  idx=83 slot[21]: <REF Dev1_Term_Menu_MainMenu_QuitGame>
+  idx=83 slot[32]: <REF Dev1_Term_Menu_MainMenu_QuitGame>
+  idx=97 slot[0]: QUIT SHOOTING
+  idx=97 slot[1]: QUIT SHOOTING
+  idx=105 slot[1]: Quit the game?
+
+(All unsaved progress will be lost.)
+  idx=105 slot[2]: Quitter la partie ?
+
+(Toute progression non sauvegard├⌐e sera perdue.)
