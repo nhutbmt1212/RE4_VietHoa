@@ -27,9 +27,9 @@ SLEEP_BETWEEN_BATCHES = 3.0  # Slower to avoid rate limits since we don't care a
 
 SYSTEM_PROMPT = """You are a master translator for the survival horror game Resident Evil 4 Remake (RE4). Translate the given English dialogue to Vietnamese.
 
-You will receive a JSON array of dialogue lines. Each line has an "id" and "text".
+You will receive a JSON array of dialogue lines. Each line has an "id", "speaker_id", and "text".
 You MUST return a JSON array of the exact same size, containing objects with "id" and "translation".
-Example Input: [{"id": 120, "text": "That's where I need to go."}]
+Example Input: [{"id": 120, "speaker_id": "cha000", "text": "That's where I need to go."}]
 Example Output: [{"id": 120, "translation": "Đó là nơi tôi cần đến."}]
 
 [STORY AND TONE]
@@ -37,16 +37,25 @@ Resident Evil 4 is a dark, gritty survival horror game. The tone is intense, des
 - Cult members (Saddler, Salazar, Mendez) speak with religious, archaic, majestic, and arrogant language.
 - Krauser is a hardened military veteran, speaking harshly and combatively.
 
+[SPEAKER IDS (CRITICAL FOR PRONOUNS)]
+You will receive 'speaker_id' in the JSON input. Use it to determine who is talking and apply the correct pronouns:
+- cha000: Leon S. Kennedy
+- cha100: Ashley Graham
+- cha200: Ada Wong
+- cha300: Luis Sera
+- cha600: Albert Wesker
+- cha700: Merchant
+
 [STRICT PRONOUN RULES (XƯNG HÔ)]
-- Leon S. Kennedy: Hero/Agent. Uses "tôi" with adults. Calls Ashley "em" or "Ashley". Calls Hunnigan "Hunnigan" or "cô". Calls Luis "Luis" or "anh". Calls Ada "Ada" or "cô". Calls Krauser "Krauser" or "anh".
-- Ashley Graham: President's daughter, young. Calls Leon "anh" or "Leon", refers to herself as "em".
-- Ingrid Hunnigan: Support. Calls Leon "Leon", refers to herself as "tôi". 
-- Luis Sera: Researcher, charming/flirty. Uses "tôi", calls Leon "Leon", "bạn tôi" (my friend), "anh bạn" or "anh". Calls Ashley "Senorita" (cô nương/tiểu thư).
-- Ada Wong: Spy, mysterious. Calls Leon "Leon", refers to herself as "tôi". Her tone is professional yet slightly flirtatious.
-- Osmund Saddler: Cult leader. Uses "ta" (majestic), calls Leon/others "ngươi", "kẻ ngoại đạo" (outsider/heretic), or "con cừu non" (lamb).
-- Jack Krauser: Ex-commander. Calls Leon "chàng lính mới" (rookie), "cậu", refers to himself as "ta" or "tôi".
-- Ramon Salazar: Arrogant noble castellan. Uses "ta", calls Leon "ngươi", "Ngài Kennedy" (Mr. Kennedy in a mocking way).
-- Merchant: Mysterious. Calls Leon "khách hàng" (stranger) or "bạn" (mate), refers to himself as "ta" or "tôi".
+GLOBAL RULE: ABSOLUTELY DO NOT USE "Tớ", "Cậu", "Mình", "Bạn" (unless Merchant). These words are too childish/friendly for a horror game. Use "Tôi", "Ta", "Anh", "Cô", "Ngươi".
+- cha000 (Leon S. Kennedy): Uses "tôi" with adults. Calls Ashley "em". Calls Hunnigan/Ada "cô". Calls Luis/Krauser "anh".
+- cha100 (Ashley Graham): Calls Leon "anh", refers to herself as "em".
+- cha200 (Ada Wong): Refers to herself as "tôi" (NEVER "tớ"). Calls Leon "Leon" or "anh". Professional/flirtatious tone.
+- cha300 (Luis Sera): Uses "tôi", calls Leon "anh bạn" or "anh". Calls Ashley "Senorita" (cô nương).
+- cha600 (Albert Wesker): Refers to himself as "ta" or "tôi". Arrogant, authoritative.
+- cha700 (Merchant): Calls Leon "khách hàng" or "bạn", refers to himself as "ta" or "tôi".
+- Saddler/Salazar/Mendez: Uses "ta", calls Leon "ngươi" or "kẻ ngoại đạo".
+- Krauser: Uses "ta" or "tôi", calls Leon "tân binh" (rookie) or "nhóc".
 
 [TRANSLATION QUALITY & STYLE RULES (CRITICAL)]
 1. DO NOT TRANSLATE WORD-FOR-WORD (Literal translation). You must adapt English idioms, slang, and phrasal verbs into natural, colloquial Vietnamese that real gamers use.
@@ -264,7 +273,13 @@ def main():
             for b_idx, batch in enumerate(batches):
                 print(f"Translating Batch [{b_idx+1}/{total_batches}] (Rows {batch[0]+1} to {batch[-1]+1})...")
                 
-                batch_inputs = [{"id": idx, "text": rows[idx]["English"]} for idx in batch]
+                batch_inputs = []
+                for idx in batch:
+                    entry_name = rows[idx]["Entry Name"]
+                    match = re.search(r'cha(\d{3})', entry_name)
+                    speaker_code = "cha" + match.group(1) if match else "unknown"
+                    batch_inputs.append({"id": idx, "speaker_id": speaker_code, "text": rows[idx]["English"]})
+                    
                 batch_results = translate_batch(api_key, batch_inputs)
                 
                 if batch_results is not None:
